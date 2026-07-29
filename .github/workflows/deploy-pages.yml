@@ -1,0 +1,48 @@
+name: Deploy TCS Quiz to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract site
+        shell: bash
+        run: |
+          mkdir -p _site
+          unzip -q tcs-quiz-2026.zip -d _site
+          shopt -s dotglob nullglob
+          entries=(_site/*)
+          if [ ${#entries[@]} -eq 1 ] && [ -d "${entries[0]}" ]; then
+            temp_dir="$(mktemp -d)"
+            mv "${entries[0]}"/* "$temp_dir"/ 2>/dev/null || true
+            rm -rf _site
+            mv "$temp_dir" _site
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
