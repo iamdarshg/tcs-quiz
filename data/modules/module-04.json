@@ -1,0 +1,452 @@
+{
+  "id": "module-04",
+  "order": 4,
+  "label": "Technology Companies, Personalities, Brands and Products",
+  "blurb": "A focused six-fact drill set for Technology Companies, Personalities, Brands and Products.",
+  "topics": [
+    {
+      "id": "module-04-apple",
+      "rank": 1,
+      "title": "Apple",
+      "hook": "Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+      "explainer": "Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Apple",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Apple encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Apple"
+          },
+          {
+            "label": "Apple reference search",
+            "url": "https://www.britannica.com/search?query=Apple"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-microsoft",
+            "relationship": "Personal-computing platform rivals",
+            "fact": "Apple built an integrated Macintosh hardware-software platform, while Microsoft licensed Windows broadly to PC manufacturers."
+          },
+          {
+            "topicId": "module-04-android",
+            "relationship": "Competing mobile ecosystems",
+            "fact": "Apple controls iOS and iPhone hardware together, whereas Android is used by Google and many independent device makers."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-04-microsoft",
+      "rank": 2,
+      "title": "Microsoft",
+      "hook": "Microsoft was founded by Bill Gates and Paul Allen in 1975.",
+      "explainer": "Microsoft was founded by Bill Gates and Paul Allen in 1975. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Microsoft",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Microsoft encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Microsoft"
+          },
+          {
+            "label": "Microsoft reference search",
+            "url": "https://www.britannica.com/search?query=Microsoft"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-apple",
+            "relationship": "Contrasting PC business models",
+            "fact": "Microsoft became dominant through software licensed across PC brands; Apple sold its own computers with its own operating system."
+          },
+          {
+            "topicId": "module-04-ibm",
+            "relationship": "The IBM PC software relationship",
+            "fact": "IBM selected Microsoft to provide the operating system for its original PC, helping Microsoft grow in personal computing."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-04-google",
+      "rank": 3,
+      "title": "Google",
+      "hook": "Google was founded by Larry Page and Sergey Brin, whose PageRank research began at Stanford.",
+      "explainer": "Google was founded by Larry Page and Sergey Brin, whose PageRank research began at Stanford. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Google",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Google encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Google"
+          },
+          {
+            "label": "Google reference search",
+            "url": "https://www.britannica.com/search?query=Google"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-android",
+            "relationship": "Company and mobile platform",
+            "fact": "Google acquired Android and leads development of the operating system and its major service ecosystem."
+          },
+          {
+            "topicId": "module-04-microsoft",
+            "relationship": "Search, cloud, and productivity competition",
+            "fact": "Google and Microsoft compete in web search, cloud services, browsers, and office software."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-04-amazon",
+      "rank": 4,
+      "title": "Amazon",
+      "hook": "Jeff Bezos founded Amazon in 1994 as an online bookstore before it expanded into other businesses.",
+      "explainer": "Jeff Bezos founded Amazon in 1994 as an online bookstore before it expanded into other businesses. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Amazon",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Amazon encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Amazon"
+          },
+          {
+            "label": "Amazon reference search",
+            "url": "https://www.britannica.com/search?query=Amazon"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-ibm",
+            "relationship": "Cloud and enterprise-computing providers",
+            "fact": "Amazon Web Services and IBM both sell computing infrastructure and services to organisations, though their company histories began in different markets."
+          },
+          {
+            "topicId": "module-04-google",
+            "relationship": "Large-scale internet platform businesses",
+            "fact": "Amazon and Google both operate cloud platforms and data-intensive online services, alongside their distinct commerce and search roots."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-04-ibm",
+      "rank": 5,
+      "title": "IBM",
+      "hook": "IBM is a historic technology company associated with enterprise computing, mainframes, and research.",
+      "explainer": "IBM is a historic technology company associated with enterprise computing, mainframes, and research. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "IBM",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "IBM encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/IBM"
+          },
+          {
+            "label": "IBM reference search",
+            "url": "https://www.britannica.com/search?query=IBM"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-microsoft",
+            "relationship": "Enterprise and PC history",
+            "fact": "IBM launched the IBM PC with a Microsoft-supplied operating system, linking an established hardware company to a young software vendor."
+          },
+          {
+            "topicId": "module-04-amazon",
+            "relationship": "Established enterprise vendor and cloud entrant",
+            "fact": "IBM's mainframe heritage contrasts with Amazon's internet-retail origin, yet both now serve enterprise computing workloads."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-04-android",
+      "rank": 6,
+      "title": "Android",
+      "hook": "Android is a mobile operating system developed by Google and used by many device makers.",
+      "explainer": "Android is a mobile operating system developed by Google and used by many device makers. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Android",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Android encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Android"
+          },
+          {
+            "label": "Android reference search",
+            "url": "https://www.britannica.com/search?query=Android"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-google",
+            "relationship": "Operating system stewardship",
+            "fact": "Android is the mobile operating system led by Google and distributed to many manufacturers."
+          },
+          {
+            "topicId": "module-04-apple",
+            "relationship": "Open multi-vendor versus integrated mobile model",
+            "fact": "Android supports devices from many brands, while Apple restricts iOS to its own hardware ecosystem."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-04-q-01",
+      "module": "module-04",
+      "topicId": "module-04-apple",
+      "difficulty": 1,
+      "q": "Which three people founded Apple in 1976?",
+      "options": [
+        "Jobs, Wozniak, and Wayne",
+        "Gates, Allen, and Bezos",
+        "Page, Brin, and Watson",
+        "Torvalds, Ritchie, and Moore"
+      ],
+      "answer": 0,
+      "explanation": "Steve Jobs, Steve Wozniak, and Ronald Wayne formed Apple in 1976; Wayne soon sold his stake.",
+      "optionFamily": "technology-company founding teams",
+      "optionDomains": [
+        "technology-company founding teams",
+        "technology-company founding teams",
+        "technology-company founding teams",
+        "technology-company founding teams"
+      ]
+    },
+    {
+      "id": "module-04-q-02",
+      "module": "module-04",
+      "topicId": "module-04-microsoft",
+      "difficulty": 2,
+      "q": "Microsoft was founded in 1975 by which pair?",
+      "options": [
+        "Larry Page and Sergey Brin",
+        "Bill Gates and Paul Allen",
+        "Steve Jobs and Steve Wozniak",
+        "Jeff Bezos and Andy Jassy"
+      ],
+      "answer": 1,
+      "explanation": "Bill Gates and Paul Allen founded Microsoft in 1975 around software for early personal computers.",
+      "optionFamily": "technology-company founder pairs",
+      "optionDomains": [
+        "technology-company founder pairs",
+        "technology-company founder pairs",
+        "technology-company founder pairs",
+        "technology-company founder pairs"
+      ]
+    },
+    {
+      "id": "module-04-q-03",
+      "module": "module-04",
+      "topicId": "module-04-google",
+      "difficulty": 3,
+      "q": "PageRank research at Stanford is linked to the founders of which company?",
+      "options": [
+        "IBM",
+        "Meta",
+        "Google",
+        "Apple"
+      ],
+      "answer": 2,
+      "explanation": "Larry Page and Sergey Brin developed the research that led to Google, with PageRank central to its early search approach.",
+      "optionFamily": "technology companies linked to PageRank",
+      "optionDomains": [
+        "technology companies linked to PageRank",
+        "technology companies linked to PageRank",
+        "technology companies linked to PageRank",
+        "technology companies linked to PageRank"
+      ]
+    },
+    {
+      "id": "module-04-q-04",
+      "module": "module-04",
+      "topicId": "module-04-amazon",
+      "difficulty": 1,
+      "q": "Which company began in 1994 as Jeff Bezos's online bookstore?",
+      "options": [
+        "Microsoft",
+        "Amazon",
+        "eBay",
+        "IBM"
+      ],
+      "answer": 1,
+      "explanation": "Amazon started with online books before expanding into broad commerce, logistics, devices, media, and cloud services.",
+      "optionFamily": "early Internet commerce companies",
+      "optionDomains": [
+        "early Internet commerce companies",
+        "early Internet commerce companies",
+        "early Internet commerce companies",
+        "early Internet commerce companies"
+      ]
+    },
+    {
+      "id": "module-04-q-05",
+      "module": "module-04",
+      "topicId": "module-04-ibm",
+      "difficulty": 2,
+      "q": "A quiz clue mentions mainframes, enterprise computing, and a long research tradition. Which company fits?",
+      "options": [
+        "Digital Equipment Corporation",
+        "IBM",
+        "Oracle",
+        "Hewlett-Packard"
+      ],
+      "answer": 1,
+      "explanation": "IBM is historically associated with enterprise hardware, especially mainframes, as well as corporate research.",
+      "optionFamily": "enterprise computing companies",
+      "optionDomains": [
+        "enterprise computing companies",
+        "enterprise computing companies",
+        "enterprise computing companies",
+        "enterprise computing companies"
+      ]
+    },
+    {
+      "id": "module-04-q-06",
+      "module": "module-04",
+      "topicId": "module-04-android",
+      "difficulty": 3,
+      "q": "Which relationship is accurate?",
+      "options": [
+        "Android is led by Google and used by many hardware makers",
+        "Android is Apple's desktop-only system",
+        "Android was IBM's original PC operating system",
+        "Android is Amazon's bookstore brand"
+      ],
+      "answer": 0,
+      "explanation": "Google leads Android development, and manufacturers across the industry use it on their mobile devices.",
+      "optionFamily": "Android platform relationships",
+      "optionDomains": [
+        "Android platform relationships",
+        "Android platform relationships",
+        "Android platform relationships",
+        "Android platform relationships"
+      ]
+    },
+    {
+      "id": "module-04-q-07",
+      "module": "module-04",
+      "topicId": "module-04-apple",
+      "difficulty": 1,
+      "q": "Which company is older?",
+      "options": [
+        "Apple, founded in 1976",
+        "Google, founded in 1976",
+        "Amazon, founded in 1975",
+        "Android, founded before Microsoft"
+      ],
+      "answer": 0,
+      "explanation": "Among those choices Apple carries the 1976 founding date; Google and Amazon emerged in the 1990s.",
+      "optionFamily": "technology-company founding chronologies",
+      "optionDomains": [
+        "technology-company founding chronologies",
+        "technology-company founding chronologies",
+        "technology-company founding chronologies",
+        "technology-company founding chronologies"
+      ]
+    },
+    {
+      "id": "module-04-q-08",
+      "module": "module-04",
+      "topicId": "module-04-microsoft",
+      "difficulty": 2,
+      "q": "Why is IBM relevant to Microsoft's personal-computer rise?",
+      "options": [
+        "IBM chose Microsoft to supply an operating system for the IBM PC",
+        "IBM invented PageRank for Microsoft",
+        "Microsoft manufactured IBM mainframes",
+        "IBM created Android for Windows phones"
+      ],
+      "answer": 0,
+      "explanation": "The operating-system deal for the IBM PC gave Microsoft software a pivotal place in the expanding PC market.",
+      "optionFamily": "IBM and Microsoft history claims",
+      "optionDomains": [
+        "IBM and Microsoft history claims",
+        "IBM and Microsoft history claims",
+        "IBM and Microsoft history claims",
+        "IBM and Microsoft history claims"
+      ]
+    },
+    {
+      "id": "module-04-q-09",
+      "module": "module-04",
+      "topicId": "module-04-google",
+      "difficulty": 3,
+      "q": "Which company-product match is correct?",
+      "options": [
+        "Google — Android",
+        "Apple — PageRank",
+        "Amazon — Windows",
+        "IBM — iOS"
+      ],
+      "answer": 0,
+      "explanation": "Android is the Google-led mobile platform; PageRank belongs to Google's origins, while Windows and iOS belong to Microsoft and Apple.",
+      "optionFamily": "technology company and product matches",
+      "optionDomains": [
+        "technology company and product matches",
+        "technology company and product matches",
+        "technology company and product matches",
+        "technology company and product matches"
+      ]
+    },
+    {
+      "id": "module-04-q-10",
+      "module": "module-04",
+      "topicId": "module-04-amazon",
+      "difficulty": 1,
+      "q": "A retailer later becomes a major provider of rented servers and storage. Which expansion is being described?",
+      "options": [
+        "Microsoft into Azure",
+        "Amazon into AWS",
+        "Google into Google Cloud",
+        "IBM into IBM Cloud"
+      ],
+      "answer": 1,
+      "explanation": "Amazon Web Services extended Amazon beyond retail by offering on-demand computing infrastructure to other organisations.",
+      "optionFamily": "technology-company cloud expansions",
+      "optionDomains": [
+        "technology-company cloud expansions",
+        "technology-company cloud expansions",
+        "technology-company cloud expansions",
+        "technology-company cloud expansions"
+      ]
+    }
+  ]
+}

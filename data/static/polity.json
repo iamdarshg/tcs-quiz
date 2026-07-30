@@ -1,0 +1,4270 @@
+{
+ "id": "polity",
+ "kind": "static",
+ "label": "Polity & Constitution",
+ "order": 1,
+ "blurb": "The permanent half of the paper. Articles, amendments, the bodies that enforce them and the cases that interpreted them, ranked by how often they actually appear.",
+ "topics": [
+  {
+   "id": "pol-preamble",
+   "rank": 1,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The Preamble and the basic structure doctrine",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Preamble",
+    "Basic Structure",
+    "Kesavananda",
+    "42nd Amendment"
+   ],
+   "hook": "The Preamble is the Constitution stating its own purpose, and the basic structure doctrine is the Supreme Court deciding that purpose cannot be amended away.",
+   "story": "The Preamble was adopted on 26 November 1949 and reads that \"We, the People of India\" resolve to constitute India into a Sovereign Socialist Secular Democratic Republic. Three of those words were not there originally. The 42nd Amendment of 1976, passed during the Emergency, inserted **socialist**, **secular** and **integrity**. That single fact accounts for a large share of Preamble questions.\n\nThe Constitution came into force on 26 January 1950, but the Preamble's own date is 26 November 1949, which is why that day is Constitution Day. The date in the Preamble is the date of adoption, not commencement, and papers exploit the gap.\n\nWhether the Preamble is part of the Constitution took two cases to settle. In *Berubari Union* (1960) the Court said it was not. In *Kesavananda Bharati v. State of Kerala* (1973) it reversed itself: the Preamble is part of the Constitution and can be amended, but not so as to destroy the basic features it declares.\n\nKesavananda is the most important judgment in Indian constitutional law. A bench of thirteen judges, still the largest ever assembled, held by 7-6 that Parliament's amending power under Article 368 is wide but not unlimited. It cannot alter the basic structure. The Court has never given a closed list of what that structure contains, which is deliberate: supremacy of the Constitution, rule of law, separation of powers, judicial review, federalism, secularism, free and fair elections and the independence of the judiciary have all been held to be part of it in later cases.\n\nThe doctrine has teeth. *Indira Nehru Gandhi v. Raj Narain* (1975) struck down a constitutional amendment for the first time. *Minerva Mills* (1980) struck down clauses 4 and 5 of Article 368, which had tried to make amendments immune from review. *S.R. Bommai* (1994) applied it to secularism. *I.R. Coelho* (2007) held that even laws parked in the Ninth Schedule after 24 April 1973, the date of Kesavananda, are open to review if they damage the basic structure.\n\nThe objectives in the Preamble read as a set: justice (social, economic, political), liberty (of thought, expression, belief, faith and worship), equality (of status and opportunity), and fraternity (assuring dignity of the individual and unity and integrity of the nation). The ordering is worth memorising because questions are built on it.",
+   "facts": [
+    {
+     "k": "Adopted",
+     "v": "26 November 1949"
+    },
+    {
+     "k": "Came into force",
+     "v": "26 January 1950"
+    },
+    {
+     "k": "Words added by 42nd Amendment, 1976",
+     "v": "Socialist, Secular, Integrity"
+    },
+    {
+     "k": "Kesavananda Bharati",
+     "v": "1973, 13-judge bench, decided 7-6"
+    },
+    {
+     "k": "First case to hold Preamble not part of Constitution",
+     "v": "Berubari Union, 1960"
+    },
+    {
+     "k": "First amendment struck down for violating basic structure",
+     "v": "39th Amendment, in Indira Nehru Gandhi v. Raj Narain, 1975"
+    },
+    {
+     "k": "Ninth Schedule cut-off",
+     "v": "24 April 1973, fixed by I.R. Coelho, 2007"
+    },
+    {
+     "k": "Source of the phrase \"We, the People\"",
+     "v": "US Constitution"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1949",
+     "what": "Preamble adopted, 26 November"
+    },
+    {
+     "when": "1960",
+     "what": "Berubari: Preamble not part of the Constitution"
+    },
+    {
+     "when": "1973",
+     "what": "Kesavananda: basic structure doctrine"
+    },
+    {
+     "when": "1975",
+     "what": "39th Amendment struck down"
+    },
+    {
+     "when": "1976",
+     "what": "42nd Amendment inserts Socialist, Secular, Integrity"
+    },
+    {
+     "when": "1980",
+     "what": "Minerva Mills"
+    },
+    {
+     "when": "2007",
+     "what": "I.R. Coelho"
+    }
+   ],
+   "why": "A passage on any constitutional dispute will assume you know the 1973 date, the 13-judge bench and the 7-6 split. The trap is the 42nd Amendment: papers ask which words were in the original Preamble, and \"secular\" is the tempting wrong answer.",
+   "map": {
+    "nodes": [
+     {
+      "id": "kesav",
+      "parent": "root",
+      "tier": 1,
+      "label": "Kesavananda Bharati (1973)",
+      "kind": "event",
+      "rel": "established",
+      "note": "13-judge bench, largest ever, decided 7-6. Held Parliament can amend any part of the Constitution but cannot destroy its basic structure."
+     },
+     {
+      "id": "art368",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 368",
+      "kind": "law",
+      "rel": "amending power",
+      "note": "The amendment procedure. Special majority of each House plus, for federal provisions, ratification by half the state legislatures."
+     },
+     {
+      "id": "a42",
+      "parent": "root",
+      "tier": 1,
+      "label": "42nd Amendment (1976)",
+      "kind": "event",
+      "rel": "inserted words",
+      "note": "Passed during the Emergency. Added Socialist, Secular and Integrity to the Preamble and Fundamental Duties in Part IVA. Called the \"mini-Constitution\"."
+     },
+     {
+      "id": "objectives",
+      "parent": "root",
+      "tier": 1,
+      "label": "Justice, Liberty, Equality, Fraternity",
+      "kind": "concept",
+      "rel": "declares",
+      "note": "The four objectives, in that order. Justice is social, economic and political; liberty covers thought, expression, belief, faith and worship."
+     },
+     {
+      "id": "berubari",
+      "parent": "root",
+      "tier": 2,
+      "label": "Berubari Union (1960)",
+      "kind": "event",
+      "rel": "earlier view",
+      "note": "Advisory opinion under Article 143 on ceding territory to Pakistan. Held the Preamble is not part of the Constitution, later reversed."
+     },
+     {
+      "id": "minerva",
+      "parent": "kesav",
+      "tier": 2,
+      "label": "Minerva Mills (1980)",
+      "kind": "event",
+      "rel": "applied",
+      "note": "Struck down clauses 4 and 5 of Article 368, which had tried to bar judicial review of amendments. Held the balance between Fundamental Rights and Directive Principles is itself basic structure."
+     },
+     {
+      "id": "coelho",
+      "parent": "kesav",
+      "tier": 2,
+      "label": "I.R. Coelho (2007)",
+      "kind": "event",
+      "rel": "extended",
+      "note": "Ninth Schedule laws added after 24 April 1973 can be tested against the basic structure."
+     },
+     {
+      "id": "indira",
+      "parent": "kesav",
+      "tier": 2,
+      "label": "Indira Nehru Gandhi v. Raj Narain (1975)",
+      "kind": "event",
+      "rel": "first strike-down",
+      "note": "Struck down clause 4 of the 39th Amendment, which had put the PM’s election beyond judicial scrutiny. First use of the doctrine to void an amendment."
+     },
+     {
+      "id": "bommai",
+      "parent": "kesav",
+      "tier": 2,
+      "label": "S.R. Bommai (1994)",
+      "kind": "event",
+      "rel": "applied",
+      "note": "Held secularism is part of the basic structure and made Article 356 proclamations judicially reviewable."
+     },
+     {
+      "id": "golaknath",
+      "parent": "berubari",
+      "tier": 2,
+      "label": "Golaknath (1967)",
+      "kind": "event",
+      "rel": "overruled",
+      "note": "11-judge bench held Parliament could not abridge Fundamental Rights at all. Overruled by Kesavananda, which allowed amendment short of basic structure."
+     },
+     {
+      "id": "sikri",
+      "parent": "kesav",
+      "tier": 3,
+      "label": "CJI S.M. Sikri",
+      "kind": "person",
+      "rel": "presided",
+      "note": "Chief Justice who headed the Kesavananda bench and retired the day after the judgment."
+     },
+     {
+      "id": "ninth",
+      "parent": "coelho",
+      "tier": 3,
+      "label": "Ninth Schedule",
+      "kind": "law",
+      "rel": "shield",
+      "note": "Inserted by the 1st Amendment in 1951 to protect land reform laws from challenge. Now only partially immune."
+     },
+     {
+      "id": "constday",
+      "parent": "root",
+      "tier": 3,
+      "label": "Constitution Day",
+      "kind": "event",
+      "rel": "commemorates",
+      "note": "26 November, observed since 2015. Marks adoption, not commencement."
+     },
+     {
+      "id": "preambleus",
+      "parent": "objectives",
+      "tier": "3",
+      "label": "Preamble of the US Constitution",
+      "kind": "concept",
+      "rel": "borrowed from",
+      "note": "\"We, the People\" is modelled on the American opening. India also borrowed the Fundamental Rights idea and judicial review from the US."
+     },
+     {
+      "id": "sovereign",
+      "parent": "objectives",
+      "tier": 3,
+      "label": "Sovereign, Socialist, Secular, Democratic, Republic",
+      "kind": "concept",
+      "rel": "describes the state",
+      "note": "Republic means the head of state is elected, not hereditary, an idea taken from the French and Irish constitutions."
+     },
+     {
+      "id": "ca",
+      "parent": "root",
+      "tier": 2,
+      "label": "Constituent Assembly",
+      "kind": "org",
+      "rel": "adopted",
+      "note": "First met 9 December 1946. Sachchidananda Sinha was interim chairman, Rajendra Prasad permanent president, B.R. Ambedkar chaired the Drafting Committee."
+     },
+     {
+      "id": "ambedkar",
+      "parent": "ca",
+      "tier": 2,
+      "label": "B.R. Ambedkar",
+      "kind": "person",
+      "rel": "drafted",
+      "note": "Chairman of the Drafting Committee, appointed 29 August 1947. Called Article 32 the heart and soul of the Constitution."
+     },
+     {
+      "id": "objres",
+      "parent": "ca",
+      "tier": 3,
+      "label": "Objectives Resolution",
+      "kind": "concept",
+      "rel": "became the Preamble",
+      "note": "Moved by Jawaharlal Nehru on 13 December 1946 and adopted 22 January 1947. The Preamble is its condensed form."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-fr-overview",
+   "rank": 2,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Fundamental Rights: Part III, Articles 12 to 35",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Fundamental Rights",
+    "Article 12",
+    "Article 13",
+    "Part III"
+   ],
+   "hook": "Six rights, one definition clause, one clause that voids inconsistent laws, and a remedy the Constitution itself calls its heart.",
+   "story": "Part III runs from Article 12 to Article 35. It originally contained seven Fundamental Rights. The right to property, Article 31, was removed by the 44th Amendment in 1978 and re-planted as an ordinary legal right in Article 300A. Six remain:\n\n- Right to Equality, Articles 14 to 18\n- Right to Freedom, Articles 19 to 22\n- Right against Exploitation, Articles 23 and 24\n- Right to Freedom of Religion, Articles 25 to 28\n- Cultural and Educational Rights, Articles 29 and 30\n- Right to Constitutional Remedies, Article 32\n\nArticle 12 defines \"the State\" for the whole of Part III: the Government and Parliament of India, the government and legislature of each state, all local authorities and \"other authorities\" within India or under the control of the Government of India. That last phrase is the litigated one. Courts have brought statutory corporations, and in some cases private bodies discharging public functions, within its net. Fundamental Rights are ordinarily enforceable against the State, not against private persons, with the exceptions of Articles 15(2), 17, 23 and 24, which bind everyone.\n\nArticle 13 does the enforcing. Pre-Constitution laws inconsistent with Part III are void to the extent of the inconsistency, and the State shall not make any law that takes away or abridges these rights. Article 13(2) is where judicial review of legislation formally lives. Article 13(3) defines \"law\" widely enough to include ordinances, orders, bye-laws, rules, regulations, notifications, custom and usage.\n\nTwo doctrines come straight out of Article 13. **Eclipse**: a pre-Constitution law inconsistent with a Fundamental Right is not dead but dormant, and revives if the inconsistency is removed. **Severability**: only the offending part is struck down if it can be separated from the rest.\n\nArticles 33 to 35 close Part III. Article 33 lets Parliament restrict these rights for the armed forces and police. Article 34 allows restriction while martial law is in force. Article 35 reserves to Parliament alone the power to legislate on certain Part III matters.\n\nFundamental Rights are not absolute. Every one of them carries reasonable restrictions written into the text, and under Article 359 their enforcement, other than Articles 20 and 21, can be suspended during a National Emergency. Articles 20 and 21 became non-suspendable through the 44th Amendment, a direct answer to *ADM Jabalpur* (1976), where the Court had held that even the right to life could be suspended. That judgment was formally repudiated in *Puttaswamy* (2017).",
+   "facts": [
+    {
+     "k": "Part III range",
+     "v": "Articles 12 to 35"
+    },
+    {
+     "k": "Number of Fundamental Rights now",
+     "v": "Six"
+    },
+    {
+     "k": "Right removed",
+     "v": "Right to Property, Article 31, by the 44th Amendment, 1978"
+    },
+    {
+     "k": "Where property sits now",
+     "v": "Article 300A, an ordinary legal right"
+    },
+    {
+     "k": "Defines \"the State\"",
+     "v": "Article 12"
+    },
+    {
+     "k": "Voids inconsistent laws",
+     "v": "Article 13"
+    },
+    {
+     "k": "Rights enforceable against private persons",
+     "v": "Articles 15(2), 17, 23, 24"
+    },
+    {
+     "k": "Cannot be suspended in an Emergency",
+     "v": "Articles 20 and 21"
+    },
+    {
+     "k": "Rights inspired by",
+     "v": "The United States Bill of Rights"
+    }
+   ],
+   "timeline": [],
+   "why": "The most common trap is the count: six rights, not seven, and property is the one that left. Expect a passage on a rights dispute to test Article 12 or Article 13 rather than the headline right itself.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a12",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 12",
+      "kind": "law",
+      "rel": "defines the State",
+      "note": "Covers Government and Parliament of India, state governments and legislatures, all local authorities, and \"other authorities\" under government control."
+     },
+     {
+      "id": "a13",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 13",
+      "kind": "law",
+      "rel": "voids bad law",
+      "note": "Pre-Constitution laws inconsistent with Part III are void to that extent; the State cannot make laws abridging these rights. The textual home of judicial review."
+     },
+     {
+      "id": "a32",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 32",
+      "kind": "law",
+      "rel": "the remedy",
+      "note": "Right to move the Supreme Court directly for enforcement. Ambedkar called it the heart and soul of the Constitution. A Fundamental Right itself."
+     },
+     {
+      "id": "a44",
+      "parent": "root",
+      "tier": 1,
+      "label": "44th Amendment (1978)",
+      "kind": "event",
+      "rel": "removed property",
+      "note": "Janata government amendment. Deleted Article 31, made Articles 20 and 21 non-suspendable, and raised the threshold for a national emergency to \"armed rebellion\"."
+     },
+     {
+      "id": "eclipse",
+      "parent": "a13",
+      "tier": 2,
+      "label": "Doctrine of eclipse",
+      "kind": "concept",
+      "rel": "from Article 13",
+      "note": "A pre-Constitution law inconsistent with a right is dormant, not dead, and revives if the inconsistency goes. Bhikaji Narain Dhakeshwar (1955)."
+     },
+     {
+      "id": "sever",
+      "parent": "a13",
+      "tier": 2,
+      "label": "Doctrine of severability",
+      "kind": "concept",
+      "rel": "from Article 13",
+      "note": "Only the offending portion falls if it can be separated. R.M.D. Chamarbaugwalla (1957)."
+     },
+     {
+      "id": "a300a",
+      "parent": "a44",
+      "tier": 2,
+      "label": "Article 300A",
+      "kind": "law",
+      "rel": "property now",
+      "note": "\"No person shall be deprived of his property save by authority of law.\" A constitutional legal right in Part XII, not a Fundamental Right."
+     },
+     {
+      "id": "admj",
+      "parent": "a44",
+      "tier": 2,
+      "label": "ADM Jabalpur (1976)",
+      "kind": "event",
+      "rel": "prompted the fix",
+      "note": "Held during the Emergency that the right to life could be suspended. The lone dissent was Justice H.R. Khanna, who lost the Chief Justiceship for it. Overruled in Puttaswamy (2017)."
+     },
+     {
+      "id": "a359",
+      "parent": "admj",
+      "tier": 3,
+      "label": "Article 359",
+      "kind": "law",
+      "rel": "suspends enforcement",
+      "note": "Allows the President to suspend the right to move courts for enforcement of Part III rights during an emergency, except Articles 20 and 21."
+     },
+     {
+      "id": "a33",
+      "parent": "root",
+      "tier": 2,
+      "label": "Articles 33 to 35",
+      "kind": "law",
+      "rel": "limits and reserves",
+      "note": "Article 33 lets Parliament curtail these rights for the armed forces; Article 35 reserves certain Part III legislation to Parliament alone."
+     },
+     {
+      "id": "six",
+      "parent": "root",
+      "tier": 1,
+      "label": "The six rights",
+      "kind": "concept",
+      "rel": "grouped as",
+      "note": "Equality (14-18), Freedom (19-22), Against Exploitation (23-24), Religion (25-28), Cultural and Educational (29-30), Constitutional Remedies (32)."
+     },
+     {
+      "id": "a17",
+      "parent": "six",
+      "tier": 2,
+      "label": "Article 17",
+      "kind": "law",
+      "rel": "abolishes untouchability",
+      "note": "Enforced through the Protection of Civil Rights Act 1955. Binds private persons, not just the State."
+     },
+     {
+      "id": "a24",
+      "parent": "six",
+      "tier": 2,
+      "label": "Article 24",
+      "kind": "law",
+      "rel": "bans child labour",
+      "note": "No child below 14 in any factory, mine or hazardous employment. Read with the Child Labour (Prohibition and Regulation) Act 1986."
+     },
+     {
+      "id": "a30",
+      "parent": "six",
+      "tier": 2,
+      "label": "Article 30",
+      "kind": "law",
+      "rel": "minority institutions",
+      "note": "Right of religious and linguistic minorities to establish and administer educational institutions. The basis of the T.M.A. Pai (2002) litigation."
+     },
+     {
+      "id": "usbill",
+      "parent": "root",
+      "tier": 3,
+      "label": "United States Bill of Rights",
+      "kind": "concept",
+      "rel": "model",
+      "note": "India borrowed Fundamental Rights and judicial review from the American constitution; the Directive Principles came from Ireland."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-art21",
+   "rank": 3,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Article 21: how one sentence became the whole of Indian rights law",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Article 21",
+    "Right to Life",
+    "Maneka Gandhi",
+    "Puttaswamy"
+   ],
+   "hook": "\"No person shall be deprived of his life or personal liberty except according to procedure established by law.\" Twenty-two words that now carry privacy, a clean environment, education, livelihood and the right to die with dignity.",
+   "story": "The drafters deliberately wrote **procedure established by law**, a Japanese formulation, rather than the American **due process of law**. B.N. Rau had met Justice Felix Frankfurter, who warned that due process gave judges too much power. The choice mattered immediately.\n\nIn *A.K. Gopalan* (1950) the Supreme Court read the phrase literally: if a law laid down a procedure, that was enough, and Articles 19, 21 and 22 were watertight compartments. The result was that preventive detention survived almost any challenge.\n\n*Maneka Gandhi v. Union of India* (1978) demolished that reading. Maneka Gandhi's passport had been impounded without reasons. A seven-judge bench held that the procedure must be **right, just and fair**, not arbitrary, fanciful or oppressive, and that Articles 14, 19 and 21 are to be read together as a golden triangle. Due process entered the Constitution through the back door and has never left.\n\nEverything after 1978 is expansion. Article 21 has been held to include the right to live with human dignity (*Francis Coralie Mullin*, 1981), livelihood (*Olga Tellis*, 1985), a clean environment (*Subhash Kumar*, 1991, and the M.C. Mehta line of cases), health, shelter, legal aid, a speedy trial, privacy (*Puttaswamy*, 2017), and the right to die with dignity through a passive euthanasia framework and living wills (*Common Cause*, 2018). Education was read in through *Unni Krishnan* (1993) and then written in as Article 21A by the 86th Amendment in 2002, making free and compulsory education a Fundamental Right for children aged six to fourteen, implemented by the Right to Education Act 2009.\n\n*Puttaswamy* is the anchor of the modern law. Nine judges held unanimously that privacy is a Fundamental Right under Article 21. It overruled *M.P. Sharma* (1954) and *Kharak Singh* (1962) on the point, laid down a proportionality test for state intrusion, and expressly repudiated *ADM Jabalpur*. The judgment led to the Aadhaar verdict of 2018 and to the Digital Personal Data Protection Act 2023.\n\nArticle 21 protects **any person**, citizen or not, and along with Article 20 cannot be suspended even during a National Emergency, a change made by the 44th Amendment in 1978.",
+   "facts": [
+    {
+     "k": "Text",
+     "v": "\"No person shall be deprived of his life or personal liberty except according to procedure established by law\""
+    },
+    {
+     "k": "Phrase borrowed from",
+     "v": "The Constitution of Japan"
+    },
+    {
+     "k": "Narrow reading",
+     "v": "A.K. Gopalan, 1950"
+    },
+    {
+     "k": "Expansive reading",
+     "v": "Maneka Gandhi, 1978, 7-judge bench"
+    },
+    {
+     "k": "Privacy declared a right",
+     "v": "Puttaswamy, 24 August 2017, 9-judge bench, unanimous"
+    },
+    {
+     "k": "Education",
+     "v": "Article 21A, inserted by the 86th Amendment, 2002; ages 6 to 14"
+    },
+    {
+     "k": "Passive euthanasia and living wills",
+     "v": "Common Cause v. Union of India, 2018"
+    },
+    {
+     "k": "Cannot be suspended in an Emergency",
+     "v": "Articles 20 and 21, after the 44th Amendment"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1950",
+     "what": "A.K. Gopalan reads Article 21 narrowly"
+    },
+    {
+     "when": "1978",
+     "what": "Maneka Gandhi: procedure must be right, just and fair"
+    },
+    {
+     "when": "1985",
+     "what": "Olga Tellis: livelihood"
+    },
+    {
+     "when": "2002",
+     "what": "86th Amendment inserts Article 21A"
+    },
+    {
+     "when": "2017",
+     "what": "Puttaswamy: privacy"
+    },
+    {
+     "when": "2018",
+     "what": "Common Cause: right to die with dignity"
+    }
+   ],
+   "why": "Any passage on surveillance, data, environment, housing, health or euthanasia is an Article 21 question. Examiners love the \"procedure established by law\" versus \"due process\" contrast and the country each came from.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a21",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 21",
+      "kind": "law",
+      "rel": "the text",
+      "note": "Protects any person, not only citizens. Non-suspendable during an emergency after the 44th Amendment."
+     },
+     {
+      "id": "maneka",
+      "parent": "root",
+      "tier": 1,
+      "label": "Maneka Gandhi (1978)",
+      "kind": "event",
+      "rel": "turning point",
+      "note": "7-judge bench. Passport impounded without reasons. Held procedure must be right, just and fair, and read Articles 14, 19 and 21 together."
+     },
+     {
+      "id": "putta",
+      "parent": "root",
+      "tier": 1,
+      "label": "Puttaswamy (2017)",
+      "kind": "event",
+      "rel": "privacy",
+      "note": "9 judges, unanimous, 24 August 2017. Privacy is intrinsic to life and liberty. Overruled M.P. Sharma and Kharak Singh, repudiated ADM Jabalpur."
+     },
+     {
+      "id": "a21a",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 21A",
+      "kind": "law",
+      "rel": "education",
+      "note": "Inserted by the 86th Amendment, 2002. Free and compulsory education for children aged 6 to 14. Implemented by the RTE Act 2009."
+     },
+     {
+      "id": "gopalan",
+      "parent": "maneka",
+      "tier": 2,
+      "label": "A.K. Gopalan (1950)",
+      "kind": "event",
+      "rel": "overruled",
+      "note": "Held Articles 19, 21 and 22 are watertight compartments and any procedure suffices. Effectively overruled by Maneka Gandhi."
+     },
+     {
+      "id": "japan",
+      "parent": "a21",
+      "tier": 2,
+      "label": "Constitution of Japan",
+      "kind": "concept",
+      "rel": "source of phrase",
+      "note": "\"Procedure established by law\" was taken from the Japanese constitution rather than American due process, on B.N. Rau’s advice after meeting Justice Frankfurter."
+     },
+     {
+      "id": "olga",
+      "parent": "a21",
+      "tier": 2,
+      "label": "Olga Tellis (1985)",
+      "kind": "event",
+      "rel": "livelihood",
+      "note": "Bombay pavement dwellers. Held the right to livelihood is part of the right to life, though eviction with due process was allowed."
+     },
+     {
+      "id": "common",
+      "parent": "a21",
+      "tier": 2,
+      "label": "Common Cause (2018)",
+      "kind": "event",
+      "rel": "dignity in death",
+      "note": "5-judge bench recognised passive euthanasia and advance medical directives. Simplified in 2023."
+     },
+     {
+      "id": "mehta",
+      "parent": "a21",
+      "tier": 2,
+      "label": "M.C. Mehta cases",
+      "kind": "event",
+      "rel": "environment",
+      "note": "A line of PILs from the 1980s that built the polluter pays and absolute liability principles and read a clean environment into Article 21."
+     },
+     {
+      "id": "aadhaar",
+      "parent": "putta",
+      "tier": 2,
+      "label": "Aadhaar judgment (2018)",
+      "kind": "event",
+      "rel": "followed",
+      "note": "Upheld Aadhaar for welfare subsidies and PAN, struck down section 57 which had allowed private companies to demand it."
+     },
+     {
+      "id": "dpdp",
+      "parent": "putta",
+      "tier": 2,
+      "label": "Digital Personal Data Protection Act, 2023",
+      "kind": "law",
+      "rel": "legislative answer",
+      "note": "Enacted after the Srikrishna Committee report, which followed directly from Puttaswamy."
+     },
+     {
+      "id": "a20",
+      "parent": "a21",
+      "tier": 2,
+      "label": "Article 20",
+      "kind": "law",
+      "rel": "paired with 21",
+      "note": "Protection against ex post facto laws, double jeopardy and self-incrimination. Also non-suspendable in an emergency."
+     },
+     {
+      "id": "a22",
+      "parent": "a21",
+      "tier": 2,
+      "label": "Article 22",
+      "kind": "law",
+      "rel": "detention",
+      "note": "Rights of an arrested person: to be informed of grounds, to counsel, and production before a magistrate within 24 hours. Weaker for preventive detention."
+     },
+     {
+      "id": "francis",
+      "parent": "a21",
+      "tier": 3,
+      "label": "Francis Coralie Mullin (1981)",
+      "kind": "event",
+      "rel": "dignity",
+      "note": "Held life means more than animal existence; it includes living with human dignity."
+     },
+     {
+      "id": "khanna",
+      "parent": "gopalan",
+      "tier": 3,
+      "label": "Justice H.R. Khanna",
+      "kind": "person",
+      "rel": "dissent",
+      "note": "The lone dissenter in ADM Jabalpur (1976), who held Article 21 could not be suspended. He was superseded for the Chief Justiceship and resigned."
+     },
+     {
+      "id": "unni",
+      "parent": "a21a",
+      "tier": 3,
+      "label": "Unni Krishnan (1993)",
+      "kind": "event",
+      "rel": "before the amendment",
+      "note": "Read a right to education into Article 21 for children up to 14, which the 86th Amendment later codified."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-art32",
+   "rank": 4,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Article 32, Article 226 and the five writs",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Article 32",
+    "Writs",
+    "Judicial Review",
+    "PIL"
+   ],
+   "hook": "Five Latin names, two articles, and one distinction the exam asks about every year: the Supreme Court writ is a Fundamental Right, the High Court writ is wider.",
+   "story": "Article 32 gives every person the right to move the Supreme Court directly for enforcement of Fundamental Rights, and empowers the Court to issue directions, orders or writs. It is itself a Fundamental Right, which is why Ambedkar called it the heart and soul of the Constitution, and why it cannot be suspended except under Article 359 during an emergency.\n\nArticle 226 gives High Courts the same writ power. The two differ in two ways that matter. Article 32 is available **only** for Fundamental Rights; Article 226 is available for Fundamental Rights **and for any other legal right**, so it is territorially and substantively wider. And Article 32 is a right, so the Supreme Court cannot refuse to entertain a petition; Article 226 is a discretionary power, so a High Court may decline.\n\nThe five writs come from English law:\n\n- **Habeas corpus**, \"you may have the body\". Against unlawful detention. Issued against both public authorities and private persons.\n- **Mandamus**, \"we command\". Orders a public authority to perform a public duty. Not available against a private individual, the President or Governors, or to enforce a purely discretionary or contractual duty.\n- **Prohibition**, issued by a higher court to a lower court or tribunal to stop it exceeding its jurisdiction. Preventive, issued while proceedings are pending, and only against judicial and quasi-judicial bodies.\n- **Certiorari**, \"to be certified\". Quashes an order already passed by a lower court or tribunal. Curative rather than preventive. Since *Surya Dev Rai* (2003) it also runs against administrative bodies affecting rights.\n- **Quo warranto**, \"by what authority\". Questions the legality of a person's claim to a public office. Any interested person may seek it, not just the aggrieved party.\n\nPublic interest litigation grew out of Article 32 in the late 1970s and 1980s, associated above all with Justices P.N. Bhagwati and V.R. Krishna Iyer. It relaxed *locus standi* so that any public-spirited person could move the Court on behalf of those unable to do so, and treated letters and postcards as petitions. *Hussainara Khatoon* (1979), on undertrials in Bihar, is usually cited as the first true PIL.",
+   "facts": [
+    {
+     "k": "Article 32",
+     "v": "Right to constitutional remedies, a Fundamental Right in itself"
+    },
+    {
+     "k": "Article 226",
+     "v": "High Court writ jurisdiction, wider in scope"
+    },
+    {
+     "k": "Number of writs",
+     "v": "Five"
+    },
+    {
+     "k": "Writ against unlawful detention",
+     "v": "Habeas corpus"
+    },
+    {
+     "k": "Writ questioning a public office holder",
+     "v": "Quo warranto"
+    },
+    {
+     "k": "Preventive writ",
+     "v": "Prohibition; certiorari is curative"
+    },
+    {
+     "k": "Called the heart and soul of the Constitution",
+     "v": "Article 32, by B.R. Ambedkar"
+    },
+    {
+     "k": "Writs borrowed from",
+     "v": "English common law"
+    },
+    {
+     "k": "First PIL",
+     "v": "Hussainara Khatoon v. State of Bihar, 1979"
+    }
+   ],
+   "timeline": [],
+   "why": "A passage about someone detained, or an official appointed without qualification, is testing which writ applies. Learn the pairs: certiorari quashes, prohibition prevents; mandamus commands a duty, quo warranto challenges an office.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a32",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 32",
+      "kind": "law",
+      "rel": "the remedy",
+      "note": "A Fundamental Right. The Supreme Court cannot refuse a petition under it. Suspendable only under Article 359."
+     },
+     {
+      "id": "a226",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 226",
+      "kind": "law",
+      "rel": "wider power",
+      "note": "High Courts may issue writs for Fundamental Rights and for any other legal right. Discretionary, not a right."
+     },
+     {
+      "id": "habeas",
+      "parent": "root",
+      "tier": 1,
+      "label": "Habeas corpus",
+      "kind": "term",
+      "rel": "writ",
+      "note": "\"You may have the body.\" Against unlawful detention, and available against private persons too."
+     },
+     {
+      "id": "mandamus",
+      "parent": "root",
+      "tier": 1,
+      "label": "Mandamus",
+      "kind": "term",
+      "rel": "writ",
+      "note": "\"We command.\" Compels performance of a public duty. Not available against the President, Governors, or private individuals."
+     },
+     {
+      "id": "certiorari",
+      "parent": "root",
+      "tier": 1,
+      "label": "Certiorari",
+      "kind": "term",
+      "rel": "writ",
+      "note": "Quashes an order already made by a lower court or tribunal. Curative."
+     },
+     {
+      "id": "prohibition",
+      "parent": "certiorari",
+      "tier": 2,
+      "label": "Prohibition",
+      "kind": "term",
+      "rel": "writ",
+      "note": "Stops a lower court or tribunal exceeding jurisdiction while proceedings are still pending. Preventive."
+     },
+     {
+      "id": "quo",
+      "parent": "root",
+      "tier": 2,
+      "label": "Quo warranto",
+      "kind": "term",
+      "rel": "writ",
+      "note": "\"By what authority.\" Challenges a person’s title to a public office. Any interested person may apply."
+     },
+     {
+      "id": "pil",
+      "parent": "a32",
+      "tier": 1,
+      "label": "Public interest litigation",
+      "kind": "concept",
+      "rel": "grew out of Article 32",
+      "note": "Relaxed locus standi from the late 1970s. Letters and postcards treated as petitions."
+     },
+     {
+      "id": "bhagwati",
+      "parent": "pil",
+      "tier": 2,
+      "label": "Justice P.N. Bhagwati",
+      "kind": "person",
+      "rel": "architect",
+      "note": "With Justice V.R. Krishna Iyer, built PIL and the arbitrariness test. Later Chief Justice of India."
+     },
+     {
+      "id": "hussainara",
+      "parent": "pil",
+      "tier": 2,
+      "label": "Hussainara Khatoon (1979)",
+      "kind": "event",
+      "rel": "first PIL",
+      "note": "Undertrial prisoners in Bihar held longer than the maximum sentence. Established the right to a speedy trial."
+     },
+     {
+      "id": "a359",
+      "parent": "a32",
+      "tier": 2,
+      "label": "Article 359",
+      "kind": "law",
+      "rel": "suspension",
+      "note": "Lets the President suspend the right to move courts for Part III enforcement during an emergency, except Articles 20 and 21."
+     },
+     {
+      "id": "a136",
+      "parent": "a226",
+      "tier": 2,
+      "label": "Article 136",
+      "kind": "law",
+      "rel": "separate power",
+      "note": "Special leave to appeal. Discretionary and extraordinary, distinct from the writ jurisdiction under Article 32."
+     },
+     {
+      "id": "a139",
+      "parent": "a32",
+      "tier": 3,
+      "label": "Article 139",
+      "kind": "law",
+      "rel": "extension",
+      "note": "Parliament may empower the Supreme Court to issue writs for purposes other than Fundamental Rights."
+     },
+     {
+      "id": "ambedkar",
+      "parent": "a32",
+      "tier": 2,
+      "label": "B.R. Ambedkar",
+      "kind": "person",
+      "rel": "called it",
+      "note": "Chairman of the Drafting Committee. Said Article 32 is \"the very soul of the Constitution and the very heart of it\"."
+     },
+     {
+      "id": "english",
+      "parent": "habeas",
+      "tier": 3,
+      "label": "English common law",
+      "kind": "concept",
+      "rel": "origin",
+      "note": "All five writs are prerogative writs of English law, historically issued by the Court of King’s Bench."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-art14",
+   "rank": 5,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Article 14 and the two tests of equality",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Article 14",
+    "Equality",
+    "Reasonable Classification",
+    "Arbitrariness"
+   ],
+   "hook": "Equality before the law is British, equal protection of the laws is American, and Indian courts read the same article two different ways depending on which test they reach for.",
+   "story": "Article 14 says the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. Two phrases, two sources. **Equality before the law** is a negative concept borrowed from the British rule of law as stated by A.V. Dicey: no one is above the law. **Equal protection of the laws** is positive and taken from the Fourteenth Amendment of the US Constitution: like should be treated alike.\n\nNote \"any person\", not \"any citizen\". Article 14 protects foreigners and corporations too. Articles 15, 16, 19 and 29 are limited to citizens; 14, 20, 21, 21A, 22, 23, 24, 25 to 28 are available to all persons.\n\nEquality does not mean uniformity. The classical test, from *State of West Bengal v. Anwar Ali Sarkar* (1952) and refined since, allows the State to classify if two conditions are met: the classification rests on an **intelligible differentia**, and that differentia has a **rational nexus** with the object the law seeks to achieve. A law taxing incomes above a threshold classifies, and lawfully so.\n\n*E.P. Royappa* (1974) opened a second route. Justice Bhagwati wrote that equality is antithetical to arbitrariness, so any arbitrary State action violates Article 14 without needing a comparator at all. *Maneka Gandhi* (1978) cemented it, and the arbitrariness test is now the one courts reach for most often. *Shayara Bano* (2017) used it to strike down instant triple talaq.\n\nExceptions written into the Constitution matter for questions. The President and Governors enjoy immunity under Article 361: no criminal proceedings during the term of office and no civil proceedings without two months' notice. Article 105 and Article 194 protect members of Parliament and state legislatures for anything said or any vote given in the House. Foreign diplomats and UN bodies have immunity under international law.",
+   "facts": [
+    {
+     "k": "Article 14 protects",
+     "v": "Any person, including foreigners and companies"
+    },
+    {
+     "k": "Equality before the law",
+     "v": "British origin, A.V. Dicey"
+    },
+    {
+     "k": "Equal protection of the laws",
+     "v": "US Fourteenth Amendment"
+    },
+    {
+     "k": "Classical test",
+     "v": "Intelligible differentia plus rational nexus"
+    },
+    {
+     "k": "Arbitrariness test",
+     "v": "E.P. Royappa, 1974"
+    },
+    {
+     "k": "Immunity for President and Governors",
+     "v": "Article 361"
+    },
+    {
+     "k": "Immunity for legislators",
+     "v": "Articles 105 and 194"
+    }
+   ],
+   "timeline": [],
+   "why": "Passages on reservation, on a new tax, or on any rule that treats one group differently are Article 14 questions. The examiner usually wants the two-limb classification test named correctly, or the \"person versus citizen\" distinction.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a14",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 14",
+      "kind": "law",
+      "rel": "the text",
+      "note": "\"The State shall not deny to any person equality before the law or the equal protection of the laws.\" Applies to persons, not only citizens."
+     },
+     {
+      "id": "classify",
+      "parent": "root",
+      "tier": 1,
+      "label": "Reasonable classification",
+      "kind": "concept",
+      "rel": "the test",
+      "note": "Two limbs: intelligible differentia, and a rational nexus between that differentia and the object of the law. From Anwar Ali Sarkar (1952)."
+     },
+     {
+      "id": "royappa",
+      "parent": "root",
+      "tier": 1,
+      "label": "E.P. Royappa (1974)",
+      "kind": "event",
+      "rel": "new test",
+      "note": "Justice P.N. Bhagwati held equality is antithetical to arbitrariness. Arbitrary State action breaches Article 14 on its own."
+     },
+     {
+      "id": "dicey",
+      "parent": "a14",
+      "tier": 2,
+      "label": "A.V. Dicey",
+      "kind": "person",
+      "rel": "source",
+      "note": "English jurist whose rule of law formulation supplies \"equality before the law\". Three limbs: supremacy of law, equality before law, and the constitution as the result of ordinary law."
+     },
+     {
+      "id": "us14",
+      "parent": "a14",
+      "tier": 2,
+      "label": "US Fourteenth Amendment",
+      "kind": "law",
+      "rel": "source",
+      "note": "Ratified 1868. Supplies \"equal protection of the laws\" and the American equal protection jurisprudence Indian courts drew on."
+     },
+     {
+      "id": "maneka",
+      "parent": "royappa",
+      "tier": 2,
+      "label": "Maneka Gandhi (1978)",
+      "kind": "event",
+      "rel": "cemented it",
+      "note": "Held Articles 14, 19 and 21 form a golden triangle; a law depriving liberty must be right, just and fair, not arbitrary."
+     },
+     {
+      "id": "shayara",
+      "parent": "royappa",
+      "tier": 2,
+      "label": "Shayara Bano (2017)",
+      "kind": "event",
+      "rel": "applied",
+      "note": "5-judge bench struck down instant triple talaq 3-2, partly on manifest arbitrariness."
+     },
+     {
+      "id": "a15",
+      "parent": "a14",
+      "tier": 2,
+      "label": "Article 15",
+      "kind": "law",
+      "rel": "extends equality",
+      "note": "Prohibits discrimination on grounds only of religion, race, caste, sex or place of birth. Applies to citizens. 15(2) binds private persons on access to shops, wells and public places."
+     },
+     {
+      "id": "a16",
+      "parent": "a14",
+      "tier": 2,
+      "label": "Article 16",
+      "kind": "law",
+      "rel": "public employment",
+      "note": "Equality of opportunity in public employment. 16(4) permits reservation for backward classes; the 103rd Amendment (2019) added 15(6) and 16(6) for economically weaker sections."
+     },
+     {
+      "id": "a361",
+      "parent": "root",
+      "tier": 2,
+      "label": "Article 361",
+      "kind": "law",
+      "rel": "exception",
+      "note": "President and Governors are not answerable to any court for the exercise of their powers; no criminal proceedings during their term."
+     },
+     {
+      "id": "a105",
+      "parent": "root",
+      "tier": 3,
+      "label": "Articles 105 and 194",
+      "kind": "law",
+      "rel": "exception",
+      "note": "Parliamentary and legislative privilege. No member is liable in any court for anything said or any vote given in the House."
+     },
+     {
+      "id": "a17b",
+      "parent": "a15",
+      "tier": 3,
+      "label": "Article 18",
+      "kind": "law",
+      "rel": "titles",
+      "note": "Abolishes titles. Military and academic distinctions are allowed, which is why Bharat Ratna and Padma awards are not to be used as titles or suffixes to names."
+     },
+     {
+      "id": "indra",
+      "parent": "a16",
+      "tier": 3,
+      "label": "Indra Sawhney (1992)",
+      "kind": "event",
+      "rel": "capped reservation",
+      "note": "9-judge bench upheld 27% OBC reservation, excluded the creamy layer, and set the 50% ceiling on total reservation."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-emergency",
+   "rank": 6,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Emergency provisions: Articles 352, 356 and 360",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Emergency",
+    "Article 352",
+    "Article 356",
+    "Article 360",
+    "44th Amendment"
+   ],
+   "hook": "Three kinds of emergency, one of which has been used more than a hundred times and one of which has never been used at all.",
+   "story": "Part XVIII contains three emergencies, borrowed in structure from the Government of India Act 1935 and the Weimar Constitution.\n\n**National Emergency, Article 352.** Declared on grounds of war, external aggression or armed rebellion. The original text said \"internal disturbance\"; the 44th Amendment of 1978 replaced it with \"armed rebellion\", precisely because the vague earlier phrase had been used in 1975. A proclamation now needs the written recommendation of the Cabinet, must be approved by both Houses by a special majority within one month, and lasts six months at a time. During it, Article 19 freedoms are suspended under Article 358 (only for a war or external aggression emergency, after 1978), and the enforcement of other Part III rights can be suspended under Article 359, except Articles 20 and 21. It has been declared three times: 1962 (China), 1971 (Pakistan) and 1975 (internal disturbance).\n\n**President's Rule, Article 356.** Imposed when the President is satisfied that the government of a state cannot be carried on in accordance with the Constitution, usually on the Governor's report. Approval by both Houses by simple majority within two months, then six months at a time, to a maximum of three years. It has been used well over a hundred times, most aggressively in the 1970s and 1980s. *S.R. Bommai v. Union of India* (1994) changed that: a nine-judge bench held the proclamation is subject to judicial review, that the floor of the House and not the Governor's opinion is the test of majority, and that a dissolved assembly can be revived if the proclamation is struck down. Article 365 is the companion provision: failure to comply with a Union direction can itself trigger 356.\n\n**Financial Emergency, Article 360.** Declared if the financial stability or credit of India is threatened. It has never been declared. During it the Union may direct states on money bills and reduce the salaries of all officials including judges of the Supreme Court and High Courts.\n\nThe 44th Amendment, passed by the Janata government after the 1977 election, is the single most important reform here. It raised the threshold for a national emergency, required a written Cabinet recommendation, made Articles 20 and 21 non-suspendable, restored judicial review, and cut the Lok Sabha's term back to five years from the six that the 42nd Amendment had set.",
+   "facts": [
+    {
+     "k": "National Emergency",
+     "v": "Article 352"
+    },
+    {
+     "k": "Grounds after 1978",
+     "v": "War, external aggression, armed rebellion"
+    },
+    {
+     "k": "Phrase removed by the 44th Amendment",
+     "v": "Internal disturbance"
+    },
+    {
+     "k": "Times national emergency declared",
+     "v": "Three: 1962, 1971, 1975"
+    },
+    {
+     "k": "President’s Rule",
+     "v": "Article 356; maximum three years"
+    },
+    {
+     "k": "Landmark case on Article 356",
+     "v": "S.R. Bommai, 1994, 9-judge bench"
+    },
+    {
+     "k": "Financial Emergency",
+     "v": "Article 360, never used"
+    },
+    {
+     "k": "Emergency provisions modelled on",
+     "v": "Government of India Act 1935 and the Weimar Constitution"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1962",
+     "what": "First national emergency, Chinese aggression"
+    },
+    {
+     "when": "1971",
+     "what": "Second, war with Pakistan"
+    },
+    {
+     "when": "1975",
+     "what": "Third, internal disturbance, 25 June"
+    },
+    {
+     "when": "1978",
+     "what": "44th Amendment tightens the provisions"
+    },
+    {
+     "when": "1994",
+     "what": "S.R. Bommai makes Article 356 reviewable"
+    }
+   ],
+   "why": "Any passage on a state government falling, a Governor’s report, or a hung assembly is an Article 356 question, and Bommai is the case they want named. The classic trap is asking which emergency has never been proclaimed.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a352",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 352",
+      "kind": "law",
+      "rel": "national emergency",
+      "note": "War, external aggression or armed rebellion. Needs written Cabinet recommendation and special-majority approval within a month."
+     },
+     {
+      "id": "a356",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 356",
+      "kind": "law",
+      "rel": "President’s Rule",
+      "note": "Failure of constitutional machinery in a state. Simple-majority approval within two months, six months at a time, three years maximum."
+     },
+     {
+      "id": "a360",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 360",
+      "kind": "law",
+      "rel": "financial emergency",
+      "note": "Never declared. Allows the Union to cut salaries of all officials, including Supreme Court and High Court judges."
+     },
+     {
+      "id": "a44",
+      "parent": "root",
+      "tier": 1,
+      "label": "44th Amendment (1978)",
+      "kind": "event",
+      "rel": "reformed all three",
+      "note": "Janata government. Replaced \"internal disturbance\" with \"armed rebellion\", required written Cabinet advice, protected Articles 20 and 21."
+     },
+     {
+      "id": "bommai",
+      "parent": "a356",
+      "tier": 1,
+      "label": "S.R. Bommai (1994)",
+      "kind": "event",
+      "rel": "limited 356",
+      "note": "9 judges. Proclamation is judicially reviewable; majority is tested on the floor of the House; secularism is basic structure."
+     },
+     {
+      "id": "e1975",
+      "parent": "a352",
+      "tier": 2,
+      "label": "The Emergency, 1975-77",
+      "kind": "event",
+      "rel": "the precedent",
+      "note": "Declared 25 June 1975 on grounds of internal disturbance, revoked 21 March 1977. Followed the Allahabad High Court verdict against Indira Gandhi in the Raj Narain case."
+     },
+     {
+      "id": "a358",
+      "parent": "a352",
+      "tier": 2,
+      "label": "Article 358",
+      "kind": "law",
+      "rel": "suspends Article 19",
+      "note": "Automatic suspension of the six freedoms, but only during a war or external aggression emergency after 1978."
+     },
+     {
+      "id": "a359",
+      "parent": "a352",
+      "tier": 2,
+      "label": "Article 359",
+      "kind": "law",
+      "rel": "suspends enforcement",
+      "note": "Presidential order suspending the right to move courts for Part III rights, never for Articles 20 and 21."
+     },
+     {
+      "id": "a365",
+      "parent": "a356",
+      "tier": 2,
+      "label": "Article 365",
+      "kind": "law",
+      "rel": "trigger",
+      "note": "Failure of a state to comply with a Union direction can be treated as failure of constitutional machinery."
+     },
+     {
+      "id": "a42",
+      "parent": "a44",
+      "tier": 2,
+      "label": "42nd Amendment (1976)",
+      "kind": "event",
+      "rel": "what was undone",
+      "note": "Extended the Lok Sabha term to six years, curbed judicial review, added Fundamental Duties. Much of it was reversed in 1978."
+     },
+     {
+      "id": "shah",
+      "parent": "e1975",
+      "tier": 2,
+      "label": "Shah Commission",
+      "kind": "org",
+      "rel": "inquired",
+      "note": "Set up in 1977 under Justice J.C. Shah to investigate excesses during the Emergency."
+     },
+     {
+      "id": "governor",
+      "parent": "a356",
+      "tier": 2,
+      "label": "The Governor",
+      "kind": "person",
+      "rel": "reports",
+      "note": "Appointed by the President under Article 155, holds office during pleasure under Article 156. The Governor’s report is the usual trigger for 356."
+     },
+     {
+      "id": "gi1935",
+      "parent": "root",
+      "tier": 2,
+      "label": "Government of India Act, 1935",
+      "kind": "law",
+      "rel": "model",
+      "note": "Source of the emergency provisions, the federal scheme, the office of Governor and much administrative detail."
+     },
+     {
+      "id": "weimar",
+      "parent": "a352",
+      "tier": 3,
+      "label": "Weimar Constitution",
+      "kind": "law",
+      "rel": "model",
+      "note": "German constitution of 1919, source of the idea of suspending Fundamental Rights during an emergency."
+     },
+     {
+      "id": "a250",
+      "parent": "a352",
+      "tier": 3,
+      "label": "Article 250",
+      "kind": "law",
+      "rel": "effect on federalism",
+      "note": "During a national emergency Parliament may legislate on State List subjects, and the federal structure becomes unitary in effect."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-parliament",
+   "rank": 7,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Parliament: two Houses, and the money bill that only one of them controls",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Parliament",
+    "Lok Sabha",
+    "Rajya Sabha",
+    "Money Bill"
+   ],
+   "hook": "The Lok Sabha can be dissolved and the Rajya Sabha cannot, the Rajya Sabha can only delay a money bill by fourteen days, and the Speaker decides what a money bill is.",
+   "story": "Parliament under Article 79 consists of the President and two Houses. The President is part of Parliament, which is a favourite one-mark point.\n\n**Lok Sabha.** Maximum strength 550 under Article 81: up to 530 from states and 20 from Union Territories. The two Anglo-Indian nominated seats under Article 331 were discontinued by the 104th Amendment in 2020. Present strength is 543. Term is five years, extendable by one year at a time during a national emergency. It can be dissolved.\n\n**Rajya Sabha.** Maximum 250 under Article 80: up to 238 elected by state and UT legislatures and 12 nominated by the President for literature, science, art and social service. Present strength is 245. It is a permanent body, never dissolved, with one third retiring every two years, so a member's term is six years. Its representation is not equal by state, unlike the American Senate; it follows population, which is why Uttar Pradesh has 31 seats and Sikkim has one.\n\n**Money bills, Article 110.** A bill dealing only with taxation, borrowing, the Consolidated Fund or the Contingency Fund. Three consequences follow. It can be introduced only in the Lok Sabha and only on the President's recommendation. The Rajya Sabha must return it within fourteen days and can only recommend, not amend. And the Speaker's certificate that a bill is a money bill is final. That last point produced serious litigation over the Aadhaar Act and the Finance Act 2017, both passed as money bills.\n\nA **financial bill** is broader and does not carry all these protections; the distinction is a standard question. There is no joint sitting for a money bill, because there can be no deadlock. Joint sittings under Article 108 are for ordinary bills and have happened three times: the Dowry Prohibition Bill 1961, the Banking Service Commission Repeal Bill 1978, and the Prevention of Terrorism Bill 2002.\n\nSessions: Budget, Monsoon and Winter. The maximum gap between two sessions is six months. Adjournment ends a sitting, prorogation ends a session, dissolution ends the House itself. A no-confidence motion can be moved only in the Lok Sabha and needs the support of at least 50 members to be admitted.",
+   "facts": [
+    {
+     "k": "Parliament consists of",
+     "v": "The President and two Houses, Article 79"
+    },
+    {
+     "k": "Lok Sabha maximum",
+     "v": "550; current strength 543"
+    },
+    {
+     "k": "Rajya Sabha maximum",
+     "v": "250; current strength 245; 12 nominated"
+    },
+    {
+     "k": "Rajya Sabha term",
+     "v": "Six years, one third retiring every two years"
+    },
+    {
+     "k": "Money bill",
+     "v": "Article 110; Rajya Sabha has 14 days and can only recommend"
+    },
+    {
+     "k": "Who certifies a money bill",
+     "v": "The Speaker of the Lok Sabha, and the certificate is final"
+    },
+    {
+     "k": "Joint sittings held",
+     "v": "Three: 1961, 1978, 2002"
+    },
+    {
+     "k": "Maximum gap between sessions",
+     "v": "Six months"
+    },
+    {
+     "k": "Anglo-Indian nominated seats",
+     "v": "Ended by the 104th Amendment, 2020"
+    }
+   ],
+   "timeline": [],
+   "why": "Passages on a contested bill almost always turn on the money bill route, because that is how a government bypasses the Rajya Sabha. Know the 14 days, the Speaker’s certificate, and that no joint sitting is possible.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a79",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 79",
+      "kind": "law",
+      "rel": "constitutes Parliament",
+      "note": "Parliament is the President plus the Council of States and the House of the People."
+     },
+     {
+      "id": "a110",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 110",
+      "kind": "law",
+      "rel": "money bills",
+      "note": "Defines a money bill. Introduced only in the Lok Sabha on the President’s recommendation; Rajya Sabha has 14 days and may only recommend."
+     },
+     {
+      "id": "speaker",
+      "parent": "a110",
+      "tier": 1,
+      "label": "Speaker of the Lok Sabha",
+      "kind": "person",
+      "rel": "certifies",
+      "note": "Elected by the House. The Speaker’s certificate that a bill is a money bill is final and, under Article 122, largely beyond challenge."
+     },
+     {
+      "id": "ls",
+      "parent": "root",
+      "tier": 1,
+      "label": "Lok Sabha",
+      "kind": "org",
+      "rel": "lower House",
+      "note": "Maximum 550, current 543. Five-year term, dissolvable, extendable by a year during an emergency."
+     },
+     {
+      "id": "rs",
+      "parent": "root",
+      "tier": 1,
+      "label": "Rajya Sabha",
+      "kind": "org",
+      "rel": "upper House",
+      "note": "Maximum 250, current 245. Permanent body, never dissolved. Twelve members nominated for literature, science, art and social service."
+     },
+     {
+      "id": "a108",
+      "parent": "root",
+      "tier": 2,
+      "label": "Article 108",
+      "kind": "law",
+      "rel": "joint sitting",
+      "note": "For deadlock on ordinary bills. Presided over by the Speaker. Used three times: 1961, 1978, 2002."
+     },
+     {
+      "id": "a112",
+      "parent": "a110",
+      "tier": 2,
+      "label": "Article 112",
+      "kind": "law",
+      "rel": "the Budget",
+      "note": "The Annual Financial Statement. Presented on 1 February since 2017, when the railway budget was merged in and the date moved from the end of February."
+     },
+     {
+      "id": "aadhaar",
+      "parent": "a110",
+      "tier": 2,
+      "label": "Aadhaar Act as a money bill",
+      "kind": "event",
+      "rel": "contested",
+      "note": "Passed as a money bill in 2016 and upheld 4-1 in 2018. Justice D.Y. Chandrachud dissented, calling it a fraud on the Constitution."
+     },
+     {
+      "id": "nocon",
+      "parent": "ls",
+      "tier": 2,
+      "label": "No-confidence motion",
+      "kind": "concept",
+      "rel": "only in Lok Sabha",
+      "note": "Needs the support of at least 50 members for admission. The government must resign if it passes."
+     },
+     {
+      "id": "a100",
+      "parent": "root",
+      "tier": 2,
+      "label": "Quorum",
+      "kind": "concept",
+      "rel": "Article 100",
+      "note": "One tenth of the total membership of the House."
+     },
+     {
+      "id": "dep",
+      "parent": "ls",
+      "tier": 2,
+      "label": "Deputy Speaker",
+      "kind": "person",
+      "rel": "Article 93",
+      "note": "Elected by the House. Convention gives the post to the opposition, though the seat lay vacant through the 17th Lok Sabha."
+     },
+     {
+      "id": "chair",
+      "parent": "rs",
+      "tier": 2,
+      "label": "Chairman of the Rajya Sabha",
+      "kind": "person",
+      "rel": "ex officio",
+      "note": "The Vice President of India, under Article 64. Not a member of the House."
+     },
+     {
+      "id": "adj",
+      "parent": "root",
+      "tier": 3,
+      "label": "Adjournment, prorogation, dissolution",
+      "kind": "term",
+      "rel": "distinguish",
+      "note": "Adjournment ends a sitting, prorogation ends a session and is done by the President, dissolution ends the Lok Sabha itself."
+     },
+     {
+      "id": "a105",
+      "parent": "root",
+      "tier": 3,
+      "label": "Article 105",
+      "kind": "law",
+      "rel": "privilege",
+      "note": "Freedom of speech in Parliament and immunity from court proceedings for anything said or any vote given."
+     },
+     {
+      "id": "uk",
+      "parent": "root",
+      "tier": 3,
+      "label": "Westminster model",
+      "kind": "concept",
+      "rel": "borrowed from",
+      "note": "Parliamentary government, the office of Speaker, single citizenship, the rule of law and the legislative procedure all come from Britain."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-judiciary",
+   "rank": 8,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The judiciary: appointments, the collegium and the NJAC that never was",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Supreme Court",
+    "Collegium",
+    "NJAC",
+    "Article 124"
+   ],
+   "hook": "Judges appointing judges is not in the Constitution. It is the result of three cases, and Parliament’s attempt to undo it lasted eleven months.",
+   "story": "Article 124 establishes the Supreme Court and says judges are appointed by the President after consultation with such judges as the President thinks fit. The plain text gives the executive the upper hand. Three judgments turned it round.\n\n**First Judges Case**, *S.P. Gupta* (1981): \"consultation\" does not mean \"concurrence\", so the executive had primacy. **Second Judges Case**, *Supreme Court Advocates-on-Record Association* (1993): consultation does mean concurrence, and the CJI's view has primacy. **Third Judges Case** (1998), an advisory opinion under Article 143 on a Presidential reference: the CJI must act through a collegium of the four senior-most judges, five in all. That is the collegium, and it exists nowhere in the constitutional text.\n\nParliament tried to replace it. The 99th Constitutional Amendment and the National Judicial Appointments Commission Act, both of 2014, created a six-member NJAC: the CJI, the two next senior judges, the Law Minister and two eminent persons. In *Supreme Court Advocates-on-Record Association v. Union of India* (2015), a five-judge bench struck both down 4-1, holding that judicial independence and the primacy of the judiciary in appointments are part of the basic structure. Justice J. Chelameswar dissented.\n\nThe numbers. The Supreme Court's sanctioned strength is 34 including the Chief Justice, set by the Supreme Court (Number of Judges) Amendment Act 2019. A judge retires at 65; a High Court judge at 62. Removal, under Article 124(4), is by an address of both Houses supported by a majority of the total membership and two thirds of those present and voting, on grounds of proved misbehaviour or incapacity. The Constitution never uses the word impeachment for judges. No judge has ever been removed; Justice V. Ramaswami survived in 1993 when the Congress abstained.\n\nArticle 141 makes the law declared by the Supreme Court binding on all courts. Article 142 lets it pass any order necessary for complete justice, the provision used in the Ayodhya and Bhopal settlements. Article 143 is the advisory jurisdiction. Article 137 allows review and Article 145 the constitution of benches; the curative petition, a further step after review, was invented in *Rupa Ashok Hurra* (2002).",
+   "facts": [
+    {
+     "k": "Supreme Court established by",
+     "v": "Article 124"
+    },
+    {
+     "k": "Sanctioned strength",
+     "v": "34, including the Chief Justice"
+    },
+    {
+     "k": "Retirement age",
+     "v": "65 for Supreme Court, 62 for High Court judges"
+    },
+    {
+     "k": "Collegium created by",
+     "v": "Third Judges Case, 1998, an Article 143 advisory opinion"
+    },
+    {
+     "k": "Collegium size",
+     "v": "The CJI and the four senior-most judges"
+    },
+    {
+     "k": "NJAC struck down",
+     "v": "2015, by 4-1"
+    },
+    {
+     "k": "Removal procedure",
+     "v": "Article 124(4); no judge has ever been removed"
+    },
+    {
+     "k": "Law declared by the Supreme Court is binding",
+     "v": "Article 141"
+    },
+    {
+     "k": "Complete justice",
+     "v": "Article 142"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1981",
+     "what": "First Judges Case: executive primacy"
+    },
+    {
+     "when": "1993",
+     "what": "Second Judges Case: judicial primacy"
+    },
+    {
+     "when": "1998",
+     "what": "Third Judges Case: the collegium"
+    },
+    {
+     "when": "2014",
+     "what": "99th Amendment and NJAC Act"
+    },
+    {
+     "when": "2015",
+     "what": "NJAC struck down"
+    },
+    {
+     "when": "2019",
+     "what": "Strength raised to 34"
+    }
+   ],
+   "why": "Any passage about a judicial appointment, a transfer, or a stand-off between the government and the courts is testing the collegium and the NJAC verdict. Know that \"impeachment\" is the wrong word and that removal has never succeeded.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a124",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 124",
+      "kind": "law",
+      "rel": "establishes the Court",
+      "note": "Provides for appointment by the President after consultation, and for removal by an address of both Houses on proved misbehaviour or incapacity."
+     },
+     {
+      "id": "collegium",
+      "parent": "root",
+      "tier": 1,
+      "label": "The collegium",
+      "kind": "concept",
+      "rel": "judicial invention",
+      "note": "The CJI plus the four senior-most judges. Created by the Third Judges Case in 1998, found nowhere in the constitutional text."
+     },
+     {
+      "id": "njac",
+      "parent": "root",
+      "tier": 1,
+      "label": "NJAC (2014-15)",
+      "kind": "org",
+      "rel": "struck down",
+      "note": "Six members including the Law Minister and two eminent persons. Voided 4-1 in 2015 for violating the basic structure."
+     },
+     {
+      "id": "a141",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 141",
+      "kind": "law",
+      "rel": "binding precedent",
+      "note": "The law declared by the Supreme Court is binding on all courts within India."
+     },
+     {
+      "id": "a142",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 142",
+      "kind": "law",
+      "rel": "complete justice",
+      "note": "Used for the Ayodhya land allotment, the Bhopal settlement and to dissolve marriages on irretrievable breakdown."
+     },
+     {
+      "id": "second",
+      "parent": "collegium",
+      "tier": 2,
+      "label": "Second Judges Case (1993)",
+      "kind": "event",
+      "rel": "shifted primacy",
+      "note": "Held consultation means concurrence and gave the CJI primacy, reversing S.P. Gupta."
+     },
+     {
+      "id": "first",
+      "parent": "collegium",
+      "tier": 2,
+      "label": "First Judges Case (1981)",
+      "kind": "event",
+      "rel": "executive primacy",
+      "note": "S.P. Gupta. Held consultation does not mean concurrence. Also widened locus standi for PIL."
+     },
+     {
+      "id": "chelameswar",
+      "parent": "njac",
+      "tier": 2,
+      "label": "Justice J. Chelameswar",
+      "kind": "person",
+      "rel": "dissented",
+      "note": "The sole dissent in the NJAC judgment, arguing the collegium lacked transparency."
+     },
+     {
+      "id": "a217",
+      "parent": "a124",
+      "tier": 2,
+      "label": "Article 217",
+      "kind": "law",
+      "rel": "High Court judges",
+      "note": "Appointment of High Court judges in consultation with the CJI, the Governor and the Chief Justice of the High Court. Retirement at 62."
+     },
+     {
+      "id": "a143",
+      "parent": "collegium",
+      "tier": 2,
+      "label": "Article 143",
+      "kind": "law",
+      "rel": "advisory",
+      "note": "Presidential reference to the Supreme Court. Used for Berubari, the Third Judges Case and the Ayodhya reference of 1993."
+     },
+     {
+      "id": "curative",
+      "parent": "a142",
+      "tier": 2,
+      "label": "Curative petition",
+      "kind": "concept",
+      "rel": "last resort",
+      "note": "Created in Rupa Ashok Hurra (2002). Filed after a review petition is dismissed, heard usually in chambers by the three senior-most judges."
+     },
+     {
+      "id": "ramaswami",
+      "parent": "a124",
+      "tier": 2,
+      "label": "Justice V. Ramaswami",
+      "kind": "person",
+      "rel": "removal attempted",
+      "note": "The 1993 motion failed when the Congress abstained, leaving it short of the required majority."
+     },
+     {
+      "id": "a137",
+      "parent": "a141",
+      "tier": 3,
+      "label": "Articles 137 and 145",
+      "kind": "law",
+      "rel": "review and benches",
+      "note": "Article 137 allows the Court to review its own judgments; Article 145 governs rules and the constitution of benches."
+     },
+     {
+      "id": "a50",
+      "parent": "root",
+      "tier": 3,
+      "label": "Article 50",
+      "kind": "law",
+      "rel": "separation",
+      "note": "A Directive Principle requiring the State to separate the judiciary from the executive in the public services."
+     },
+     {
+      "id": "a32",
+      "parent": "a141",
+      "tier": 3,
+      "label": "Article 32",
+      "kind": "law",
+      "rel": "the gateway",
+      "note": "The writ jurisdiction that gives the Court most of its constitutional work."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-dpsp",
+   "rank": 9,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Directive Principles and Fundamental Duties",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "DPSP",
+    "Part IV",
+    "Fundamental Duties",
+    "Article 39"
+   ],
+   "hook": "Non-justiciable instructions to the State, borrowed from Ireland, that courts have used anyway to decide what Article 21 means.",
+   "story": "Part IV, Articles 36 to 51, holds the Directive Principles of State Policy. Article 37 makes the position explicit: they are not enforceable by any court, but they are fundamental in the governance of the country and it is the duty of the State to apply them in making laws. India took the idea from the Irish Constitution of 1937, which took it from Spain.\n\nThey sort into three families, though the Constitution does not label them. **Socialist**: Article 38 (welfare state), Article 39 (adequate means of livelihood, distribution of material resources to subserve the common good, equal pay for equal work, no abuse of children), Article 39A (free legal aid), Article 41 (right to work, education, public assistance), Article 42 (maternity relief), Article 43 (living wage), Article 43A (workers' participation in management). **Gandhian**: Article 40 (village panchayats), Article 43B (co-operative societies), Article 46 (SC and ST interests), Article 47 (prohibition of intoxicating drinks), Article 48 (prohibition of cow slaughter). **Liberal-intellectual**: Article 44 (uniform civil code), Article 45 (early childhood care), Article 48A (environment and forests), Article 49 (monuments), Article 50 (separation of judiciary from executive), Article 51 (international peace).\n\nThe relationship with Fundamental Rights was fought over for thirty years. *Champakam Dorairajan* (1951) held rights prevail. Article 31C, added in 1971, gave certain Directive Principles precedence. *Minerva Mills* (1980) settled it: the balance between Parts III and IV is itself part of the basic structure, so neither can swallow the other.\n\n**Fundamental Duties** live in Part IVA, Article 51A, and were added by the 42nd Amendment in 1976 on the recommendation of the Swaran Singh Committee. There were ten; the 86th Amendment in 2002 added an eleventh, the duty of a parent or guardian to provide education to a child aged six to fourteen. They are borrowed from the Soviet constitution and are, like the Directive Principles, non-justiciable.",
+   "facts": [
+    {
+     "k": "Directive Principles",
+     "v": "Part IV, Articles 36 to 51"
+    },
+    {
+     "k": "Non-justiciable",
+     "v": "Stated in Article 37"
+    },
+    {
+     "k": "Borrowed from",
+     "v": "The Constitution of Ireland, 1937"
+    },
+    {
+     "k": "Uniform civil code",
+     "v": "Article 44"
+    },
+    {
+     "k": "Village panchayats",
+     "v": "Article 40"
+    },
+    {
+     "k": "Environment and forests",
+     "v": "Article 48A, added by the 42nd Amendment"
+    },
+    {
+     "k": "Fundamental Duties",
+     "v": "Part IVA, Article 51A, added by the 42nd Amendment, 1976"
+    },
+    {
+     "k": "Number of Fundamental Duties",
+     "v": "Eleven; the eleventh added by the 86th Amendment, 2002"
+    },
+    {
+     "k": "Committee that recommended duties",
+     "v": "Swaran Singh Committee"
+    },
+    {
+     "k": "Fundamental Duties borrowed from",
+     "v": "The Soviet constitution"
+    }
+   ],
+   "timeline": [],
+   "why": "Passages on welfare schemes, the uniform civil code or environmental regulation lean on Part IV. The reliable question is which article carries which principle, and that duties are non-justiciable.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a37",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 37",
+      "kind": "law",
+      "rel": "sets the status",
+      "note": "Directive Principles are not enforceable by any court but are fundamental in governance."
+     },
+     {
+      "id": "a44",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 44",
+      "kind": "law",
+      "rel": "uniform civil code",
+      "note": "\"The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.\" Cited in Shah Bano and Sarla Mudgal."
+     },
+     {
+      "id": "a51a",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 51A",
+      "kind": "law",
+      "rel": "Fundamental Duties",
+      "note": "Eleven duties, non-justiciable, added by the 42nd Amendment on the Swaran Singh Committee’s recommendation."
+     },
+     {
+      "id": "ireland",
+      "parent": "root",
+      "tier": 1,
+      "label": "Constitution of Ireland (1937)",
+      "kind": "law",
+      "rel": "source",
+      "note": "Supplied the Directive Principles, the method of electing the President, and the nomination of members to the Rajya Sabha."
+     },
+     {
+      "id": "minerva",
+      "parent": "root",
+      "tier": 1,
+      "label": "Minerva Mills (1980)",
+      "kind": "event",
+      "rel": "settled the conflict",
+      "note": "Held the balance between Fundamental Rights and Directive Principles is part of the basic structure."
+     },
+     {
+      "id": "a39",
+      "parent": "a37",
+      "tier": 2,
+      "label": "Article 39",
+      "kind": "law",
+      "rel": "socialist principles",
+      "note": "Adequate livelihood, distribution of material resources for the common good, equal pay for equal work, protection of children."
+     },
+     {
+      "id": "a40",
+      "parent": "a37",
+      "tier": 2,
+      "label": "Article 40",
+      "kind": "law",
+      "rel": "Gandhian",
+      "note": "Organisation of village panchayats. Given effect by the 73rd Amendment in 1992."
+     },
+     {
+      "id": "a48a",
+      "parent": "a37",
+      "tier": 2,
+      "label": "Article 48A",
+      "kind": "law",
+      "rel": "environment",
+      "note": "Protection and improvement of environment and safeguarding of forests and wildlife. Added by the 42nd Amendment."
+     },
+     {
+      "id": "a39a",
+      "parent": "a37",
+      "tier": 2,
+      "label": "Article 39A",
+      "kind": "law",
+      "rel": "legal aid",
+      "note": "Equal justice and free legal aid, added by the 42nd Amendment. Implemented through NALSA, set up under the Legal Services Authorities Act 1987."
+     },
+     {
+      "id": "champakam",
+      "parent": "minerva",
+      "tier": 2,
+      "label": "Champakam Dorairajan (1951)",
+      "kind": "event",
+      "rel": "rights prevail",
+      "note": "Held Directive Principles must yield to Fundamental Rights. Led to the First Amendment and Article 15(4)."
+     },
+     {
+      "id": "a31c",
+      "parent": "minerva",
+      "tier": 2,
+      "label": "Article 31C",
+      "kind": "law",
+      "rel": "the tilt",
+      "note": "Inserted by the 25th Amendment in 1971 to give some Directive Principles precedence. Its wider version was struck down in Minerva Mills."
+     },
+     {
+      "id": "swaran",
+      "parent": "a51a",
+      "tier": 2,
+      "label": "Swaran Singh Committee",
+      "kind": "org",
+      "rel": "recommended",
+      "note": "Set up in 1976; recommended Fundamental Duties, which the 42nd Amendment enacted."
+     },
+     {
+      "id": "soviet",
+      "parent": "a51a",
+      "tier": 3,
+      "label": "Soviet constitution",
+      "kind": "law",
+      "rel": "source",
+      "note": "The idea of enumerated citizen duties, and the Planning Commission model, came from the USSR."
+     },
+     {
+      "id": "a47",
+      "parent": "a37",
+      "tier": 3,
+      "label": "Article 47",
+      "kind": "law",
+      "rel": "public health",
+      "note": "Duty to raise nutrition and standard of living and to bring about prohibition of intoxicating drinks and drugs, the basis of state prohibition policies."
+     },
+     {
+      "id": "a86",
+      "parent": "a51a",
+      "tier": 3,
+      "label": "86th Amendment (2002)",
+      "kind": "event",
+      "rel": "added a duty",
+      "note": "Inserted Article 21A, amended Article 45 and added the eleventh Fundamental Duty on parents to provide education."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-bodies",
+   "rank": 10,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Constitutional, statutory and executive bodies: the distinction they always test",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "ECI",
+    "CAG",
+    "UPSC",
+    "NHRC",
+    "NITI Aayog",
+    "Finance Commission"
+   ],
+   "hook": "The Election Commission is constitutional, the NHRC is statutory, and NITI Aayog is neither. Getting that sorting right is worth more marks than knowing what any of them do.",
+   "story": "A **constitutional body** is created by the Constitution itself and named in an article. A **statutory body** is created by an Act of Parliament. An **executive** or **non-statutory** body is created by a government resolution and can be wound up the same way.\n\nConstitutional bodies and their articles: Election Commission (324), Union and State Public Service Commissions (315), Finance Commission (280), Comptroller and Auditor General (148), Attorney General (76), Advocate General (165), National Commission for Scheduled Castes (338), for Scheduled Tribes (338A), for Backward Classes (338B, added by the 102nd Amendment in 2018), Special Officer for Linguistic Minorities (350B), Inter-State Council (263), GST Council (279A, added by the 101st Amendment in 2016).\n\nStatutory bodies: National Human Rights Commission (Protection of Human Rights Act 1993), Central Information Commission (RTI Act 2005), Central Vigilance Commission (CVC Act 2003, after *Vineet Narain*), Lokpal (Lokpal and Lokayuktas Act 2013), National Commission for Women (1990), NGT (National Green Tribunal Act 2010), SEBI (1992), TRAI, NCPCR, and the RBI (Reserve Bank of India Act 1934).\n\nExecutive bodies: NITI Aayog, set up by a Cabinet resolution on 1 January 2015 to replace the Planning Commission, which was itself a 1950 executive body. The Central Bureau of Investigation is an unusual case: it functions under the Delhi Special Police Establishment Act 1946, so it is statutory in derivation though not created as a standalone body.\n\nTwo details recur. The CAG under Article 148 is appointed by the President for six years or until 65, removable only in the manner of a Supreme Court judge, and Ambedkar called the office the most important in the Constitution. The Election Commission became a three-member body permanently in 1993; the Chief Election Commissioner is removable like a Supreme Court judge, while the other two commissioners are removable on the CEC's recommendation, which is why the Court and Parliament have fought over the appointment process.",
+   "facts": [
+    {
+     "k": "Election Commission",
+     "v": "Article 324, constitutional"
+    },
+    {
+     "k": "CAG",
+     "v": "Article 148, constitutional; six years or age 65"
+    },
+    {
+     "k": "Finance Commission",
+     "v": "Article 280, constitutional; constituted every five years"
+    },
+    {
+     "k": "GST Council",
+     "v": "Article 279A, added by the 101st Amendment, 2016"
+    },
+    {
+     "k": "NHRC",
+     "v": "Statutory, Protection of Human Rights Act 1993"
+    },
+    {
+     "k": "Lokpal",
+     "v": "Statutory, Lokpal and Lokayuktas Act 2013"
+    },
+    {
+     "k": "NITI Aayog",
+     "v": "Executive body, Cabinet resolution of 1 January 2015"
+    },
+    {
+     "k": "Planning Commission",
+     "v": "Executive body, set up 1950, replaced 2015"
+    },
+    {
+     "k": "NCBC made constitutional",
+     "v": "102nd Amendment, 2018, Article 338B"
+    }
+   ],
+   "timeline": [],
+   "why": "The question is almost never what a body does. It is whether the body is constitutional or statutory, and which article or Act created it. Learn the sorting first and the functions second.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a324",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 324",
+      "kind": "law",
+      "rel": "Election Commission",
+      "note": "Superintendence, direction and control of elections. Three members since 1993; the CEC is removable like a Supreme Court judge."
+     },
+     {
+      "id": "a148",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 148",
+      "kind": "law",
+      "rel": "CAG",
+      "note": "Appointed by the President, six-year term or age 65. Ambedkar called it the most important office in the Constitution."
+     },
+     {
+      "id": "a280",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 280",
+      "kind": "law",
+      "rel": "Finance Commission",
+      "note": "Constituted by the President every five years to recommend the distribution of taxes between the Union and the states."
+     },
+     {
+      "id": "a279a",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 279A",
+      "kind": "law",
+      "rel": "GST Council",
+      "note": "Added by the 101st Amendment, 2016. Chaired by the Union Finance Minister; decisions need a three-fourths weighted majority."
+     },
+     {
+      "id": "niti",
+      "parent": "root",
+      "tier": 1,
+      "label": "NITI Aayog",
+      "kind": "org",
+      "rel": "executive body",
+      "note": "Cabinet resolution, 1 January 2015. The Prime Minister is chairperson. Replaced the Planning Commission, also an executive body."
+     },
+     {
+      "id": "nhrc",
+      "parent": "root",
+      "tier": 2,
+      "label": "NHRC",
+      "kind": "org",
+      "rel": "statutory",
+      "note": "Protection of Human Rights Act 1993. Chairperson is a former Chief Justice or Supreme Court judge. Recommendations are not binding."
+     },
+     {
+      "id": "cvc",
+      "parent": "nhrc",
+      "tier": 2,
+      "label": "Central Vigilance Commission",
+      "kind": "org",
+      "rel": "statutory",
+      "note": "Given statutory status by the CVC Act 2003, after the Supreme Court’s directions in Vineet Narain (1997)."
+     },
+     {
+      "id": "lokpal",
+      "parent": "nhrc",
+      "tier": 2,
+      "label": "Lokpal",
+      "kind": "org",
+      "rel": "statutory",
+      "note": "Lokpal and Lokayuktas Act 2013, passed after the 2011 anti-corruption movement. Chairperson and up to eight members."
+     },
+     {
+      "id": "cic",
+      "parent": "nhrc",
+      "tier": 2,
+      "label": "Central Information Commission",
+      "kind": "org",
+      "rel": "statutory",
+      "note": "RTI Act 2005. Hears second appeals against refusal of information."
+     },
+     {
+      "id": "upsc",
+      "parent": "a324",
+      "tier": 2,
+      "label": "UPSC",
+      "kind": "org",
+      "rel": "constitutional",
+      "note": "Article 315. Members hold office for six years or until 65; removal only by the President on a Supreme Court inquiry."
+     },
+     {
+      "id": "a338",
+      "parent": "a324",
+      "tier": 2,
+      "label": "Articles 338, 338A, 338B",
+      "kind": "law",
+      "rel": "commissions",
+      "note": "National Commissions for Scheduled Castes, Scheduled Tribes and Backward Classes. The last was made constitutional in 2018."
+     },
+     {
+      "id": "rbi",
+      "parent": "nhrc",
+      "tier": 2,
+      "label": "Reserve Bank of India",
+      "kind": "org",
+      "rel": "statutory",
+      "note": "RBI Act 1934, began operations 1 April 1935, nationalised 1949. Headquarters in Mumbai."
+     },
+     {
+      "id": "a263",
+      "parent": "a280",
+      "tier": 3,
+      "label": "Article 263",
+      "kind": "law",
+      "rel": "Inter-State Council",
+      "note": "Constituted in 1990 on the Sarkaria Commission’s recommendation to coordinate between the Union and the states."
+     },
+     {
+      "id": "cbi",
+      "parent": "niti",
+      "tier": 3,
+      "label": "CBI",
+      "kind": "org",
+      "rel": "odd one out",
+      "note": "Operates under the Delhi Special Police Establishment Act 1946. Needs state consent to investigate in a state, which several have withdrawn."
+     },
+     {
+      "id": "a76",
+      "parent": "a148",
+      "tier": 3,
+      "label": "Article 76",
+      "kind": "law",
+      "rel": "Attorney General",
+      "note": "The government’s chief legal adviser, appointed by the President, with a right of audience in all courts and the right to speak in Parliament."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-federalism",
+   "rank": 11,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Federalism and the Seventh Schedule",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Federalism",
+    "Seventh Schedule",
+    "Article 246",
+    "Centre-State"
+   ],
+   "hook": "Three lists, one residuary power, and a Constitution that calls itself a Union of States rather than a federation.",
+   "story": "Article 1 says India, that is Bharat, shall be a **Union of States**. Ambedkar explained the wording: the Union is indestructible, and the states derive their existence from it rather than from any agreement to join. That is why Article 3 lets Parliament create, rename or redraw states by simple majority, with the state legislature only entitled to express a view that Parliament may ignore.\n\nThe **Seventh Schedule** divides subjects under Article 246. The **Union List** has 97 entries as originally drafted, including defence, foreign affairs, railways, banking, currency, atomic energy and citizenship. The **State List** has 66, including public order, police, public health, agriculture, land and local government. The **Concurrent List** has 47, including criminal law and procedure, marriage and divorce, contracts, bankruptcy, education and forests. Education and forests were moved from the State List to the Concurrent List by the 42nd Amendment in 1976.\n\nWhere a Union law and a state law on a Concurrent subject conflict, Article 254 makes the Union law prevail, unless the state law received Presidential assent, in which case it operates in that state. Residuary powers, under Article 248 and entry 97 of the Union List, belong to Parliament, unlike in the United States where they rest with the states.\n\nParliament can legislate on a State List subject in five situations: a Rajya Sabha resolution under Article 249 passed by two thirds, a national emergency under Article 250, a request by two or more states under Article 252, to implement an international treaty under Article 253, and during President's Rule.\n\nInterpretation doctrines: **pith and substance** looks at the true character of a law rather than incidental encroachment, **colourable legislation** strikes down a law doing indirectly what the legislature cannot do directly, and **repugnancy** is the Article 254 conflict rule. Commissions on centre-state relations: Sarkaria (1983), Punchhi (2007), and the Rajamannar Committee before them.",
+   "facts": [
+    {
+     "k": "Article 1",
+     "v": "India, that is Bharat, shall be a Union of States"
+    },
+    {
+     "k": "Division of powers",
+     "v": "Article 246 and the Seventh Schedule"
+    },
+    {
+     "k": "Union List entries",
+     "v": "97 as originally enacted"
+    },
+    {
+     "k": "State List entries",
+     "v": "66"
+    },
+    {
+     "k": "Concurrent List entries",
+     "v": "47"
+    },
+    {
+     "k": "Moved to the Concurrent List in 1976",
+     "v": "Education, forests, weights and measures, wildlife"
+    },
+    {
+     "k": "Residuary powers",
+     "v": "With Parliament, Article 248 and entry 97"
+    },
+    {
+     "k": "Conflict rule",
+     "v": "Article 254, Union law prevails"
+    },
+    {
+     "k": "Centre-state commissions",
+     "v": "Sarkaria 1983, Punchhi 2007"
+    }
+   ],
+   "timeline": [],
+   "why": "A passage on a state resisting a central law, or on a new law about police or education, is testing which list the subject sits in. The reliable trap is residuary powers: in India they are with the Centre, not the states.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a246",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 246",
+      "kind": "law",
+      "rel": "divides power",
+      "note": "Read with the Seventh Schedule. Union List, State List and Concurrent List."
+     },
+     {
+      "id": "seventh",
+      "parent": "root",
+      "tier": 1,
+      "label": "Seventh Schedule",
+      "kind": "law",
+      "rel": "the three lists",
+      "note": "Union 97 entries, State 66, Concurrent 47, as originally enacted."
+     },
+     {
+      "id": "a1",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 1",
+      "kind": "law",
+      "rel": "Union of States",
+      "note": "Ambedkar’s wording: the federation is not the result of an agreement and no state has a right to secede."
+     },
+     {
+      "id": "a254",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 254",
+      "kind": "law",
+      "rel": "repugnancy",
+      "note": "Union law prevails on Concurrent subjects unless the state law has Presidential assent."
+     },
+     {
+      "id": "a248",
+      "parent": "root",
+      "tier": 2,
+      "label": "Article 248",
+      "kind": "law",
+      "rel": "residuary",
+      "note": "Parliament holds residuary legislative power, unlike the United States."
+     },
+     {
+      "id": "a3",
+      "parent": "a1",
+      "tier": 2,
+      "label": "Article 3",
+      "kind": "law",
+      "rel": "redraws states",
+      "note": "Parliament may form new states or alter boundaries by simple majority; the state legislature is only consulted."
+     },
+     {
+      "id": "a249",
+      "parent": "a246",
+      "tier": 2,
+      "label": "Article 249",
+      "kind": "law",
+      "rel": "Rajya Sabha route",
+      "note": "A two-thirds resolution lets Parliament legislate on a State List subject in the national interest for a year at a time."
+     },
+     {
+      "id": "a253",
+      "parent": "a246",
+      "tier": 2,
+      "label": "Article 253",
+      "kind": "law",
+      "rel": "treaty route",
+      "note": "Parliament may legislate on any subject to implement an international agreement. Used for environmental law after Stockholm and Rio."
+     },
+     {
+      "id": "pith",
+      "parent": "a246",
+      "tier": 2,
+      "label": "Pith and substance",
+      "kind": "concept",
+      "rel": "doctrine",
+      "note": "A law is judged by its true nature, and incidental encroachment on another list does not make it invalid."
+     },
+     {
+      "id": "colour",
+      "parent": "a246",
+      "tier": 2,
+      "label": "Colourable legislation",
+      "kind": "concept",
+      "rel": "doctrine",
+      "note": "What cannot be done directly cannot be done indirectly. K.C. Gajapati Narayan Deo (1953)."
+     },
+     {
+      "id": "a42",
+      "parent": "seventh",
+      "tier": 2,
+      "label": "42nd Amendment (1976)",
+      "kind": "event",
+      "rel": "moved subjects",
+      "note": "Shifted education, forests, weights and measures, and protection of wild animals and birds from the State to the Concurrent List."
+     },
+     {
+      "id": "sarkaria",
+      "parent": "root",
+      "tier": 2,
+      "label": "Sarkaria Commission",
+      "kind": "org",
+      "rel": "reviewed",
+      "note": "Set up 1983, reported 1988 on centre-state relations. Recommended the Inter-State Council, constituted in 1990."
+     },
+     {
+      "id": "punchhi",
+      "parent": "sarkaria",
+      "tier": 3,
+      "label": "Punchhi Commission",
+      "kind": "org",
+      "rel": "reviewed again",
+      "note": "Set up 2007 under Justice M.M. Punchhi, reported 2010, on centre-state relations including Article 356 and Governors."
+     },
+     {
+      "id": "canada",
+      "parent": "a1",
+      "tier": 3,
+      "label": "Canadian federation",
+      "kind": "concept",
+      "rel": "model",
+      "note": "India’s strong centre, the word Union, residuary powers with the Centre and the appointment of Governors follow the Canadian model."
+     },
+     {
+      "id": "gst",
+      "parent": "a246",
+      "tier": 3,
+      "label": "GST and the lists",
+      "kind": "concept",
+      "rel": "shifted the balance",
+      "note": "The 101st Amendment (2016) created Article 246A, a concurrent taxing power over goods and services for both Union and states."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-president",
+   "rank": 12,
+   "depth": "deep",
+   "importance": 4,
+   "title": "The President: election, powers and the ordinance route",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "President",
+    "Article 52",
+    "Electoral College",
+    "Ordinance"
+   ],
+   "hook": "Elected by an electoral college that includes no ordinary voter, bound by ministerial advice since 1976, and able to legislate for six weeks at a time when Parliament is not sitting.",
+   "story": "Article 52 creates the office. The President is elected under Article 54 by an electoral college of the elected members of both Houses of Parliament and the elected members of the legislative assemblies of the states, plus Delhi and Puducherry. Nominated members do not vote. The election is by proportional representation with a single transferable vote and a secret ballot, under Article 55, and the value of each vote is weighted by population using the 1971 census, frozen there by the 84th Amendment.\n\nQualifications under Article 58: citizen of India, at least 35, qualified for election to the Lok Sabha, and not holding an office of profit. The term is five years, re-election is permitted without limit, and removal is by **impeachment** under Article 61 for violation of the Constitution, the only impeachment the Constitution provides for. The charge may originate in either House, needs a resolution signed by a quarter of the members with fourteen days' notice, and must pass both Houses by two thirds of total membership. Nominated members do vote in an impeachment, though they cannot vote in the election.\n\nArticle 74 requires the President to act on the aid and advice of the Council of Ministers. The 42nd Amendment made this binding in terms; the 44th Amendment added that the President may return advice once for reconsideration, after which the advice is binding.\n\nLegislative powers matter most for the exam. Under Article 111 the President may assent to a bill, withhold assent, or return a non-money bill for reconsideration; if the Houses pass it again, assent must be given. There is no time limit, which produces the so-called **pocket veto**, famously used by President Zail Singh on the Indian Post Office (Amendment) Bill in 1986. Under Article 123 the President may promulgate an **ordinance** when either House is not in session; it has the same force as an Act, must be laid before Parliament, and ceases to operate six weeks after Parliament reassembles. *D.C. Wadhwa* (1987) condemned the re-promulgation of ordinances in Bihar, and *Krishna Kumar Singh* (2017) held that repeated re-promulgation is a fraud on the Constitution.",
+   "facts": [
+    {
+     "k": "Office created by",
+     "v": "Article 52"
+    },
+    {
+     "k": "Elected by",
+     "v": "Elected MPs and elected MLAs of states, Delhi and Puducherry"
+    },
+    {
+     "k": "Method",
+     "v": "Proportional representation, single transferable vote, secret ballot"
+    },
+    {
+     "k": "Census used to weight votes",
+     "v": "1971, frozen by the 84th Amendment"
+    },
+    {
+     "k": "Minimum age",
+     "v": "35"
+    },
+    {
+     "k": "Removal",
+     "v": "Impeachment under Article 61, two thirds of total membership in both Houses"
+    },
+    {
+     "k": "Ordinance power",
+     "v": "Article 123; lapses six weeks after Parliament reassembles"
+    },
+    {
+     "k": "Aid and advice binding",
+     "v": "Article 74, made binding by the 42nd Amendment"
+    }
+   ],
+   "timeline": [],
+   "why": "Passages on an ordinance, a bill stuck without assent, or a Governor sitting on legislation test Articles 111, 123 and 200. Remember that the President is the only functionary the Constitution actually impeaches.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a54",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 54",
+      "kind": "law",
+      "rel": "electoral college",
+      "note": "Elected members of both Houses and of state assemblies. Nominated members are excluded."
+     },
+     {
+      "id": "a123",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 123",
+      "kind": "law",
+      "rel": "ordinance",
+      "note": "Legislation by the executive when a House is not in session. Ceases six weeks after reassembly."
+     },
+     {
+      "id": "a74",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 74",
+      "kind": "law",
+      "rel": "aid and advice",
+      "note": "Binding on the President, who may return advice once for reconsideration."
+     },
+     {
+      "id": "a61",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 61",
+      "kind": "law",
+      "rel": "impeachment",
+      "note": "The only impeachment in the Constitution. Two thirds of the total membership of both Houses."
+     },
+     {
+      "id": "a111",
+      "parent": "root",
+      "tier": 2,
+      "label": "Article 111",
+      "kind": "law",
+      "rel": "assent",
+      "note": "Assent, withhold, or return a non-money bill. No time limit, which creates the pocket veto."
+     },
+     {
+      "id": "pocket",
+      "parent": "a111",
+      "tier": 2,
+      "label": "Pocket veto",
+      "kind": "concept",
+      "rel": "used once",
+      "note": "President Zail Singh sat on the Indian Post Office (Amendment) Bill in 1986 and never acted on it."
+     },
+     {
+      "id": "wadhwa",
+      "parent": "a123",
+      "tier": 2,
+      "label": "D.C. Wadhwa (1987)",
+      "kind": "event",
+      "rel": "curbed ordinances",
+      "note": "Struck at the Bihar practice of re-promulgating ordinances for years without placing them before the legislature."
+     },
+     {
+      "id": "krishna",
+      "parent": "a123",
+      "tier": 2,
+      "label": "Krishna Kumar Singh (2017)",
+      "kind": "event",
+      "rel": "tightened further",
+      "note": "7-judge bench held re-promulgation is a fraud on the Constitution and that ordinances must be laid before the legislature."
+     },
+     {
+      "id": "a58",
+      "parent": "a54",
+      "tier": 2,
+      "label": "Article 58",
+      "kind": "law",
+      "rel": "qualifications",
+      "note": "Citizen, at least 35, qualified for the Lok Sabha, not holding an office of profit."
+     },
+     {
+      "id": "a72",
+      "parent": "root",
+      "tier": 2,
+      "label": "Article 72",
+      "kind": "law",
+      "rel": "pardon",
+      "note": "Power to grant pardons, reprieves, respites and remissions, including in death sentence and court-martial cases. Governors under Article 161 cannot pardon a death sentence."
+     },
+     {
+      "id": "vp",
+      "parent": "root",
+      "tier": 2,
+      "label": "Vice President",
+      "kind": "person",
+      "rel": "Article 63",
+      "note": "Elected by both Houses only, not by state legislatures. Ex officio Chairman of the Rajya Sabha under Article 64."
+     },
+     {
+      "id": "a352",
+      "parent": "a74",
+      "tier": 3,
+      "label": "Emergency powers",
+      "kind": "concept",
+      "rel": "on advice",
+      "note": "A national emergency needs the written recommendation of the Cabinet after the 44th Amendment."
+     },
+     {
+      "id": "a85",
+      "parent": "a123",
+      "tier": 3,
+      "label": "Article 85",
+      "kind": "law",
+      "rel": "sessions",
+      "note": "The President summons and prorogues Parliament and may dissolve the Lok Sabha. The gap between sessions cannot exceed six months."
+     },
+     {
+      "id": "irish",
+      "parent": "a54",
+      "tier": 3,
+      "label": "Irish presidency",
+      "kind": "concept",
+      "rel": "model",
+      "note": "India borrowed the method of electing the President and the nomination of Rajya Sabha members from Ireland."
+     },
+     {
+      "id": "a71",
+      "parent": "a54",
+      "tier": 3,
+      "label": "Article 71",
+      "kind": "law",
+      "rel": "disputes",
+      "note": "Disputes about the election of the President or Vice President are decided by the Supreme Court, and its decision is final."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-amendment",
+   "rank": 13,
+   "depth": "medium",
+   "importance": 4,
+   "title": "Amending the Constitution, and the amendments worth knowing by number",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Article 368",
+    "Amendments",
+    "101st",
+    "103rd",
+    "106th"
+   ],
+   "hook": "Three procedures, one of which is not even in Article 368, and about a dozen amendment numbers that carry most of the marks.",
+   "story": "Article 368 provides the amendment procedure, borrowed in spirit from South Africa. There are three routes.\n\n**Simple majority.** Some provisions are amended like ordinary law and are outside Article 368 altogether: creating or abolishing states under Article 3, changing state boundaries or names, creating or abolishing legislative councils under Article 169, citizenship provisions, and Schedules 5 and 6 in part.\n\n**Special majority.** Most of the Constitution. A majority of the total membership of each House plus two thirds of members present and voting. Fundamental Rights and Directive Principles go this way.\n\n**Special majority plus state ratification.** Provisions affecting the federal structure: the election of the President, the extent of executive power of the Union and states, the Supreme Court and High Courts, the distribution of legislative powers, the Seventh Schedule, representation of states in Parliament, and Article 368 itself. Ratification by the legislatures of at least half the states is needed, by simple majority, and there is no time limit.\n\nAmendments worth memorising: **1st (1951)** added Ninth Schedule and Article 15(4). **7th (1956)** reorganised states after the States Reorganisation Act. **42nd (1976)** the \"mini-Constitution\", added Socialist, Secular, Integrity, Fundamental Duties and Part IVA, extended the Lok Sabha term. **44th (1978)** reversed much of it and removed the right to property. **52nd (1985)** anti-defection, Tenth Schedule. **61st (1988)** voting age lowered from 21 to 18. **73rd and 74th (1992)** panchayats and municipalities, Schedules 11 and 12. **86th (2002)** Article 21A. **91st (2003)** capped the Council of Ministers at 15% of House strength. **97th (2011)** co-operative societies. **101st (2016)** GST. **102nd (2018)** constitutional status for the NCBC. **103rd (2019)** 10% EWS reservation, upheld 3-2 in *Janhit Abhiyan* (2022). **104th (2020)** ended Anglo-Indian nomination, extended SC and ST reservation in legislatures. **106th (2023)** Nari Shakti Vandan Adhiniyam, reserving one third of seats in the Lok Sabha and state assemblies for women, to take effect after a delimitation following the next census.",
+   "facts": [
+    {
+     "k": "Amendment article",
+     "v": "Article 368"
+    },
+    {
+     "k": "Number of procedures",
+     "v": "Three, one of which lies outside Article 368"
+    },
+    {
+     "k": "State ratification threshold",
+     "v": "At least half the states, by simple majority"
+    },
+    {
+     "k": "Mini-Constitution",
+     "v": "42nd Amendment, 1976"
+    },
+    {
+     "k": "Anti-defection",
+     "v": "52nd Amendment, 1985, Tenth Schedule"
+    },
+    {
+     "k": "Voting age lowered to 18",
+     "v": "61st Amendment, 1988"
+    },
+    {
+     "k": "Panchayats and municipalities",
+     "v": "73rd and 74th Amendments, 1992"
+    },
+    {
+     "k": "GST",
+     "v": "101st Amendment, 2016"
+    },
+    {
+     "k": "EWS reservation",
+     "v": "103rd Amendment, 2019, upheld 3-2 in 2022"
+    },
+    {
+     "k": "Women’s reservation",
+     "v": "106th Amendment, 2023"
+    }
+   ],
+   "timeline": [],
+   "why": "Amendment numbers are pure recall and appear every year. Learn the cluster of five that changed the rights landscape: 1st, 42nd, 44th, 86th and 103rd.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a368",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 368",
+      "kind": "law",
+      "rel": "the procedure",
+      "note": "Special majority in each House; state ratification for federal provisions. Clauses 4 and 5 were struck down in Minerva Mills."
+     },
+     {
+      "id": "a42",
+      "parent": "root",
+      "tier": 1,
+      "label": "42nd Amendment (1976)",
+      "kind": "event",
+      "rel": "the biggest",
+      "note": "Added Socialist, Secular, Integrity, Fundamental Duties and Article 48A; moved education and forests to the Concurrent List."
+     },
+     {
+      "id": "a44",
+      "parent": "root",
+      "tier": 1,
+      "label": "44th Amendment (1978)",
+      "kind": "event",
+      "rel": "the correction",
+      "note": "Removed the right to property, protected Articles 20 and 21, restored the five-year Lok Sabha term."
+     },
+     {
+      "id": "a52",
+      "parent": "root",
+      "tier": 1,
+      "label": "52nd Amendment (1985)",
+      "kind": "event",
+      "rel": "anti-defection",
+      "note": "Inserted the Tenth Schedule. Disqualification for voluntarily giving up party membership or defying a whip."
+     },
+     {
+      "id": "a101",
+      "parent": "root",
+      "tier": 1,
+      "label": "101st Amendment (2016)",
+      "kind": "event",
+      "rel": "GST",
+      "note": "Created Article 246A and the GST Council under Article 279A. GST came into force on 1 July 2017."
+     },
+     {
+      "id": "a103",
+      "parent": "root",
+      "tier": 2,
+      "label": "103rd Amendment (2019)",
+      "kind": "event",
+      "rel": "EWS",
+      "note": "10% reservation for economically weaker sections, over and above the 50% ceiling. Upheld 3-2 in Janhit Abhiyan (2022)."
+     },
+     {
+      "id": "a106",
+      "parent": "root",
+      "tier": 2,
+      "label": "106th Amendment (2023)",
+      "kind": "event",
+      "rel": "women’s reservation",
+      "note": "Nari Shakti Vandan Adhiniyam. One third of Lok Sabha and assembly seats for women, effective after a census and delimitation."
+     },
+     {
+      "id": "a73",
+      "parent": "root",
+      "tier": 2,
+      "label": "73rd and 74th Amendments (1992)",
+      "kind": "event",
+      "rel": "local government",
+      "note": "Panchayats and municipalities given constitutional status, with the Eleventh and Twelfth Schedules listing their subjects."
+     },
+     {
+      "id": "a1st",
+      "parent": "root",
+      "tier": 2,
+      "label": "1st Amendment (1951)",
+      "kind": "event",
+      "rel": "the first",
+      "note": "Added the Ninth Schedule and Article 15(4), responding to Champakam Dorairajan and to land reform litigation."
+     },
+     {
+      "id": "a61",
+      "parent": "root",
+      "tier": 2,
+      "label": "61st Amendment (1988)",
+      "kind": "event",
+      "rel": "voting age",
+      "note": "Lowered the voting age from 21 to 18 under Article 326."
+     },
+     {
+      "id": "a91",
+      "parent": "root",
+      "tier": 3,
+      "label": "91st Amendment (2003)",
+      "kind": "event",
+      "rel": "cabinet size",
+      "note": "Council of Ministers capped at 15% of the House, with a minimum of 12 in states."
+     },
+     {
+      "id": "minerva",
+      "parent": "a368",
+      "tier": 2,
+      "label": "Minerva Mills (1980)",
+      "kind": "event",
+      "rel": "limited 368",
+      "note": "Struck down clauses 4 and 5 of Article 368, which had made amendments unamenable to judicial review."
+     },
+     {
+      "id": "sa",
+      "parent": "a368",
+      "tier": 3,
+      "label": "South African procedure",
+      "kind": "concept",
+      "rel": "model",
+      "note": "The idea of a graded amendment procedure was drawn from South Africa; the Indian version is neither wholly rigid nor wholly flexible."
+     },
+     {
+      "id": "a104",
+      "parent": "a106",
+      "tier": 3,
+      "label": "104th Amendment (2020)",
+      "kind": "event",
+      "rel": "ended nomination",
+      "note": "Discontinued the two nominated Anglo-Indian seats in the Lok Sabha and extended SC and ST reservation in legislatures to 2030."
+     },
+     {
+      "id": "a97",
+      "parent": "a73",
+      "tier": 3,
+      "label": "97th Amendment (2011)",
+      "kind": "event",
+      "rel": "co-operatives",
+      "note": "Added Article 43B and Part IXB. Part IXB was struck down for states in 2021 for want of state ratification."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-making",
+   "rank": 14,
+   "depth": "medium",
+   "importance": 4,
+   "title": "Making the Constitution, and what was borrowed from where",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Constituent Assembly",
+    "Ambedkar",
+    "Borrowed Features",
+    "Schedules"
+   ],
+   "hook": "Two years, eleven months and eighteen days, 389 members at the start, and a document that openly took its best ideas from eight other countries.",
+   "story": "The Constituent Assembly was set up under the Cabinet Mission Plan of 1946 and first met on **9 December 1946**. Sachchidananda Sinha was interim chairman as the oldest member; **Dr Rajendra Prasad** was elected permanent President on 11 December 1946. After Partition the strength fell to 299.\n\n**Jawaharlal Nehru** moved the Objectives Resolution on 13 December 1946, adopted 22 January 1947, which became the Preamble in condensed form. The **Drafting Committee** was constituted on 29 August 1947 with **B.R. Ambedkar** as chairman and six other members. **B.N. Rau** was the Constitutional Adviser, and it was Rau's draft the committee worked from.\n\nThe Constitution was adopted on **26 November 1949** and came into force on **26 January 1950**, a date chosen because the Congress had declared Purna Swaraj on 26 January 1930. Total time taken: 2 years, 11 months and 18 days. The original text had **395 articles, 22 parts and 8 schedules**; it now runs to about 470 articles, 25 parts and 12 schedules.\n\nBorrowed features, the single most reliably asked table:\n\n- **Britain**: parliamentary government, rule of law, single citizenship, the Speaker, legislative procedure, prerogative writs, cabinet system, bicameralism\n- **United States**: Fundamental Rights, judicial review, independence of the judiciary, impeachment of the President, removal of judges, the office of Vice President, preamble wording\n- **Ireland**: Directive Principles, method of electing the President, nomination to the Rajya Sabha\n- **Canada**: federation with a strong centre, the word Union, residuary powers with the Centre, appointment of Governors, advisory jurisdiction of the Supreme Court\n- **Australia**: Concurrent List, freedom of trade and commerce, joint sitting of the two Houses\n- **Germany, Weimar**: suspension of Fundamental Rights during an emergency\n- **USSR**: Fundamental Duties, the ideal of justice in the Preamble\n- **France**: liberty, equality and fraternity; the republic\n- **South Africa**: amendment procedure, election of Rajya Sabha members\n- **Japan**: procedure established by law\n\nThe **twelve schedules**: 1 states and UTs, 2 emoluments, 3 forms of oath, 4 Rajya Sabha seat allocation, 5 scheduled areas, 6 tribal areas in Assam, Meghalaya, Tripura and Mizoram, 7 the three lists, 8 the 22 languages, 9 protected laws, 10 anti-defection, 11 panchayat subjects, 12 municipal subjects.",
+   "facts": [
+    {
+     "k": "First meeting",
+     "v": "9 December 1946"
+    },
+    {
+     "k": "Permanent President",
+     "v": "Dr Rajendra Prasad"
+    },
+    {
+     "k": "Drafting Committee chairman",
+     "v": "B.R. Ambedkar, appointed 29 August 1947"
+    },
+    {
+     "k": "Constitutional Adviser",
+     "v": "B.N. Rau"
+    },
+    {
+     "k": "Adopted",
+     "v": "26 November 1949"
+    },
+    {
+     "k": "Came into force",
+     "v": "26 January 1950"
+    },
+    {
+     "k": "Time taken",
+     "v": "2 years, 11 months, 18 days"
+    },
+    {
+     "k": "Original text",
+     "v": "395 articles, 22 parts, 8 schedules"
+    },
+    {
+     "k": "Schedules now",
+     "v": "12"
+    },
+    {
+     "k": "Languages in the Eighth Schedule",
+     "v": "22"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1946",
+     "what": "Constituent Assembly first meets, 9 December"
+    },
+    {
+     "when": "1947",
+     "what": "Drafting Committee constituted, 29 August"
+    },
+    {
+     "when": "1949",
+     "what": "Constitution adopted, 26 November"
+    },
+    {
+     "when": "1950",
+     "what": "Constitution comes into force, 26 January"
+    }
+   ],
+   "why": "The borrowed-features table and the schedule list are pure recall and appear almost every year. The classic trap pairs Directive Principles with the wrong country: they came from Ireland, not Britain.",
+   "map": {
+    "nodes": [
+     {
+      "id": "ca",
+      "parent": "root",
+      "tier": 1,
+      "label": "Constituent Assembly",
+      "kind": "org",
+      "rel": "drafted",
+      "note": "Set up under the Cabinet Mission Plan, first met 9 December 1946. Strength fell from 389 to 299 after Partition."
+     },
+     {
+      "id": "ambedkar",
+      "parent": "root",
+      "tier": 1,
+      "label": "B.R. Ambedkar",
+      "kind": "person",
+      "rel": "chaired drafting",
+      "note": "Chairman of the Drafting Committee. Independent India’s first Law Minister. Called Article 32 the heart and soul of the Constitution."
+     },
+     {
+      "id": "prasad",
+      "parent": "ca",
+      "tier": 1,
+      "label": "Dr Rajendra Prasad",
+      "kind": "person",
+      "rel": "presided",
+      "note": "President of the Constituent Assembly and later the first President of India, the only one to serve two full terms."
+     },
+     {
+      "id": "objres",
+      "parent": "ca",
+      "tier": 1,
+      "label": "Objectives Resolution",
+      "kind": "concept",
+      "rel": "became the Preamble",
+      "note": "Moved by Nehru on 13 December 1946, adopted 22 January 1947."
+     },
+     {
+      "id": "rau",
+      "parent": "ambedkar",
+      "tier": 2,
+      "label": "B.N. Rau",
+      "kind": "person",
+      "rel": "adviser",
+      "note": "Constitutional Adviser who prepared the initial draft. Met Justice Frankfurter, whose warning led to \"procedure established by law\"."
+     },
+     {
+      "id": "cabmis",
+      "parent": "ca",
+      "tier": 2,
+      "label": "Cabinet Mission Plan (1946)",
+      "kind": "event",
+      "rel": "created the Assembly",
+      "note": "Three members: Pethick-Lawrence, Stafford Cripps and A.V. Alexander. Proposed a three-tier grouping scheme and rejected Pakistan."
+     },
+     {
+      "id": "sched",
+      "parent": "root",
+      "tier": 1,
+      "label": "The twelve schedules",
+      "kind": "law",
+      "rel": "structure",
+      "note": "Eighth lists 22 languages; Ninth protects laws from challenge; Tenth is anti-defection; Eleventh and Twelfth list panchayat and municipal subjects."
+     },
+     {
+      "id": "britain",
+      "parent": "root",
+      "tier": 2,
+      "label": "Borrowed from Britain",
+      "kind": "concept",
+      "rel": "source",
+      "note": "Parliamentary system, rule of law, single citizenship, Speaker, writs, cabinet government."
+     },
+     {
+      "id": "usa",
+      "parent": "root",
+      "tier": 2,
+      "label": "Borrowed from the United States",
+      "kind": "concept",
+      "rel": "source",
+      "note": "Fundamental Rights, judicial review, judicial independence, impeachment, Vice President."
+     },
+     {
+      "id": "ireland",
+      "parent": "root",
+      "tier": 2,
+      "label": "Borrowed from Ireland",
+      "kind": "concept",
+      "rel": "source",
+      "note": "Directive Principles, method of electing the President, nomination to the Rajya Sabha."
+     },
+     {
+      "id": "canada",
+      "parent": "root",
+      "tier": 2,
+      "label": "Borrowed from Canada",
+      "kind": "concept",
+      "rel": "source",
+      "note": "Strong centre, the word Union, residuary powers with the Centre, appointment of Governors."
+     },
+     {
+      "id": "purna",
+      "parent": "root",
+      "tier": 2,
+      "label": "Purna Swaraj (1930)",
+      "kind": "event",
+      "rel": "why 26 January",
+      "note": "The Lahore session declared complete independence and 26 January 1930 was observed as Independence Day, so the date was reused in 1950."
+     },
+     {
+      "id": "a343",
+      "parent": "sched",
+      "tier": 3,
+      "label": "Article 343",
+      "kind": "law",
+      "rel": "official language",
+      "note": "Hindi in Devanagari script is the official language of the Union; English continues under the Official Languages Act 1963."
+     },
+     {
+      "id": "sixth",
+      "parent": "sched",
+      "tier": 3,
+      "label": "Sixth Schedule",
+      "kind": "law",
+      "rel": "tribal areas",
+      "note": "Autonomous district councils in Assam, Meghalaya, Tripura and Mizoram. Ladakh’s demand for inclusion is a live issue."
+     },
+     {
+      "id": "nehru",
+      "parent": "objres",
+      "tier": 3,
+      "label": "Jawaharlal Nehru",
+      "kind": "person",
+      "rel": "moved it",
+      "note": "First Prime Minister, in office 1947 to 1964. Moved both the Objectives Resolution and the \"tryst with destiny\" speech of 14 August 1947."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-defection",
+   "rank": 15,
+   "depth": "medium",
+   "importance": 4,
+   "title": "Anti-defection and the Tenth Schedule",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Anti-Defection",
+    "Tenth Schedule",
+    "Speaker",
+    "Kihoto Hollohan"
+   ],
+   "hook": "A law meant to stop horse-trading that now turns on how fast a Speaker chooses to decide.",
+   "story": "The Tenth Schedule was inserted by the **52nd Amendment in 1985** under Rajiv Gandhi, after a decade in which the phrase \"Aaya Ram Gaya Ram\" had become shorthand for legislators changing sides. It disqualifies a member of Parliament or a state legislature on two grounds: **voluntarily giving up membership** of the party on whose ticket they were elected, and **voting or abstaining contrary to a party whip** without prior permission and without being condoned within fifteen days.\n\n\"Voluntarily giving up membership\" is wider than resignation. Courts have read conduct, public statements and attendance at a rival party's events as enough.\n\nThe original schedule allowed a **split**: if one third of a legislature party broke away, they were protected. That exemption was deleted by the **91st Amendment in 2003**, which also capped the Council of Ministers at 15% of the House and barred a disqualified member from holding a ministerial post for the rest of the term. What survives is **merger**, which requires two thirds of the legislature party to agree.\n\nThe presiding officer decides. That is the design flaw. In *Kihoto Hollohan v. Zachillhu* (1992) the Supreme Court upheld the Tenth Schedule but struck down paragraph 7, which had tried to bar judicial review, holding that the Speaker acts as a tribunal and the decision is reviewable, though only after it is made. Because there is no time limit, a Speaker who wants a particular outcome can simply not decide. *Keisham Meghachandra Singh* (2020) recommended deciding within three months and suggested Parliament consider moving the power to an independent tribunal. Nothing has changed.\n\nThe nominated member rule is a common question: a nominated member of a House may join a political party within six months of taking a seat without attracting disqualification, and is disqualified if they join one after that.",
+   "facts": [
+    {
+     "k": "Inserted by",
+     "v": "52nd Amendment, 1985"
+    },
+    {
+     "k": "Schedule",
+     "v": "Tenth"
+    },
+    {
+     "k": "Two grounds",
+     "v": "Voluntarily giving up party membership; defying a whip"
+    },
+    {
+     "k": "Split exemption deleted by",
+     "v": "91st Amendment, 2003"
+    },
+    {
+     "k": "Merger threshold",
+     "v": "Two thirds of the legislature party"
+    },
+    {
+     "k": "Who decides",
+     "v": "The Speaker or Chairman of the House"
+    },
+    {
+     "k": "Leading case",
+     "v": "Kihoto Hollohan v. Zachillhu, 1992"
+    },
+    {
+     "k": "Nominated members",
+     "v": "May join a party within six months of taking a seat"
+    }
+   ],
+   "timeline": [],
+   "why": "Passages on a government losing its majority, on resignations before a floor test, or on a Speaker delaying a ruling are all Tenth Schedule questions. Know that judicial review survives Kihoto but only after the Speaker decides.",
+   "map": {
+    "nodes": [
+     {
+      "id": "tenth",
+      "parent": "root",
+      "tier": 1,
+      "label": "Tenth Schedule",
+      "kind": "law",
+      "rel": "the provision",
+      "note": "Grounds and procedure for disqualification on defection. Inserted 1985."
+     },
+     {
+      "id": "a52",
+      "parent": "root",
+      "tier": 1,
+      "label": "52nd Amendment (1985)",
+      "kind": "event",
+      "rel": "enacted it",
+      "note": "Passed under Rajiv Gandhi with a large Congress majority after the 1984 election."
+     },
+     {
+      "id": "kihoto",
+      "parent": "root",
+      "tier": 1,
+      "label": "Kihoto Hollohan (1992)",
+      "kind": "event",
+      "rel": "the leading case",
+      "note": "Upheld the schedule, struck down paragraph 7 barring judicial review, and held the Speaker acts as a tribunal."
+     },
+     {
+      "id": "a91",
+      "parent": "root",
+      "tier": 1,
+      "label": "91st Amendment (2003)",
+      "kind": "event",
+      "rel": "removed the split",
+      "note": "Deleted the one-third split exemption, capped the Council of Ministers at 15%, and barred disqualified members from office."
+     },
+     {
+      "id": "speaker",
+      "parent": "tenth",
+      "tier": 2,
+      "label": "The Speaker",
+      "kind": "person",
+      "rel": "decides",
+      "note": "No time limit is prescribed, which is the central weakness of the scheme."
+     },
+     {
+      "id": "keisham",
+      "parent": "kihoto",
+      "tier": 2,
+      "label": "Keisham Meghachandra Singh (2020)",
+      "kind": "event",
+      "rel": "urged reform",
+      "note": "Suggested a three-month outer limit and an independent tribunal in place of the Speaker."
+     },
+     {
+      "id": "merger",
+      "parent": "tenth",
+      "tier": 2,
+      "label": "Merger",
+      "kind": "concept",
+      "rel": "the surviving exemption",
+      "note": "Two thirds of a legislature party must agree, and the merger is with another political party."
+     },
+     {
+      "id": "whip",
+      "parent": "tenth",
+      "tier": 2,
+      "label": "The party whip",
+      "kind": "concept",
+      "rel": "trigger",
+      "note": "Voting or abstaining against a whip without permission attracts disqualification unless condoned within 15 days."
+     },
+     {
+      "id": "aaya",
+      "parent": "a52",
+      "tier": 2,
+      "label": "Aaya Ram Gaya Ram",
+      "kind": "term",
+      "rel": "the phrase",
+      "note": "From Gaya Lal, a Haryana MLA who changed party three times in a fortnight in 1967."
+     },
+     {
+      "id": "bommai",
+      "parent": "speaker",
+      "tier": 2,
+      "label": "S.R. Bommai (1994)",
+      "kind": "event",
+      "rel": "related principle",
+      "note": "Majority is tested on the floor of the House, which is why Speakers’ delays on defection petitions matter so much."
+     },
+     {
+      "id": "a105",
+      "parent": "tenth",
+      "tier": 3,
+      "label": "Freedom of speech in the House",
+      "kind": "concept",
+      "rel": "tension",
+      "note": "Article 105 protects a member’s speech and vote, which sits uneasily with compelled obedience to a whip."
+     },
+     {
+      "id": "uk",
+      "parent": "a52",
+      "tier": 3,
+      "label": "Westminster whips",
+      "kind": "concept",
+      "rel": "contrast",
+      "note": "In Britain defying a whip costs the party ticket but not the seat; India makes it a disqualification."
+     },
+     {
+      "id": "nominated",
+      "parent": "tenth",
+      "tier": 3,
+      "label": "Nominated members",
+      "kind": "term",
+      "rel": "special rule",
+      "note": "May join a party within six months of taking their seat; joining later means disqualification."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-local",
+   "rank": 16,
+   "depth": "medium",
+   "importance": 3,
+   "title": "Local government: the 73rd and 74th Amendments",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Panchayati Raj",
+    "73rd Amendment",
+    "74th Amendment",
+    "Local Government"
+   ],
+   "hook": "Constitutional status for the third tier, a fixed five-year term, and a third of all seats reserved for women.",
+   "story": "Article 40, a Directive Principle, asked the State to organise village panchayats. It took forty-two years and two amendments to make that binding.\n\nThe **73rd Amendment (1992)** added **Part IX**, Articles 243 to 243O, and the **Eleventh Schedule** with 29 subjects. It provides a three-tier structure in states with a population above twenty lakh: **gram panchayat** at village level, **panchayat samiti** at block level and **zila parishad** at district level. Every panchayat has a five-year term, and elections must be held before it expires or within six months of dissolution. Seats are reserved for Scheduled Castes and Scheduled Tribes in proportion to population, and **not less than one third** of all seats and chairperson posts are reserved for women. A **State Election Commission** conducts the polls and a **State Finance Commission** is constituted every five years under Article 243-I. The **gram sabha**, the body of all registered voters in a village, is the foundation; Article 243A leaves its powers to state law.\n\nThe **74th Amendment (1992)** did the same for urban areas: **Part IXA**, Articles 243P to 243ZG, and the **Twelfth Schedule** with 18 subjects. Three kinds of municipality: **nagar panchayat** for an area in transition from rural to urban, **municipal council** for a smaller urban area, and **municipal corporation** for a larger one. Ward committees are mandatory in municipalities with more than three lakh people. Both amendments came into force in 1993.\n\nNeither amendment devolves anything by itself. The Eleventh and Twelfth Schedules are lists of subjects that state legislatures **may** entrust, and the extent of actual devolution of funds, functions and functionaries varies enormously between states. Kerala and Karnataka devolve heavily; several states have kept most powers.\n\nEarlier committees run in a line: **Balwant Rai Mehta (1957)** recommended the three-tier system and democratic decentralisation, Rajasthan being the first state to adopt it at Nagaur on 2 October 1959. **Ashok Mehta (1977)** recommended a two-tier system. **L.M. Singhvi (1986)** first recommended constitutional status.",
+   "facts": [
+    {
+     "k": "73rd Amendment",
+     "v": "1992, Part IX, Articles 243 to 243O, Eleventh Schedule"
+    },
+    {
+     "k": "74th Amendment",
+     "v": "1992, Part IXA, Articles 243P to 243ZG, Twelfth Schedule"
+    },
+    {
+     "k": "Subjects in the Eleventh Schedule",
+     "v": "29"
+    },
+    {
+     "k": "Subjects in the Twelfth Schedule",
+     "v": "18"
+    },
+    {
+     "k": "Term",
+     "v": "Five years, fixed"
+    },
+    {
+     "k": "Reservation for women",
+     "v": "Not less than one third"
+    },
+    {
+     "k": "Three-tier threshold",
+     "v": "States with population above twenty lakh"
+    },
+    {
+     "k": "First state to adopt panchayati raj",
+     "v": "Rajasthan, at Nagaur, 2 October 1959"
+    },
+    {
+     "k": "Committee that recommended constitutional status",
+     "v": "L.M. Singhvi Committee, 1986"
+    }
+   ],
+   "timeline": [],
+   "why": "Expect a passage on rural governance or municipal finance. The two numbers that decide the question are the schedule count, 29 and 18, and the one-third women’s reservation.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a73",
+      "parent": "root",
+      "tier": 1,
+      "label": "73rd Amendment (1992)",
+      "kind": "event",
+      "rel": "rural",
+      "note": "Added Part IX and the Eleventh Schedule with 29 subjects. In force from 1993."
+     },
+     {
+      "id": "a74",
+      "parent": "root",
+      "tier": 1,
+      "label": "74th Amendment (1992)",
+      "kind": "event",
+      "rel": "urban",
+      "note": "Added Part IXA and the Twelfth Schedule with 18 subjects."
+     },
+     {
+      "id": "a40",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 40",
+      "kind": "law",
+      "rel": "the origin",
+      "note": "Directive Principle asking the State to organise village panchayats as units of self-government."
+     },
+     {
+      "id": "gramsabha",
+      "parent": "a73",
+      "tier": 1,
+      "label": "Gram sabha",
+      "kind": "org",
+      "rel": "the base",
+      "note": "All persons registered in the electoral roll of a village. Its powers are left to state legislation under Article 243A."
+     },
+     {
+      "id": "sec",
+      "parent": "a73",
+      "tier": 2,
+      "label": "State Election Commission",
+      "kind": "org",
+      "rel": "conducts polls",
+      "note": "Constitutional body under Article 243K, separate from the Election Commission of India."
+     },
+     {
+      "id": "sfc",
+      "parent": "a73",
+      "tier": 2,
+      "label": "State Finance Commission",
+      "kind": "org",
+      "rel": "Article 243-I",
+      "note": "Constituted every five years to review the finances of panchayats and recommend devolution."
+     },
+     {
+      "id": "tiers",
+      "parent": "a73",
+      "tier": 2,
+      "label": "Three tiers",
+      "kind": "concept",
+      "rel": "structure",
+      "note": "Gram panchayat, panchayat samiti, zila parishad. Two tiers only in states below twenty lakh population."
+     },
+     {
+      "id": "mehta",
+      "parent": "a73",
+      "tier": 2,
+      "label": "Balwant Rai Mehta Committee (1957)",
+      "kind": "org",
+      "rel": "recommended",
+      "note": "Proposed democratic decentralisation and the three-tier system. Rajasthan adopted it first in 1959."
+     },
+     {
+      "id": "singhvi",
+      "parent": "a73",
+      "tier": 2,
+      "label": "L.M. Singhvi Committee (1986)",
+      "kind": "org",
+      "rel": "recommended status",
+      "note": "First to propose constitutional recognition for panchayats and regular elections."
+     },
+     {
+      "id": "urban",
+      "parent": "a74",
+      "tier": 2,
+      "label": "Three kinds of municipality",
+      "kind": "concept",
+      "rel": "classification",
+      "note": "Nagar panchayat for transitional areas, municipal council for smaller urban areas, municipal corporation for larger ones."
+     },
+     {
+      "id": "pesa",
+      "parent": "a73",
+      "tier": 2,
+      "label": "PESA Act, 1996",
+      "kind": "law",
+      "rel": "extension",
+      "note": "Extends Part IX to Fifth Schedule areas, giving gram sabhas power over minor forest produce, land alienation and local plans."
+     },
+     {
+      "id": "ashok",
+      "parent": "mehta",
+      "tier": 3,
+      "label": "Ashok Mehta Committee (1977)",
+      "kind": "org",
+      "rel": "dissented",
+      "note": "Recommended a two-tier system with the district as the first point of decentralisation."
+     },
+     {
+      "id": "a243zd",
+      "parent": "a74",
+      "tier": 3,
+      "label": "District Planning Committee",
+      "kind": "org",
+      "rel": "Article 243ZD",
+      "note": "Consolidates panchayat and municipal plans into a draft district development plan."
+     },
+     {
+      "id": "kerala",
+      "parent": "a73",
+      "tier": 3,
+      "label": "Kerala",
+      "kind": "place",
+      "rel": "devolved most",
+      "note": "The People’s Plan Campaign from 1996 devolved a large share of the state plan budget to local bodies."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-citizenship",
+   "rank": 17,
+   "depth": "medium",
+   "importance": 3,
+   "title": "Citizenship: Articles 5 to 11 and the Citizenship Act",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Citizenship",
+    "Article 5",
+    "Citizenship Act 1955",
+    "CAA"
+   ],
+   "hook": "The Constitution deals only with who was a citizen in 1950. Everything since is ordinary law, which is why citizenship can be changed without amending the Constitution.",
+   "story": "**Articles 5 to 11** in Part II settle citizenship at the commencement of the Constitution. Article 5 covers those domiciled in India, Article 6 migrants from Pakistan, Article 7 those who migrated to Pakistan and returned, Article 8 persons of Indian origin abroad, Article 9 says a person voluntarily acquiring foreign citizenship is not an Indian citizen, Article 10 provides for continuance, and **Article 11 gives Parliament full power to legislate on citizenship**. That last article is why the Citizenship Act can be amended by ordinary majority.\n\nThe **Citizenship Act 1955** provides five ways to acquire citizenship: by **birth**, by **descent**, by **registration**, by **naturalisation**, and by **incorporation of territory**. The birth rule has been tightened twice. Anyone born in India between 26 January 1950 and 1 July 1987 is a citizen by birth regardless of parentage. Between 1 July 1987 and 3 December 2004, one parent must have been a citizen. On or after 3 December 2004, one parent must be a citizen and the other must not be an illegal migrant.\n\nIndia allows only **single citizenship**, a British inheritance, unlike the United States where a person is a citizen of both the country and a state. There is no dual citizenship; the **Overseas Citizen of India** card, created in 2005, is a long-term visa and confers no voting rights, no public office and no agricultural land purchase.\n\nThe **Citizenship (Amendment) Act 2019** made non-Muslim migrants from Afghanistan, Bangladesh and Pakistan who entered India on or before 31 December 2014 eligible for citizenship on a shortened naturalisation period. It excludes Muslims, which is the basis of the challenge under Article 14 still pending before the Supreme Court, and it does not apply to Sixth Schedule tribal areas or Inner Line Permit states. Citizenship can be lost by renunciation, termination on acquiring foreign nationality, or deprivation by the government.",
+   "facts": [
+    {
+     "k": "Constitutional provisions",
+     "v": "Articles 5 to 11, Part II"
+    },
+    {
+     "k": "Parliament’s power",
+     "v": "Article 11"
+    },
+    {
+     "k": "Governing statute",
+     "v": "Citizenship Act, 1955"
+    },
+    {
+     "k": "Ways to acquire",
+     "v": "Birth, descent, registration, naturalisation, incorporation of territory"
+    },
+    {
+     "k": "Citizenship by birth, unconditional until",
+     "v": "1 July 1987"
+    },
+    {
+     "k": "Current birth rule",
+     "v": "From 3 December 2004, one parent a citizen and neither an illegal migrant"
+    },
+    {
+     "k": "Type of citizenship",
+     "v": "Single, borrowed from Britain"
+    },
+    {
+     "k": "OCI created",
+     "v": "2005; not dual citizenship"
+    },
+    {
+     "k": "CAA cut-off date",
+     "v": "31 December 2014"
+    }
+   ],
+   "timeline": [],
+   "why": "A passage on migration, the NRC, or the CAA is testing the cut-off dates and Article 11. The reliable trap is calling OCI dual citizenship, which it is not.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a11",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 11",
+      "kind": "law",
+      "rel": "the key power",
+      "note": "Parliament may regulate the right of citizenship by law, which is why the Citizenship Act needs only a simple majority."
+     },
+     {
+      "id": "act1955",
+      "parent": "root",
+      "tier": 1,
+      "label": "Citizenship Act, 1955",
+      "kind": "law",
+      "rel": "the statute",
+      "note": "Five modes of acquisition and three of loss. Amended in 1986, 2003, 2005, 2015 and 2019."
+     },
+     {
+      "id": "caa",
+      "parent": "root",
+      "tier": 1,
+      "label": "Citizenship (Amendment) Act, 2019",
+      "kind": "law",
+      "rel": "the amendment",
+      "note": "Eases naturalisation for Hindu, Sikh, Buddhist, Jain, Parsi and Christian migrants from Afghanistan, Bangladesh and Pakistan who entered by 31 December 2014."
+     },
+     {
+      "id": "single",
+      "parent": "root",
+      "tier": 1,
+      "label": "Single citizenship",
+      "kind": "concept",
+      "rel": "British model",
+      "note": "No separate state citizenship, unlike the United States. Intended to strengthen national unity."
+     },
+     {
+      "id": "a5",
+      "parent": "a11",
+      "tier": 2,
+      "label": "Articles 5 to 10",
+      "kind": "law",
+      "rel": "commencement rules",
+      "note": "Deal only with who was a citizen on 26 January 1950, including migrants to and from Pakistan."
+     },
+     {
+      "id": "oci",
+      "parent": "single",
+      "tier": 2,
+      "label": "Overseas Citizen of India",
+      "kind": "term",
+      "rel": "not dual citizenship",
+      "note": "Introduced 2005. A lifelong visa with no vote, no public office and no farmland purchase. Merged with the PIO card in 2015."
+     },
+     {
+      "id": "birth",
+      "parent": "act1955",
+      "tier": 2,
+      "label": "Citizenship by birth",
+      "kind": "concept",
+      "rel": "three periods",
+      "note": "Unconditional to 1 July 1987; one citizen parent to 3 December 2004; one citizen parent and no illegal-migrant parent after that."
+     },
+     {
+      "id": "nrc",
+      "parent": "caa",
+      "tier": 2,
+      "label": "National Register of Citizens",
+      "kind": "concept",
+      "rel": "linked issue",
+      "note": "Prepared for Assam under the Assam Accord of 1985, with 24 March 1971 as the cut-off. The final 2019 list excluded about 19 lakh people."
+     },
+     {
+      "id": "a14",
+      "parent": "caa",
+      "tier": 2,
+      "label": "Article 14 challenge",
+      "kind": "concept",
+      "rel": "the litigation",
+      "note": "Petitions argue religion-based classification fails the intelligible differentia test. Still pending."
+     },
+     {
+      "id": "assam",
+      "parent": "nrc",
+      "tier": 2,
+      "label": "Assam Accord (1985)",
+      "kind": "event",
+      "rel": "the earlier settlement",
+      "note": "Signed after the six-year Assam Agitation. Fixed 24 March 1971 as the cut-off for detecting foreigners, and led to Section 6A of the Citizenship Act."
+     },
+     {
+      "id": "ilp",
+      "parent": "caa",
+      "tier": 3,
+      "label": "Inner Line Permit areas",
+      "kind": "place",
+      "rel": "excluded",
+      "note": "Arunachal Pradesh, Nagaland, Mizoram and Manipur, along with Sixth Schedule areas, are outside the CAA’s operation."
+     },
+     {
+      "id": "a9",
+      "parent": "a5",
+      "tier": 3,
+      "label": "Article 9",
+      "kind": "law",
+      "rel": "no dual nationality",
+      "note": "A person who voluntarily acquires the citizenship of a foreign state ceases to be an Indian citizen."
+     },
+     {
+      "id": "a10",
+      "parent": "a5",
+      "tier": 3,
+      "label": "Naturalisation",
+      "kind": "concept",
+      "rel": "residence requirement",
+      "note": "Ordinarily twelve years of residence; the 2019 Act reduces it to five for the specified groups."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-art19",
+   "rank": 18,
+   "depth": "medium",
+   "importance": 5,
+   "title": "Article 19: the six freedoms and the eight grounds for restricting them",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Article 19",
+    "Free Speech",
+    "Reasonable Restrictions",
+    "Sedition"
+   ],
+   "hook": "Six freedoms for citizens only, each with its own list of reasonable restrictions, and one clause added in 1951 because the courts had struck down press censorship.",
+   "story": "Article 19(1) gives **citizens** six freedoms: **(a)** speech and expression, **(b)** assembly peaceably and without arms, **(c)** association or unions, **(d)** movement throughout India, **(e)** residence and settlement in any part of India, and **(g)** practice of any profession or trade. Clause (f), the right to acquire and dispose of property, was deleted by the **44th Amendment in 1978**. The lettering therefore skips from (e) to (g), which is a favourite trick question. Because these are citizens' rights, a company or a foreign national cannot claim them, though the Supreme Court has allowed shareholders to assert them where a company's rights are affected.\n\nEach freedom carries its own restriction clause. For **speech**, Article 19(2) lists **eight grounds**: sovereignty and integrity of India, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, and incitement to an offence. Three of these, *sovereignty and integrity*, *friendly relations with foreign States* and *public order*, were added by the **First Amendment in 1951** after *Romesh Thappar* and *Brij Bhushan* had struck down press restrictions for want of a public order ground. Restrictions must be **reasonable** and imposed **by law**, so an executive order alone will not do.\n\nWhat Article 19(1)(a) has been held to include: the **right to know** and to receive information, the basis of the RTI Act; **freedom of the press**, which is not separately mentioned, established in *Romesh Thappar* (1950) and *Bennett Coleman* (1973); the **right to fly the national flag** (*Union of India v. Naveen Jindal*, 2004); the **right to silence** and not to be compelled to sing the anthem (*Bijoe Emmanuel*, 1986); and the **right to vote NOTA** as an expression of choice (*PUCL*, 2013).\n\n**Shreya Singhal (2015)** struck down **section 66A of the IT Act** for vagueness and overbreadth, holding that a restriction must have a proximate connection with public order, not a remote one, and distinguishing discussion and advocacy, which are protected, from incitement, which is not. *Anuradha Bhasin* (2020) held that internet access is protected under 19(1)(a) and 19(1)(g) and that indefinite suspension orders must be published and reviewed. *Kedar Nath Singh* (1962) read sedition down to incitement to violence; section 124A has since been replaced by section 152 of the Bharatiya Nyaya Sanhita.",
+   "facts": [
+    {
+     "k": "Freedoms in Article 19(1)",
+     "v": "Six, after property was deleted in 1978"
+    },
+    {
+     "k": "Deleted clause",
+     "v": "19(1)(f), by the 44th Amendment"
+    },
+    {
+     "k": "Grounds for restricting speech",
+     "v": "Eight, in Article 19(2)"
+    },
+    {
+     "k": "Grounds added by the First Amendment, 1951",
+     "v": "Sovereignty and integrity, friendly relations with foreign States, public order"
+    },
+    {
+     "k": "Freedom of the press",
+     "v": "Not separately mentioned; read into 19(1)(a)"
+    },
+    {
+     "k": "Section 66A struck down in",
+     "v": "Shreya Singhal, 2015"
+    },
+    {
+     "k": "Internet access",
+     "v": "Protected under 19(1)(a) and 19(1)(g), Anuradha Bhasin, 2020"
+    },
+    {
+     "k": "Available to",
+     "v": "Citizens only"
+    }
+   ],
+   "timeline": [],
+   "why": "Any passage on speech, protest, a ban or an internet shutdown is an Article 19 question. Examiners test the number of grounds in 19(2) and the missing clause (f).",
+   "map": {
+    "nodes": [
+     {
+      "id": "a191",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 19(1)",
+      "kind": "law",
+      "rel": "the six freedoms",
+      "note": "Speech, assembly, association, movement, residence and profession. Clause (f) on property was deleted in 1978."
+     },
+     {
+      "id": "a192",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 19(2)",
+      "kind": "law",
+      "rel": "eight grounds",
+      "note": "Sovereignty and integrity, security of the State, friendly relations with foreign States, public order, decency or morality, contempt of court, defamation, incitement to an offence."
+     },
+     {
+      "id": "first",
+      "parent": "a192",
+      "tier": 1,
+      "label": "First Amendment (1951)",
+      "kind": "event",
+      "rel": "added three grounds",
+      "note": "Enacted after Romesh Thappar and Brij Bhushan struck down press restrictions for want of a public order ground."
+     },
+     {
+      "id": "shreya",
+      "parent": "root",
+      "tier": 1,
+      "label": "Shreya Singhal (2015)",
+      "kind": "event",
+      "rel": "struck down 66A",
+      "note": "Held section 66A of the IT Act vague and overbroad. Distinguished discussion and advocacy from incitement."
+     },
+     {
+      "id": "press",
+      "parent": "a191",
+      "tier": 1,
+      "label": "Freedom of the press",
+      "kind": "concept",
+      "rel": "read in",
+      "note": "Not separately mentioned in the Constitution. Established through Romesh Thappar (1950) and Bennett Coleman (1973)."
+     },
+     {
+      "id": "bhasin",
+      "parent": "shreya",
+      "tier": 2,
+      "label": "Anuradha Bhasin (2020)",
+      "kind": "event",
+      "rel": "internet shutdowns",
+      "note": "Held internet access is protected under 19(1)(a) and 19(1)(g); suspension orders must be published, reasoned and periodically reviewed."
+     },
+     {
+      "id": "kedar",
+      "parent": "shreya",
+      "tier": 2,
+      "label": "Kedar Nath Singh (1962)",
+      "kind": "event",
+      "rel": "sedition read down",
+      "note": "Confined section 124A to speech inciting violence or public disorder. The section has since been replaced by section 152 BNS."
+     },
+     {
+      "id": "bijoe",
+      "parent": "press",
+      "tier": 2,
+      "label": "Bijoe Emmanuel (1986)",
+      "kind": "event",
+      "rel": "right to silence",
+      "note": "Three Jehovah’s Witness children could not be expelled for standing respectfully without singing the national anthem."
+     },
+     {
+      "id": "jindal",
+      "parent": "press",
+      "tier": 2,
+      "label": "Naveen Jindal (2004)",
+      "kind": "event",
+      "rel": "flying the flag",
+      "note": "Held flying the national flag with respect is an expression protected by Article 19(1)(a)."
+     },
+     {
+      "id": "rti",
+      "parent": "press",
+      "tier": 2,
+      "label": "Right to information",
+      "kind": "concept",
+      "rel": "from 19(1)(a)",
+      "note": "The right to know was read into free speech, and codified by the RTI Act 2005 after State of UP v. Raj Narain (1975)."
+     },
+     {
+      "id": "citizens",
+      "parent": "a191",
+      "tier": 2,
+      "label": "Citizens only",
+      "kind": "concept",
+      "rel": "the limit",
+      "note": "Companies and foreign nationals cannot claim Article 19, unlike Articles 14, 20, 21 and 25 which protect all persons."
+     },
+     {
+      "id": "a44",
+      "parent": "a191",
+      "tier": 2,
+      "label": "44th Amendment (1978)",
+      "kind": "event",
+      "rel": "deleted property",
+      "note": "Removed 19(1)(f) and Article 31, relocating property to Article 300A as an ordinary constitutional right."
+     },
+     {
+      "id": "reasonable",
+      "parent": "a192",
+      "tier": 3,
+      "label": "Reasonable restriction",
+      "kind": "concept",
+      "rel": "the test",
+      "note": "Must be by law, not executive order, and must be proportionate. Proximity to the harm is required, not a remote connection."
+     },
+     {
+      "id": "pucl",
+      "parent": "press",
+      "tier": 3,
+      "label": "PUCL (2013)",
+      "kind": "event",
+      "rel": "NOTA",
+      "note": "Held that the option to reject all candidates is an expression of choice under Article 19(1)(a). NOTA appeared on EVMs from 2013."
+     },
+     {
+      "id": "a21",
+      "parent": "a191",
+      "tier": 3,
+      "label": "The golden triangle",
+      "kind": "concept",
+      "rel": "Articles 14, 19 and 21",
+      "note": "After Maneka Gandhi a law restricting liberty must satisfy all three, not Article 21 alone."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "pol-eci",
+   "rank": 19,
+   "depth": "medium",
+   "importance": 4,
+   "title": "Elections: the Commission, the law and the reforms that came from court",
+   "date": "",
+   "category": "Polity & Constitution",
+   "tags": [
+    "Election Commission",
+    "Model Code",
+    "EVM",
+    "Representation of the People Act"
+   ],
+   "hook": "A constitutional body with three members, a code of conduct with no statutory force that everyone obeys anyway, and a string of reforms the Supreme Court ordered rather than Parliament passing.",
+   "story": "**Article 324** vests superintendence, direction and control of elections to Parliament, state legislatures, the Presidency and the Vice Presidency in the **Election Commission of India**. It was a single-member body until October 1989, briefly, and permanently three-member from **1 October 1993**. The **Chief Election Commissioner** can be removed only in the manner of a Supreme Court judge; the other two commissioners can be removed on the CEC's recommendation, an asymmetry the Court flagged in *Anoop Baranwal* (2023) when it directed that appointments be made on the advice of a committee of the Prime Minister, the Leader of the Opposition and the Chief Justice, until Parliament legislated. Parliament then passed the **Chief Election Commissioner and Other Election Commissioners Act 2023**, replacing the Chief Justice with a Union Cabinet Minister.\n\n**Statutes.** The **Representation of the People Act 1950** deals with the allocation of seats and electoral rolls; the **Representation of the People Act 1951** deals with the conduct of elections, qualifications, disqualifications and corrupt practices. Note which Act does what, because that is the question.\n\n**Disqualification.** Under section 8 of the 1951 Act, conviction for certain offences disqualifies a member. *Lily Thomas v. Union of India* (2013) struck down section 8(4), which had allowed a convicted legislator to continue in office while an appeal was pending, so disqualification is now immediate on conviction with a sentence of two years or more.\n\n**Court-driven reforms.** *Union of India v. ADR* (2002) and *PUCL* (2003) established that voters have a right to know candidates' criminal records, assets and educational qualifications, giving us the **affidavit** filed with nominations. *PUCL* (2013) created **NOTA**. *Subramanian Swamy* (2013) and the VVPAT litigation led to **voter-verifiable paper audit trails**, with slips from five polling stations per assembly segment counted since 2019. In February 2024 the Supreme Court struck down the **electoral bonds scheme** as unconstitutional for violating the right to information under Article 19(1)(a).\n\n**Model Code of Conduct.** Not a statute. It takes effect from the announcement of the schedule and lasts until results are declared, and its force is convention plus the Commission's power under Article 324.",
+   "facts": [
+    {
+     "k": "Election Commission",
+     "v": "Article 324"
+    },
+    {
+     "k": "Permanently three-member since",
+     "v": "1 October 1993"
+    },
+    {
+     "k": "Removal of the CEC",
+     "v": "Same manner as a Supreme Court judge"
+    },
+    {
+     "k": "RPA 1950",
+     "v": "Allocation of seats and electoral rolls"
+    },
+    {
+     "k": "RPA 1951",
+     "v": "Conduct of elections, qualifications and corrupt practices"
+    },
+    {
+     "k": "Immediate disqualification on conviction",
+     "v": "Lily Thomas, 2013"
+    },
+    {
+     "k": "NOTA introduced",
+     "v": "After PUCL, 2013"
+    },
+    {
+     "k": "Electoral bonds struck down",
+     "v": "February 2024"
+    },
+    {
+     "k": "Model Code of Conduct",
+     "v": "No statutory force; operates from the announcement of the schedule"
+    },
+    {
+     "k": "Voting age lowered to 18",
+     "v": "61st Amendment, 1988"
+    }
+   ],
+   "timeline": [],
+   "why": "Election passages test which Act governs what, and the case behind each reform. Lily Thomas and the electoral bonds judgment are the two most likely names.",
+   "map": {
+    "nodes": [
+     {
+      "id": "a324",
+      "parent": "root",
+      "tier": 1,
+      "label": "Article 324",
+      "kind": "law",
+      "rel": "the Commission",
+      "note": "Superintendence, direction and control of elections to Parliament, state legislatures and the two national offices."
+     },
+     {
+      "id": "rpa51",
+      "parent": "root",
+      "tier": 1,
+      "label": "Representation of the People Act, 1951",
+      "kind": "law",
+      "rel": "conduct of elections",
+      "note": "Qualifications, disqualifications, corrupt practices and election petitions. The 1950 Act deals with rolls and seat allocation."
+     },
+     {
+      "id": "lily",
+      "parent": "root",
+      "tier": 1,
+      "label": "Lily Thomas (2013)",
+      "kind": "event",
+      "rel": "immediate disqualification",
+      "note": "Struck down section 8(4) of the RPA 1951, so a convicted legislator is disqualified at once rather than on exhaustion of appeals."
+     },
+     {
+      "id": "bonds",
+      "parent": "root",
+      "tier": 1,
+      "label": "Electoral bonds judgment (2024)",
+      "kind": "event",
+      "rel": "struck down",
+      "note": "Held the scheme unconstitutional for violating the voter’s right to information under Article 19(1)(a)."
+     },
+     {
+      "id": "mcc",
+      "parent": "root",
+      "tier": 1,
+      "label": "Model Code of Conduct",
+      "kind": "concept",
+      "rel": "no statutory force",
+      "note": "Operates from the announcement of the schedule to the declaration of results. Enforced through Article 324 powers and convention."
+     },
+     {
+      "id": "anoop",
+      "parent": "a324",
+      "tier": 2,
+      "label": "Anoop Baranwal (2023)",
+      "kind": "event",
+      "rel": "appointments",
+      "note": "Directed a selection committee of the PM, Leader of the Opposition and the CJI until Parliament legislated. Parliament then replaced the CJI with a Cabinet Minister."
+     },
+     {
+      "id": "adr",
+      "parent": "bonds",
+      "tier": 2,
+      "label": "Union of India v. ADR (2002)",
+      "kind": "event",
+      "rel": "the affidavit",
+      "note": "Established the voter’s right to know a candidate’s criminal record, assets and education, giving rise to the nomination affidavit."
+     },
+     {
+      "id": "nota",
+      "parent": "bonds",
+      "tier": 2,
+      "label": "NOTA",
+      "kind": "term",
+      "rel": "PUCL, 2013",
+      "note": "None of the above appeared on EVMs from 2013. It does not void an election even if it polls the most votes."
+     },
+     {
+      "id": "vvpat",
+      "parent": "bonds",
+      "tier": 2,
+      "label": "VVPAT",
+      "kind": "term",
+      "rel": "paper trail",
+      "note": "Voter-verifiable paper audit trail. Slips from five polling stations per assembly segment are counted and matched."
+     },
+     {
+      "id": "a326",
+      "parent": "a324",
+      "tier": 2,
+      "label": "Article 326",
+      "kind": "law",
+      "rel": "adult suffrage",
+      "note": "Elections to the Lok Sabha and state assemblies on the basis of adult suffrage. Voting age lowered from 21 to 18 by the 61st Amendment, 1988."
+     },
+     {
+      "id": "sec",
+      "parent": "a324",
+      "tier": 2,
+      "label": "State Election Commissions",
+      "kind": "org",
+      "rel": "separate bodies",
+      "note": "Article 243K. Conduct panchayat and municipal elections, distinct from the Election Commission of India."
+     },
+     {
+      "id": "delim",
+      "parent": "a324",
+      "tier": 2,
+      "label": "Delimitation Commission",
+      "kind": "org",
+      "rel": "redraws seats",
+      "note": "Constituted in 1952, 1963, 1973 and 2002. Seat numbers are frozen on the 1971 census until after the first census following 2026."
+     },
+     {
+      "id": "tenth",
+      "parent": "rpa51",
+      "tier": 3,
+      "label": "Tenth Schedule",
+      "kind": "law",
+      "rel": "the other disqualification",
+      "note": "Anti-defection. Decided by the Speaker rather than the Election Commission, which is why the two routes are often confused."
+     },
+     {
+      "id": "a103",
+      "parent": "rpa51",
+      "tier": 3,
+      "label": "Article 103",
+      "kind": "law",
+      "rel": "office of profit",
+      "note": "Disqualification questions about sitting members are decided by the President on the Election Commission’s opinion."
+     },
+     {
+      "id": "evm",
+      "parent": "vvpat",
+      "tier": 3,
+      "label": "Electronic voting machines",
+      "kind": "term",
+      "rel": "since 1982",
+      "note": "First used in Kerala in 1982, and universally from 2004. Manufactured by BEL and ECIL."
+     }
+    ]
+   },
+   "sources": []
+  }
+ ],
+ "passages": [
+  {
+   "id": "polity-p1",
+   "kind": "static",
+   "month": "polity",
+   "topicIds": [
+    "pol-preamble",
+    "pol-amendment"
+   ],
+   "category": "Polity & Constitution",
+   "tags": [
+    "Basic Structure",
+    "Article 368"
+   ],
+   "difficulty": 2,
+   "title": "Basic structure",
+   "passage": "In 1973 a thirteen-judge bench of the Supreme Court, the largest ever assembled in India, decided a case brought by the head of a mutt in Kerala who was challenging state land reform legislation. The dispute over his property produced almost nothing of lasting importance. The dispute over Parliament's power produced the doctrine that has shaped Indian constitutional law ever since.\n\nThe question was whether the amending power under Article 368 has limits. Six years earlier, an eleven-judge bench had held that Fundamental Rights could not be abridged by amendment at all. Parliament had answered with an amendment declaring that nothing in Article 368 was subject to the ordinary restrictions on legislation. The 1973 bench split narrowly. It overruled the earlier absolute prohibition, accepting that Fundamental Rights could be amended, but held that Parliament cannot alter the identity of the Constitution itself. Certain features, the majority said, form its basic structure and lie beyond amendment.\n\nThe judges did not agree on what those features were and deliberately declined to draw up a list. Later benches have added to it case by case, holding that judicial review, secularism, federalism, free and fair elections and the independence of the judiciary each qualify. In 1980 the Court used the doctrine to strike down two clauses that Parliament had inserted precisely to shield amendments from review, holding that limited amending power is itself part of the basic structure and that a power to destroy cannot be derived from a power to amend.\n\nCritics have argued from the beginning that the doctrine has no textual basis and hands unelected judges a veto over the elected legislature. Its defenders point out that in the two years after the judgment, an emergency was declared, elections were postponed and a constitutional amendment placed the Prime Minister's own election beyond the reach of any court. That amendment was struck down using the doctrine.",
+   "questions": [
+    {
+     "q": "Which case is being described in the first two paragraphs?",
+     "options": [
+      "Golaknath v. State of Punjab",
+      "Kesavananda Bharati v. State of Kerala",
+      "Minerva Mills v. Union of India",
+      "S.R. Bommai v. Union of India"
+     ],
+     "answer": 1,
+     "explain": "Kesavananda Bharati, 1973, decided by a 13-judge bench and arising from a challenge by the head of the Edneer Mutt to Kerala land reform laws. Golaknath is the eleven-judge bench referred to as deciding six years earlier."
+    },
+    {
+     "q": "The passage refers to an eleven-judge bench that had earlier held Fundamental Rights could not be abridged. That was:",
+     "options": [
+      "Shankari Prasad, 1951",
+      "Sajjan Singh, 1965",
+      "Golaknath, 1967",
+      "Berubari Union, 1960"
+     ],
+     "answer": 2,
+     "explain": "Golaknath (1967) held by 6-5 that Parliament had no power to abridge Fundamental Rights. Shankari Prasad and Sajjan Singh had earlier held the opposite; Berubari was about the Preamble and ceding territory."
+    },
+    {
+     "q": "The 1980 judgment mentioned in the fourth paragraph struck down clauses of which article?",
+     "options": [
+      "Article 31C",
+      "Article 368",
+      "Article 13",
+      "Article 32"
+     ],
+     "answer": 1,
+     "explain": "Minerva Mills struck down clauses 4 and 5 of Article 368, inserted by the 42nd Amendment, which had tried to make amendments immune from judicial review. It also read down Article 31C, but the clauses named in the passage are those of Article 368."
+    },
+    {
+     "q": "Which of the following has NOT been held to be part of the basic structure?",
+     "options": [
+      "Secularism",
+      "Judicial review",
+      "The right to property",
+      "Free and fair elections"
+     ],
+     "answer": 2,
+     "explain": "The right to property was removed as a Fundamental Right by the 44th Amendment in 1978 and now sits in Article 300A as an ordinary constitutional right. The other three have all been held to be basic features."
+    },
+    {
+     "q": "The constitutional amendment referred to in the final paragraph, which placed the Prime Minister’s election beyond judicial scrutiny, was the:",
+     "options": [
+      "38th Amendment",
+      "39th Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+     ],
+     "answer": 1,
+     "explain": "Clause 4 of the 39th Amendment (1975) removed disputes about the election of the Prime Minister and Speaker from judicial scrutiny. It was struck down in Indira Nehru Gandhi v. Raj Narain, the first use of the basic structure doctrine to void an amendment."
+    }
+   ]
+  },
+  {
+   "id": "polity-p2",
+   "kind": "static",
+   "month": "polity",
+   "topicIds": [
+    "pol-art32"
+   ],
+   "category": "Polity & Constitution",
+   "tags": [
+    "Writs",
+    "Article 32",
+    "Article 226"
+   ],
+   "difficulty": 2,
+   "title": "The five writs",
+   "passage": "The Constitution gives the Supreme Court and the High Courts the power to issue five writs, all of them inherited from English law where they were issued by the Court of King's Bench. The powers are not identical. The Supreme Court's authority is itself listed among the Fundamental Rights, and can be invoked only where a Fundamental Right is at stake. The High Courts' authority sits elsewhere in the Constitution, is available for the enforcement of any legal right, and is therefore wider in subject matter, though confined to the territory over which the court has jurisdiction. One is a right the court cannot refuse to entertain; the other is a discretionary power a court may decline to exercise.\n\nEach writ answers a different problem. One is directed at a person or authority detaining another, and requires the detained person to be produced before the court; unusually, it runs against private individuals as well as the state. One commands a public authority to perform a duty it is legally bound to perform, and is unavailable where the duty is discretionary, contractual, or owed by a private person. Two of them concern courts and tribunals rather than officials: one is issued while proceedings are still pending, to stop a body from exceeding its jurisdiction, while the other is issued after an order has been passed, to quash it. The fifth asks a person occupying a public office to show the authority by which they hold it, and may be sought by any interested person rather than only by someone personally aggrieved.\n\nThe wide reach of the first of these has made it central to Indian civil liberties. In 1976, however, a majority of the Supreme Court held that during a proclaimed emergency, no person had any locus standi to move a writ petition for release from unlawful detention. A single judge dissented, and was passed over for the Chief Justiceship as a result. The reasoning of the majority was formally repudiated four decades later.",
+   "questions": [
+    {
+     "q": "The writ described as running against private individuals as well as the state is:",
+     "options": [
+      "Mandamus",
+      "Habeas corpus",
+      "Certiorari",
+      "Quo warranto"
+     ],
+     "answer": 1,
+     "explain": "Habeas corpus, literally \"you may have the body\", is available against unlawful detention by private persons as well as by public authorities. Mandamus is expressly not available against private individuals."
+    },
+    {
+     "q": "Which pair correctly matches the two writs concerning courts and tribunals?",
+     "options": [
+      "Prohibition is curative; certiorari is preventive",
+      "Both are preventive",
+      "Prohibition is preventive; certiorari is curative",
+      "Both are issued only after final orders"
+     ],
+     "answer": 2,
+     "explain": "Prohibition is issued while proceedings are pending, to prevent a body exceeding its jurisdiction. Certiorari is issued after an order has been passed, to quash it. The passage describes them in that order."
+    },
+    {
+     "q": "The article giving the High Courts their writ power is:",
+     "options": [
+      "Article 32",
+      "Article 136",
+      "Article 226",
+      "Article 142"
+     ],
+     "answer": 2,
+     "explain": "Article 226. Article 32 is the Supreme Court’s writ jurisdiction and a Fundamental Right; Article 136 is special leave to appeal; Article 142 is the power to do complete justice."
+    },
+    {
+     "q": "The 1976 judgment referred to in the final paragraph is:",
+     "options": [
+      "A.K. Gopalan v. State of Madras",
+      "ADM Jabalpur v. Shivkant Shukla",
+      "Maneka Gandhi v. Union of India",
+      "Kharak Singh v. State of UP"
+     ],
+     "answer": 1,
+     "explain": "ADM Jabalpur, the Habeas Corpus case. Justice H.R. Khanna dissented and was superseded for the Chief Justiceship. The majority reasoning was repudiated in Puttaswamy (2017)."
+    },
+    {
+     "q": "Which statement about the two writ jurisdictions is correct on the passage?",
+     "options": [
+      "Both may be refused at the court’s discretion",
+      "The Supreme Court’s jurisdiction is wider in subject matter",
+      "A High Court may decline to exercise its writ power, the Supreme Court may not refuse a petition under its own",
+      "Neither is available against a tribunal"
+     ],
+     "answer": 2,
+     "explain": "The passage says one is a right the court cannot refuse to entertain and the other a discretionary power a court may decline. Article 226 is wider in subject matter, not Article 32."
+    }
+   ]
+  },
+  {
+   "id": "polity-p3",
+   "kind": "static",
+   "month": "polity",
+   "topicIds": [
+    "pol-emergency"
+   ],
+   "category": "Polity & Constitution",
+   "tags": [
+    "Emergency",
+    "Article 356"
+   ],
+   "difficulty": 2,
+   "title": "President’s Rule",
+   "passage": "The Constitution provides for three kinds of emergency, and they are not equally used. One responds to war, external aggression or armed rebellion, and has been proclaimed three times, most recently and most controversially in 1975. One deals with a threat to the financial stability or credit of the country, and has never been proclaimed at all. The third, which applies to a single state rather than the whole country, has been invoked more than a hundred times.\n\nThat third power rests on the President's satisfaction that the government of a state cannot be carried on in accordance with the Constitution, a satisfaction usually formed on a report from the state's Governor. For decades it was treated as effectively unreviewable, on the reasoning that satisfaction is subjective and that political judgments are not for courts. Governments of every party used it to dismiss administrations they disliked, sometimes within weeks of an election.\n\nA nine-judge bench changed that in 1994. It held that the proclamation is open to judicial review, though the court would examine only whether relevant material existed and not the sufficiency of that material. More importantly, it held that the question whether a ministry retains a majority is to be settled on the floor of the House and nowhere else, least of all in the Governor's assessment. And it held that a proclamation struck down may be followed by the revival of a dissolved assembly, so that dissolution before parliamentary approval is not a fait accompli.\n\nThe same judgment made a second, unrelated holding that has been cited far more often. Dealing with dismissals of state governments accused of failing to protect secular values, it held that secularism forms part of the Constitution's basic structure, so a state government acting against it may properly be dismissed.",
+   "questions": [
+    {
+     "q": "The power described from the second paragraph onwards is contained in:",
+     "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 365"
+     ],
+     "answer": 1,
+     "explain": "Article 356, President’s Rule. Article 352 is national emergency, Article 360 financial emergency, and Article 365 is the companion provision on failure to comply with a Union direction."
+    },
+    {
+     "q": "The emergency that has never been proclaimed is the one dealing with:",
+     "options": [
+      "Armed rebellion",
+      "External aggression",
+      "Financial stability",
+      "Failure of constitutional machinery"
+     ],
+     "answer": 2,
+     "explain": "Financial Emergency under Article 360 has never been declared. National emergency has been declared three times and President’s Rule over a hundred."
+    },
+    {
+     "q": "The 1994 judgment is:",
+     "options": [
+      "Kesavananda Bharati",
+      "S.R. Bommai",
+      "Minerva Mills",
+      "Indra Sawhney"
+     ],
+     "answer": 1,
+     "explain": "S.R. Bommai v. Union of India, decided by nine judges in 1994."
+    },
+    {
+     "q": "On the passage, how is a ministry’s majority to be tested?",
+     "options": [
+      "By the Governor’s assessment",
+      "On the floor of the House",
+      "By the President on the Union Cabinet’s advice",
+      "By the Supreme Court"
+     ],
+     "answer": 1,
+     "explain": "The judgment held the floor of the House is the only forum for testing majority, displacing reliance on a Governor’s subjective view."
+    },
+    {
+     "q": "The maximum period for which President’s Rule may ordinarily continue is:",
+     "options": [
+      "Six months",
+      "One year",
+      "Two years",
+      "Three years"
+     ],
+     "answer": 3,
+     "explain": "Three years, with parliamentary approval every six months. The initial approval must come within two months of the proclamation."
+    }
+   ]
+  },
+  {
+   "id": "polity-p4",
+   "kind": "static",
+   "month": "polity",
+   "topicIds": [
+    "pol-parliament"
+   ],
+   "category": "Polity & Constitution",
+   "tags": [
+    "Parliament",
+    "Money Bill"
+   ],
+   "difficulty": 3,
+   "title": "The money bill route",
+   "passage": "Of the two Houses of the Indian Parliament, only one may originate a particular category of legislation, and the other may not amend it. That House may accept or reject the second chamber's recommendations as it pleases, and if the second chamber does not return the bill within fourteen days it is deemed to have been passed by both. There is consequently no possibility of deadlock and no provision for a joint sitting.\n\nWhether a bill belongs to that category is certified by the presiding officer of the originating House, and the Constitution states that his decision on the point is final. The category is defined by an exhaustive list: a bill qualifies only if it contains provisions dealing solely with matters such as the imposition or regulation of a tax, borrowing by the government, the custody of the consolidated or contingency funds, or the appropriation of money out of the consolidated fund. A bill that touches other matters as well is a financial bill of a different kind, which the second chamber may amend in the ordinary way.\n\nThe distinction has become politically significant. A government facing an unfavourable arithmetic in the second chamber has an obvious incentive to route contested legislation through the protected category. Two major statutes were enacted this way within the space of two years, one establishing a biometric identity system and another amending the law on tribunals through the annual finance legislation. Challenges to both reached the Supreme Court. In the first, a majority upheld the certification while one judge dissented in strong terms, describing the use of the route as a fraud on the Constitution. In the second, a larger bench referred the whole question of whether such certification is reviewable at all to a still larger bench, where it remains.",
+   "questions": [
+    {
+     "q": "The category of legislation described is:",
+     "options": [
+      "Ordinary bill",
+      "Money bill",
+      "Constitutional amendment bill",
+      "Ordinance"
+     ],
+     "answer": 1,
+     "explain": "A money bill under Article 110, which can only originate in the Lok Sabha and which the Rajya Sabha may only recommend upon."
+    },
+    {
+     "q": "The presiding officer whose certificate is final is the:",
+     "options": [
+      "Chairman of the Rajya Sabha",
+      "Speaker of the Lok Sabha",
+      "Deputy Chairman",
+      "President"
+     ],
+     "answer": 1,
+     "explain": "The Speaker of the Lok Sabha certifies a bill as a money bill, and Article 110(3) makes the certificate final."
+    },
+    {
+     "q": "The period within which the second chamber must return the bill is:",
+     "options": [
+      "Seven days",
+      "Fourteen days",
+      "Thirty days",
+      "Six weeks"
+     ],
+     "answer": 1,
+     "explain": "Fourteen days, after which the bill is deemed passed by both Houses in the form the Lok Sabha passed it."
+    },
+    {
+     "q": "The judge who described the use of the route as a fraud on the Constitution dissented in the case concerning:",
+     "options": [
+      "The Finance Act 2017",
+      "The Aadhaar Act",
+      "The Companies Act",
+      "The GST Act"
+     ],
+     "answer": 1,
+     "explain": "Justice D.Y. Chandrachud dissented in the Aadhaar judgment of 2018, where the majority upheld certification of the Aadhaar Act as a money bill."
+    },
+    {
+     "q": "Why is there no joint sitting for this category of bill?",
+     "options": [
+      "Because the Constitution forbids joint sittings entirely",
+      "Because deadlock cannot arise, the second chamber having no power to block",
+      "Because the President must assent within fourteen days",
+      "Because such bills need ratification by the states"
+     ],
+     "answer": 1,
+     "explain": "The Rajya Sabha can only recommend and cannot reject or amend, so no deadlock is possible and Article 108 has nothing to resolve."
+    }
+   ]
+  },
+  {
+   "id": "polity-p5",
+   "kind": "static",
+   "month": "polity",
+   "topicIds": [],
+   "category": "Polity & Constitution",
+   "tags": [
+    "Directive Principles",
+    "Article 37",
+    "Article 44"
+   ],
+   "difficulty": 2,
+   "title": "The part that cannot be enforced",
+   "passage": "One part of the Constitution confers rights that a citizen may take straight to the highest court. The next part sets out instructions to the state that no court may enforce at all, and says in terms that they are nevertheless fundamental in the governance of the country and that it shall be the duty of the state to apply them in making laws. The framers borrowed the device from the Irish constitution of 1937, which had borrowed the idea from Spain.\n\nThe instructions cover a wide field: a social order in which justice informs all institutions; adequate means of livelihood; a distribution of material resources that best serves the common good; equal pay for equal work; the health and strength of workers; free and compulsory education for children, which was later lifted out of this part and written into the enforceable one; village panchayats; a living wage; participation of workers in management; a uniform civil code; separation of the judiciary from the executive; protection of monuments; protection of the environment and of forests and wildlife, added in 1976 along with a direction that legal aid be provided and a new instruction on equal justice.\n\nThe relationship between the two parts has been fought over for fifty years. An early view held that fundamental rights must prevail wherever the two conflict. A later amendment tried to give a class of these instructions blanket immunity from challenge under the equality and freedom articles, and the court struck that down, holding that the balance between the two parts was itself part of the Constitution's basic structure and that giving one absolute primacy would destroy it. What survives is a narrower immunity, and a practice of reading the instructions into the rights to give them content.",
+   "questions": [
+    {
+     "q": "The part described in the second sentence is:",
+     "options": [
+      "Part III",
+      "Part IV",
+      "Part IVA",
+      "Part XI"
+     ],
+     "answer": 1,
+     "explain": "Part IV, the Directive Principles of State Policy."
+    },
+    {
+     "q": "The provision declaring them non-justiciable but fundamental in governance is:",
+     "options": [
+      "Article 32",
+      "Article 36",
+      "Article 37",
+      "Article 51"
+     ],
+     "answer": 2,
+     "explain": "Article 37."
+    },
+    {
+     "q": "The device was borrowed from the constitution of:",
+     "options": [
+      "The United States",
+      "Ireland",
+      "Canada",
+      "Australia"
+     ],
+     "answer": 1,
+     "explain": "Ireland, whose 1937 constitution contains directive principles of social policy."
+    },
+    {
+     "q": "The instruction on free and compulsory education was later moved into:",
+     "options": [
+      "Article 19",
+      "Article 21A",
+      "Article 23",
+      "Article 51A"
+     ],
+     "answer": 1,
+     "explain": "Article 21A, inserted by the 86th Amendment in 2002."
+    },
+    {
+     "q": "The judgment holding that the balance between the two parts is part of the basic structure is:",
+     "options": [
+      "Kesavananda Bharati",
+      "Minerva Mills",
+      "Golaknath",
+      "Maneka Gandhi"
+     ],
+     "answer": 1,
+     "explain": "Minerva Mills v. Union of India (1980) struck down the blanket immunity given by the 42nd Amendment."
+    }
+   ]
+  },
+  {
+   "id": "polity-p6",
+   "kind": "static",
+   "month": "polity",
+   "topicIds": [],
+   "category": "Polity & Constitution",
+   "tags": [
+    "Election Commission",
+    "Article 324",
+    "Model Code"
+   ],
+   "difficulty": 2,
+   "title": "The body that runs the largest election",
+   "passage": "The Constitution gives the superintendence, direction and control of elections to Parliament and the state legislatures, and of the offices of President and Vice President, to a single commission, and says nothing about how many people should sit on it. For most of its existence it had one. Two additional posts were created briefly in 1989, abolished, and recreated in 1993; the arrangement was challenged and upheld, and the body has been three-member since, deciding by majority.\n\nRemoval is where the asymmetry lies. The Chief Election Commissioner may be removed only in the manner and on the grounds applicable to a judge of the Supreme Court, which means an address by both Houses with a special majority. The other commissioners may be removed by the President on the recommendation of the Chief, which is a considerably weaker protection and has been criticised on the ground that a majority-deciding body whose minority members serve at the pleasure of the chairman is not really a collegiate body. Appointment was for seventy years made by the government alone. The Supreme Court intervened in 2023 and prescribed a panel of the Prime Minister, the Leader of the Opposition and the Chief Justice until Parliament legislated; Parliament legislated the following year and replaced the Chief Justice with a Union minister.\n\nThe commission's most-used instrument has no statutory force at all. The code of conduct that governs campaign behaviour from the announcement of a schedule to the declaration of results is an agreement among parties, enforced by moral authority, adverse publicity, and the commission's power to censure or to bar a campaigner for a period. Its provisions on government advertising, new schemes and the use of official machinery are the ones most often invoked.\n\nThe commission also decides disputes over party symbols under a 1968 order, recognises parties as national or state based on vote share and seats, and reports to the President on the disqualification of sitting legislators on certain grounds, where its opinion is binding.",
+   "questions": [
+    {
+     "q": "The commission derives its powers from:",
+     "options": [
+      "Article 280",
+      "Article 315",
+      "Article 324",
+      "Article 338"
+     ],
+     "answer": 2,
+     "explain": "Article 324 vests superintendence, direction and control of elections in the Election Commission."
+    },
+    {
+     "q": "The Chief Election Commissioner may be removed:",
+     "options": [
+      "By the President at pleasure",
+      "In the same manner as a Supreme Court judge",
+      "By a simple majority in the Lok Sabha",
+      "By the Election Commission itself"
+     ],
+     "answer": 1,
+     "explain": "The same procedure and grounds as for a Supreme Court judge."
+    },
+    {
+     "q": "Other Election Commissioners may be removed:",
+     "options": [
+      "Only by Parliament",
+      "By the President on the Chief Election Commissioner's recommendation",
+      "By the Supreme Court",
+      "They are irremovable"
+     ],
+     "answer": 1,
+     "explain": "Which is the asymmetry the passage identifies."
+    },
+    {
+     "q": "The Model Code of Conduct:",
+     "options": [
+      "Is a statute",
+      "Has no statutory force",
+      "Is part of the Representation of the People Act",
+      "Was inserted by a constitutional amendment"
+     ],
+     "answer": 1,
+     "explain": "It is an agreement among parties, enforced by the commission's moral and residual authority."
+    },
+    {
+     "q": "On the passage, the 2024 law differed from the Court's 2023 formula by:",
+     "options": [
+      "Adding the Leader of the Opposition",
+      "Replacing the Chief Justice with a Union minister",
+      "Removing the Prime Minister",
+      "Making the appointment subject to parliamentary approval"
+     ],
+     "answer": 1,
+     "explain": "Parliament substituted a Cabinet minister for the Chief Justice on the selection panel."
+    }
+   ]
+  }
+ ]
+}

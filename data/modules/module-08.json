@@ -1,0 +1,452 @@
+{
+  "id": "module-08",
+  "order": 8,
+  "label": "Indian Digital Ecosystem and Indigenous Technology",
+  "blurb": "A focused six-fact drill set for Indian Digital Ecosystem and Indigenous Technology.",
+  "topics": [
+    {
+      "id": "module-08-aadhaar",
+      "rank": 1,
+      "title": "Aadhaar",
+      "hook": "Aadhaar is India's biometric-based unique identity system administered by UIDAI.",
+      "explainer": "Aadhaar is India's biometric-based unique identity system administered by UIDAI. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Indian Digital Ecosystem and Indigenous Technology",
+      "tags": [
+        "Aadhaar",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Aadhaar encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Aadhaar"
+          },
+          {
+            "label": "Aadhaar reference search",
+            "url": "https://www.britannica.com/search?query=Aadhaar"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-india-stack",
+            "relationship": "Digital identity layer",
+            "fact": "Aadhaar provides identity authentication used by services built on India Stack, alongside payments and consent-based data exchange layers."
+          },
+          {
+            "topicId": "module-08-digilocker",
+            "relationship": "Identity-backed document access",
+            "fact": "DigiLocker can use Aadhaar-based authentication, but it stores and verifies documents rather than issuing the Aadhaar identity number."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-08-upi",
+      "rank": 2,
+      "title": "UPI",
+      "hook": "Unified Payments Interface is an instant payment system developed by the National Payments Corporation of India.",
+      "explainer": "Unified Payments Interface is an instant payment system developed by the National Payments Corporation of India. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Indian Digital Ecosystem and Indigenous Technology",
+      "tags": [
+        "UPI",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "UPI encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/UPI"
+          },
+          {
+            "label": "UPI reference search",
+            "url": "https://www.britannica.com/search?query=UPI"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-india-stack",
+            "relationship": "Instant-payment rail in digital public infrastructure",
+            "fact": "UPI is the interoperable payment layer commonly discussed as part of India Stack."
+          },
+          {
+            "topicId": "module-08-ondc",
+            "relationship": "Payment rail supporting open commerce",
+            "fact": "ONDC connects buyers and sellers across commerce applications, while UPI can settle payments made in that ecosystem."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-08-india-stack",
+      "rank": 3,
+      "title": "India Stack",
+      "hook": "India Stack is a set of interoperable Indian digital-public-infrastructure layers for identity, payments, and data exchange.",
+      "explainer": "India Stack is a set of interoperable Indian digital-public-infrastructure layers for identity, payments, and data exchange. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Indian Digital Ecosystem and Indigenous Technology",
+      "tags": [
+        "India Stack",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "India Stack encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/India_Stack"
+          },
+          {
+            "label": "India Stack reference search",
+            "url": "https://www.britannica.com/search?query=India%20Stack"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-aadhaar",
+            "relationship": "Foundational identity capability",
+            "fact": "Aadhaar authentication forms an identity layer within the wider collection of India Stack digital public infrastructure."
+          },
+          {
+            "topicId": "module-08-upi",
+            "relationship": "Interoperable payments capability",
+            "fact": "UPI supplies instant bank-to-bank payments as a major transaction layer associated with India Stack."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-08-digilocker",
+      "rank": 4,
+      "title": "DigiLocker",
+      "hook": "DigiLocker is an Indian platform for issuing, storing, and verifying digital documents.",
+      "explainer": "DigiLocker is an Indian platform for issuing, storing, and verifying digital documents. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Indian Digital Ecosystem and Indigenous Technology",
+      "tags": [
+        "DigiLocker",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "DigiLocker encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/DigiLocker"
+          },
+          {
+            "label": "DigiLocker reference search",
+            "url": "https://www.britannica.com/search?query=DigiLocker"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-aadhaar",
+            "relationship": "Verified identity and digital documents",
+            "fact": "Aadhaar can authenticate a user; DigiLocker lets that user access authentic digital certificates and records."
+          },
+          {
+            "topicId": "module-08-india-stack",
+            "relationship": "Paperless-governance capability",
+            "fact": "DigiLocker complements India Stack by enabling digital issue, storage, and verification of official documents."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-08-ondc",
+      "rank": 5,
+      "title": "ONDC",
+      "hook": "The Open Network for Digital Commerce is an Indian initiative for interoperable digital-commerce networks.",
+      "explainer": "The Open Network for Digital Commerce is an Indian initiative for interoperable digital-commerce networks. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Indian Digital Ecosystem and Indigenous Technology",
+      "tags": [
+        "ONDC",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "ONDC encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/ONDC"
+          },
+          {
+            "label": "ONDC reference search",
+            "url": "https://www.britannica.com/search?query=ONDC"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-upi",
+            "relationship": "Open networks for commerce and payment",
+            "fact": "ONDC makes commerce participants interoperable, while UPI makes bank-account payments interoperable."
+          },
+          {
+            "topicId": "module-08-india-stack",
+            "relationship": "Digital public infrastructure approach",
+            "fact": "Both use open standards to reduce dependence on a single closed platform, but ONDC focuses on commerce discovery and transactions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-08-isro",
+      "rank": 6,
+      "title": "ISRO",
+      "hook": "The Indian Space Research Organisation is India's national space agency.",
+      "explainer": "The Indian Space Research Organisation is India's national space agency. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Indian Digital Ecosystem and Indigenous Technology",
+      "tags": [
+        "ISRO",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "ISRO encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/ISRO"
+          },
+          {
+            "label": "ISRO reference search",
+            "url": "https://www.britannica.com/search?query=ISRO"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-aadhaar",
+            "relationship": "Bhuvan mapping for Aadhaar services",
+            "fact": "ISRO’s Bhuvan geospatial platform has hosted an Aadhaar portal for locating enrolment and update centres administered by UIDAI."
+          },
+          {
+            "topicId": "module-08-india-stack",
+            "relationship": "Complementary national digital infrastructure",
+            "fact": "ISRO supplies satellite connectivity and NavIC positioning capabilities, while India Stack supplies interoperable identity, payment, and consent layers used by digital services."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-08-q-01",
+      "module": "module-08",
+      "topicId": "module-08-aadhaar",
+      "difficulty": 1,
+      "q": "Which authority administers India's Aadhaar identity system?",
+      "options": [
+        "ISRO",
+        "UIDAI",
+        "NPCI",
+        "ONDC Ltd"
+      ],
+      "answer": 1,
+      "explanation": "The Unique Identification Authority of India issues and administers Aadhaar; NPCI operates UPI and ISRO leads space activity.",
+      "optionFamily": "Indian digital public institutions",
+      "optionDomains": [
+        "Indian digital public institutions",
+        "Indian digital public institutions",
+        "Indian digital public institutions",
+        "Indian digital public institutions"
+      ]
+    },
+    {
+      "id": "module-08-q-02",
+      "module": "module-08",
+      "topicId": "module-08-upi",
+      "difficulty": 2,
+      "q": "Which organisation developed the Unified Payments Interface?",
+      "options": [
+        "NPCI",
+        "UIDAI",
+        "Reserve Bank of India",
+        "Department of Telecommunications"
+      ],
+      "answer": 0,
+      "explanation": "The National Payments Corporation of India developed UPI as an interoperable instant bank-payment system.",
+      "optionFamily": "Indian payment-system institutions",
+      "optionDomains": [
+        "Indian payment-system institutions",
+        "Indian payment-system institutions",
+        "Indian payment-system institutions",
+        "Indian payment-system institutions"
+      ]
+    },
+    {
+      "id": "module-08-q-03",
+      "module": "module-08",
+      "topicId": "module-08-india-stack",
+      "difficulty": 3,
+      "q": "Which trio best represents India Stack capabilities?",
+      "options": [
+        "Identity, payments, and consent-based data exchange",
+        "Search, social networking, and targeted advertising",
+        "Tax assessment, land surveying, and weather forecasting",
+        "Hardware manufacturing, chip fabrication, and cloud hosting"
+      ],
+      "answer": 0,
+      "explanation": "India Stack describes interoperable digital public infrastructure spanning identity, paperless services, payments, and data empowerment.",
+      "optionFamily": "digital public infrastructure capability sets",
+      "optionDomains": [
+        "digital public infrastructure capability sets",
+        "digital public infrastructure capability sets",
+        "digital public infrastructure capability sets",
+        "digital public infrastructure capability sets"
+      ]
+    },
+    {
+      "id": "module-08-q-04",
+      "module": "module-08",
+      "topicId": "module-08-digilocker",
+      "difficulty": 1,
+      "q": "A university issues a verifiable digital degree to a student's online account. Which platform fits?",
+      "options": [
+        "DigiLocker",
+        "Academic Bank of Credits",
+        "UMANG",
+        "National Scholarship Portal"
+      ],
+      "answer": 0,
+      "explanation": "DigiLocker supports digital issue, storage, retrieval, and verification of official documents such as certificates.",
+      "optionFamily": "Indian digital document platforms",
+      "optionDomains": [
+        "Indian digital document platforms",
+        "Indian digital document platforms",
+        "Indian digital document platforms",
+        "Indian digital document platforms"
+      ]
+    },
+    {
+      "id": "module-08-q-05",
+      "module": "module-08",
+      "topicId": "module-08-ondc",
+      "difficulty": 2,
+      "q": "What problem is ONDC designed to address?",
+      "options": [
+        "Interoperability across digital-commerce participants",
+        "Interoperability across bank-account payment apps",
+        "Authentication against a biometric identity number",
+        "Issue and verification of government documents"
+      ],
+      "answer": 0,
+      "explanation": "The Open Network for Digital Commerce uses common protocols so buyers, sellers, logistics providers, and applications can transact across platforms.",
+      "optionFamily": "digital public network objectives",
+      "optionDomains": [
+        "digital public network objectives",
+        "digital public network objectives",
+        "digital public network objectives",
+        "digital public network objectives"
+      ]
+    },
+    {
+      "id": "module-08-q-06",
+      "module": "module-08",
+      "topicId": "module-08-isro",
+      "difficulty": 3,
+      "q": "Which institution is India's national space agency?",
+      "options": [
+        "UIDAI",
+        "NPCI",
+        "ISRO",
+        "DigiLocker"
+      ],
+      "answer": 2,
+      "explanation": "The Indian Space Research Organisation develops launch vehicles, satellites, and exploration missions for India.",
+      "optionFamily": "Indian public technology institutions",
+      "optionDomains": [
+        "Indian public technology institutions",
+        "Indian public technology institutions",
+        "Indian public technology institutions",
+        "Indian public technology institutions"
+      ]
+    },
+    {
+      "id": "module-08-q-07",
+      "module": "module-08",
+      "topicId": "module-08-aadhaar",
+      "difficulty": 1,
+      "q": "Which statement corrects a common mix-up?",
+      "options": [
+        "Aadhaar is identity; DigiLocker manages digital documents",
+        "Aadhaar is a payment rail; UPI assigns identity numbers",
+        "DigiLocker is a commerce network; ONDC stores certificates",
+        "ONDC authenticates biometrics; Aadhaar lists online sellers"
+      ],
+      "answer": 0,
+      "explanation": "Aadhaar establishes a unique identity and authentication capability, while DigiLocker handles electronic records and certificates.",
+      "optionFamily": "Indian digital platform distinctions",
+      "optionDomains": [
+        "Indian digital platform distinctions",
+        "Indian digital platform distinctions",
+        "Indian digital platform distinctions",
+        "Indian digital platform distinctions"
+      ]
+    },
+    {
+      "id": "module-08-q-08",
+      "module": "module-08",
+      "topicId": "module-08-upi",
+      "difficulty": 2,
+      "q": "An ONDC shopper authorises an instant bank payment with a virtual payment address. Which rail is being used?",
+      "options": [
+        "UPI",
+        "NEFT",
+        "Aadhaar Enabled Payment System",
+        "National Automated Clearing House"
+      ],
+      "answer": 0,
+      "explanation": "ONDC provides commerce interoperability, and UPI can provide the separate instant bank-to-bank payment step.",
+      "optionFamily": "Indian retail payment rails",
+      "optionDomains": [
+        "Indian retail payment rails",
+        "Indian retail payment rails",
+        "Indian retail payment rails",
+        "Indian retail payment rails"
+      ]
+    },
+    {
+      "id": "module-08-q-09",
+      "module": "module-08",
+      "topicId": "module-08-india-stack",
+      "difficulty": 3,
+      "q": "How does Aadhaar relate to India Stack?",
+      "options": [
+        "It supplies an identity layer within the broader infrastructure",
+        "It supplies the instant-payment messaging layer",
+        "It supplies the consent-based financial-data exchange layer",
+        "It supplies the open digital-commerce discovery layer"
+      ],
+      "answer": 0,
+      "explanation": "Aadhaar authentication is a foundational identity capability associated with India Stack, not the whole stack by itself.",
+      "optionFamily": "India Stack layer claims",
+      "optionDomains": [
+        "India Stack layer claims",
+        "India Stack layer claims",
+        "India Stack layer claims",
+        "India Stack layer claims"
+      ]
+    },
+    {
+      "id": "module-08-q-10",
+      "module": "module-08",
+      "topicId": "module-08-ondc",
+      "difficulty": 1,
+      "q": "Which comparison between ONDC and UPI is sound?",
+      "options": [
+        "Both promote interoperability, for commerce and payments respectively",
+        "ONDC settles bank transfers while UPI lists sellers and catalogues",
+        "Both are closed marketplaces controlled by one retailer",
+        "UPI provides product discovery while ONDC authenticates payment PINs"
+      ],
+      "answer": 0,
+      "explanation": "ONDC opens commerce-network participation, while UPI enables interoperable payments between bank accounts and applications.",
+      "optionFamily": "ONDC and UPI comparisons",
+      "optionDomains": [
+        "ONDC and UPI comparisons",
+        "ONDC and UPI comparisons",
+        "ONDC and UPI comparisons",
+        "ONDC and UPI comparisons"
+      ]
+    }
+  ]
+}

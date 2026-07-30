@@ -1,0 +1,109 @@
+{
+  "modules": [
+    {
+      "id": "module-01",
+      "order": 1,
+      "label": "Computing History and Foundations",
+      "blurb": "A focused six-fact drill set for Computing History and Foundations.",
+      "file": "module-01.json"
+    },
+    {
+      "id": "module-02",
+      "order": 2,
+      "label": "Software, Operating Systems, Languages and Databases",
+      "blurb": "A focused six-fact drill set for Software, Operating Systems, Languages and Databases.",
+      "file": "module-02.json"
+    },
+    {
+      "id": "module-03",
+      "order": 3,
+      "label": "Internet, Web, Networking, Telecom and Mobile",
+      "blurb": "A focused six-fact drill set for Internet, Web, Networking, Telecom and Mobile.",
+      "file": "module-03.json"
+    },
+    {
+      "id": "module-04",
+      "order": 4,
+      "label": "Technology Companies, Personalities, Brands and Products",
+      "blurb": "A focused six-fact drill set for Technology Companies, Personalities, Brands and Products.",
+      "file": "module-04.json"
+    },
+    {
+      "id": "module-05",
+      "order": 5,
+      "label": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "blurb": "A focused six-fact drill set for Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics.",
+      "file": "module-05.json"
+    },
+    {
+      "id": "module-06",
+      "order": 6,
+      "label": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "blurb": "A focused six-fact drill set for Hardware, Semiconductors, Architectures and Quantum Computing.",
+      "file": "module-06.json"
+    },
+    {
+      "id": "module-07",
+      "order": 7,
+      "label": "Cybersecurity, Malware, Privacy and Global Outages",
+      "blurb": "A focused six-fact drill set for Cybersecurity, Malware, Privacy and Global Outages.",
+      "file": "module-07.json"
+    },
+    {
+      "id": "module-08",
+      "order": 8,
+      "label": "Indian Digital Ecosystem and Indigenous Technology",
+      "blurb": "A focused six-fact drill set for Indian Digital Ecosystem and Indigenous Technology.",
+      "file": "module-08.json"
+    },
+    {
+      "id": "module-09",
+      "order": 9,
+      "label": "Tata Group and TCS",
+      "blurb": "A focused six-fact drill set for Tata Group and TCS.",
+      "file": "module-09.json"
+    },
+    {
+      "id": "module-10",
+      "order": 10,
+      "label": "Technology Across Industries and Culture",
+      "blurb": "A focused six-fact drill set for Technology Across Industries and Culture.",
+      "file": "module-10.json"
+    },
+    {
+      "id": "module-11",
+      "order": 11,
+      "label": "Science, Medicine and Mathematics Through Innovation",
+      "blurb": "A focused six-fact drill set for Science, Medicine and Mathematics Through Innovation.",
+      "file": "module-11.json"
+    },
+    {
+      "id": "module-12",
+      "order": 12,
+      "label": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "blurb": "A focused six-fact drill set for Engineering, Architecture, Infrastructure, Energy and Climate Technology.",
+      "file": "module-12.json"
+    },
+    {
+      "id": "module-13",
+      "order": 13,
+      "label": "Space, Satellites, Defence and Frontier Technology",
+      "blurb": "A focused six-fact drill set for Space, Satellites, Defence and Frontier Technology.",
+      "file": "module-13.json"
+    },
+    {
+      "id": "module-14",
+      "order": 14,
+      "label": "Current Technology, Science and Business Affairs",
+      "blurb": "A focused six-fact drill set for Current Technology, Science and Business Affairs.",
+      "file": "module-14.json"
+    },
+    {
+      "id": "module-15",
+      "order": 15,
+      "label": "General-Awareness Safety Net",
+      "blurb": "A focused six-fact drill set for General-Awareness Safety Net.",
+      "file": "module-15.json"
+    }
+  ]
+}

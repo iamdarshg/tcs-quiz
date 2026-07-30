@@ -1,0 +1,2494 @@
+{
+ "id": "geography",
+ "kind": "static",
+ "label": "Geography & Environment",
+ "blurb": "Physical India, the monsoon, the protected-area network and the treaties that govern it. The treaty detail itself lives in World Organisations.",
+ "topics": [
+  {
+   "id": "geo-physical",
+   "rank": 1,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Physical India: the six divisions, the monsoon and the coordinates",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Physical Geography",
+    "Monsoon",
+    "Himalayas",
+    "Rivers"
+   ],
+   "hook": "A country that spans 30 degrees of latitude, sets its clocks by a line through Mirzapur, and gets three quarters of its rain in four months.",
+   "story": "**Extent.** India lies between roughly **8°4' N and 37°6' N** latitude and **68°7' E and 97°25' E** longitude. The **Tropic of Cancer at 23.5° N** passes through **eight states**: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. **Indian Standard Time** is fixed at **82°30' E**, which passes near **Mirzapur** in Uttar Pradesh, and is 5 hours 30 minutes ahead of GMT. The mainland stretches about 3,214 km north to south and 2,933 km east to west; the land frontier runs 15,200 km and the coastline, including islands, about 7,517 km. India is the **seventh largest country** by area, at about 2.4% of the world's land.\n\n**Neighbours** by land: Bangladesh (longest border, about 4,096 km), China, Pakistan, Nepal, Myanmar, Bhutan and Afghanistan (shortest). By sea: Sri Lanka and the Maldives. **Radcliffe Line** with Pakistan, **Durand Line** between Pakistan and Afghanistan, **McMahon Line** with China in the northeast, **Line of Actual Control** in Ladakh.\n\n**Six physical divisions.** The **Northern Mountains**, running Himadri (Greater Himalaya, with Kanchenjunga, India's highest peak at 8,586 m), Himachal (Lesser Himalaya, with the hill stations) and Shivalik (Outer Himalaya, with duns). The **Northern Plains**, alluvial, divided into bhabar, terai, bhangar and khadar. The **Peninsular Plateau**, the oldest landmass, split by the Narmada into the Central Highlands and the Deccan. The **Indian Desert**, the Thar. The **Coastal Plains**, wider and gentler on the east where deltas form, narrow on the west where estuaries do. The **Islands**: the Andaman and Nicobar chain, of volcanic and tectonic origin, and Lakshadweep, coral.\n\n**The monsoon.** Caused by differential heating of land and sea and the seasonal shift of the **Inter-Tropical Convergence Zone**. The **southwest monsoon** arrives over Kerala around **1 June** and withdraws from September, delivering about 75% of annual rainfall through two branches, Arabian Sea and Bay of Bengal. **Mawsynram** and **Cherrapunji** in Meghalaya receive the most rain in the world because the Bay branch is trapped by the Khasi hills. The **northeast monsoon** in October to December brings rain to Tamil Nadu, which is why that state's rain calendar is inverted. **El Niño** years usually mean weaker monsoons; **La Niña** years stronger.",
+   "facts": [
+    {
+     "k": "Latitudinal extent",
+     "v": "About 8°4′ N to 37°6′ N"
+    },
+    {
+     "k": "Tropic of Cancer passes through",
+     "v": "Eight states"
+    },
+    {
+     "k": "Indian Standard Time meridian",
+     "v": "82°30′ E, near Mirzapur; GMT plus 5:30"
+    },
+    {
+     "k": "Coastline",
+     "v": "About 7,517 km including islands"
+    },
+    {
+     "k": "Longest land border",
+     "v": "Bangladesh, about 4,096 km"
+    },
+    {
+     "k": "Shortest land border",
+     "v": "Afghanistan"
+    },
+    {
+     "k": "Highest peak in India",
+     "v": "Kanchenjunga, 8,586 m"
+    },
+    {
+     "k": "Southwest monsoon onset",
+     "v": "Around 1 June over Kerala"
+    },
+    {
+     "k": "Share of annual rainfall from the southwest monsoon",
+     "v": "About 75 per cent"
+    },
+    {
+     "k": "Wettest places",
+     "v": "Mawsynram and Cherrapunji, Meghalaya"
+    }
+   ],
+   "timeline": [],
+   "why": "A passage on drought, floods or a border dispute assumes this frame. The two most asked facts are the eight Tropic of Cancer states and the IST meridian.",
+   "map": {
+    "nodes": [
+     {
+      "id": "tropic",
+      "parent": "root",
+      "tier": 1,
+      "label": "Tropic of Cancer",
+      "kind": "concept",
+      "rel": "eight states",
+      "note": "Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram."
+     },
+     {
+      "id": "ist",
+      "parent": "root",
+      "tier": 1,
+      "label": "Indian Standard Time",
+      "kind": "concept",
+      "rel": "82°30′ E",
+      "note": "Passes near Mirzapur in Uttar Pradesh. Five and a half hours ahead of GMT, a single time zone for the whole country."
+     },
+     {
+      "id": "monsoon",
+      "parent": "root",
+      "tier": 1,
+      "label": "The southwest monsoon",
+      "kind": "concept",
+      "rel": "the rain",
+      "note": "Onset over Kerala around 1 June. Two branches, Arabian Sea and Bay of Bengal. About 75% of annual rainfall."
+     },
+     {
+      "id": "divisions",
+      "parent": "root",
+      "tier": 1,
+      "label": "Six physical divisions",
+      "kind": "concept",
+      "rel": "the structure",
+      "note": "Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains and Islands."
+     },
+     {
+      "id": "borders",
+      "parent": "root",
+      "tier": 1,
+      "label": "Land neighbours",
+      "kind": "concept",
+      "rel": "seven",
+      "note": "Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan and Afghanistan. Bangladesh has the longest border, Afghanistan the shortest."
+     },
+     {
+      "id": "kanchen",
+      "parent": "divisions",
+      "tier": 2,
+      "label": "Kanchenjunga",
+      "kind": "place",
+      "rel": "8,586 m",
+      "note": "Highest peak in India, on the Sikkim-Nepal border. Third highest in the world. K2 lies in Pakistan-administered territory."
+     },
+     {
+      "id": "itcz",
+      "parent": "monsoon",
+      "tier": 2,
+      "label": "Inter-Tropical Convergence Zone",
+      "kind": "concept",
+      "rel": "the mechanism",
+      "note": "Its seasonal northward shift draws the southwest monsoon over the subcontinent."
+     },
+     {
+      "id": "mawsynram",
+      "parent": "monsoon",
+      "tier": 2,
+      "label": "Mawsynram and Cherrapunji",
+      "kind": "place",
+      "rel": "wettest on earth",
+      "note": "In the Khasi hills of Meghalaya, where the Bay of Bengal branch is funnelled and forced to rise."
+     },
+     {
+      "id": "ne",
+      "parent": "monsoon",
+      "tier": 2,
+      "label": "Northeast monsoon",
+      "kind": "concept",
+      "rel": "October to December",
+      "note": "Brings most of Tamil Nadu’s rain, which is why the state’s wet season is out of step with the rest of India."
+     },
+     {
+      "id": "mcmahon",
+      "parent": "borders",
+      "tier": 2,
+      "label": "McMahon Line",
+      "kind": "concept",
+      "rel": "with China",
+      "note": "Drawn at the Simla Convention of 1914 and rejected by China. The Line of Actual Control governs the western sector."
+     },
+     {
+      "id": "radcliffe",
+      "parent": "borders",
+      "tier": 2,
+      "label": "Radcliffe Line",
+      "kind": "concept",
+      "rel": "with Pakistan",
+      "note": "Drawn in 1947 by Cyril Radcliffe. The Durand Line, drawn 1893, lies between Pakistan and Afghanistan."
+     },
+     {
+      "id": "plains",
+      "parent": "divisions",
+      "tier": 2,
+      "label": "Northern Plains",
+      "kind": "place",
+      "rel": "four belts",
+      "note": "Bhabar of coarse pebbles, terai of marshy land, bhangar of older alluvium and khadar of new floodplain alluvium."
+     },
+     {
+      "id": "elnino",
+      "parent": "monsoon",
+      "tier": 3,
+      "label": "El Niño and La Niña",
+      "kind": "concept",
+      "rel": "the modulator",
+      "note": "El Niño warming of the eastern Pacific usually weakens the Indian monsoon; La Niña usually strengthens it."
+     },
+     {
+      "id": "narmada",
+      "parent": "divisions",
+      "tier": 3,
+      "label": "Narmada",
+      "kind": "place",
+      "rel": "the divide",
+      "note": "Separates the Central Highlands from the Deccan plateau. Flows west through a rift valley into the Arabian Sea, as does the Tapi."
+     },
+     {
+      "id": "islands",
+      "parent": "divisions",
+      "tier": 3,
+      "label": "The islands",
+      "kind": "place",
+      "rel": "two chains",
+      "note": "Andaman and Nicobar are volcanic and tectonic; Lakshadweep is coral. Barren Island is India’s only active volcano."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-protected",
+   "rank": 2,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Protected areas and the law that creates them",
+   "date": "",
+   "category": "Environment",
+   "tags": [
+    "Wildlife",
+    "Tiger Reserves",
+    "National Parks",
+    "Wildlife Protection Act"
+   ],
+   "hook": "Four categories of protected area, one Act from 1972 with six schedules, and a tiger count that is quoted every four years.",
+   "story": "The **Wildlife (Protection) Act 1972** is the parent statute. It created **national parks**, where no human activity is permitted and no grazing or private landholding is allowed, and **wildlife sanctuaries**, where limited activity may be permitted by the Chief Wildlife Warden. **Conservation reserves** and **community reserves** were added by the 2002 amendment for buffer areas and community land. The Act's schedules list species by protection level; the 2022 amendment reduced six schedules to four and brought CITES compliance into domestic law.\n\n**Project Tiger** was launched in **1973** with nine reserves. The **National Tiger Conservation Authority** was created by the 2006 amendment following the Sariska crisis, when the reserve was found to have lost all its tigers. India now has **57 tiger reserves** and, by the 2022 All India Tiger Estimation released in 2023, about **3,682 tigers**, roughly three quarters of the world's wild population. The estimate is published every four years using camera traps and the M-STrIPES protocol. **Project Elephant** followed in 1992; India has 33 elephant reserves.\n\n**Firsts and superlatives.** **Jim Corbett** in Uttarakhand, established 1936 as Hailey National Park, is India's oldest national park and one of the original nine tiger reserves. **Nagarhole**, **Bandipur**, **Kanha**, **Ranthambore**, **Sundarbans** and **Periyar** are the reserves most often named. **Kaziranga** in Assam holds the largest population of the one-horned rhinoceros and is a UNESCO site. **Gir** in Gujarat is the only home of the Asiatic lion. **Sundarbans** is the largest mangrove forest in the world and a tiger reserve, a national park, a biosphere reserve and a Ramsar site at once. **Nanda Devi and Valley of Flowers**, **Western Ghats**, **Keoladeo**, **Manas** and the **Great Himalayan National Park** are the natural World Heritage Sites.\n\n**Biosphere reserves** number 18 in India, of which 12 are in the **UNESCO Man and the Biosphere** network; **Nilgiri**, designated 1986, was the first. India has **four biodiversity hotspots** out of the world's 36: the **Himalaya**, the **Western Ghats and Sri Lanka**, the **Indo-Burma** region, and **Sundaland** covering the Nicobar Islands.",
+   "facts": [
+    {
+     "k": "Parent statute",
+     "v": "Wildlife (Protection) Act, 1972"
+    },
+    {
+     "k": "Categories of protected area",
+     "v": "National park, wildlife sanctuary, conservation reserve, community reserve"
+    },
+    {
+     "k": "Project Tiger launched",
+     "v": "1973, with nine reserves"
+    },
+    {
+     "k": "NTCA created",
+     "v": "2006 amendment, after the Sariska crisis"
+    },
+    {
+     "k": "Tiger reserves",
+     "v": "57"
+    },
+    {
+     "k": "Tiger population",
+     "v": "About 3,682, per the 2022 estimation released in 2023"
+    },
+    {
+     "k": "Oldest national park",
+     "v": "Jim Corbett, 1936, originally Hailey National Park"
+    },
+    {
+     "k": "Only home of the Asiatic lion",
+     "v": "Gir, Gujarat"
+    },
+    {
+     "k": "Largest mangrove forest",
+     "v": "Sundarbans"
+    },
+    {
+     "k": "Biodiversity hotspots in India",
+     "v": "Four of the world’s 36"
+    }
+   ],
+   "timeline": [],
+   "why": "Species-to-park matching is the reliable question, along with the 1972 Act and the tiger count. The trap is the difference between a national park and a sanctuary.",
+   "map": {
+    "nodes": [
+     {
+      "id": "wpa",
+      "parent": "root",
+      "tier": 1,
+      "label": "Wildlife (Protection) Act, 1972",
+      "kind": "law",
+      "rel": "the parent statute",
+      "note": "Creates national parks and sanctuaries, lists species in schedules, and was amended in 2002, 2006 and 2022."
+     },
+     {
+      "id": "tiger",
+      "parent": "root",
+      "tier": 1,
+      "label": "Project Tiger (1973)",
+      "kind": "concept",
+      "rel": "the programme",
+      "note": "Began with nine reserves. India now has 57 and about three quarters of the world’s wild tigers."
+     },
+     {
+      "id": "ntca",
+      "parent": "tiger",
+      "tier": 1,
+      "label": "National Tiger Conservation Authority",
+      "kind": "org",
+      "rel": "2006",
+      "note": "Created by amendment after Sariska was found to have lost all its tigers. Statutory body under the 1972 Act."
+     },
+     {
+      "id": "corbett",
+      "parent": "tiger",
+      "tier": 1,
+      "label": "Jim Corbett National Park",
+      "kind": "place",
+      "rel": "the oldest",
+      "note": "Established 1936 in Uttarakhand as Hailey National Park. Renamed after the hunter-turned-conservationist in 1957."
+     },
+     {
+      "id": "categories",
+      "parent": "wpa",
+      "tier": 1,
+      "label": "Four categories",
+      "kind": "concept",
+      "rel": "the distinction",
+      "note": "National parks allow no human activity; sanctuaries allow limited activity permitted by the Chief Wildlife Warden."
+     },
+     {
+      "id": "kaziranga",
+      "parent": "corbett",
+      "tier": 2,
+      "label": "Kaziranga",
+      "kind": "place",
+      "rel": "one-horned rhino",
+      "note": "In Assam, on the Brahmaputra floodplain. UNESCO World Heritage Site and holder of the largest rhino population."
+     },
+     {
+      "id": "gir",
+      "parent": "corbett",
+      "tier": 2,
+      "label": "Gir",
+      "kind": "place",
+      "rel": "Asiatic lion",
+      "note": "In Gujarat, the only wild population of Asiatic lions. Project Lion was launched in 2020."
+     },
+     {
+      "id": "sundarbans",
+      "parent": "corbett",
+      "tier": 2,
+      "label": "Sundarbans",
+      "kind": "place",
+      "rel": "four designations at once",
+      "note": "Largest mangrove forest in the world. A tiger reserve, national park, biosphere reserve and Ramsar site."
+     },
+     {
+      "id": "hotspots",
+      "parent": "root",
+      "tier": 2,
+      "label": "Biodiversity hotspots",
+      "kind": "concept",
+      "rel": "four in India",
+      "note": "Himalaya, Western Ghats and Sri Lanka, Indo-Burma, and Sundaland covering the Nicobar Islands. 36 worldwide."
+     },
+     {
+      "id": "biosphere",
+      "parent": "hotspots",
+      "tier": 2,
+      "label": "Biosphere reserves",
+      "kind": "concept",
+      "rel": "18 in India",
+      "note": "Twelve are in the UNESCO Man and the Biosphere network. Nilgiri, designated 1986, was the first."
+     },
+     {
+      "id": "elephant",
+      "parent": "tiger",
+      "tier": 2,
+      "label": "Project Elephant (1992)",
+      "kind": "concept",
+      "rel": "the other flagship",
+      "note": "33 elephant reserves. India holds around 60% of the world’s Asian elephants."
+     },
+     {
+      "id": "a2022",
+      "parent": "wpa",
+      "tier": 2,
+      "label": "2022 amendment",
+      "kind": "event",
+      "rel": "the latest change",
+      "note": "Reduced six schedules to four and gave effect to India’s CITES obligations in domestic law."
+     },
+     {
+      "id": "mstripes",
+      "parent": "ntca",
+      "tier": 3,
+      "label": "M-STrIPES",
+      "kind": "term",
+      "rel": "the method",
+      "note": "Monitoring System for Tigers, the protocol combining camera traps and patrol data used in the four-yearly estimation."
+     },
+     {
+      "id": "a48a",
+      "parent": "wpa",
+      "tier": 3,
+      "label": "Articles 48A and 51A(g)",
+      "kind": "law",
+      "rel": "the constitutional hook",
+      "note": "Directive Principle on protecting forests and wildlife, and the Fundamental Duty to protect the natural environment."
+     },
+     {
+      "id": "keoladeo",
+      "parent": "corbett",
+      "tier": 3,
+      "label": "Keoladeo",
+      "kind": "place",
+      "rel": "Bharatpur",
+      "note": "A former royal hunting reserve in Rajasthan, now a national park, Ramsar site and UNESCO World Heritage Site for migratory birds."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-rivers",
+   "rank": 3,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The river systems and how the water is divided",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Rivers",
+    "Ganga",
+    "Indus Waters Treaty",
+    "Brahmaputra"
+   ],
+   "hook": "Three rivers rise within a hundred kilometres of one another near Mansarovar and end up in three different countries.",
+   "story": "India's rivers split into two families that behave nothing alike. The **Himalayan** rivers are fed by snowmelt as well as rain, so they flow all year, and because they cut their valleys while the mountains were still rising they carry enormous silt loads and wander across their floodplains. The **peninsular** rivers run over old, hard rock in shallow, settled valleys, and most of them dry to a trickle between monsoons.\n\nThree of the great Himalayan rivers rise close together on the Tibetan plateau near **Mansarovar**. The **Indus** flows northwest and then south into Pakistan. The **Sutlej** cuts through the range to join it. The **Brahmaputra**, called the Tsangpo in Tibet and the Jamuna in Bangladesh, runs east for more than a thousand kilometres before turning south around **Namcha Barwa** and entering India in Arunachal Pradesh as the Siang. The **Ganga** begins instead at **Gangotri**, where the **Bhagirathi** and the **Alaknanda** meet at **Devprayag** and take the name. Its longest tributary is the **Yamuna**; its largest by volume is the **Ghaghara**. The Ganga and the Brahmaputra join in Bangladesh and form the **Sundarbans delta**, the largest in the world.\n\nThe peninsular rivers mostly rise in the **Western Ghats** and run east to the Bay of Bengal: the **Godavari**, longest of them and called the Dakshin Ganga, then the **Krishna**, the **Mahanadi** and the **Kaveri**. Only three major rivers run west, and two of them, the **Narmada** and the **Tapi**, flow through rift valleys and so form estuaries rather than deltas.\n\nWater crosses borders, which makes rivers a legal subject. The **Indus Waters Treaty** of **1960**, brokered by the World Bank and signed by Nehru and Ayub Khan, gave India the three eastern rivers, **Ravi, Beas and Sutlej**, and Pakistan the three western ones, **Indus, Jhelum and Chenab**, with India allowed limited non-consumptive use of the western rivers. India placed the treaty **in abeyance in April 2025** after the Pahalgam attack. Domestic disputes go to tribunals under the **Inter-State River Water Disputes Act 1956**; the Kaveri and the Krishna have each generated decades of them.",
+   "facts": [
+    {
+     "k": "Longest river in India",
+     "v": "Ganga, about 2,525 km; the Brahmaputra is longer overall but shorter within India"
+    },
+    {
+     "k": "Longest peninsular river",
+     "v": "Godavari, about 1,465 km, from Trimbakeshwar in Maharashtra"
+    },
+    {
+     "k": "Indus Waters Treaty, 1960",
+     "v": "Eastern rivers to India, western rivers to Pakistan; World Bank a signatory"
+    },
+    {
+     "k": "Rivers flowing west",
+     "v": "Narmada, Tapi and Mahi; the first two run through rift valleys"
+    },
+    {
+     "k": "Largest delta",
+     "v": "Ganga-Brahmaputra, shared with Bangladesh, holding the Sundarbans"
+    },
+    {
+     "k": "Dispute machinery",
+     "v": "Inter-State River Water Disputes Act 1956; tribunals, not courts, decide"
+    },
+    {
+     "k": "Namami Gange",
+     "v": "Launched 2014 under the National Mission for Clean Ganga"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1956",
+     "what": "Inter-State River Water Disputes Act enacted"
+    },
+    {
+     "when": "1960",
+     "what": "Indus Waters Treaty signed at Karachi"
+    },
+    {
+     "when": "2014",
+     "what": "Namami Gange launched"
+    },
+    {
+     "when": "2025",
+     "what": "India places the Indus Waters Treaty in abeyance"
+    }
+   ],
+   "why": "Rivers get asked two ways: pure recall of source, tributary and state, and comprehension passages on the Indus treaty or a tribunal award. The trap is the Brahmaputra's three names and the fact that the Ganga does not itself rise at Mansarovar.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gr-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Indian river systems",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Two families of river with different regimes and different legal problems."
+     },
+     {
+      "id": "gr-him",
+      "parent": "gr-root",
+      "tier": 1,
+      "label": "Himalayan rivers",
+      "kind": "concept",
+      "rel": "family",
+      "note": "Snow-fed, perennial, heavy silt, shifting courses."
+     },
+     {
+      "id": "gr-pen",
+      "parent": "gr-root",
+      "tier": 1,
+      "label": "Peninsular rivers",
+      "kind": "concept",
+      "rel": "family",
+      "note": "Rain-fed, seasonal, fixed shallow valleys on old rock."
+     },
+     {
+      "id": "gr-ganga",
+      "parent": "gr-him",
+      "tier": 2,
+      "label": "Ganga",
+      "kind": "place",
+      "rel": "river",
+      "note": "Rises at Gangotri; Bhagirathi and Alaknanda meet at Devprayag."
+     },
+     {
+      "id": "gr-yamuna",
+      "parent": "gr-ganga",
+      "tier": 3,
+      "label": "Yamuna",
+      "kind": "place",
+      "rel": "tributary",
+      "note": "Longest tributary of the Ganga, rising at Yamunotri."
+     },
+     {
+      "id": "gr-brahma",
+      "parent": "gr-him",
+      "tier": 2,
+      "label": "Brahmaputra",
+      "kind": "place",
+      "rel": "river",
+      "note": "Tsangpo in Tibet, Siang in Arunachal, Jamuna in Bangladesh."
+     },
+     {
+      "id": "gr-indus",
+      "parent": "gr-him",
+      "tier": 2,
+      "label": "Indus",
+      "kind": "place",
+      "rel": "river",
+      "note": "Rises near Mansarovar, flows through Ladakh into Pakistan."
+     },
+     {
+      "id": "gr-iwt",
+      "parent": "gr-indus",
+      "tier": 2,
+      "label": "Indus Waters Treaty 1960",
+      "kind": " agreement",
+      "rel": "law",
+      "note": "Eastern three rivers to India, western three to Pakistan."
+     },
+     {
+      "id": "gr-abey",
+      "parent": "gr-iwt",
+      "tier": 3,
+      "label": "In abeyance, 2025",
+      "kind": "event",
+      "rel": "change",
+      "note": "India suspended participation after the Pahalgam attack."
+     },
+     {
+      "id": "gr-god",
+      "parent": "gr-pen",
+      "tier": 2,
+      "label": "Godavari",
+      "kind": "place",
+      "rel": "river",
+      "note": "Longest peninsular river, the Dakshin Ganga."
+     },
+     {
+      "id": "gr-krishna",
+      "parent": "gr-pen",
+      "tier": 2,
+      "label": "Krishna and Kaveri",
+      "kind": "place",
+      "rel": "rivers",
+      "note": "Both rise in the Western Ghats and drain east."
+     },
+     {
+      "id": "gr-rift",
+      "parent": "gr-pen",
+      "tier": 2,
+      "label": "Narmada and Tapi",
+      "kind": "place",
+      "rel": "rivers",
+      "note": "West-flowing through rift valleys, so estuaries not deltas."
+     },
+     {
+      "id": "gr-sund",
+      "parent": "gr-root",
+      "tier": 2,
+      "label": "Sundarbans delta",
+      "kind": "place",
+      "rel": "landform",
+      "note": "World's largest delta, shared with Bangladesh."
+     },
+     {
+      "id": "gr-trib",
+      "parent": "gr-root",
+      "tier": 2,
+      "label": "Water disputes tribunals",
+      "kind": "institution",
+      "rel": "law",
+      "note": "Set up under the 1956 Act; Kaveri and Krishna the long-running ones."
+     },
+     {
+      "id": "gr-namami",
+      "parent": "gr-ganga",
+      "tier": 3,
+      "label": "Namami Gange",
+      "kind": "scheme",
+      "rel": "policy",
+      "note": "2014 cleaning mission run by the National Mission for Clean Ganga."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-world",
+   "rank": 4,
+   "depth": "deep",
+   "importance": 4,
+   "title": "World geography: the lines, the extremes and the chokepoints",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "World Geography",
+    "Straits",
+    "Deserts",
+    "Continents"
+   ],
+   "hook": "A hundred and twenty miles of dredged channel decides the freight cost of half of Europe.",
+   "story": "**Lines.** The **equator** at 0° passes through thirteen countries, including Ecuador, Colombia, Brazil, Kenya, Uganda, Indonesia and the Democratic Republic of the Congo. The **Tropic of Cancer** at 23.5° N crosses about sixteen countries including India, and the **Tropic of Capricorn** at 23.5° S crosses ten. The **Prime Meridian** at 0° runs through Greenwich, and the **International Date Line** roughly follows 180° with deviations to keep island groups on one side.\n\n**Continents and extremes.** **Asia** is the largest continent and **Australia** the smallest; **Africa** has the most countries at 54. The largest country by area is **Russia**, the smallest **Vatican City**. The highest point is **Everest** at 8,849 m on the Nepal-China border, the lowest exposed land the shore of the **Dead Sea**, and the deepest ocean point the **Challenger Deep** in the **Mariana Trench** at about 10,900 m. The largest ocean is the **Pacific**, the largest sea the **South China Sea**, the largest lake by area the **Caspian**, the deepest lake **Baikal**, and the largest freshwater lake by area **Lake Superior**.\n\n**Rivers and deserts.** The **Nile** and the **Amazon** are the two candidates for longest river, depending on where the Amazon is measured from; the Amazon is unambiguously the largest by discharge. The **Danube** passes through the most countries, ten. The largest hot desert is the **Sahara**, the largest desert of any kind the **Antarctic** polar desert, the driest place the **Atacama**, and the largest cold desert the **Gobi**.\n\n**Chokepoints**, which is where geography turns into geopolitics. The **Strait of Hormuz** between Iran and Oman carries about a fifth of the world's oil. The **Strait of Malacca** between Malaysia and Indonesia is the shortest route from the Indian Ocean to the Pacific. **Bab-el-Mandeb** guards the southern Red Sea and the approach to Suez. The **Bosphorus and Dardanelles** connect the Black Sea to the Mediterranean under the 1936 **Montreux Convention**. The **Panama Canal**, opened in 1914 and handed to Panama in 1999, links the Atlantic to the Pacific; the **Suez Canal**, opened in 1869 and nationalised by Nasser in 1956, links the Mediterranean to the Red Sea.",
+   "facts": [
+    {
+     "k": "Equator",
+     "v": "Passes through thirteen countries; India is crossed by the Tropic of Cancer, not the equator"
+    },
+    {
+     "k": "Largest and smallest continents",
+     "v": "Asia and Australia; Africa has the most countries at 54"
+    },
+    {
+     "k": "Highest and deepest",
+     "v": "Everest 8,849 m; Challenger Deep in the Mariana Trench about 10,900 m"
+    },
+    {
+     "k": "Largest lake",
+     "v": "Caspian by area, Baikal by depth, Superior among freshwater lakes by area"
+    },
+    {
+     "k": "Longest river",
+     "v": "Nile or Amazon depending on measurement; Amazon largest by discharge; Danube crosses ten countries"
+    },
+    {
+     "k": "Deserts",
+     "v": "Sahara largest hot, Antarctica largest overall, Atacama driest, Gobi largest cold"
+    },
+    {
+     "k": "Hormuz",
+     "v": "Between Iran and Oman; about a fifth of world oil passes through"
+    },
+    {
+     "k": "Canals",
+     "v": "Suez opened 1869, nationalised 1956; Panama opened 1914, handed over 1999"
+    }
+   ],
+   "timeline": [],
+   "why": "Chokepoints are the highest-yield part of this: learn what each one separates and what it connects. The Caspian being a lake rather than a sea is the classic trick.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gwo-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "World geography",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Lines, extremes and the passages that matter."
+     },
+     {
+      "id": "gwo-lines",
+      "parent": "gwo-root",
+      "tier": 1,
+      "label": "The reference lines",
+      "kind": "concept",
+      "rel": "grid",
+      "note": "Equator, tropics, Prime Meridian, Date Line."
+     },
+     {
+      "id": "gwo-cancer",
+      "parent": "gwo-lines",
+      "tier": 2,
+      "label": "Tropic of Cancer",
+      "kind": "concept",
+      "rel": "line",
+      "note": "Crosses India through eight states."
+     },
+     {
+      "id": "gwo-idl",
+      "parent": "gwo-lines",
+      "tier": 2,
+      "label": "International Date Line",
+      "kind": "concept",
+      "rel": "line",
+      "note": "Roughly 180°, bent around island groups."
+     },
+     {
+      "id": "gwo-cont",
+      "parent": "gwo-root",
+      "tier": 1,
+      "label": "Continents",
+      "kind": "concept",
+      "rel": "extremes",
+      "note": "Asia largest, Australia smallest, Africa most countries."
+     },
+     {
+      "id": "gwo-high",
+      "parent": "gwo-root",
+      "tier": 1,
+      "label": "Highest and deepest",
+      "kind": "concept",
+      "rel": "extremes",
+      "note": "Everest and the Challenger Deep."
+     },
+     {
+      "id": "gwo-lakes",
+      "parent": "gwo-root",
+      "tier": 2,
+      "label": "Lakes",
+      "kind": "concept",
+      "rel": "extremes",
+      "note": "Caspian by area, Baikal by depth, Superior among freshwater."
+     },
+     {
+      "id": "gwo-rivers",
+      "parent": "gwo-root",
+      "tier": 1,
+      "label": "Rivers",
+      "kind": "concept",
+      "rel": "extremes",
+      "note": "Nile and Amazon; Danube crosses ten countries."
+     },
+     {
+      "id": "gwo-desert",
+      "parent": "gwo-root",
+      "tier": 1,
+      "label": "Deserts",
+      "kind": "concept",
+      "rel": "extremes",
+      "note": "Sahara, Antarctica, Atacama, Gobi."
+     },
+     {
+      "id": "gwo-choke",
+      "parent": "gwo-root",
+      "tier": 1,
+      "label": "Chokepoints",
+      "kind": "concept",
+      "rel": "strategy",
+      "note": "Where geography becomes geopolitics."
+     },
+     {
+      "id": "gwo-hormuz",
+      "parent": "gwo-choke",
+      "tier": 2,
+      "label": "Strait of Hormuz",
+      "kind": "place",
+      "rel": "strait",
+      "note": "Iran and Oman; about a fifth of world oil."
+     },
+     {
+      "id": "gwo-malacca",
+      "parent": "gwo-choke",
+      "tier": 2,
+      "label": "Strait of Malacca",
+      "kind": "place",
+      "rel": "strait",
+      "note": "Indian Ocean to the Pacific."
+     },
+     {
+      "id": "gwo-bab",
+      "parent": "gwo-choke",
+      "tier": 2,
+      "label": "Bab-el-Mandeb",
+      "kind": "place",
+      "rel": "strait",
+      "note": "Southern Red Sea, on the approach to Suez."
+     },
+     {
+      "id": "gwo-bos",
+      "parent": "gwo-choke",
+      "tier": 2,
+      "label": "Bosphorus and Dardanelles",
+      "kind": "place",
+      "rel": "strait",
+      "note": "Black Sea to the Mediterranean, under the Montreux Convention."
+     },
+     {
+      "id": "gwo-suez",
+      "parent": "gwo-choke",
+      "tier": 2,
+      "label": "Suez Canal",
+      "kind": "place",
+      "rel": "canal",
+      "note": "Opened 1869, nationalised 1956."
+     },
+     {
+      "id": "gwo-panama",
+      "parent": "gwo-choke",
+      "tier": 2,
+      "label": "Panama Canal",
+      "kind": "place",
+      "rel": "canal",
+      "note": "Opened 1914, handed to Panama in 1999."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-ghats",
+   "rank": 6,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The Ghats, the hotspot and the reports nobody adopted",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Western Ghats",
+    "Biodiversity",
+    "Gadgil",
+    "Kasturirangan"
+   ],
+   "hook": "A 1,600 km ridge older than the Himalayas, listed as one of the world's eight hottest biodiversity hotspots, still without an agreed conservation boundary.",
+   "story": "The **Western Ghats** are not a mountain range in the ordinary sense. They are the faulted edge of the Deccan plateau, which is why they rise steeply from the coast and slope gently inland, and why they are geologically far older than the Himalayas. They run about **1,600 km** from the **Tapi** valley in Gujarat down through Maharashtra, Goa, Karnataka, Kerala and Tamil Nadu, broken only at the **Palghat Gap**, a 30 km breach that carries the road and rail line into Kerala and that separates the Nilgiris to the north from the Anamalai and Cardamom hills to the south. The highest peak is **Anamudi** at 2,695 m, the highest point in India south of the Himalayas.\n\nThe **Eastern Ghats** are the opposite in almost every respect: discontinuous, broken repeatedly by the Mahanadi, Godavari, Krishna and Kaveri as they cut through to the sea, lower, and drier. The two meet in the **Nilgiris**, where **Doddabetta** rises to 2,637 m. Because the Western Ghats intercept the southwest monsoon, their windward slopes are among the wettest places in India while the Deccan behind them sits in a rain shadow.\n\nThe range is one of the world's recognised **biodiversity hotspots**, with roughly a third of its plant species found nowhere else, and **39 sites** across it are inscribed on the **UNESCO World Heritage List**. Protecting it has been harder than listing it. A panel chaired by **Madhav Gadgil** reported in **2011** that the entire range should be an ecologically sensitive area graded into three zones, with mining and large dams barred from the strictest. Every affected state objected. A second panel under **K. Kasturirangan** reported in **2013** and cut the protected fraction to about **37%** of the range. That report too has never been finally notified, and each landslide season in Kerala and Karnataka revives the argument.",
+   "facts": [
+    {
+     "k": "Length",
+     "v": "Western Ghats about 1,600 km, from the Tapi valley to Kanniyakumari"
+    },
+    {
+     "k": "Highest peak",
+     "v": "Anamudi, 2,695 m, in Kerala; highest in India outside the Himalayas"
+    },
+    {
+     "k": "Palghat Gap",
+     "v": "About 30 km wide; carries the main road and rail route into Kerala"
+    },
+    {
+     "k": "Nilgiris",
+     "v": "Where the two Ghats meet; Doddabetta 2,637 m; India's first biosphere reserve, 1986"
+    },
+    {
+     "k": "Hotspot status",
+     "v": "One of the world's biodiversity hotspots; about 30% plant endemism"
+    },
+    {
+     "k": "Gadgil report, 2011",
+     "v": "Whole range ecologically sensitive, graded into three zones; rejected by states"
+    },
+    {
+     "k": "Kasturirangan report, 2013",
+     "v": "Reduced the sensitive area to about 37%; still not finally notified"
+    },
+    {
+     "k": "World Heritage",
+     "v": "39 serial sites inscribed in 2012"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1986",
+     "what": "Nilgiri Biosphere Reserve, India's first, notified"
+    },
+    {
+     "when": "2011",
+     "what": "Gadgil panel reports"
+    },
+    {
+     "when": "2012",
+     "what": "39 Western Ghats sites inscribed by UNESCO"
+    },
+    {
+     "when": "2013",
+     "what": "Kasturirangan panel reports"
+    }
+   ],
+   "why": "The examiner's favourite pairing is Gadgil against Kasturirangan, and the favourite trap is Anamudi against Doddabetta. Remember that the Western Ghats are older than the Himalayas and are an escarpment, not a fold range.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gg-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "The Ghats",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Two very different ranges flanking the Deccan."
+     },
+     {
+      "id": "gg-west",
+      "parent": "gg-root",
+      "tier": 1,
+      "label": "Western Ghats",
+      "kind": "place",
+      "rel": "range",
+      "note": "Faulted edge of the Deccan plateau, continuous for 1,600 km."
+     },
+     {
+      "id": "gg-east",
+      "parent": "gg-root",
+      "tier": 1,
+      "label": "Eastern Ghats",
+      "kind": "place",
+      "rel": "range",
+      "note": "Discontinuous, cut by four major east-flowing rivers."
+     },
+     {
+      "id": "gg-anamudi",
+      "parent": "gg-west",
+      "tier": 2,
+      "label": "Anamudi",
+      "kind": "place",
+      "rel": "peak",
+      "note": "2,695 m, the highest point in peninsular India."
+     },
+     {
+      "id": "gg-palghat",
+      "parent": "gg-west",
+      "tier": 2,
+      "label": "Palghat Gap",
+      "kind": "place",
+      "rel": "landform",
+      "note": "The one major break in the range; road and rail into Kerala."
+     },
+     {
+      "id": "gg-nil",
+      "parent": "gg-root",
+      "tier": 2,
+      "label": "Nilgiris",
+      "kind": "place",
+      "rel": "junction",
+      "note": "Where the two Ghats meet; Doddabetta 2,637 m."
+     },
+     {
+      "id": "gg-bio",
+      "parent": "gg-nil",
+      "tier": 3,
+      "label": "Nilgiri Biosphere Reserve",
+      "kind": "institution",
+      "rel": "protection",
+      "note": "India's first, notified 1986."
+     },
+     {
+      "id": "gg-hot",
+      "parent": "gg-west",
+      "tier": 2,
+      "label": "Biodiversity hotspot",
+      "kind": "concept",
+      "rel": "status",
+      "note": "About a third of plant species endemic."
+     },
+     {
+      "id": "gg-unesco",
+      "parent": "gg-west",
+      "tier": 2,
+      "label": "World Heritage, 2012",
+      "kind": "event",
+      "rel": "listing",
+      "note": "39 serial sites inscribed."
+     },
+     {
+      "id": "gg-gadgil",
+      "parent": "gg-west",
+      "tier": 2,
+      "label": "Gadgil report, 2011",
+      "kind": "report",
+      "rel": "policy",
+      "note": "Whole range ecologically sensitive; states refused it."
+     },
+     {
+      "id": "gg-kast",
+      "parent": "gg-gadgil",
+      "tier": 3,
+      "label": "Kasturirangan report, 2013",
+      "kind": "report",
+      "rel": "revision",
+      "note": "Cut the sensitive zone to about 37%; still unnotified."
+     },
+     {
+      "id": "gg-shadow",
+      "parent": "gg-west",
+      "tier": 2,
+      "label": "Deccan rain shadow",
+      "kind": "concept",
+      "rel": "effect",
+      "note": "The Ghats intercept the monsoon and leave the plateau dry."
+     },
+     {
+      "id": "gg-doda",
+      "parent": "gg-east",
+      "tier": 2,
+      "label": "Doddabetta",
+      "kind": "place",
+      "rel": "peak",
+      "note": "Highest in the Nilgiris at 2,637 m."
+     },
+     {
+      "id": "gg-mahen",
+      "parent": "gg-east",
+      "tier": 2,
+      "label": "Mahendragiri",
+      "kind": "place",
+      "rel": "peak",
+      "note": "High point of the Eastern Ghats in Odisha."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-soils",
+   "rank": 9,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Soils, crops and where the food actually comes from",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Soils",
+    "Agriculture",
+    "Black soil",
+    "Green Revolution"
+   ],
+   "hook": "Two soil types cover more than half the country, and they support entirely different crops for entirely different reasons.",
+   "story": "The Indian Council of Agricultural Research classifies Indian soils into eight major groups, and two of them do most of the work. **Alluvial soil** covers roughly **40%** of the land, laid down by the Himalayan rivers across the Northern Plains and continuing into the coastal deltas. It is rich in potash and lime and poor in nitrogen and humus, and it is the reason the plains grow wheat, rice and sugarcane. Older alluvium away from the rivers is called **bhangar** and is slightly coarser; newer alluvium in the floodplains is **khadar** and is renewed every year.\n\n**Black soil**, also called **regur** or black cotton soil, covers about **15%**, almost all of it over the **Deccan Trap** basalt of Maharashtra, Madhya Pradesh, Gujarat and parts of Karnataka and Telangana. It holds moisture unusually well, cracks deeply when it dries, and so is self-ploughing, which suited cotton long before irrigation arrived. **Red and yellow soil** forms on crystalline rock across the eastern and southern peninsula and takes its colour from iron oxide. **Laterite** forms where heavy rain leaches away silica and leaves iron and aluminium behind; it is poor for most crops but supports tea, coffee and cashew, and it hardens into building blocks, which is where the name comes from.\n\nCropping follows the monsoon. **Kharif** crops are sown with the June rains and harvested from September: rice, maize, cotton, groundnut, bajra. **Rabi** crops are sown in October and November on residual moisture and harvested in spring: wheat, barley, mustard, gram. **Zaid** is the short summer season for melons and fodder. Uttar Pradesh leads in sugarcane and wheat, West Bengal in rice, and Gujarat in groundnut and cotton.\n\nSoil degradation is the current policy problem. About **30%** of India's land is degraded to some degree, from salinity in over-irrigated canal commands, from erosion in the Chambal ravines, and from the nutrient imbalance the fertiliser subsidy encourages by making urea cheap relative to phosphate and potash.",
+   "facts": [
+    {
+     "k": "Largest soil group",
+     "v": "Alluvial, about 40% of the area, across the Northern Plains and deltas"
+    },
+    {
+     "k": "Bhangar and khadar",
+     "v": "Older, coarser upland alluvium and newer, renewed floodplain alluvium"
+    },
+    {
+     "k": "Black soil",
+     "v": "Regur, on Deccan Trap basalt; moisture-retentive and self-ploughing; cotton"
+    },
+    {
+     "k": "Laterite",
+     "v": "Leached soil of heavy-rainfall areas; tea, coffee, cashew; used as building blocks"
+    },
+    {
+     "k": "Kharif",
+     "v": "Sown with the southwest monsoon; rice, cotton, maize, groundnut"
+    },
+    {
+     "k": "Rabi",
+     "v": "Sown after the monsoon on residual moisture; wheat, mustard, gram"
+    },
+    {
+     "k": "Degradation",
+     "v": "About 30% of land degraded; salinity, erosion and nutrient imbalance"
+    }
+   ],
+   "timeline": [],
+   "why": "Questions pair a soil with a crop or a state, so learn the pairs rather than the chemistry. Black soil with cotton and the Deccan Trap is the single most repeated pairing, and laterite with plantation crops is the second.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gs-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Soils and cropping",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Eight classified groups; two cover more than half the country."
+     },
+     {
+      "id": "gs-all",
+      "parent": "gs-root",
+      "tier": 1,
+      "label": "Alluvial soil",
+      "kind": "concept",
+      "rel": "type",
+      "note": "About 40% of India; the Northern Plains and the deltas."
+     },
+     {
+      "id": "gs-bk",
+      "parent": "gs-all",
+      "tier": 2,
+      "label": "Bhangar and khadar",
+      "kind": "concept",
+      "rel": "division",
+      "note": "Older upland alluvium against newer floodplain alluvium."
+     },
+     {
+      "id": "gs-black",
+      "parent": "gs-root",
+      "tier": 1,
+      "label": "Black soil (regur)",
+      "kind": "concept",
+      "rel": "type",
+      "note": "Over Deccan Trap basalt; retains moisture, cracks and self-ploughs."
+     },
+     {
+      "id": "gs-cotton",
+      "parent": "gs-black",
+      "tier": 2,
+      "label": "Cotton",
+      "kind": "concept",
+      "rel": "crop",
+      "note": "Grown on regur long before irrigation reached the Deccan."
+     },
+     {
+      "id": "gs-red",
+      "parent": "gs-root",
+      "tier": 2,
+      "label": "Red and yellow soil",
+      "kind": "concept",
+      "rel": "type",
+      "note": "On crystalline rock in the eastern and southern peninsula."
+     },
+     {
+      "id": "gs-lat",
+      "parent": "gs-root",
+      "tier": 2,
+      "label": "Laterite",
+      "kind": "concept",
+      "rel": "type",
+      "note": "Leached in heavy rain; tea, coffee, cashew; cut as blocks."
+     },
+     {
+      "id": "gs-kharif",
+      "parent": "gs-root",
+      "tier": 1,
+      "label": "Kharif season",
+      "kind": "concept",
+      "rel": "cycle",
+      "note": "Sown June, harvested September; rice, maize, cotton."
+     },
+     {
+      "id": "gs-rabi",
+      "parent": "gs-root",
+      "tier": 1,
+      "label": "Rabi season",
+      "kind": "concept",
+      "rel": "cycle",
+      "note": "Sown October, harvested spring; wheat, mustard, gram."
+     },
+     {
+      "id": "gs-zaid",
+      "parent": "gs-rabi",
+      "tier": 3,
+      "label": "Zaid",
+      "kind": "concept",
+      "rel": "cycle",
+      "note": "Short summer season for melons and fodder."
+     },
+     {
+      "id": "gs-deg",
+      "parent": "gs-root",
+      "tier": 2,
+      "label": "Land degradation",
+      "kind": "concept",
+      "rel": "problem",
+      "note": "About 30% degraded; salinity, ravines, nutrient imbalance."
+     },
+     {
+      "id": "gs-sub",
+      "parent": "gs-deg",
+      "tier": 3,
+      "label": "Fertiliser subsidy",
+      "kind": "concept",
+      "rel": "cause",
+      "note": "Cheap urea skews the nitrogen-phosphate-potash ratio."
+     },
+     {
+      "id": "gs-trap",
+      "parent": "gs-black",
+      "tier": 3,
+      "label": "Deccan Trap",
+      "kind": "place",
+      "rel": "geology",
+      "note": "Flood basalt from the end of the Cretaceous; parent rock of regur."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-passes",
+   "rank": 12,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Ranges, peaks and the passes that carry the traffic",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Himalayas",
+    "Passes",
+    "Karakoram",
+    "Peaks"
+   ],
+   "hook": "A pass is where a border becomes negotiable, which is why so many of them have been fought over.",
+   "story": "The Himalayas run in three roughly parallel belts. The **Greater Himalaya**, or Himadri, carries the permanent snow and the high peaks. The **Lesser Himalaya**, or Himachal, holds the hill stations and the valleys of Kashmir, Kangra and Kullu. The **Shiwaliks** are the outermost and youngest, built from the debris the rivers dumped as the range rose; the flat valleys between the Shiwaliks and the Lesser Himalaya are called **duns**, as at Dehradun. North of all three lies the **Trans-Himalaya**, which includes the **Karakoram**, the **Ladakh** and the **Zanskar** ranges.\n\n**Kanchenjunga**, at **8,586 m** on the Sikkim-Nepal border, is the highest peak wholly or partly in India and the third highest in the world. **K2**, at 8,611 m, stands in the Karakoram in territory India claims but does not control. **Nanda Devi**, 7,816 m, is the highest entirely within Indian territory, in Uttarakhand.\n\nThe passes are what matter politically. **Karakoram Pass** and the **Siachen glacier** sit at the far north, which is why the glacier has been occupied since **Operation Meghdoot in 1984**. **Nathu La** in Sikkim, closed after the 1962 war and reopened for trade in **2006**, is on the old Lhasa route; **Shipki La** in Himachal and **Lipulekh** in Uttarakhand carry the Kailash Mansarovar pilgrimage. **Zoji La** links the Kashmir valley to Ladakh and is kept open by the Border Roads Organisation; the **Atal Tunnel**, opened in **2020** under Rohtang, made the Manali route to Lahaul usable in winter. **Bomdi La** and **Se La** in Arunachal were on the 1962 front, and the **Sela tunnel** was opened in **2024**.\n\nIn the peninsula, the passes are called ghats: **Thal**, **Bhor** and **Pal** carry the roads from the Konkan coast up onto the Deccan.",
+   "facts": [
+    {
+     "k": "Three Himalayan belts",
+     "v": "Greater Himalaya, Lesser Himalaya, Shiwaliks, from north to south"
+    },
+    {
+     "k": "Duns",
+     "v": "Longitudinal valleys between the Shiwaliks and the Lesser Himalaya, as at Dehradun"
+    },
+    {
+     "k": "Kanchenjunga",
+     "v": "8,586 m, third highest in the world, on the Sikkim-Nepal border"
+    },
+    {
+     "k": "Nanda Devi",
+     "v": "7,816 m, the highest peak entirely inside India"
+    },
+    {
+     "k": "Nathu La",
+     "v": "Sikkim, on the old Lhasa route; closed 1962, reopened for trade 2006"
+    },
+    {
+     "k": "Siachen",
+     "v": "Held since Operation Meghdoot, 1984; near the Karakoram Pass"
+    },
+    {
+     "k": "Atal Tunnel",
+     "v": "Opened 2020 under Rohtang; year-round access to Lahaul"
+    },
+    {
+     "k": "Sela Tunnel",
+     "v": "Opened 2024 in Arunachal, on the road to Tawang"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1962",
+     "what": "Nathu La, Se La and Bomdi La on the front in the war with China"
+    },
+    {
+     "when": "1984",
+     "what": "Operation Meghdoot occupies the Siachen glacier"
+    },
+    {
+     "when": "2006",
+     "what": "Nathu La reopened for border trade"
+    },
+    {
+     "when": "2020",
+     "what": "Atal Tunnel opened"
+    },
+    {
+     "when": "2024",
+     "what": "Sela Tunnel opened"
+    }
+   ],
+   "why": "Pass questions are really border questions. Learn each pass with its state and what lies on the other side, because that is how the option set is built.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gp-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Ranges and passes",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Three Himalayan belts, a Trans-Himalayan zone, and the gaps through them."
+     },
+     {
+      "id": "gp-himadri",
+      "parent": "gp-root",
+      "tier": 1,
+      "label": "Greater Himalaya",
+      "kind": "place",
+      "rel": "range",
+      "note": "The snowline and the high peaks."
+     },
+     {
+      "id": "gp-himachal",
+      "parent": "gp-root",
+      "tier": 1,
+      "label": "Lesser Himalaya",
+      "kind": "place",
+      "rel": "range",
+      "note": "Hill stations and the Kashmir, Kangra and Kullu valleys."
+     },
+     {
+      "id": "gp-shiw",
+      "parent": "gp-root",
+      "tier": 1,
+      "label": "Shiwaliks",
+      "kind": "place",
+      "rel": "range",
+      "note": "Outermost and youngest, built of river debris."
+     },
+     {
+      "id": "gp-dun",
+      "parent": "gp-shiw",
+      "tier": 2,
+      "label": "Duns",
+      "kind": "place",
+      "rel": "landform",
+      "note": "Flat valleys behind the Shiwaliks, as at Dehradun."
+     },
+     {
+      "id": "gp-trans",
+      "parent": "gp-root",
+      "tier": 1,
+      "label": "Trans-Himalaya",
+      "kind": "place",
+      "rel": "zone",
+      "note": "Karakoram, Ladakh and Zanskar ranges."
+     },
+     {
+      "id": "gp-kanch",
+      "parent": "gp-himadri",
+      "tier": 2,
+      "label": "Kanchenjunga",
+      "kind": "place",
+      "rel": "peak",
+      "note": "8,586 m, third highest in the world."
+     },
+     {
+      "id": "gp-nanda",
+      "parent": "gp-himadri",
+      "tier": 2,
+      "label": "Nanda Devi",
+      "kind": "place",
+      "rel": "peak",
+      "note": "7,816 m, highest wholly within India."
+     },
+     {
+      "id": "gp-k2",
+      "parent": "gp-trans",
+      "tier": 2,
+      "label": "K2",
+      "kind": "place",
+      "rel": "peak",
+      "note": "8,611 m in the Karakoram, in territory India claims."
+     },
+     {
+      "id": "gp-siachen",
+      "parent": "gp-trans",
+      "tier": 2,
+      "label": "Siachen",
+      "kind": "place",
+      "rel": "conflict",
+      "note": "Occupied in Operation Meghdoot, 1984."
+     },
+     {
+      "id": "gp-nathu",
+      "parent": "gp-root",
+      "tier": 2,
+      "label": "Nathu La",
+      "kind": "place",
+      "rel": "pass",
+      "note": "Sikkim; reopened for trade in 2006."
+     },
+     {
+      "id": "gp-zoji",
+      "parent": "gp-root",
+      "tier": 2,
+      "label": "Zoji La",
+      "kind": "place",
+      "rel": "pass",
+      "note": "Srinagar to Leh; kept open by the Border Roads Organisation."
+     },
+     {
+      "id": "gp-atal",
+      "parent": "gp-root",
+      "tier": 2,
+      "label": "Atal Tunnel",
+      "kind": "place",
+      "rel": "infrastructure",
+      "note": "Opened 2020 under Rohtang."
+     },
+     {
+      "id": "gp-sela",
+      "parent": "gp-root",
+      "tier": 2,
+      "label": "Sela and Bomdi La",
+      "kind": "place",
+      "rel": "pass",
+      "note": "Arunachal, on the 1962 front; Sela tunnel opened 2024."
+     },
+     {
+      "id": "gp-ghats",
+      "parent": "gp-root",
+      "tier": 2,
+      "label": "Thal, Bhor and Pal ghats",
+      "kind": "place",
+      "rel": "pass",
+      "note": "The climbs from the Konkan coast onto the Deccan."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-tectonics",
+   "rank": 15,
+   "depth": "medium",
+   "importance": 3,
+   "title": "Plates, earthquakes and the zones the building code uses",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Plate Tectonics",
+    "Earthquakes",
+    "Seismic Zones",
+    "Tsunami"
+   ],
+   "hook": "India is still moving north into Asia at about five centimetres a year, and the Himalayas are the receipt.",
+   "story": "The **Indian plate** broke away from Gondwana, drifted north across the Tethys Sea, and began colliding with the **Eurasian plate** around 50 million years ago. It has not stopped. Convergence of roughly **five centimetres a year** keeps thrusting the Himalayas upward and keeps storing strain along the fault system beneath them, which is why the whole arc is seismically active. The **Deccan Trap** basalt, poured out in enormous flood eruptions at the end of the Cretaceous as the plate passed over the Réunion hotspot, dates from the same journey.\n\nThe Bureau of Indian Standards divides the country into **four seismic zones**, numbered **II to V**, after an older five-zone map was collapsed. **Zone V**, the most severe, covers the whole northeast, the Kutch region of Gujarat, parts of Himachal and Uttarakhand, and the Andaman and Nicobar islands. **Zone IV** covers Delhi, the rest of the Himalayan foothills and parts of Bihar. **Zone II** is the lowest hazard and takes in most of the southern peninsula. About **59%** of India's land is liable to earthquakes of moderate or greater intensity.\n\nThe three events that shaped policy were **Latur in 1993**, which struck a supposedly stable part of the Deccan and killed nearly ten thousand, **Bhuj in 2001**, which killed about twenty thousand and revealed how badly urban construction ignored the code, and the **Indian Ocean tsunami of 26 December 2004**, generated by a magnitude 9.1 rupture off Sumatra, which killed over ten thousand in India and reshaped the Andaman coastline. The **Disaster Management Act** followed in **2005**, creating the **National Disaster Management Authority** chaired by the Prime Minister, the **National Disaster Response Force**, and the state and district authorities beneath them. India now runs a tsunami warning centre at Hyderabad under INCOIS and hosts the **Coalition for Disaster Resilient Infrastructure**, launched in 2019.",
+   "facts": [
+    {
+     "k": "Convergence rate",
+     "v": "About 5 cm a year of the Indian plate into Eurasia"
+    },
+    {
+     "k": "Seismic zones",
+     "v": "Four, numbered II to V; Zone V the most severe"
+    },
+    {
+     "k": "Zone V areas",
+     "v": "The northeast, Kutch, parts of Himachal and Uttarakhand, the Andamans"
+    },
+    {
+     "k": "Latur, 1993",
+     "v": "A damaging earthquake in a stable peninsular region; about 10,000 dead"
+    },
+    {
+     "k": "Bhuj, 2001",
+     "v": "Magnitude 7.7 in Kutch; about 20,000 dead; forced code enforcement"
+    },
+    {
+     "k": "Tsunami, 2004",
+     "v": "Magnitude 9.1 off Sumatra on 26 December; over 10,000 dead in India"
+    },
+    {
+     "k": "Disaster Management Act",
+     "v": "2005; created the NDMA, chaired by the Prime Minister, and the NDRF"
+    },
+    {
+     "k": "CDRI",
+     "v": "Coalition for Disaster Resilient Infrastructure, launched by India in 2019"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1993",
+     "what": "Latur earthquake"
+    },
+    {
+     "when": "2001",
+     "what": "Bhuj earthquake"
+    },
+    {
+     "when": "2004",
+     "what": "Indian Ocean tsunami, 26 December"
+    },
+    {
+     "when": "2005",
+     "what": "Disaster Management Act; NDMA and NDRF created"
+    },
+    {
+     "when": "2019",
+     "what": "CDRI launched at the UN Climate Action Summit"
+    }
+   ],
+   "why": "The reliable questions are the zone map and the Act. Remember there are four zones and that the numbering starts at II, and that the NDMA is chaired by the Prime Minister while state authorities are chaired by Chief Ministers.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gt-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Plates and earthquakes",
+      "kind": "concept",
+      "rel": "core",
+      "note": "A still-moving collision and the hazard map built on it."
+     },
+     {
+      "id": "gt-ind",
+      "parent": "gt-root",
+      "tier": 1,
+      "label": "Indian plate",
+      "kind": "concept",
+      "rel": "tectonics",
+      "note": "Broke from Gondwana, crossed Tethys, collides with Eurasia."
+     },
+     {
+      "id": "gt-coll",
+      "parent": "gt-ind",
+      "tier": 2,
+      "label": "Himalayan collision",
+      "kind": "concept",
+      "rel": "process",
+      "note": "About 5 cm a year of convergence, still rising."
+     },
+     {
+      "id": "gt-trap",
+      "parent": "gt-ind",
+      "tier": 2,
+      "label": "Deccan Trap",
+      "kind": "place",
+      "rel": "geology",
+      "note": "Flood basalt from the Réunion hotspot at the end of the Cretaceous."
+     },
+     {
+      "id": "gt-zones",
+      "parent": "gt-root",
+      "tier": 1,
+      "label": "Seismic zones II to V",
+      "kind": "concept",
+      "rel": "classification",
+      "note": "Bureau of Indian Standards hazard map behind the building code."
+     },
+     {
+      "id": "gt-z5",
+      "parent": "gt-zones",
+      "tier": 2,
+      "label": "Zone V",
+      "kind": "place",
+      "rel": "hazard",
+      "note": "Northeast, Kutch, parts of Himachal and Uttarakhand, the Andamans."
+     },
+     {
+      "id": "gt-latur",
+      "parent": "gt-root",
+      "tier": 2,
+      "label": "Latur, 1993",
+      "kind": "event",
+      "rel": "earthquake",
+      "note": "Struck a supposedly stable peninsular region."
+     },
+     {
+      "id": "gt-bhuj",
+      "parent": "gt-root",
+      "tier": 2,
+      "label": "Bhuj, 2001",
+      "kind": "event",
+      "rel": "earthquake",
+      "note": "Magnitude 7.7 in Kutch; about 20,000 dead."
+     },
+     {
+      "id": "gt-tsu",
+      "parent": "gt-root",
+      "tier": 2,
+      "label": "Indian Ocean tsunami, 2004",
+      "kind": "event",
+      "rel": "disaster",
+      "note": "Magnitude 9.1 off Sumatra; over 10,000 dead in India."
+     },
+     {
+      "id": "gt-dma",
+      "parent": "gt-root",
+      "tier": 1,
+      "label": "Disaster Management Act, 2005",
+      "kind": "law",
+      "rel": "response",
+      "note": "Passed after the tsunami; the framework statute."
+     },
+     {
+      "id": "gt-ndma",
+      "parent": "gt-dma",
+      "tier": 2,
+      "label": "NDMA",
+      "kind": "institution",
+      "rel": "body",
+      "note": "Chaired by the Prime Minister; state authorities by Chief Ministers."
+     },
+     {
+      "id": "gt-ndrf",
+      "parent": "gt-dma",
+      "tier": 2,
+      "label": "NDRF",
+      "kind": "institution",
+      "rel": "force",
+      "note": "Specialist response force raised under the Act."
+     },
+     {
+      "id": "gt-incois",
+      "parent": "gt-tsu",
+      "tier": 3,
+      "label": "Tsunami warning centre",
+      "kind": "institution",
+      "rel": "system",
+      "note": "Run by INCOIS at Hyderabad since 2007."
+     },
+     {
+      "id": "gt-cdri",
+      "parent": "gt-root",
+      "tier": 2,
+      "label": "CDRI",
+      "kind": "institution",
+      "rel": "initiative",
+      "note": "Coalition for Disaster Resilient Infrastructure, India-led, 2019."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-ocean",
+   "rank": 18,
+   "depth": "medium",
+   "importance": 3,
+   "title": "The monsoon machinery: El Nino, the dipole and the cyclone seasons",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Monsoon",
+    "El Nino",
+    "Indian Ocean Dipole",
+    "Cyclones"
+   ],
+   "hook": "A warm patch of water off Peru can decide what an Indian farmer earns, and the link took a century to establish.",
+   "story": "The southwest monsoon arrives at **Kerala around 1 June** and covers the country by mid-July, and it delivers roughly **75%** of India's annual rain. Whether it delivers on time is partly decided in the Pacific. **El Nino** is the warm phase of the El Nino Southern Oscillation: the trade winds slacken, warm water piles up in the eastern Pacific instead of the west, and the rising limb of the circulation shifts away from the Indian Ocean, which usually weakens the monsoon. **La Nina** is the cold phase and generally strengthens it. **Gilbert Walker**, working in the India Meteorological Department in the 1920s after the famine that followed the 1899 monsoon failure, identified the pressure seesaw between Darwin and Tahiti that is now called the Southern Oscillation.\n\nThe Indian Ocean has its own version. The **Indian Ocean Dipole** compares sea surface temperature off East Africa with that off Sumatra. A **positive** dipole, with the western pole warmer, tends to help the monsoon and can offset a weak El Nino year; a negative dipole does the reverse. Neither index is a forecast on its own, which is why the IMD issues a probabilistic long-range outlook in April and updates it in May.\n\nCyclones come in two seasons because the Bay of Bengal and the Arabian Sea are both warm enough: **April to June** and **October to December**, with the post-monsoon season the more destructive. The Bay produces about four cyclones for every one in the Arabian Sea, and Odisha and Andhra Pradesh take the worst of them. **Names** are drawn from a rotating list contributed by thirteen countries in the WMO panel for the north Indian Ocean, with the IMD as the regional centre issuing the warnings. The **1999 Odisha super cyclone** killed close to ten thousand; **Phailin in 2013**, of comparable strength, killed under fifty, because a million people were evacuated first. That contrast is the standard example of disaster preparedness working.",
+   "facts": [
+    {
+     "k": "Monsoon onset",
+     "v": "Kerala around 1 June; full coverage by mid-July; withdrawal from September"
+    },
+    {
+     "k": "Share of rainfall",
+     "v": "About 75% of annual precipitation from the southwest monsoon"
+    },
+    {
+     "k": "El Nino",
+     "v": "Warm eastern Pacific phase of ENSO; generally weakens the Indian monsoon"
+    },
+    {
+     "k": "La Nina",
+     "v": "Cold phase; generally strengthens the monsoon"
+    },
+    {
+     "k": "Southern Oscillation",
+     "v": "Darwin-Tahiti pressure seesaw, identified by Gilbert Walker at the IMD"
+    },
+    {
+     "k": "Indian Ocean Dipole",
+     "v": "West minus east Indian Ocean temperature; a positive phase helps the monsoon"
+    },
+    {
+     "k": "Cyclone seasons",
+     "v": "April to June and October to December; the Bay of Bengal far more active"
+    },
+    {
+     "k": "Naming",
+     "v": "Rotating list from thirteen countries; IMD is the WMO regional centre"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1920s",
+     "what": "Walker describes the Southern Oscillation"
+    },
+    {
+     "when": "1999",
+     "what": "Odisha super cyclone, close to 10,000 dead"
+    },
+    {
+     "when": "2013",
+     "what": "Phailin, similar intensity, under 50 dead after mass evacuation"
+    },
+    {
+     "when": "2020",
+     "what": "Amphan, the costliest cyclone recorded in the north Indian Ocean"
+    }
+   ],
+   "why": "Two things get tested: which ENSO phase hurts the monsoon, and which sea produces more cyclones. Both are easy to invert under time pressure, and El Nino being the harmful one is the more common slip.",
+   "map": {
+    "nodes": [
+     {
+      "id": "go-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Monsoon machinery",
+      "kind": "concept",
+      "rel": "core",
+      "note": "What decides whether the rain arrives, and what arrives instead."
+     },
+     {
+      "id": "go-sw",
+      "parent": "go-root",
+      "tier": 1,
+      "label": "Southwest monsoon",
+      "kind": "concept",
+      "rel": "system",
+      "note": "Onset at Kerala around 1 June; about 75% of annual rain."
+     },
+     {
+      "id": "go-ne",
+      "parent": "go-root",
+      "tier": 2,
+      "label": "Northeast monsoon",
+      "kind": "concept",
+      "rel": "system",
+      "note": "October to December, mainly Tamil Nadu and coastal Andhra."
+     },
+     {
+      "id": "go-enso",
+      "parent": "go-root",
+      "tier": 1,
+      "label": "ENSO",
+      "kind": "concept",
+      "rel": "driver",
+      "note": "Pacific oscillation that modulates the monsoon."
+     },
+     {
+      "id": "go-el",
+      "parent": "go-enso",
+      "tier": 2,
+      "label": "El Nino",
+      "kind": "concept",
+      "rel": "phase",
+      "note": "Warm eastern Pacific; usually a weaker monsoon."
+     },
+     {
+      "id": "go-la",
+      "parent": "go-enso",
+      "tier": 2,
+      "label": "La Nina",
+      "kind": "concept",
+      "rel": "phase",
+      "note": "Cold phase; usually a stronger monsoon."
+     },
+     {
+      "id": "go-walker",
+      "parent": "go-enso",
+      "tier": 2,
+      "label": "Gilbert Walker",
+      "kind": "person",
+      "rel": "discovery",
+      "note": "Found the Darwin-Tahiti pressure seesaw while at the IMD."
+     },
+     {
+      "id": "go-iod",
+      "parent": "go-root",
+      "tier": 1,
+      "label": "Indian Ocean Dipole",
+      "kind": "concept",
+      "rel": "driver",
+      "note": "West against east Indian Ocean temperature difference."
+     },
+     {
+      "id": "go-imd",
+      "parent": "go-root",
+      "tier": 2,
+      "label": "India Meteorological Department",
+      "kind": "institution",
+      "rel": "agency",
+      "note": "Issues the long-range forecast and the cyclone warnings."
+     },
+     {
+      "id": "go-cyc",
+      "parent": "go-root",
+      "tier": 1,
+      "label": "Cyclone seasons",
+      "kind": "concept",
+      "rel": "hazard",
+      "note": "Pre-monsoon and post-monsoon; the Bay is about four times as active."
+     },
+     {
+      "id": "go-name",
+      "parent": "go-cyc",
+      "tier": 2,
+      "label": "Cyclone naming",
+      "kind": "concept",
+      "rel": "process",
+      "note": "Rotating list contributed by thirteen WMO panel countries."
+     },
+     {
+      "id": "go-1999",
+      "parent": "go-cyc",
+      "tier": 2,
+      "label": "Odisha super cyclone, 1999",
+      "kind": "event",
+      "rel": "disaster",
+      "note": "Close to 10,000 dead."
+     },
+     {
+      "id": "go-phailin",
+      "parent": "go-cyc",
+      "tier": 2,
+      "label": "Phailin, 2013",
+      "kind": "event",
+      "rel": "contrast",
+      "note": "Comparable strength, under 50 dead after evacuation."
+     },
+     {
+      "id": "go-amphan",
+      "parent": "go-cyc",
+      "tier": 3,
+      "label": "Amphan, 2020",
+      "kind": "event",
+      "rel": "disaster",
+      "note": "Costliest recorded in the north Indian Ocean."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-wetlands",
+   "rank": 21,
+   "depth": "medium",
+   "importance": 3,
+   "title": "Ramsar sites, biosphere reserves and the overlapping labels",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Ramsar",
+    "Biosphere Reserves",
+    "Wetlands",
+    "UNESCO"
+   ],
+   "hook": "The same patch of marsh can be a national park, a Ramsar site, a biosphere reserve and a World Heritage property at once, under four separate authorities.",
+   "story": "Conservation labels in India stack rather than replace one another, and the exam exploits the confusion. Four of them matter.\n\n**Ramsar sites** are wetlands of international importance designated under the **Ramsar Convention**, signed at Ramsar in Iran in **1971** and in force from 1975. It is the oldest of the modern environmental treaties and the only one devoted to a single ecosystem. India joined in **1982** with **Chilika** in Odisha, the largest brackish lagoon in Asia, and **Keoladeo** in Rajasthan. The count has grown quickly in recent years and now stands at **91 sites**, the largest number in Asia, with Tamil Nadu and Uttar Pradesh holding the most. **Sundarbans** is the largest Indian site by area. A designation carries no enforcement of its own; domestically the protection comes from the **Wetlands (Conservation and Management) Rules 2017**. The **Montreux Record** lists sites where the ecological character has changed for the worse; **Keoladeo** and **Loktak** in Manipur are on it, and **Chilika** was removed from it in 2002 after restoration work.\n\n**Biosphere reserves** come from UNESCO's **Man and the Biosphere** programme and are zoned into a strictly protected core, a managed buffer and a transition area where people live and work. India has **18**, of which **12** are on the international network. **Nilgiri**, notified in **1986**, was the first, and **Sundarbans**, **Nanda Devi**, **Gulf of Mannar**, **Nokrek**, **Pachmarhi**, **Similipal**, **Achanakmar-Amarkantak**, **Great Nicobar**, **Agasthyamala**, **Khangchendzonga** and **Panna** followed onto the international list.\n\n**World Heritage** sites are inscribed under the 1972 UNESCO convention; India has **44**, of which seven are natural, including **Kaziranga**, **Manas**, **Keoladeo**, **Sundarbans**, **Nanda Devi and Valley of Flowers**, the **Western Ghats** and **Khangchendzonga**, the last a mixed site. National parks and sanctuaries, by contrast, are creatures of domestic statute under the **Wildlife (Protection) Act 1972**.",
+   "facts": [
+    {
+     "k": "Ramsar Convention",
+     "v": "Signed 1971 at Ramsar, Iran; in force 1975; India acceded 1982"
+    },
+    {
+     "k": "India's first Ramsar sites",
+     "v": "Chilika, Odisha and Keoladeo, Rajasthan, both in 1981-82"
+    },
+    {
+     "k": "Current count",
+     "v": "91 Ramsar sites, the most in Asia; Sundarbans the largest by area"
+    },
+    {
+     "k": "Montreux Record",
+     "v": "Sites whose character has deteriorated; Keoladeo and Loktak listed, Chilika removed in 2002"
+    },
+    {
+     "k": "Domestic rules",
+     "v": "Wetlands (Conservation and Management) Rules, 2017"
+    },
+    {
+     "k": "Biosphere reserves",
+     "v": "18 in India, 12 on the UNESCO network; Nilgiri the first, 1986"
+    },
+    {
+     "k": "Zoning",
+     "v": "Core, buffer and transition; only the core is strictly protected"
+    },
+    {
+     "k": "World Heritage",
+     "v": "44 Indian sites, seven of them natural and one mixed"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1971",
+     "what": "Ramsar Convention adopted; Wildlife (Protection) Act passed in India the next year"
+    },
+    {
+     "when": "1982",
+     "what": "India accedes to Ramsar"
+    },
+    {
+     "when": "1986",
+     "what": "Nilgiri Biosphere Reserve notified"
+    },
+    {
+     "when": "2002",
+     "what": "Chilika removed from the Montreux Record"
+    },
+    {
+     "when": "2017",
+     "what": "Wetlands Rules notified"
+    }
+   ],
+   "why": "The examiner sets a site against the wrong label, or asks which convention a site belongs to. Fix the anchors: Ramsar is 1971 and wetlands only, biosphere reserves are UNESCO MAB and zoned, national parks are the 1972 Act.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gw-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Conservation labels",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Four overlapping designations under four different authorities."
+     },
+     {
+      "id": "gw-ram",
+      "parent": "gw-root",
+      "tier": 1,
+      "label": "Ramsar Convention",
+      "kind": "agreement",
+      "rel": "treaty",
+      "note": "1971, Iran; wetlands of international importance."
+     },
+     {
+      "id": "gw-india",
+      "parent": "gw-ram",
+      "tier": 2,
+      "label": "India, 1982",
+      "kind": "event",
+      "rel": "accession",
+      "note": "Joined with Chilika and Keoladeo."
+     },
+     {
+      "id": "gw-chilika",
+      "parent": "gw-india",
+      "tier": 3,
+      "label": "Chilika",
+      "kind": "place",
+      "rel": "site",
+      "note": "Largest brackish lagoon in Asia; left the Montreux Record in 2002."
+     },
+     {
+      "id": "gw-keo",
+      "parent": "gw-india",
+      "tier": 3,
+      "label": "Keoladeo",
+      "kind": "place",
+      "rel": "site",
+      "note": "Bharatpur; a national park, a Ramsar site and World Heritage."
+     },
+     {
+      "id": "gw-mont",
+      "parent": "gw-ram",
+      "tier": 2,
+      "label": "Montreux Record",
+      "kind": "concept",
+      "rel": "watchlist",
+      "note": "Sites whose ecological character has deteriorated."
+     },
+     {
+      "id": "gw-rules",
+      "parent": "gw-ram",
+      "tier": 2,
+      "label": "Wetlands Rules, 2017",
+      "kind": "law",
+      "rel": "domestic",
+      "note": "Where the enforceable protection actually comes from."
+     },
+     {
+      "id": "gw-mab",
+      "parent": "gw-root",
+      "tier": 1,
+      "label": "Man and the Biosphere",
+      "kind": "institution",
+      "rel": "programme",
+      "note": "UNESCO scheme behind biosphere reserves."
+     },
+     {
+      "id": "gw-zone",
+      "parent": "gw-mab",
+      "tier": 2,
+      "label": "Core, buffer, transition",
+      "kind": "concept",
+      "rel": "zoning",
+      "note": "Only the core is strictly protected; people live in the transition zone."
+     },
+     {
+      "id": "gw-nilgiri",
+      "parent": "gw-mab",
+      "tier": 2,
+      "label": "Nilgiri, 1986",
+      "kind": "place",
+      "rel": "first",
+      "note": "India's first biosphere reserve."
+     },
+     {
+      "id": "gw-wh",
+      "parent": "gw-root",
+      "tier": 1,
+      "label": "World Heritage",
+      "kind": "agreement",
+      "rel": "treaty",
+      "note": "1972 UNESCO convention; 44 Indian sites."
+     },
+     {
+      "id": "gw-kazi",
+      "parent": "gw-wh",
+      "tier": 2,
+      "label": "Kaziranga",
+      "kind": "place",
+      "rel": "site",
+      "note": "Natural World Heritage site and a tiger reserve."
+     },
+     {
+      "id": "gw-khang",
+      "parent": "gw-wh",
+      "tier": 2,
+      "label": "Khangchendzonga",
+      "kind": "place",
+      "rel": "site",
+      "note": "India's only mixed natural and cultural site."
+     },
+     {
+      "id": "gw-wpa",
+      "parent": "gw-root",
+      "tier": 2,
+      "label": "Wildlife (Protection) Act",
+      "kind": "law",
+      "rel": "domestic",
+      "note": "Creates national parks and sanctuaries; a statute, not a label."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "geo-islands",
+   "rank": 24,
+   "depth": "medium",
+   "importance": 3,
+   "title": "The islands, the straits and why they are strategic",
+   "date": "",
+   "category": "Geography",
+   "tags": [
+    "Andaman",
+    "Lakshadweep",
+    "Straits",
+    "Indian Ocean"
+   ],
+   "hook": "India's southernmost point is not in Tamil Nadu, and its only active volcano is nowhere near the mainland.",
+   "story": "Two island groups sit on opposite sides of the peninsula and are geologically unrelated. The **Andaman and Nicobar** islands are the exposed tops of a submarine mountain chain that continues the Arakan Yoma of Myanmar and runs on towards Sumatra. There are more than 570 islands, of which about 38 are inhabited; the capital is **Port Blair**, renamed **Sri Vijaya Puram** in 2024. **Barren Island**, east of the group, is the only confirmed active volcano in South Asia. **Indira Point** on Great Nicobar is India's southernmost point and subsided by about four metres in the 2004 tsunami. The **Ten Degree Channel** separates the Andamans from the Nicobars; the **Great Channel** separates Great Nicobar from Sumatra, which lies about 150 km away.\n\n**Lakshadweep**, in the Arabian Sea, is entirely different: 36 coral atolls and reefs, of which 10 are inhabited, sitting on the submerged Chagos-Laccadive ridge. **Kavaratti** is the capital and **Minicoy** the southernmost island, separated from the rest by the **Nine Degree Channel** and from the Maldives by the **Eight Degree Channel**.\n\nStrategy follows geography. The Andamans sit astride the western approach to the **Strait of Malacca**, through which a large share of China's oil imports pass, which is why India based its only tri-service command, **ANC**, at Port Blair in **2001**. The islands also give India a very large exclusive economic zone. **Palk Strait** and the **Gulf of Mannar** separate India from Sri Lanka, with the shoal called **Adam's Bridge** between them; **Katchatheevu**, ceded to Sri Lanka in **1974**, still generates fishing disputes. Off the mainland the strategic question is the **Sethusamudram** ship canal project, repeatedly proposed and repeatedly stalled on environmental and religious objections.",
+   "facts": [
+    {
+     "k": "Andaman and Nicobar",
+     "v": "Over 570 islands; capital Port Blair, renamed Sri Vijaya Puram in 2024"
+    },
+    {
+     "k": "Barren Island",
+     "v": "The only active volcano in South Asia, in the Andaman Sea"
+    },
+    {
+     "k": "Indira Point",
+     "v": "Southernmost point of India, on Great Nicobar; sank about 4 m in 2004"
+    },
+    {
+     "k": "Ten Degree Channel",
+     "v": "Separates the Andaman group from the Nicobar group"
+    },
+    {
+     "k": "Lakshadweep",
+     "v": "36 coral islands, 10 inhabited; capital Kavaratti; on the Chagos-Laccadive ridge"
+    },
+    {
+     "k": "Nine and Eight Degree Channels",
+     "v": "Minicoy separated from Lakshadweep, and from the Maldives"
+    },
+    {
+     "k": "Andaman and Nicobar Command",
+     "v": "India's only tri-service command, created 2001 at Port Blair"
+    },
+    {
+     "k": "Katchatheevu",
+     "v": "Ceded to Sri Lanka in 1974; a recurring fishing dispute in the Palk Strait"
+    }
+   ],
+   "timeline": [],
+   "why": "The reliable traps are Indira Point against Kanniyakumari for the southernmost point, and coral Lakshadweep against volcanic Andamans. Channel names come up as pure recall, so learn which pair each one separates.",
+   "map": {
+    "nodes": [
+     {
+      "id": "gi-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Islands and straits",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Two unrelated island groups and the channels around them."
+     },
+     {
+      "id": "gi-an",
+      "parent": "gi-root",
+      "tier": 1,
+      "label": "Andaman and Nicobar",
+      "kind": "place",
+      "rel": "group",
+      "note": "Submarine mountain chain continuing the Arakan Yoma."
+     },
+     {
+      "id": "gi-pb",
+      "parent": "gi-an",
+      "tier": 2,
+      "label": "Port Blair",
+      "kind": "place",
+      "rel": "capital",
+      "note": "Renamed Sri Vijaya Puram in 2024."
+     },
+     {
+      "id": "gi-barren",
+      "parent": "gi-an",
+      "tier": 2,
+      "label": "Barren Island",
+      "kind": "place",
+      "rel": "volcano",
+      "note": "The only active volcano in South Asia."
+     },
+     {
+      "id": "gi-indira",
+      "parent": "gi-an",
+      "tier": 2,
+      "label": "Indira Point",
+      "kind": "place",
+      "rel": "extreme",
+      "note": "India's southernmost point, on Great Nicobar."
+     },
+     {
+      "id": "gi-ten",
+      "parent": "gi-an",
+      "tier": 2,
+      "label": "Ten Degree Channel",
+      "kind": "place",
+      "rel": "strait",
+      "note": "Divides the Andamans from the Nicobars."
+     },
+     {
+      "id": "gi-anc",
+      "parent": "gi-an",
+      "tier": 2,
+      "label": "Andaman and Nicobar Command",
+      "kind": "institution",
+      "rel": "military",
+      "note": "The only tri-service command, set up in 2001."
+     },
+     {
+      "id": "gi-lak",
+      "parent": "gi-root",
+      "tier": 1,
+      "label": "Lakshadweep",
+      "kind": "place",
+      "rel": "group",
+      "note": "36 coral islands on the Chagos-Laccadive ridge."
+     },
+     {
+      "id": "gi-kav",
+      "parent": "gi-lak",
+      "tier": 2,
+      "label": "Kavaratti",
+      "kind": "place",
+      "rel": "capital",
+      "note": "Administrative centre of the union territory."
+     },
+     {
+      "id": "gi-minicoy",
+      "parent": "gi-lak",
+      "tier": 2,
+      "label": "Minicoy",
+      "kind": "place",
+      "rel": "island",
+      "note": "Southernmost, beyond the Nine Degree Channel."
+     },
+     {
+      "id": "gi-malacca",
+      "parent": "gi-root",
+      "tier": 1,
+      "label": "Strait of Malacca",
+      "kind": "place",
+      "rel": "chokepoint",
+      "note": "The Andamans sit on its western approach."
+     },
+     {
+      "id": "gi-palk",
+      "parent": "gi-root",
+      "tier": 2,
+      "label": "Palk Strait",
+      "kind": "place",
+      "rel": "strait",
+      "note": "Separates India from Sri Lanka; Adam's Bridge lies across it."
+     },
+     {
+      "id": "gi-katch",
+      "parent": "gi-palk",
+      "tier": 3,
+      "label": "Katchatheevu",
+      "kind": "place",
+      "rel": "dispute",
+      "note": "Ceded to Sri Lanka in 1974; fishing arrests continue."
+     },
+     {
+      "id": "gi-sethu",
+      "parent": "gi-palk",
+      "tier": 3,
+      "label": "Sethusamudram",
+      "kind": "concept",
+      "rel": "project",
+      "note": "Proposed ship canal, stalled on environmental and religious objection."
+     }
+    ]
+   },
+   "sources": []
+  }
+ ],
+ "passages": [
+  {
+   "id": "geo-p9",
+   "kind": "static",
+   "month": "geography",
+   "topicIds": [
+    "geo-protected"
+   ],
+   "category": "Environment",
+   "tags": [
+    "Tiger Reserves",
+    "Wildlife"
+   ],
+   "difficulty": 2,
+   "title": "Counting tigers",
+   "passage": "The programme began in 1973 with nine reserves and a population estimate derived from pugmarks, a method that assumed each animal's footprint was as distinctive as a fingerprint and which later proved unreliable. For three decades the numbers reported rose steadily, which suited everyone. Then in 2005 a reserve in Rajasthan, one of the best known in the country, was found on inspection to contain no tigers at all. The subsequent inquiry concluded that poaching had emptied it while official estimates continued to record a healthy population.\n\nThe response was institutional. An amendment to the parent statute the following year created a statutory authority to oversee the programme, with powers of direction over state forest departments, and required a scientific estimation exercise every four years. The new method combines camera traps, which photograph individual animals whose stripe patterns are genuinely unique, with sign surveys and habitat occupancy modelling across the whole landscape rather than reserve by reserve.\n\nThe estimates published since have risen from about 1,411 at the first such exercise to roughly 3,682 in the most recent, which represents around three quarters of the world's wild population of the species. Conservationists caution that part of the increase reflects better counting rather than more animals, and that the population is concentrated in a small number of landscapes while several reserves in the east and northeast hold very few.\n\nThe legal framework distinguishes between categories of protected area. In the strictest category no human activity is permitted at all and no grazing rights or private landholdings survive. In the next, limited activities may be allowed at the discretion of the state's chief wildlife official. Two further categories, added by amendment in 2002, cover buffer land and community-owned land where local participation is built into management.",
+   "questions": [
+    {
+     "q": "The reserve found in 2005 to contain no tigers was:",
+     "options": [
+      "Ranthambore",
+      "Sariska",
+      "Panna",
+      "Corbett"
+     ],
+     "answer": 1,
+     "explain": "Sariska in Rajasthan. Panna suffered a similar collapse discovered in 2009; both were later repopulated by translocation."
+    },
+    {
+     "q": "The authority created by the 2006 amendment is the:",
+     "options": [
+      "Wildlife Crime Control Bureau",
+      "Central Zoo Authority",
+      "National Tiger Conservation Authority",
+      "National Board for Wildlife"
+     ],
+     "answer": 2,
+     "explain": "The National Tiger Conservation Authority, a statutory body under the Wildlife (Protection) Act 1972."
+    },
+    {
+     "q": "The strictest category of protected area described in the final paragraph is a:",
+     "options": [
+      "Wildlife sanctuary",
+      "National park",
+      "Conservation reserve",
+      "Community reserve"
+     ],
+     "answer": 1,
+     "explain": "A national park, where no human activity, grazing or private landholding is permitted. Sanctuaries allow limited activity at the Chief Wildlife Warden’s discretion."
+    },
+    {
+     "q": "The estimation exercise is conducted once every:",
+     "options": [
+      "Year",
+      "Two years",
+      "Four years",
+      "Five years"
+     ],
+     "answer": 2,
+     "explain": "Every four years. The 2022 exercise was released in 2023 and put the population at about 3,682."
+    },
+    {
+     "q": "Why is the camera trap method described as more reliable than the earlier one?",
+     "options": [
+      "It covers a larger area",
+      "Stripe patterns are unique to each animal, unlike pugmark impressions",
+      "It requires fewer personnel",
+      "It counts prey species as well"
+     ],
+     "answer": 1,
+     "explain": "The passage contrasts the assumption behind pugmark identification with stripe patterns, which are genuinely individual and can be matched photographically."
+    }
+   ]
+  },
+  {
+   "id": "geo-p10",
+   "kind": "static",
+   "month": "geography",
+   "topicIds": [
+    "geo-rivers"
+   ],
+   "category": "Geography",
+   "tags": [
+    "Indus Waters Treaty",
+    "Rivers"
+   ],
+   "difficulty": 3,
+   "title": "Dividing six rivers",
+   "passage": "Negotiations lasted nine years and were mediated by the World Bank, which had proposed itself as a broker after an American engineer's article suggested the basin be developed as a whole. The document signed at Karachi in September 1960 did the opposite of joint development. It divided the six rivers of the basin between the two states rather than sharing their waters: the three eastern ones went to the upper riparian for unrestricted use, and the three western ones, which carry about eighty per cent of the flow, went to the lower riparian. The upper riparian retained limited rights on the western rivers for domestic use, non-consumptive use, agriculture within specified ceilings, and run-of-the-river power generation subject to detailed design constraints written into the annexures.\n\nThe treaty has no exit clause. It provides instead a three-step machinery for disagreement. Questions go first to a standing commission with one commissioner from each side, which must meet at least once a year. Differences of a technical kind go to a neutral expert appointed by the World Bank. Disputes go to a court of arbitration. Both later stages have been used, over hydroelectric projects on the Chenab and the Jhelum, and at one point both were running simultaneously on the same projects, which the treaty does not obviously contemplate.\n\nIts survival through three wars was for decades cited as evidence that technical agreements outlast political ones. That reading became harder to sustain in April 2025, when the upper riparian announced it would hold the treaty in abeyance following a terrorist attack in Kashmir.",
+   "questions": [
+    {
+     "q": "The three rivers allotted to India were:",
+     "options": [
+      "Indus, Jhelum and Chenab",
+      "Ravi, Beas and Sutlej",
+      "Ganga, Yamuna and Sutlej",
+      "Chenab, Ravi and Beas"
+     ],
+     "answer": 1,
+     "explain": "The eastern rivers, Ravi, Beas and Sutlej, went to India; the western rivers, Indus, Jhelum and Chenab, went to Pakistan."
+    },
+    {
+     "q": "The treaty was signed in:",
+     "options": [
+      "1947",
+      "1950",
+      "1960",
+      "1972"
+     ],
+     "answer": 2,
+     "explain": "September 1960, at Karachi, by Jawaharlal Nehru and Ayub Khan, with the World Bank as a signatory."
+    },
+    {
+     "q": "On the passage, the first forum for a disagreement is:",
+     "options": [
+      "A neutral expert",
+      "A court of arbitration",
+      "The Permanent Indus Commission",
+      "The International Court of Justice"
+     ],
+     "answer": 2,
+     "explain": "The standing commission of one commissioner from each side, which meets at least annually."
+    },
+    {
+     "q": "A \"difference\" as distinct from a \"dispute\" is referred to:",
+     "options": [
+      "A neutral expert appointed by the World Bank",
+      "A court of arbitration",
+      "The UN Security Council",
+      "The two governments directly"
+     ],
+     "answer": 0,
+     "explain": "The neutral expert is the middle step; arbitration is reserved for disputes."
+    },
+    {
+     "q": "The passage says the western rivers carry roughly:",
+     "options": [
+      "Fifty per cent of the flow",
+      "Sixty per cent of the flow",
+      "Eighty per cent of the flow",
+      "Ninety-five per cent of the flow"
+     ],
+     "answer": 2,
+     "explain": "About eighty per cent, which is why the allocation is often described as generous to the lower riparian."
+    }
+   ]
+  },
+  {
+   "id": "geo-p11",
+   "kind": "static",
+   "month": "geography",
+   "topicIds": [
+    "geo-ocean"
+   ],
+   "category": "Geography",
+   "tags": [
+    "Monsoon",
+    "El Nino"
+   ],
+   "difficulty": 2,
+   "title": "Reading the Pacific",
+   "passage": "Fishermen on the Peruvian coast had a name for the warm current that appeared around Christmas and drove the anchovy away. It took much longer to work out that the same warming was connected to drought on the other side of the world. The link was established in stages. In the 1920s a British physicist running the meteorological service in India, appointed after a monsoon failure and famine had made seasonal forecasting a matter of official urgency, noticed that atmospheric pressure at Darwin and at Tahiti moved in opposite directions, and named the pattern. Half a century later a Norwegian-American meteorologist showed that this pressure seesaw and the Peruvian warming were two faces of one coupled system of ocean and atmosphere.\n\nIn the warm phase the trade winds that normally push surface water westward across the Pacific weaken. Warm water that had piled up in the west spreads back east, the region of strongest convection moves with it, and the descending branch of the circulation settles over the maritime continent and the Indian Ocean. Descending air suppresses rainfall. Most, though not all, deficient Indian monsoons have coincided with this phase.\n\nA second oscillation, identified only at the end of the 1990s, works within the Indian Ocean itself and compares the temperature of its western and eastern poles. When the western pole is the warmer, rainfall over India tends to increase, and a strongly positive event has more than once cancelled out the expected effect of a warm Pacific. Neither index predicts a season on its own, which is why the national forecast is issued as a probability distribution rather than a number.",
+   "questions": [
+    {
+     "q": "The pattern named in the 1920s is:",
+     "options": [
+      "The Indian Ocean Dipole",
+      "The Southern Oscillation",
+      "The Madden-Julian Oscillation",
+      "The Walker Circulation"
+     ],
+     "answer": 1,
+     "explain": "Gilbert Walker named the Southern Oscillation, the Darwin-Tahiti pressure seesaw."
+    },
+    {
+     "q": "The warm phase described in the second paragraph is called:",
+     "options": [
+      "La Nina",
+      "El Nino",
+      "A positive dipole",
+      "A monsoon trough"
+     ],
+     "answer": 1,
+     "explain": "El Nino, the warm phase of the El Nino Southern Oscillation."
+    },
+    {
+     "q": "On the passage, that phase affects Indian rainfall because:",
+     "options": [
+      "Cyclones are diverted to the Bay of Bengal",
+      "Descending air over the region suppresses rainfall",
+      "The Himalayas block moisture",
+      "Sea level rises along the west coast"
+     ],
+     "answer": 1,
+     "explain": "The descending branch of the circulation settles over the Indian Ocean, and descending air suppresses convection and rain."
+    },
+    {
+     "q": "The second oscillation compares:",
+     "options": [
+      "Pacific and Atlantic temperatures",
+      "The western and eastern Indian Ocean",
+      "Darwin and Tahiti pressure",
+      "Arabian Sea and Bay of Bengal salinity"
+     ],
+     "answer": 1,
+     "explain": "The Indian Ocean Dipole compares sea surface temperature off East Africa with that off Sumatra."
+    },
+    {
+     "q": "It follows from the passage that a warm Pacific:",
+     "options": [
+      "Guarantees a deficient monsoon",
+      "Has no measurable effect on the monsoon",
+      "Makes a deficient monsoon more likely but not certain",
+      "Only affects the northeast monsoon"
+     ],
+     "answer": 2,
+     "explain": "The passage says most but not all deficient monsoons coincided with the phase, and that a positive dipole can offset it."
+    }
+   ]
+  },
+  {
+   "id": "geo-p12",
+   "kind": "static",
+   "month": "geography",
+   "topicIds": [
+    "geo-world"
+   ],
+   "category": "Geography",
+   "tags": [
+    "Suez",
+    "Chokepoints"
+   ],
+   "difficulty": 3,
+   "title": "A hundred miles of water",
+   "passage": "It is a little over a hundred and twenty miles of dredged channel with no locks, because the two seas it joins sit at almost the same level. A French company completed it in 1869 after ten years of work and an appalling death toll among the conscripted Egyptian labourers who dug the first stages by hand. Egypt's ruler had taken a large shareholding to fund the project and was bankrupt within six years; the shares were bought by the British government in 1875, which is how a waterway in Egypt came to be controlled from London.\n\nIts importance is a matter of arithmetic. A cargo ship sailing from the Persian Gulf to Rotterdam saves roughly three thousand five hundred nautical miles against the route around the southern tip of Africa, which at commercial speeds is nine or ten days of fuel and charter. About twelve per cent of world trade by volume, and a larger share of container traffic, passes through it.\n\nIn July 1956 the Egyptian president nationalised the operating company, announcing it in a speech at Alexandria in which a code word triggered the seizure while he was still speaking. The stated reason was to fund a dam on the Nile after the United States and Britain withdrew financing for it. Britain and France, with Israel, invaded in October. They were forced to withdraw within weeks, not by military defeat but by American financial pressure and a Soviet threat, and the episode is generally taken as the moment the two European powers stopped being able to act independently of Washington. India, which had large commercial interests in the route, opposed the invasion.\n\nThe waterway has closed twice for long periods, from 1956 to 1957 and from 1967 to 1975 after the June war, when fourteen ships were trapped inside for eight years and their crews formed an association. A single grounded container ship blocked it for six days in 2021 and held up several billion dollars of trade a day, which was a useful reminder that a chokepoint is defined by what happens when it stops.",
+   "questions": [
+    {
+     "q": "The waterway described was opened in:",
+     "options": [
+      "1856",
+      "1869",
+      "1875",
+      "1914"
+     ],
+     "answer": 1,
+     "explain": "The Suez Canal opened in 1869; the Panama Canal opened in 1914."
+    },
+    {
+     "q": "It has no locks because:",
+     "options": [
+      "It is very short",
+      "The two seas are at almost the same level",
+      "It is tidal",
+      "It was cut through rock"
+     ],
+     "answer": 1,
+     "explain": "The passage gives the sea-level equivalence as the reason."
+    },
+    {
+     "q": "The nationalisation of the operating company took place in:",
+     "options": [
+      "1952",
+      "1956",
+      "1967",
+      "1975"
+     ],
+     "answer": 1,
+     "explain": "Nasser nationalised the canal company in July 1956."
+    },
+    {
+     "q": "On the passage, the invaders withdrew mainly because of:",
+     "options": [
+      "Military defeat",
+      "American financial pressure and a Soviet threat",
+      "A Security Council resolution",
+      "An Egyptian counter-attack"
+     ],
+     "answer": 1,
+     "explain": "The passage attributes the withdrawal to financial and diplomatic pressure, not defeat."
+    },
+    {
+     "q": "The alternative route it saves shipping from is around:",
+     "options": [
+      "Cape Horn",
+      "The southern tip of Africa",
+      "The Strait of Malacca",
+      "The Bering Strait"
+     ],
+     "answer": 1,
+     "explain": "The Cape of Good Hope route, roughly 3,500 nautical miles longer."
+    }
+   ]
+  }
+ ],
+ "order": 8
+}

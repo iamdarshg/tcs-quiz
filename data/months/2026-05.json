@@ -1,0 +1,3611 @@
+{
+ "id": "2026-05",
+ "kind": "current",
+ "label": "May 2026",
+ "blurb": "The Iran war reached the Strait of Hormuz and the EU carbon border tax went live. At home the Cabinet cleared four more Supreme Court judges, the Court read emergency medical care into Article 21, Assam passed a uniform civil code, and the RBI handed the Centre ₹2.86 lakh crore.",
+ "topics": [
+  {
+   "id": "2026-05-iran-hormuz-oil-shock",
+   "rank": 1,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The Iran war reaches the Strait of Hormuz",
+   "date": "2026-05-07",
+   "category": "International Relations",
+   "tags": [
+    "Iran",
+    "Israel",
+    "USA",
+    "Strait of Hormuz",
+    "oil prices"
+   ],
+   "hook": "In May 2026 the war that began with the killing of Iran's Supreme Leader in February spread into the Strait of Hormuz, and the world found out again how one narrow waterway can move the price of everything.",
+   "story": "The war started on 28 February 2026. Israel and the United States launched simultaneous operations, code-named Roaring Lion and Epic Fury, that killed Supreme Leader Ali Khamenei and several senior commanders in a single night. The Israeli Air Force flew its largest combat sortie ever, hitting roughly 500 targets with over 1,200 bombs in 24 hours, and a cyberattack knocked out Iran's internet for more than 60 hours. Iran had been through a shorter round with Israel already, the Twelve-Day War of June 2025, which in hindsight looks like a rehearsal.\n\nWhat followed was not a quick war. Iran struck back at Israel, the Gulf states and US bases. Hezbollah was drawn in from Lebanon. A two-week ceasefire opened on 8 April and fell apart within days; a round of talks in Islamabad on 12 and 13 April, with Pakistan's foreign minister Ishaq Dar shuttling between Washington and Tehran, produced nothing durable.\n\nMay is when the war reached the world's most important oil chokepoint. On 4 May, the US Navy launched Operation Project Freedom, escorting tankers through the Strait of Hormuz, the 33-kilometre-wide passage between Iran and Oman through which roughly a fifth of the world's traded oil moves. Iran's regular navy and its Islamic Revolutionary Guard Corps navy treated the escorts as provocation. On 7 May, Iran fired on three US destroyers, USS Truxtun, USS Rafael Peralta and USS Mason; US Central Command answered with what it called self-defence strikes on Iranian military sites, and explosions were reported at the ports of Bandar Abbas and Qeshm. Washington insisted this was not a restart of full-scale war, a distinction that meant very little to shipping insurers, who priced Gulf transits as a war-risk zone through the month.\n\nThe casualty count by June, when a ceasefire finally held, ran into the thousands: Iran put its own dead at roughly 3,500 with over 26,000 injured, the US lost 19 soldiers and a contractor, and Israel recorded 38 soldiers and 31 civilians killed. Hezbollah alone reported over a thousand fighters dead.\n\nIndia's stake in all this was never abstract. India imports more than four-fifths of its crude oil, and a large share of it moves through the Gulf and the Strait of Hormuz on its way from Saudi Arabia, Iraq and the UAE. Every reported skirmish near Hormuz through May pushed Brent crude higher, and Indian refiners and the finance ministry watched the Strait the way they watch the monsoon: something they cannot control and have to plan the year's budget around anyway. Dubai airport reported a 66 percent drop in March passenger traffic because of the war, a preview of how disruption in one country's airspace cascades through a region India depends on for both energy and expatriate remittances.\n\nBy the end of May there was no peace deal, only a war that had not, for the moment, become a full naval blockade. The settlement that eventually stopped it, the Islamabad Memorandum, was still six weeks away.",
+   "facts": [
+    {
+     "k": "War start date",
+     "v": "28 February 2026 (Operations Roaring Lion and Epic Fury)"
+    },
+    {
+     "k": "Killed in opening strike",
+     "v": "Supreme Leader Ali Khamenei"
+    },
+    {
+     "k": "Israeli strikes, day one",
+     "v": "About 500 targets, 1,200+ bombs in 24 hours"
+    },
+    {
+     "k": "US Navy escort operation",
+     "v": "Operation Project Freedom, launched 4 May 2026"
+    },
+    {
+     "k": "US destroyers attacked, 7 May",
+     "v": "USS Truxtun, USS Rafael Peralta, USS Mason"
+    },
+    {
+     "k": "Strait of Hormuz width (narrowest)",
+     "v": "About 33 km"
+    },
+    {
+     "k": "Share of world oil trade through Hormuz",
+     "v": "Roughly one-fifth"
+    },
+    {
+     "k": "Failed ceasefire talks venue",
+     "v": "Islamabad, 12-13 April 2026"
+    },
+    {
+     "k": "Precursor conflict",
+     "v": "Twelve-Day War, June 2025"
+    },
+    {
+     "k": "India's crude oil import dependence",
+     "v": "Over 80% of consumption"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1979",
+     "what": "Islamic Revolution ends the monarchy; Islamic Republic founded"
+    },
+    {
+     "when": "2015",
+     "what": "JCPOA nuclear deal signed in Vienna between Iran and the P5+1"
+    },
+    {
+     "when": "2018",
+     "what": "US withdraws from JCPOA under President Trump's first term"
+    },
+    {
+     "when": "June 2025",
+     "what": "Twelve-Day War between Israel and Iran"
+    },
+    {
+     "when": "28 Feb 2026",
+     "what": "Israel and US strike Iran; Khamenei killed"
+    },
+    {
+     "when": "8 April 2026",
+     "what": "Two-week ceasefire begins, later collapses"
+    },
+    {
+     "when": "4 May 2026",
+     "what": "US launches Operation Project Freedom in the Strait of Hormuz"
+    },
+    {
+     "when": "7 May 2026",
+     "what": "Iran fires on US destroyers; CENTCOM strikes back"
+    }
+   ],
+   "why": "CLAT passages on West Asia usually connect a conflict to an economic consequence for India, and this is the cleanest version of that link available in 2026: a war, a chokepoint, and an oil bill. Expect questions on the Strait of Hormuz's location and share of oil trade, and on the difference between the 2025 Twelve-Day War and the 2026 war as distinct events with distinct triggers.",
+   "map": {
+    "nodes": [
+     {
+      "id": "khamenei",
+      "parent": "root",
+      "tier": 1,
+      "kind": "person",
+      "rel": "leader killed",
+      "label": "Ali Khamenei",
+      "note": "Iran's Supreme Leader since 1989, killed in the opening US-Israeli strike on 28 February 2026."
+     },
+     {
+      "id": "hormuz",
+      "parent": "root",
+      "tier": 1,
+      "kind": "place",
+      "rel": "chokepoint",
+      "label": "Strait of Hormuz",
+      "note": "About 33 km wide at its narrowest; carries roughly a fifth of the world's traded oil between Iran and Oman."
+     },
+     {
+      "id": "netanyahu",
+      "parent": "root",
+      "tier": 1,
+      "kind": "person",
+      "rel": "co-initiator",
+      "label": "Benjamin Netanyahu",
+      "note": "Israeli PM since 2009 (with a 2021-22 gap); pressed Trump for the joint strikes that opened the war."
+     },
+     {
+      "id": "trump",
+      "parent": "root",
+      "tier": 1,
+      "kind": "person",
+      "rel": "authorised strikes",
+      "label": "Donald Trump",
+      "note": "US President who ordered Operation Epic Fury and later Operation Project Freedom's Hormuz escorts."
+     },
+     {
+      "id": "opec",
+      "parent": "root",
+      "tier": 1,
+      "kind": "org",
+      "rel": "oil cartel affected",
+      "label": "OPEC",
+      "note": "Founded 1960 in Baghdad, headquartered in Vienna; members Iran, Saudi Arabia and the UAE all sit on the Gulf the war touched."
+     },
+     {
+      "id": "revolution1979",
+      "parent": "khamenei",
+      "tier": 2,
+      "kind": "event",
+      "rel": "created the state he led",
+      "label": "1979 Islamic Revolution",
+      "note": "Ayatollah Khomeini's revolution toppled the Shah and founded the Islamic Republic; Khamenei succeeded Khomeini as Supreme Leader in 1989."
+     },
+     {
+      "id": "jcpoa",
+      "parent": "opec",
+      "tier": 2,
+      "kind": "event",
+      "rel": "earlier nuclear deal",
+      "label": "JCPOA, 2015",
+      "note": "The Joint Comprehensive Plan of Action capped Iran's uranium enrichment; the US withdrew under Trump in 2018, a decision many trace this war back to."
+     },
+     {
+      "id": "twelveday",
+      "parent": "khamenei",
+      "tier": 2,
+      "kind": "event",
+      "rel": "precursor",
+      "label": "Twelve-Day War, 2025",
+      "note": "A shorter Israel-Iran exchange in June 2025 that analysts later read as a rehearsal for the 2026 war."
+     },
+     {
+      "id": "hezbollah",
+      "parent": "netanyahu",
+      "tier": 2,
+      "kind": "org",
+      "rel": "drawn into war",
+      "label": "Hezbollah",
+      "note": "Lebanese Shia militia and party founded in 1982 with Iranian backing; reported over 1,000 fighters killed by June 2026."
+     },
+     {
+      "id": "irgc",
+      "parent": "hormuz",
+      "tier": 2,
+      "kind": "org",
+      "rel": "attacked US ships",
+      "label": "IRGC Navy",
+      "note": "The Islamic Revolutionary Guard Corps' separate naval wing, distinct from Iran's regular navy, carried out the 7 May strikes on US destroyers."
+     },
+     {
+      "id": "indiaoil",
+      "parent": "hormuz",
+      "tier": 2,
+      "kind": "concept",
+      "rel": "downstream cost",
+      "label": "India's oil import bill",
+      "note": "India imports over 80% of its crude; Gulf disruption through the Strait feeds directly into fuel inflation and the current account deficit."
+     },
+     {
+      "id": "khomeini",
+      "parent": "revolution1979",
+      "tier": 3,
+      "kind": "person",
+      "rel": "founder",
+      "label": "Ayatollah Khomeini",
+      "note": "Founder of the Islamic Republic, died 1989; Khamenei was his handpicked successor."
+     },
+     {
+      "id": "cent com",
+      "parent": "irgc",
+      "tier": 3,
+      "kind": "org",
+      "rel": "US retaliation",
+      "label": "US CENTCOM",
+      "note": "US Central Command ordered the 'self-defence' strikes on Bandar Abbas and Qeshm after the 7 May attacks."
+     },
+     {
+      "id": "pakistanmed",
+      "parent": "twelveday",
+      "tier": 3,
+      "kind": "person",
+      "rel": "mediator",
+      "label": "Ishaq Dar",
+      "note": "Pakistan's foreign minister shuttled ceasefire proposals between Washington and Tehran through April and May 2026."
+     },
+     {
+      "id": "brent",
+      "parent": "indiaoil",
+      "tier": 3,
+      "kind": "term",
+      "rel": "price benchmark",
+      "label": "Brent crude",
+      "note": "The global oil price benchmark, more sensitive to Gulf shocks than the US-centric WTI benchmark."
+     },
+     {
+      "id": "bandarabbas",
+      "parent": "irgc",
+      "tier": 3,
+      "kind": "place",
+      "rel": "port struck",
+      "label": "Bandar Abbas",
+      "note": "Iran's principal Gulf port and naval base, hit in the explosions reported on 7 May 2026."
+     },
+     {
+      "id": "suez",
+      "parent": "hormuz",
+      "tier": 3,
+      "kind": "place",
+      "rel": "comparable chokepoint",
+      "label": "Suez Canal",
+      "note": "Handles about 12% of global trade; alongside Hormuz it shows how narrow shipping lanes carry outsized economic weight."
+     },
+     {
+      "id": "fifthfleet",
+      "parent": "cent com",
+      "tier": 3,
+      "kind": "org",
+      "rel": "regional command",
+      "label": "US Fifth Fleet",
+      "note": "Headquartered in Manama, Bahrain; ran the tanker-escort missions under Operation Project Freedom."
+     }
+    ]
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Iran%E2%80%93United_States_conflict",
+    "https://en.wikipedia.org/wiki/Portal:Current_events/May_2026"
+   ]
+  },
+  {
+   "id": "2026-05-sc-bihar-sir-verdict",
+   "rank": 2,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The Supreme Court upholds the Bihar electoral roll purge",
+   "date": "2026-05-27",
+   "category": "Election Law",
+   "tags": [
+    "Election Commission",
+    "Article 324",
+    "Bihar",
+    "SIR",
+    "electoral rolls"
+   ],
+   "hook": "On 27 May 2026 the Supreme Court closed the book on the Bihar Special Intensive Revision, ruling that striking 47 lakh names off the rolls before an election was lawful, proportionate and within the Election Commission's power.",
+   "story": "The dispute went back to June 2025, when the Election Commission of India ordered a Special Intensive Revision, or SIR, of Bihar's electoral rolls ahead of that year's assembly election. The exercise started with 7.89 crore voters on the rolls. Every voter had to file fresh documents proving citizenship and residence; anyone who did not was struck off. By the time the final roll was published on 30 September 2025, the number had fallen to 7.42 crore, a drop of roughly 47 lakh names in three months.\n\nThe Association for Democratic Reforms and other petitioners went to the Supreme Court, arguing that the SIR was really a backdoor citizenship test dressed up as an administrative exercise, that it disproportionately hit the poor, migrant workers and minorities who struggle to produce paperwork on short notice, and that it was too rushed and too close to an election to be fair. The Election Commission's answer was that Article 324 of the Constitution gives it superintendence over elections precisely so it can keep the rolls clean, and that Section 21(3) of the Representation of the People Act, 1950 lets it revise rolls as it sees fit.\n\nA bench led by Chief Justice of India Surya Kant, sitting with Justice Joymalya Bagchi, took up the case through 2025 and into 2026, at one point directing the Commission to hand over details of the 3.66 lakh voters excluded from the final roll so their exclusions could be checked. The final judgment came on 27 May 2026, well after the Bihar election itself had already been held and its results declared on 14 November 2025 under the revised rolls.\n\nThe Court upheld the SIR as constitutional, procedurally sound and proportionate. It read Article 324 broadly, holding that an intensive revision serves the same purpose the Constitution assigns the Commission: an accurate roll is the precondition for a free and fair election, not an obstacle to one. On the citizenship question, the bench drew a careful line. The Commission can ask about citizenship while compiling rolls, because a non-citizen has no right to vote, but it cannot make a final, binding determination of anyone's citizenship status; that remains the job of the machinery set up under the Citizenship Act, 1955.\n\nFor an aspirant this case sits at the intersection of three things CLAT tests constantly: the Election Commission's constitutional status, the limits of executive and quasi-judicial power, and the recurring argument in Indian law over how much process is due before the state can take away a right. The result also carries forward: the same SIR method has since been rolled out to more states, so the Bihar verdict effectively became the template.",
+   "facts": [
+    {
+     "k": "Case name",
+     "v": "Association for Democratic Reforms v. Election Commission of India"
+    },
+    {
+     "k": "Judgment date",
+     "v": "27 May 2026"
+    },
+    {
+     "k": "Bench",
+     "v": "CJI Surya Kant and Justice Joymalya Bagchi"
+    },
+    {
+     "k": "SIR ordered",
+     "v": "June 2025, by the Election Commission"
+    },
+    {
+     "k": "Voters on roll at start",
+     "v": "7.89 crore"
+    },
+    {
+     "k": "Voters on final roll (30 Sept 2025)",
+     "v": "7.42 crore"
+    },
+    {
+     "k": "Names removed",
+     "v": "Roughly 47 lakh"
+    },
+    {
+     "k": "Constitutional basis for ECI power",
+     "v": "Article 324"
+    },
+    {
+     "k": "Statutory basis for roll revision",
+     "v": "Section 21(3), Representation of the People Act, 1950"
+    },
+    {
+     "k": "Bihar poll results declared",
+     "v": "14 November 2025"
+    }
+   ],
+   "why": "Election Commission powers under Article 324 are a CLAT staple, and this case updates the standard textbook question with a live 2026 controversy. Expect a passage that tests whether students can separate the Commission's power to ask about citizenship from a power to decide it, since that distinction is exactly where a trap option would sit.",
+   "map": {
+    "nodes": [
+     {
+      "id": "art324",
+      "parent": "root",
+      "tier": 1,
+      "kind": "law",
+      "rel": "constitutional basis",
+      "label": "Article 324",
+      "note": "Gives the Election Commission superintendence, direction and control of elections; the Court read this to include the power to order intensive roll revisions."
+     },
+     {
+      "id": "eci",
+      "parent": "root",
+      "tier": 1,
+      "kind": "org",
+      "rel": "ordered the SIR",
+      "label": "Election Commission of India",
+      "note": "A permanent constitutional body under Part XV of the Constitution; ordered the Bihar SIR in June 2025."
+     },
+     {
+      "id": "suryakant",
+      "parent": "root",
+      "tier": 1,
+      "kind": "person",
+      "rel": "authored verdict",
+      "label": "CJI Surya Kant",
+      "note": "Chief Justice of India who headed the bench that decided the SIR was constitutional on 27 May 2026."
+     },
+     {
+      "id": "adr",
+      "parent": "root",
+      "tier": 1,
+      "kind": "org",
+      "rel": "petitioner",
+      "label": "Association for Democratic Reforms",
+      "note": "An election-transparency NGO founded 1999 that has litigated most major electoral-rights cases in the Supreme Court since the early 2000s."
+     },
+     {
+      "id": "rpa1950",
+      "parent": "art324",
+      "tier": 2,
+      "kind": "law",
+      "rel": "statutory backing",
+      "label": "Representation of the People Act, 1950",
+      "note": "Section 21(3) authorises the Commission to revise electoral rolls; this Act deals with roll preparation, while the 1951 Act of the same name governs the conduct of elections."
+     },
+     {
+      "id": "citizenshipact",
+      "parent": "eci",
+      "tier": 2,
+      "kind": "law",
+      "rel": "line the Court drew",
+      "label": "Citizenship Act, 1955",
+      "note": "The Court held final citizenship determination belongs to the machinery under this Act, not to the Election Commission compiling a voter roll."
+     },
+     {
+      "id": "biharpoll",
+      "parent": "eci",
+      "tier": 2,
+      "kind": "event",
+      "rel": "election conducted on revised rolls",
+      "label": "2025 Bihar Assembly election",
+      "note": "Results declared 14 November 2025, held under the rolls the SIR had already cut by 47 lakh names."
+     },
+     {
+      "id": "freeandfair",
+      "parent": "art324",
+      "tier": 2,
+      "kind": "concept",
+      "rel": "doctrinal anchor",
+      "label": "Free and fair elections",
+      "note": "A basic structure principle the Court invoked to justify strict roll accuracy over administrative convenience."
+     },
+     {
+      "id": "vp singh case",
+      "parent": "adr",
+      "tier": 3,
+      "kind": "event",
+      "rel": "earlier ADR win",
+      "label": "ADR v. UOI, 2002",
+      "note": "ADR's earlier landmark case forced candidates to disclose criminal records and assets before elections, a precedent this ruling extends."
+     },
+     {
+      "id": "sir stategen",
+      "parent": "biharpoll",
+      "tier": 3,
+      "kind": "concept",
+      "rel": "template extended",
+      "label": "SIR extended nationally",
+      "note": "The same Special Intensive Revision method was rolled out to further states after the Bihar exercise and this verdict."
+     },
+     {
+      "id": "bagchij",
+      "parent": "suryakant",
+      "tier": 3,
+      "kind": "person",
+      "rel": "co-author",
+      "label": "Justice Joymalya Bagchi",
+      "note": "Sat with the CJI on the bench and co-authored several other May 2026 rulings on bail and appointments."
+     },
+     {
+      "id": "excludedvoters",
+      "parent": "biharpoll",
+      "tier": 3,
+      "kind": "concept",
+      "rel": "disputed figure",
+      "label": "3.66 lakh excluded voters",
+      "note": "The Court had earlier directed the Commission to disclose details of this subset of excluded voters for scrutiny."
+     }
+    ]
+   },
+   "sources": [
+    "https://www.outlookindia.com/national/supreme-court-upholds-bihar-electoral-roll-revision-backs-ecs-power-to-conduct-sir",
+    "https://www.scobserver.in/cases/challenge-to-the-ecis-revision-of-electoral-rolls-in-bihar-sir-association-for-democratic-reforms-v-election-commission-of-india/"
+   ]
+  },
+  {
+   "id": "2026-05-sc-online-gaming-ban",
+   "rank": 3,
+   "depth": "deep",
+   "importance": 5,
+   "title": "No fundamental right to bet: the Supreme Court upholds the rummy and poker ban",
+   "date": "2026-05-27",
+   "category": "Constitutional Law",
+   "tags": [
+    "Article 19",
+    "online gaming",
+    "Tamil Nadu",
+    "Karnataka",
+    "gambling"
+   ],
+   "hook": "The Supreme Court ruled on 27 May 2026 that Tamil Nadu and Karnataka can ban online rummy and poker played for money, holding that betting on a game of skill is still gambling, and gambling gets no protection under the right to trade.",
+   "story": "Tamil Nadu and Karnataka had each tried, and each been blocked, before this. Tamil Nadu passed the Tamil Nadu Gaming and Police Laws (Amendment) Act, 2021, then a further Online Gambling Act in 2022-23, widening the definition of gaming to catch rummy and poker played online for stakes. The Madras High Court struck the law down. Karnataka's equivalent law met the same fate at its own High Court. Both states argued that money changes the character of a game; both High Courts had held that rummy and poker are games of skill under settled law, and skill games enjoy a level of constitutional protection that pure games of chance do not.\n\nThe case, State of Tamil Nadu v. Junglee Games India Pvt. Ltd., reached the Supreme Court on appeal. A bench of Justices J.B. Pardiwala and R. Mahadevan set aside both High Court rulings on 27 May 2026. The Court's reasoning turned the skill-versus-chance question, the one that had decided every previous round of this fight since the 1957 case that first drew the line for rummy, into a side issue. Once real money enters a game, the Court said, its constitutional character changes regardless of how much skill is involved: betting on a game of skill is still a gambling enterprise, and gambling is not a trade or business protected under Article 19(1)(g).\n\nThe Court accepted the states' argument that they were regulating a public health and public order problem, not restricting a trade. Both governments had presented data on gaming addiction, suicides linked to online betting losses, and the burden on family courts and police from gambling-related debt. The judgment effectively hands every state government the same tool: as long as a law targets games played for stakes rather than for free, it sits outside the fundamental right to trade and does not need to survive the reasonableness test Article 19(6) would otherwise demand.\n\nThe ruling lands at a moment when India's real-money gaming industry, built on fantasy sports, rummy and poker platforms, had grown into a business worth billions of dollars and drawn central-level attention too, with Parliament separately debating a law to regulate or restrict online money games at the national level. States now have Supreme Court cover to move first and move harder, and the ruling is likely to be cited well beyond gaming, in any future case about whether an activity built around stakes can claim the shelter of Article 19(1)(g) at all.",
+   "facts": [
+    {
+     "k": "Case name",
+     "v": "State of Tamil Nadu v. Junglee Games India Pvt. Ltd."
+    },
+    {
+     "k": "Judgment date",
+     "v": "27 May 2026"
+    },
+    {
+     "k": "Bench",
+     "v": "Justices J.B. Pardiwala and R. Mahadevan"
+    },
+    {
+     "k": "Tamil Nadu law struck down by SC ruling",
+     "v": "Tamil Nadu Online Gambling Act, 2022-23"
+    },
+    {
+     "k": "Constitutional provision at issue",
+     "v": "Article 19(1)(g), right to trade and business"
+    },
+    {
+     "k": "High Courts overturned",
+     "v": "Madras High Court and Karnataka High Court"
+    },
+    {
+     "k": "Core holding",
+     "v": "No fundamental right to bet or gamble, even on games of skill"
+    },
+    {
+     "k": "Games named in the case",
+     "v": "Rummy, poker, and other stakes-based fantasy formats"
+    }
+   ],
+   "why": "This is a fundamental rights case dressed as a technology story, exactly the kind CLAT rewards students for recognising. The likely trap is conflating 'game of skill' with 'protected activity' — the judgment's entire point is that skill stops mattering once money is staked. A passage could also test Article 19(6)'s reasonable restrictions against this ruling's different route of simply placing gambling outside Article 19(1)(g) altogether.",
+   "map": {
+    "nodes": [
+     {
+      "id": "art19g",
+      "parent": "root",
+      "tier": 1,
+      "kind": "law",
+      "rel": "right denied",
+      "label": "Article 19(1)(g)",
+      "note": "Guarantees the right to practise any profession or carry on any trade, business or occupation; the Court held gambling for stakes falls outside it entirely."
+     },
+     {
+      "id": "pardiwala",
+      "parent": "root",
+      "tier": 1,
+      "kind": "person",
+      "rel": "authored judgment",
+      "label": "Justice J.B. Pardiwala",
+      "note": "Also authored the May 2026 ruling extending Article 21 bail rights in UAPA cases, making him a repeat name in this month's Supreme Court output."
+     },
+     {
+      "id": "tnlaw",
+      "parent": "root",
+      "tier": 1,
+      "kind": "law",
+      "rel": "law upheld",
+      "label": "Tamil Nadu Online Gambling Act, 2022-23",
+      "note": "Criminalised online games played for stakes, including rummy and poker; struck down by the Madras High Court before this ruling revived it."
+     },
+     {
+      "id": "publichealth",
+      "parent": "root",
+      "tier": 1,
+      "kind": "concept",
+      "rel": "state's justification",
+      "label": "Public health and order",
+      "note": "Tamil Nadu and Karnataka justified the bans citing gaming-addiction suicides and pressure on courts from gambling debt, a ground the Court accepted."
+     },
+     {
+      "id": "skillvschance",
+      "parent": "art19g",
+      "tier": 2,
+      "kind": "concept",
+      "rel": "sidelined by the ruling",
+      "label": "Skill vs. chance doctrine",
+      "note": "The older constitutional test asking whether a game is predominantly skill or chance; this judgment holds that the presence of stakes overrides the distinction."
+     },
+     {
+      "id": "rmdcase",
+      "parent": "skillvschance",
+      "tier": 2,
+      "kind": "event",
+      "rel": "founding precedent",
+      "label": "State of Bombay v. R.M.D. Chamarbaugwala, 1957",
+      "note": "The Supreme Court case that first held gambling and betting are not trade under Article 19(1)(g), the doctrine this 2026 ruling extends to online rummy and poker."
+     },
+     {
+      "id": "art196",
+      "parent": "art19g",
+      "tier": 2,
+      "kind": "law",
+      "rel": "route avoided",
+      "label": "Article 19(6)",
+      "note": "Normally the state must justify restricting a trade as 'reasonable'; by holding gambling is no trade at all, the Court skipped this reasonableness test entirely."
+     },
+     {
+      "id": "fantasysports",
+      "parent": "publichealth",
+      "tier": 2,
+      "kind": "concept",
+      "rel": "industry affected",
+      "label": "India's real-money gaming industry",
+      "note": "A multi-billion-dollar sector built on rummy, poker and fantasy-sports apps, now exposed to state-level bans following this precedent."
+     },
+     {
+      "id": "onlinegamingbill",
+      "parent": "fantasysports",
+      "tier": 3,
+      "kind": "law",
+      "rel": "parallel central move",
+      "label": "Central online gaming legislation",
+      "note": "Parliament has separately debated a national law to regulate or restrict real-money online games, working alongside rather than instead of state bans."
+     },
+     {
+      "id": "karnatakalaw",
+      "parent": "tnlaw",
+      "tier": 3,
+      "kind": "law",
+      "rel": "companion statute",
+      "label": "Karnataka's gaming ban",
+      "note": "Karnataka's equivalent law, struck down by its own High Court on the same skill-based reasoning, was revived by the same 27 May judgment."
+     },
+     {
+      "id": "mahadevanj",
+      "parent": "pardiwala",
+      "tier": 3,
+      "kind": "person",
+      "rel": "co-author",
+      "label": "Justice R. Mahadevan",
+      "note": "Co-authored this ruling and also sat on the May 2026 bench that issued the human-trafficking Victim Protection Plan in Prajwala v. Union of India."
+     }
+    ]
+   },
+   "sources": [
+    "https://www.verdictum.in/supreme-court/state-of-tamil-nadu-v-junglee-games-india-pvt-ltd-2026-insc-594-banning-online-rummy-poker-betting-gambling-1614987",
+    "https://www.business-standard.com/india-news/supreme-court-upholds-state-power-to-curb-online-betting-platforms-126052701677_1.html"
+   ]
+  },
+  {
+   "id": "2026-05-chabahar-port-10-year-deal",
+   "rank": 4,
+   "depth": "deep",
+   "importance": 5,
+   "title": "India signs 10-year long-term agreement for Chabahar Port operation",
+   "date": "2026-05-13",
+   "category": "International Relations",
+   "tags": [
+    "Chabahar Port",
+    "Iran",
+    "India",
+    "INSTC",
+    "Gwadar"
+   ],
+   "hook": "India Global Ports Limited (IPGL) signed a 10-year contract with Iran's Ports and Maritime Organisation to equip and operate the Shahid Beheshti Terminal at Chabahar Port.",
+   "story": "On 13 May 2026, Union Minister of Ports, Shipping and Waterways Sarbananda Sonowal witnessed the signing of a landmark 10-year long-term bilateral contract in Tehran between India Ports Global Limited (IPGL) and Iran's Ports and Maritime Organization (PMO).\n\nUnder the agreement, IPGL will invest approximately $120 million in equipping the Shahid Beheshti terminal at Chabahar Port, alongside a $250 million credit window offered by India for infrastructure expansion. Chabahar, located in the Sistan-Baluchestan province on Iran's southeastern coast, provides India a bypass route to Afghanistan and Central Asia, avoiding Pakistan.\n\nThe port forms a key node in the International North-South Transport Corridor (INSTC), a 7,200-km multi-modal transit network linking India, Iran, Azerbaijan, and Russia. India's operational involvement in Chabahar counters China's presence at Pakistan's Gwadar port, located just 170 km east along the Gulf of Oman.\n\nThe United States State Department issued a caution regarding potential sanctions risks under the Iran Freedom and Counter-Proliferation Act (IFCA), though India maintains Chabahar's strategic exemption granted historically for humanitarian assistance to landlocked Afghanistan.",
+   "facts": [
+    {
+     "k": "Signing Date",
+     "v": "13 May 2026 in Tehran"
+    },
+    {
+     "k": "Contract Duration",
+     "v": "10 years"
+    },
+    {
+     "k": "Indian Entity",
+     "v": "India Ports Global Limited (IPGL)"
+    },
+    {
+     "k": "Terminal Name",
+     "v": "Shahid Beheshti Terminal"
+    },
+    {
+     "k": "Direct Investment",
+     "v": "$120 million equipment commitment"
+    },
+    {
+     "k": "Credit Line",
+     "v": "$250 million in IN-R/Rial equivalent credit"
+    },
+    {
+     "k": "Corridor Link",
+     "v": "International North-South Transport Corridor (INSTC)"
+    },
+    {
+     "k": "Rival Port",
+     "v": "Gwadar Port, Pakistan (China-built CPEC port, ~170 km away)"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "2003",
+     "what": "Initial Chabahar agreement signed during President Khatami's India visit"
+    },
+    {
+     "when": "2016",
+     "what": "Trilateral Transit Agreement signed between India, Iran, and Afghanistan"
+    },
+    {
+     "when": "2018",
+     "what": "IPGL takes over interim operations at Shahid Beheshti terminal"
+    },
+    {
+     "when": "2026",
+     "what": "First 10-year long-term contract finalized in Tehran"
+    }
+   ],
+   "why": "CLAT tests Chabahar location (Gulf of Oman, Sistan-Baluchestan), INSTC length/nodes, Gwadar proximity, and IPGL.",
+   "map": {
+    "nodes": [
+     {
+      "id": "root",
+      "parent": "root",
+      "tier": 0,
+      "label": "Chabahar 10-Year Deal (2026)",
+      "kind": "event",
+      "rel": "agreement",
+      "note": "Long-term operating contract for Shahid Beheshti terminal."
+     },
+     {
+      "id": "ipgl",
+      "parent": "root",
+      "tier": 1,
+      "label": "India Ports Global Ltd",
+      "kind": "org",
+      "rel": "operator",
+      "note": "Indian PSU executing Chabahar port operations."
+     },
+     {
+      "id": "instc",
+      "parent": "root",
+      "tier": 1,
+      "label": "INSTC (7,200 km)",
+      "kind": "concept",
+      "rel": "transit corridor",
+      "note": "Multi-modal route linking Mumbai, Chabahar, Baku, and St Petersburg."
+     },
+     {
+      "id": "gwadar",
+      "parent": "root",
+      "tier": 2,
+      "label": "Gwadar Port (Pakistan)",
+      "kind": "place",
+      "rel": "strategic counterpart",
+      "note": "Chinese-operated port 170 km east of Chabahar."
+     }
+    ]
+   },
+   "sources": [
+    "https://pib.gov.in",
+    "https://thehindu.com"
+   ]
+  },
+  {
+   "id": "may26-sc-strength",
+   "rank": 5,
+   "depth": "medium",
+   "importance": 5,
+   "title": "The Supreme Court goes from 34 judges to 38",
+   "date": "2026-05",
+   "category": "Polity",
+   "tags": [
+    "Supreme Court",
+    "Judiciary",
+    "Pendency"
+   ],
+   "hook": "The Constitution never fixed the number. Parliament has raised it seven times, and the pendency argument has been the same each time.",
+   "story": "The Union Cabinet cleared a proposal in May to raise the sanctioned strength of the Supreme Court from **34 judges** to **38**, and the change requires an amendment to the **Supreme Court (Number of Judges) Act, 1956**.\n\nThe number has never been in the Constitution. **Article 124(1)** provides for a Chief Justice and such number of other judges as Parliament may by law prescribe, and until Parliament does so the ceiling is seven. Parliament has raised it repeatedly: to 11 in 1956, 14 in 1960, 18 in 1978, 26 in 1986, 31 in 2009 and 34 in 2019. Every increase has been justified on the same ground, that the pendency of cases has outgrown the bench, and every increase has been followed within a few years by the same argument.\n\nThe pendency figures do carry the argument some distance. Around **83,000 cases** are pending in the Supreme Court, over **63 lakh** in the High Courts and more than **4.5 crore** in the district judiciary, and the district figure is the one that actually determines how long an ordinary litigant waits. Critics of the increase make two points. Adding judges to the apex court does nothing for the subordinate courts where the backlog sits, and a larger court sitting in more two-judge benches produces more conflicting decisions, which then need larger benches to resolve.\n\nAppointments themselves still run through the **collegium**, the Chief Justice with the four next senior judges, which the Constitution does not mention and which the Court created for itself in the Second and Third Judges cases. The government's attempt to replace it with the **National Judicial Appointments Commission** was struck down in 2015. A higher sanctioned strength therefore enlarges the pool the collegium fills, and changes nothing about who fills it.",
+   "facts": [
+    {
+     "k": "Change",
+     "v": "Sanctioned strength raised from 34 to 38 judges"
+    },
+    {
+     "k": "Governing law",
+     "v": "Supreme Court (Number of Judges) Act, 1956, amended each time"
+    },
+    {
+     "k": "Constitutional basis",
+     "v": "Article 124(1); the Constitution fixes only a floor of seven other judges"
+    },
+    {
+     "k": "Earlier increases",
+     "v": "11 in 1956, 14 in 1960, 18 in 1978, 26 in 1986, 31 in 2009, 34 in 2019"
+    },
+    {
+     "k": "Pendency",
+     "v": "About 83,000 in the Supreme Court, over 63 lakh in the High Courts, over 4.5 crore below"
+    },
+    {
+     "k": "Appointment route",
+     "v": "Unchanged: the collegium of the Chief Justice and four senior-most judges"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1950",
+     "what": "Court begins with a Chief Justice and seven judges"
+    },
+    {
+     "when": "2009",
+     "what": "Strength raised to 31"
+    },
+    {
+     "when": "2015",
+     "what": "NJAC struck down in the Fourth Judges case"
+    },
+    {
+     "when": "2019",
+     "what": "Strength raised to 34"
+    },
+    {
+     "when": "2026",
+     "what": "Cabinet approves 38"
+    }
+   ],
+   "why": "The examiner pairs this with Article 124 and with the collegium. The trap is assuming the Constitution fixes the number; it fixes only a minimum until Parliament legislates.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5j-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Supreme Court strength raised to 38",
+      "kind": "event",
+      "rel": "core",
+      "note": "Cabinet approval in May 2026 to add four judges."
+     },
+     {
+      "id": "m5j-124",
+      "parent": "m5j-root",
+      "tier": 1,
+      "label": "Article 124(1)",
+      "kind": "law",
+      "rel": "basis",
+      "note": "Chief Justice plus such number as Parliament prescribes; floor of seven."
+     },
+     {
+      "id": "m5j-act",
+      "parent": "m5j-root",
+      "tier": 1,
+      "label": "Act of 1956",
+      "kind": "law",
+      "rel": "instrument",
+      "note": "The statute amended on every increase."
+     },
+     {
+      "id": "m5j-hist",
+      "parent": "m5j-act",
+      "tier": 2,
+      "label": "Seven increases since 1950",
+      "kind": "concept",
+      "rel": "pattern",
+      "note": "11, 14, 18, 26, 31, 34, now 38."
+     },
+     {
+      "id": "m5j-pend",
+      "parent": "m5j-root",
+      "tier": 1,
+      "label": "Pendency",
+      "kind": "concept",
+      "rel": "justification",
+      "note": "About 83,000 at the apex, over 4.5 crore in the district courts."
+     },
+     {
+      "id": "m5j-dist",
+      "parent": "m5j-pend",
+      "tier": 2,
+      "label": "District judiciary",
+      "kind": "institution",
+      "rel": "where the backlog is",
+      "note": "More judges at the top does not clear the bottom."
+     },
+     {
+      "id": "m5j-coll",
+      "parent": "m5j-root",
+      "tier": 1,
+      "label": "The collegium",
+      "kind": "institution",
+      "rel": "appointments",
+      "note": "Chief Justice plus the four next senior judges."
+     },
+     {
+      "id": "m5j-njac",
+      "parent": "m5j-coll",
+      "tier": 2,
+      "label": "NJAC struck down, 2015",
+      "kind": "event",
+      "rel": "history",
+      "note": "Fourth Judges case; the 99th Amendment fell with it."
+     },
+     {
+      "id": "m5j-benches",
+      "parent": "m5j-root",
+      "tier": 2,
+      "label": "Two-judge benches",
+      "kind": "concept",
+      "rel": "consequence",
+      "note": "More benches produce more conflicting rulings needing larger benches."
+     },
+     {
+      "id": "m5j-cji",
+      "parent": "m5j-coll",
+      "tier": 2,
+      "label": "Chief Justice of India",
+      "kind": "person",
+      "rel": "office",
+      "note": "Appointed under Article 124; heads the collegium."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-emergency-care",
+   "rank": 6,
+   "depth": "medium",
+   "importance": 5,
+   "title": "Emergency medical care read into Article 21",
+   "date": "2026-05",
+   "category": "Judiciary",
+   "tags": [
+    "Article 21",
+    "Right to Health",
+    "Supreme Court"
+   ],
+   "hook": "A hospital that turns away a road accident victim for want of paperwork is now refusing a fundamental right, not just breaching an ethical rule.",
+   "story": "The Supreme Court held in May that access to **emergency medical care** is part of the right to life under **Article 21**, and directed that no hospital, public or private, may refuse immediate treatment to a person in a medical emergency for want of documentation, police clearance or advance payment.\n\nThe holding sits on a line of cases rather than appearing from nowhere. **Parmanand Katara v. Union of India (1989)** had already held that every doctor, whether at a government hospital or in private practice, is obliged to extend medical aid to preserve life, and that no procedural formality may stand in the way. **Paschim Banga Khet Mazdoor Samity v. State of West Bengal (1996)** went further and held the state liable in compensation where a man with head injuries was turned away by several government hospitals for want of beds, because Article 21 obliges the state to provide adequate medical facilities. The Court in 2026 pulled these together and made the obligation enforceable against private hospitals directly rather than through the state.\n\nArticle 21 has been the workhorse of Indian rights law for the same reason. **Maneka Gandhi (1978)** required any procedure depriving a person of life or liberty to be fair, just and reasonable, which converted the article from a procedural guarantee into a source of substantive rights. Courts have since read into it a right to livelihood, to a clean environment, to education for children until the Eighty-Sixth Amendment made it explicit in **Article 21A**, to privacy in **Puttaswamy (2017)**, and to die with dignity in **Common Cause (2018)**.\n\nThe practical question the judgment leaves open is enforcement. Refusal usually happens in the first minutes at a reception desk, where no court is watching, and the directions rely on state governments framing rules and on hospital licensing conditions carrying the obligation.",
+   "facts": [
+    {
+     "k": "Holding",
+     "v": "Emergency medical care is part of the right to life under Article 21"
+    },
+    {
+     "k": "Reach",
+     "v": "Binds private hospitals directly, not only the state"
+    },
+    {
+     "k": "Parmanand Katara, 1989",
+     "v": "Doctors obliged to treat first; no procedural formality may delay aid"
+    },
+    {
+     "k": "Paschim Banga, 1996",
+     "v": "State liable in compensation for denial of emergency treatment"
+    },
+    {
+     "k": "Maneka Gandhi, 1978",
+     "v": "Made Article 21 procedure fair, just and reasonable, opening the expansion"
+    },
+    {
+     "k": "Related expansions",
+     "v": "Livelihood, clean environment, education, privacy, dignity in dying"
+    }
+   ],
+   "timeline": [],
+   "why": "Expect this as a passage on Article 21 expansion with the older cases as options. Parmanand Katara is the one most often forgotten, and it is the earliest.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5e-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Emergency care under Article 21",
+      "kind": "event",
+      "rel": "core",
+      "note": "May 2026 ruling making emergency treatment a fundamental right."
+     },
+     {
+      "id": "m5e-21",
+      "parent": "m5e-root",
+      "tier": 1,
+      "label": "Article 21",
+      "kind": "law",
+      "rel": "source",
+      "note": "Life and personal liberty; the engine of Indian rights expansion."
+     },
+     {
+      "id": "m5e-maneka",
+      "parent": "m5e-21",
+      "tier": 2,
+      "label": "Maneka Gandhi, 1978",
+      "kind": "case",
+      "rel": "turning point",
+      "note": "Procedure must be fair, just and reasonable."
+     },
+     {
+      "id": "m5e-katara",
+      "parent": "m5e-root",
+      "tier": 1,
+      "label": "Parmanand Katara, 1989",
+      "kind": "case",
+      "rel": "precedent",
+      "note": "Doctors must treat first; formalities cannot delay aid."
+     },
+     {
+      "id": "m5e-pbkms",
+      "parent": "m5e-root",
+      "tier": 1,
+      "label": "Paschim Banga, 1996",
+      "kind": "case",
+      "rel": "precedent",
+      "note": "Compensation for refusal of emergency treatment by state hospitals."
+     },
+     {
+      "id": "m5e-priv",
+      "parent": "m5e-root",
+      "tier": 2,
+      "label": "Private hospitals",
+      "kind": "institution",
+      "rel": "new reach",
+      "note": "Obligation now runs against them directly."
+     },
+     {
+      "id": "m5e-put",
+      "parent": "m5e-21",
+      "tier": 2,
+      "label": "Puttaswamy, 2017",
+      "kind": "case",
+      "rel": "expansion",
+      "note": "Privacy read into Article 21 by nine judges."
+     },
+     {
+      "id": "m5e-cc",
+      "parent": "m5e-21",
+      "tier": 2,
+      "label": "Common Cause, 2018",
+      "kind": "case",
+      "rel": "expansion",
+      "note": "Right to die with dignity and advance directives."
+     },
+     {
+      "id": "m5e-21a",
+      "parent": "m5e-21",
+      "tier": 2,
+      "label": "Article 21A",
+      "kind": "law",
+      "rel": "amendment",
+      "note": "Free and compulsory education, inserted by the 86th Amendment."
+     },
+     {
+      "id": "m5e-enf",
+      "parent": "m5e-root",
+      "tier": 2,
+      "label": "Enforcement problem",
+      "kind": "concept",
+      "rel": "limit",
+      "note": "Refusals happen at reception desks, out of any court's sight."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-assam-ucc",
+   "rank": 7,
+   "depth": "medium",
+   "importance": 4,
+   "title": "Assam passes a Uniform Civil Code Bill",
+   "date": "2026-05",
+   "category": "Polity",
+   "tags": [
+    "Uniform Civil Code",
+    "Article 44",
+    "Assam"
+   ],
+   "hook": "Article 44 tells the state to endeavour. It says nothing about which state.",
+   "story": "The Assam Assembly passed a **Uniform Civil Code** Bill in May, following **Uttarakhand**, which enacted the first such state code in 2024 and brought it into force in January 2025. A state code covers marriage, divorce, succession, adoption and maintenance, and applies to residents of the state whether or not they live there.\n\nThe constitutional basis is **Article 44**, a Directive Principle which says the state shall endeavour to secure for citizens a uniform civil code throughout the territory of India. Directive Principles are, by **Article 37**, not enforceable by any court, but fundamental in the governance of the country. The Constituent Assembly debated the article at length; **Ambedkar** argued that a uniform code was permissive and that no government would force it on an unwilling community, and members from the minority benches pressed unsuccessfully for an explicit consent requirement.\n\nThe state route works because personal law sits in **Entry 5 of the Concurrent List**, so both Parliament and a state legislature may legislate on marriage, divorce, adoption and succession. A state Bill touching on matters where a central law already exists needs the **President's assent under Article 254(2)** to prevail within the state. **Goa** is often described as already having a uniform code, though what it has is the **Portuguese Civil Code of 1867**, retained after 1961 and applying with several community-specific exceptions.\n\nThe legal arguments run in both directions. Supporters point to **Sarla Mudgal (1995)** and **Shah Bano (1985)**, where the Supreme Court urged the state to act on Article 44. Opponents argue that **Article 25**, freedom of religion, and the protection of tribal customary law are put at risk, which is why the Uttarakhand code exempted Scheduled Tribes and why the same question was raised in Assam, a state with substantial tribal populations under the **Sixth Schedule**.",
+   "facts": [
+    {
+     "k": "What passed",
+     "v": "A state Uniform Civil Code Bill covering marriage, divorce, succession and adoption"
+    },
+    {
+     "k": "First state code",
+     "v": "Uttarakhand, enacted 2024, in force from January 2025"
+    },
+    {
+     "k": "Constitutional basis",
+     "v": "Article 44, a Directive Principle; Article 37 makes it non-justiciable"
+    },
+    {
+     "k": "Legislative competence",
+     "v": "Entry 5, Concurrent List; a repugnant state law needs assent under Article 254(2)"
+    },
+    {
+     "k": "Goa",
+     "v": "Applies the Portuguese Civil Code of 1867, with exceptions, not a modern UCC"
+    },
+    {
+     "k": "Cases urging action",
+     "v": "Shah Bano (1985) and Sarla Mudgal (1995)"
+    },
+    {
+     "k": "Exemptions",
+     "v": "Uttarakhand exempted Scheduled Tribes; the same question arises under the Sixth Schedule"
+    }
+   ],
+   "timeline": [],
+   "why": "The clean questions are Article 44 as a Directive Principle and Entry 5 of the Concurrent List. The favourite trap is calling Goa's law a uniform civil code without qualification.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5u-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Assam UCC Bill",
+      "kind": "event",
+      "rel": "core",
+      "note": "Second state after Uttarakhand to pass a uniform civil code."
+     },
+     {
+      "id": "m5u-44",
+      "parent": "m5u-root",
+      "tier": 1,
+      "label": "Article 44",
+      "kind": "law",
+      "rel": "basis",
+      "note": "Directive Principle; the state shall endeavour to secure a uniform code."
+     },
+     {
+      "id": "m5u-37",
+      "parent": "m5u-44",
+      "tier": 2,
+      "label": "Article 37",
+      "kind": "law",
+      "rel": "character",
+      "note": "Directive Principles are not enforceable in any court."
+     },
+     {
+      "id": "m5u-uk",
+      "parent": "m5u-root",
+      "tier": 1,
+      "label": "Uttarakhand code",
+      "kind": "event",
+      "rel": "precedent",
+      "note": "Enacted 2024, in force January 2025; exempted Scheduled Tribes."
+     },
+     {
+      "id": "m5u-entry5",
+      "parent": "m5u-root",
+      "tier": 1,
+      "label": "Entry 5, Concurrent List",
+      "kind": "law",
+      "rel": "competence",
+      "note": "Why a state may legislate on personal law at all."
+     },
+     {
+      "id": "m5u-254",
+      "parent": "m5u-entry5",
+      "tier": 2,
+      "label": "Article 254(2)",
+      "kind": "law",
+      "rel": "procedure",
+      "note": "President's assent lets a state law prevail over a central one."
+     },
+     {
+      "id": "m5u-goa",
+      "parent": "m5u-root",
+      "tier": 2,
+      "label": "Goa",
+      "kind": "place",
+      "rel": "comparison",
+      "note": "Portuguese Civil Code of 1867, retained with exceptions."
+     },
+     {
+      "id": "m5u-shah",
+      "parent": "m5u-root",
+      "tier": 2,
+      "label": "Shah Bano, 1985",
+      "kind": "case",
+      "rel": "history",
+      "note": "Maintenance under Section 125; the court urged action on Article 44."
+     },
+     {
+      "id": "m5u-sarla",
+      "parent": "m5u-root",
+      "tier": 2,
+      "label": "Sarla Mudgal, 1995",
+      "kind": "case",
+      "rel": "history",
+      "note": "Conversion to avoid bigamy; a second judicial nudge."
+     },
+     {
+      "id": "m5u-25",
+      "parent": "m5u-root",
+      "tier": 2,
+      "label": "Article 25",
+      "kind": "law",
+      "rel": "objection",
+      "note": "Freedom of religion, the ground most often raised against a code."
+     },
+     {
+      "id": "m5u-sixth",
+      "parent": "m5u-root",
+      "tier": 2,
+      "label": "Sixth Schedule",
+      "kind": "law",
+      "rel": "objection",
+      "note": "Tribal customary law in the northeast, and the exemption question."
+     },
+     {
+      "id": "m5u-ambedkar",
+      "parent": "m5u-44",
+      "tier": 3,
+      "label": "Ambedkar in the Assembly",
+      "kind": "person",
+      "rel": "debate",
+      "note": "Argued the article was permissive and would not be forced."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-rbi-surplus",
+   "rank": 8,
+   "depth": "medium",
+   "importance": 4,
+   "title": "The RBI transfers ₹2.86 lakh crore to the Centre",
+   "date": "2026-05",
+   "category": "Economy",
+   "tags": [
+    "RBI",
+    "Dividend",
+    "Fiscal Deficit",
+    "Bimal Jalan Committee"
+   ],
+   "hook": "A central bank does not have shareholders, so what it hands the government every August is not really a dividend, and the size of it is decided by a formula almost nobody reads.",
+   "story": "The Reserve Bank's Central Board approved a surplus transfer of about **₹2.86 lakh crore** to the central government for the accounting year, a figure close to the record set the previous year and far above what the Budget had assumed.\n\nThe transfer is not a dividend in the corporate sense. Under **Section 47 of the RBI Act, 1934**, whatever remains of the Bank's profits after providing for bad debts, depreciation and staff funds is paid to the central government. The profits come mainly from interest on the Bank's holdings of government securities and foreign assets, from gains on the sale of foreign exchange, and increasingly from the difference between the exchange rate at which dollars were bought and the rate at which they are sold.\n\nHow much is retained rather than paid over is governed by an **economic capital framework** recommended by the **Bimal Jalan Committee** in 2019 and revised in 2025. The framework sets a **contingent risk buffer** as a band of the balance sheet size, and the revised version widened that band to **4.5% to 7.5%**. Anything above the chosen level flows to the government. A large transfer therefore reflects both a good year and a decision about how much cushion to keep.\n\nFor the Budget the money matters in a specific way. It appears under **non-tax revenue**, alongside dividends from public sector undertakings and spectrum receipts, and a transfer larger than budgeted gives the government room either to spend more or to hold the **fiscal deficit** below target without cutting anything. The recurring criticism is that a government which counts on this line is depending on an outcome it does not control, and that pressing a central bank for larger transfers erodes the independence the buffer is meant to protect.",
+   "facts": [
+    {
+     "k": "Amount",
+     "v": "About ₹2.86 lakh crore for the accounting year"
+    },
+    {
+     "k": "Legal basis",
+     "v": "Section 47, RBI Act 1934: surplus profits are paid to the central government"
+    },
+    {
+     "k": "Framework",
+     "v": "Economic capital framework of the Bimal Jalan Committee, 2019, revised 2025"
+    },
+    {
+     "k": "Contingent risk buffer",
+     "v": "Band widened to 4.5% to 7.5% of the balance sheet"
+    },
+    {
+     "k": "Where it appears",
+     "v": "Non-tax revenue in the Union Budget"
+    },
+    {
+     "k": "Main income sources",
+     "v": "Interest on securities, returns on foreign assets, foreign exchange sale gains"
+    }
+   ],
+   "timeline": [],
+   "why": "Two facts carry most questions: the transfer is made under Section 47 of the RBI Act and is not a dividend, and the framework is the Bimal Jalan one. The trap is calling it a dividend and placing it in tax revenue.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5r-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "RBI surplus transfer",
+      "kind": "event",
+      "rel": "core",
+      "note": "About ₹2.86 lakh crore paid to the Centre."
+     },
+     {
+      "id": "m5r-47",
+      "parent": "m5r-root",
+      "tier": 1,
+      "label": "Section 47, RBI Act",
+      "kind": "law",
+      "rel": "basis",
+      "note": "Surplus profits go to the central government."
+     },
+     {
+      "id": "m5r-ecf",
+      "parent": "m5r-root",
+      "tier": 1,
+      "label": "Economic capital framework",
+      "kind": "concept",
+      "rel": "rule",
+      "note": "Decides how much the Bank keeps before transferring."
+     },
+     {
+      "id": "m5r-jalan",
+      "parent": "m5r-ecf",
+      "tier": 2,
+      "label": "Bimal Jalan Committee, 2019",
+      "kind": "institution",
+      "rel": "origin",
+      "note": "Recommended the framework; revised in 2025."
+     },
+     {
+      "id": "m5r-crb",
+      "parent": "m5r-ecf",
+      "tier": 2,
+      "label": "Contingent risk buffer",
+      "kind": "concept",
+      "rel": "cushion",
+      "note": "Band widened to 4.5 to 7.5 per cent of the balance sheet."
+     },
+     {
+      "id": "m5r-nontax",
+      "parent": "m5r-root",
+      "tier": 1,
+      "label": "Non-tax revenue",
+      "kind": "concept",
+      "rel": "budget",
+      "note": "Where the transfer sits, with PSU dividends and spectrum."
+     },
+     {
+      "id": "m5r-fd",
+      "parent": "m5r-nontax",
+      "tier": 2,
+      "label": "Fiscal deficit",
+      "kind": "concept",
+      "rel": "effect",
+      "note": "A larger transfer buys room without new taxes or cuts."
+     },
+     {
+      "id": "m5r-fx",
+      "parent": "m5r-root",
+      "tier": 2,
+      "label": "Foreign exchange gains",
+      "kind": "concept",
+      "rel": "source",
+      "note": "Difference between purchase and sale rates on dollars."
+     },
+     {
+      "id": "m5r-indep",
+      "parent": "m5r-root",
+      "tier": 2,
+      "label": "Central bank independence",
+      "kind": "concept",
+      "rel": "risk",
+      "note": "Pressure for larger transfers erodes the buffer's purpose."
+     },
+     {
+      "id": "m5r-mpc",
+      "parent": "m5r-root",
+      "tier": 2,
+      "label": "Monetary Policy Committee",
+      "kind": "institution",
+      "rel": "sibling",
+      "note": "The Bank's other statutory function, rate setting."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-iora",
+   "rank": 9,
+   "depth": "medium",
+   "importance": 4,
+   "title": "India takes the IORA chair and hosts the Indian Ocean Dialogue",
+   "date": "2026-05",
+   "category": "International Relations",
+   "tags": [
+    "IORA",
+    "Indian Ocean",
+    "SAGAR",
+    "Maritime"
+   ],
+   "hook": "Twenty-three countries around one ocean, and the only rule for joining is a coastline on it.",
+   "story": "India assumed the chair of the **Indian Ocean Rim Association** for the **2025-27** term and hosted the tenth **Indian Ocean Dialogue** during the period. IORA was founded in **1997** at Mauritius as the Indian Ocean Rim Association for Regional Cooperation, renamed in 2013, and has its secretariat at **Ebene, Mauritius**. Membership is open to any sovereign state of the Indian Ocean rim; it now has **23 members** and eleven dialogue partners, including China, the United States, Japan and the European Union. **Pakistan** has applied and been blocked, as consensus is required.\n\nThe grouping works through six priority areas: maritime safety and security, trade and investment facilitation, fisheries management, disaster risk management, academic and science cooperation, and tourism, with the blue economy and women's economic empowerment added as cross-cutting themes. It has no security function and no standing force, which is both its limitation and the reason a membership this diverse holds together.\n\nIndia's own framing has moved on. The **SAGAR** doctrine, Security and Growth for All in the Region, announced at Mauritius in 2015, was recast in 2025 as **MAHASAGAR**, Mutual and Holistic Advancement for Security and Growth Across Regions, extending the same idea to Africa and the wider Global South. Alongside it India runs the **Information Fusion Centre for the Indian Ocean Region** at Gurugram, which shares merchant shipping data with partner navies, and the **Colombo Security Conclave** with Sri Lanka, the Maldives, Mauritius and Bangladesh.\n\nThe context is competition. Chinese port investment and naval deployment across the ocean, the reopening of the Red Sea route after Houthi attacks disrupted it, and the **India-Middle East-Europe Economic Corridor** agreed at the 2023 G20 all run through the same water.",
+   "facts": [
+    {
+     "k": "Founded",
+     "v": "1997 at Mauritius; renamed IORA in 2013; secretariat at Ebene"
+    },
+    {
+     "k": "Membership",
+     "v": "23 member states and eleven dialogue partners; Pakistan blocked"
+    },
+    {
+     "k": "India's chair",
+     "v": "2025-27 term; hosted the tenth Indian Ocean Dialogue"
+    },
+    {
+     "k": "Priority areas",
+     "v": "Six, from maritime safety to tourism, plus the blue economy"
+    },
+    {
+     "k": "SAGAR",
+     "v": "Announced 2015; recast as MAHASAGAR in 2025"
+    },
+    {
+     "k": "Information Fusion Centre",
+     "v": "At Gurugram, sharing merchant shipping data with partner navies"
+    },
+    {
+     "k": "Colombo Security Conclave",
+     "v": "India, Sri Lanka, Maldives, Mauritius, Bangladesh"
+    }
+   ],
+   "timeline": [],
+   "why": "Learn IORA by its founding year, secretariat and the fact that it has no security mandate. SAGAR against MAHASAGAR is the newer pairing and the likelier trap.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5i-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "India chairs IORA",
+      "kind": "event",
+      "rel": "core",
+      "note": "2025-27 term, with the tenth Indian Ocean Dialogue hosted."
+     },
+     {
+      "id": "m5i-iora",
+      "parent": "m5i-root",
+      "tier": 1,
+      "label": "IORA",
+      "kind": "institution",
+      "rel": "body",
+      "note": "Founded 1997 at Mauritius; secretariat at Ebene."
+     },
+     {
+      "id": "m5i-mem",
+      "parent": "m5i-iora",
+      "tier": 2,
+      "label": "23 members",
+      "kind": "concept",
+      "rel": "composition",
+      "note": "Any Indian Ocean rim state; Pakistan blocked by consensus."
+     },
+     {
+      "id": "m5i-pri",
+      "parent": "m5i-iora",
+      "tier": 2,
+      "label": "Six priority areas",
+      "kind": "concept",
+      "rel": "mandate",
+      "note": "Safety, trade, fisheries, disaster risk, science, tourism."
+     },
+     {
+      "id": "m5i-nosec",
+      "parent": "m5i-iora",
+      "tier": 2,
+      "label": "No security mandate",
+      "kind": "concept",
+      "rel": "limit",
+      "note": "No standing force; part of why it holds together."
+     },
+     {
+      "id": "m5i-sagar",
+      "parent": "m5i-root",
+      "tier": 1,
+      "label": "SAGAR",
+      "kind": "concept",
+      "rel": "doctrine",
+      "note": "Security and Growth for All in the Region, 2015."
+     },
+     {
+      "id": "m5i-maha",
+      "parent": "m5i-sagar",
+      "tier": 2,
+      "label": "MAHASAGAR, 2025",
+      "kind": "concept",
+      "rel": "successor",
+      "note": "Extends the framing to Africa and the Global South."
+     },
+     {
+      "id": "m5i-ifc",
+      "parent": "m5i-root",
+      "tier": 2,
+      "label": "Information Fusion Centre",
+      "kind": "institution",
+      "rel": "mechanism",
+      "note": "At Gurugram; shares shipping data with partner navies."
+     },
+     {
+      "id": "m5i-csc",
+      "parent": "m5i-root",
+      "tier": 2,
+      "label": "Colombo Security Conclave",
+      "kind": "institution",
+      "rel": "grouping",
+      "note": "With Sri Lanka, the Maldives, Mauritius and Bangladesh."
+     },
+     {
+      "id": "m5i-imec",
+      "parent": "m5i-root",
+      "tier": 2,
+      "label": "IMEC",
+      "kind": "concept",
+      "rel": "corridor",
+      "note": "India-Middle East-Europe corridor agreed at the 2023 G20."
+     },
+     {
+      "id": "m5i-china",
+      "parent": "m5i-root",
+      "tier": 2,
+      "label": "Chinese presence",
+      "kind": "concept",
+      "rel": "context",
+      "note": "Port investment and naval deployment across the same ocean."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-cbam",
+   "rank": 10,
+   "depth": "medium",
+   "importance": 4,
+   "title": "The EU carbon border tax goes live and India objects",
+   "date": "2026-05",
+   "category": "Economy",
+   "tags": [
+    "CBAM",
+    "Trade",
+    "Climate",
+    "WTO"
+   ],
+   "hook": "A tariff that calls itself a climate measure, on goods that were never made in Europe.",
+   "story": "The European Union's **Carbon Border Adjustment Mechanism** entered its definitive phase from **1 January 2026**, after a transitional period from October 2023 in which importers only had to report. From now importers must buy **CBAM certificates** priced against the EU Emissions Trading System to cover the embedded emissions of covered goods, with a deduction for any carbon price already paid in the country of origin.\n\nThe covered sectors are **iron and steel, aluminium, cement, fertilisers, electricity and hydrogen**, chosen because they are emissions-intensive and exposed to trade. For India the first two matter most: steel and aluminium make up a large share of what India sells into the EU, and the EU is one of India's largest export markets.\n\nIndia's objection has three parts. The mechanism is a unilateral trade measure dressed as climate policy, and so sits awkwardly with the **common but differentiated responsibilities** principle written into the UNFCCC and repeated in the Paris Agreement. It discriminates in effect against developing producers whose grids are coal-heavy, since the emissions are measured at the point of production. And it may violate **GATT** rules on national treatment and most favoured nation, an argument India has raised at the WTO Committee on Trade and Environment while stopping short of a formal dispute. India has also said it would consider a **retaliatory levy** if the measure is applied without accommodation, and has pushed the issue into the India-EU free trade negotiations.\n\nThe domestic response is a **carbon credit trading scheme** notified under the Energy Conservation (Amendment) Act 2022, with a compliance mechanism for energy-intensive industries. If Indian producers pay a domestic carbon price, that price is deductible against the CBAM certificate cost, which turns a transfer to Brussels into revenue collected at home.",
+   "facts": [
+    {
+     "k": "Definitive phase",
+     "v": "From 1 January 2026; reporting-only transition ran from October 2023"
+    },
+    {
+     "k": "Covered goods",
+     "v": "Iron and steel, aluminium, cement, fertilisers, electricity, hydrogen"
+    },
+    {
+     "k": "Mechanism",
+     "v": "Importers buy certificates priced on the EU Emissions Trading System"
+    },
+    {
+     "k": "Deduction",
+     "v": "Carbon price already paid in the country of origin is set off"
+    },
+    {
+     "k": "India's objections",
+     "v": "Unilateral, contrary to common but differentiated responsibilities, and possibly GATT-inconsistent"
+    },
+    {
+     "k": "Domestic answer",
+     "v": "Carbon Credit Trading Scheme under the Energy Conservation (Amendment) Act 2022"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "2022",
+     "what": "Energy Conservation (Amendment) Act enables an Indian carbon market"
+    },
+    {
+     "when": "2023",
+     "what": "CBAM transitional reporting phase begins in October"
+    },
+    {
+     "when": "2026",
+     "what": "Definitive phase begins; certificates must be surrendered"
+    }
+   ],
+   "why": "The reliable question is the list of covered sectors. The comprehension question is the CBDR argument, which is why the UNFCCC principle is worth knowing by name.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5c-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "CBAM goes live",
+      "kind": "event",
+      "rel": "core",
+      "note": "Definitive phase from January 2026."
+     },
+     {
+      "id": "m5c-ets",
+      "parent": "m5c-root",
+      "tier": 1,
+      "label": "EU Emissions Trading System",
+      "kind": "institution",
+      "rel": "benchmark",
+      "note": "Certificate price tracks the EU carbon price."
+     },
+     {
+      "id": "m5c-sect",
+      "parent": "m5c-root",
+      "tier": 1,
+      "label": "Six covered sectors",
+      "kind": "concept",
+      "rel": "scope",
+      "note": "Steel, aluminium, cement, fertiliser, electricity, hydrogen."
+     },
+     {
+      "id": "m5c-steel",
+      "parent": "m5c-sect",
+      "tier": 2,
+      "label": "Indian steel and aluminium",
+      "kind": "concept",
+      "rel": "exposure",
+      "note": "The largest part of India's exposure to the measure."
+     },
+     {
+      "id": "m5c-cbdr",
+      "parent": "m5c-root",
+      "tier": 1,
+      "label": "Common but differentiated responsibilities",
+      "kind": "concept",
+      "rel": "objection",
+      "note": "UNFCCC principle India invokes against unilateral measures."
+     },
+     {
+      "id": "m5c-wto",
+      "parent": "m5c-root",
+      "tier": 2,
+      "label": "WTO",
+      "kind": "institution",
+      "rel": "forum",
+      "note": "Raised at the Committee on Trade and Environment, not as a dispute."
+     },
+     {
+      "id": "m5c-gatt",
+      "parent": "m5c-wto",
+      "tier": 3,
+      "label": "GATT national treatment",
+      "kind": "law",
+      "rel": "argument",
+      "note": "National treatment and most favoured nation objections."
+     },
+     {
+      "id": "m5c-fta",
+      "parent": "m5c-root",
+      "tier": 2,
+      "label": "India-EU trade talks",
+      "kind": "concept",
+      "rel": "venue",
+      "note": "India has pushed the issue into the negotiations."
+     },
+     {
+      "id": "m5c-ccts",
+      "parent": "m5c-root",
+      "tier": 1,
+      "label": "Carbon Credit Trading Scheme",
+      "kind": "scheme",
+      "rel": "response",
+      "note": "Indian carbon market whose price is deductible against CBAM."
+     },
+     {
+      "id": "m5c-eca",
+      "parent": "m5c-ccts",
+      "tier": 2,
+      "label": "Energy Conservation (Amendment) Act, 2022",
+      "kind": "law",
+      "rel": "enabler",
+      "note": "The statute behind the Indian carbon market."
+     },
+     {
+      "id": "m5c-paris",
+      "parent": "m5c-cbdr",
+      "tier": 2,
+      "label": "Paris Agreement",
+      "kind": "agreement",
+      "rel": "context",
+      "note": "Repeats the differentiated responsibility principle."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-vietnam",
+   "rank": 11,
+   "depth": "medium",
+   "importance": 4,
+   "title": "India and Vietnam move to the top tier of partnership",
+   "date": "2026-05",
+   "category": "International Relations",
+   "tags": [
+    "Vietnam",
+    "ASEAN",
+    "South China Sea",
+    "Act East"
+   ],
+   "hook": "India has about thirty strategic partnerships. Only a handful sit at the top of the ladder, and the rungs mean something.",
+   "story": "India and Vietnam upgraded their relationship to an **Enhanced Comprehensive Strategic Partnership** in May, with a trade target of about **$25 billion by 2030** and expanded defence and maritime cooperation.\n\nThe ladder of Indian partnership labels runs roughly from a plain strategic partnership, through a comprehensive strategic partnership, to the special or enhanced versions reserved for a few. Vietnam had been a **Comprehensive Strategic Partner** since **2016**, one of the first countries in Southeast Asia to reach that level, and the two had already signed a **Joint Vision for Peace, Prosperity and People** in 2020.\n\nDefence is the substance. India extended a **$500 million** defence line of credit, has delivered patrol vessels built at Larsen and Toubro's Kattupalli yard, trains Vietnamese submariners and fighter pilots, and gifted a decommissioned corvette. The **BrahMos** missile has been discussed for years and has been sold to the Philippines, which makes Vietnam the obvious next customer. India's **ONGC Videsh** holds exploration blocks in Vietnamese waters that China's nine-dash line claim overlaps, which is where the two countries' positions on the **South China Sea** converge: both insist on the **UN Convention on the Law of the Sea** and on the 2016 arbitral award that rejected the nine-dash line.\n\nThe relationship sits inside **Act East**, which the Look East policy of 1992 became in 2014, and inside the **India-ASEAN** framework where Vietnam has often carried India's case. Vietnam is one of the four ASEAN claimants in the South China Sea, along with the Philippines, Malaysia and Brunei, and its balancing act between Washington and Beijing has made it a useful partner for a country doing something similar.",
+   "facts": [
+    {
+     "k": "Upgrade",
+     "v": "Comprehensive Strategic Partnership since 2016, now Enhanced"
+    },
+    {
+     "k": "Trade target",
+     "v": "About $25 billion by 2030"
+    },
+    {
+     "k": "Defence line of credit",
+     "v": "$500 million, plus patrol vessels built in India"
+    },
+    {
+     "k": "Energy",
+     "v": "ONGC Videsh holds blocks in Vietnamese waters inside China's claimed line"
+    },
+    {
+     "k": "Shared legal position",
+     "v": "UNCLOS and the 2016 arbitral award rejecting the nine-dash line"
+    },
+    {
+     "k": "Policy frame",
+     "v": "Act East, which replaced Look East in 2014"
+    }
+   ],
+   "timeline": [],
+   "why": "Partnership tiers get asked directly, so remember 2016 for the comprehensive strategic partnership. The South China Sea link is the comprehension angle, and the 2016 award was brought by the Philippines, not Vietnam.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5v-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "India-Vietnam upgrade",
+      "kind": "event",
+      "rel": "core",
+      "note": "Enhanced Comprehensive Strategic Partnership, May 2026."
+     },
+     {
+      "id": "m5v-2016",
+      "parent": "m5v-root",
+      "tier": 1,
+      "label": "Comprehensive Strategic Partnership, 2016",
+      "kind": "event",
+      "rel": "history",
+      "note": "The previous tier, reached during a prime ministerial visit."
+     },
+     {
+      "id": "m5v-def",
+      "parent": "m5v-root",
+      "tier": 1,
+      "label": "Defence cooperation",
+      "kind": "concept",
+      "rel": "substance",
+      "note": "Line of credit, patrol vessels, submarine and pilot training."
+     },
+     {
+      "id": "m5v-brahmos",
+      "parent": "m5v-def",
+      "tier": 2,
+      "label": "BrahMos",
+      "kind": "concept",
+      "rel": "export",
+      "note": "Sold to the Philippines; Vietnam the discussed next buyer."
+     },
+     {
+      "id": "m5v-ongc",
+      "parent": "m5v-root",
+      "tier": 1,
+      "label": "ONGC Videsh blocks",
+      "kind": "concept",
+      "rel": "energy",
+      "note": "Exploration inside waters China claims."
+     },
+     {
+      "id": "m5v-scs",
+      "parent": "m5v-root",
+      "tier": 1,
+      "label": "South China Sea",
+      "kind": "place",
+      "rel": "dispute",
+      "note": "Four ASEAN claimants; Vietnam among them."
+     },
+     {
+      "id": "m5v-unclos",
+      "parent": "m5v-scs",
+      "tier": 2,
+      "label": "UNCLOS",
+      "kind": "agreement",
+      "rel": "law",
+      "note": "The convention both countries invoke."
+     },
+     {
+      "id": "m5v-award",
+      "parent": "m5v-scs",
+      "tier": 2,
+      "label": "2016 arbitral award",
+      "kind": "case",
+      "rel": "ruling",
+      "note": "Brought by the Philippines; rejected the nine-dash line."
+     },
+     {
+      "id": "m5v-acteast",
+      "parent": "m5v-root",
+      "tier": 1,
+      "label": "Act East",
+      "kind": "concept",
+      "rel": "policy",
+      "note": "Look East renamed and widened in 2014."
+     },
+     {
+      "id": "m5v-asean",
+      "parent": "m5v-acteast",
+      "tier": 2,
+      "label": "ASEAN",
+      "kind": "institution",
+      "rel": "frame",
+      "note": "Ten members; Vietnam has often carried India's case."
+     },
+     {
+      "id": "m5v-trade",
+      "parent": "m5v-root",
+      "tier": 2,
+      "label": "$25 billion by 2030",
+      "kind": "concept",
+      "rel": "target",
+      "note": "The headline economic commitment."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-uae-trade",
+   "rank": 12,
+   "depth": "medium",
+   "importance": 4,
+   "title": "India-UAE trade crosses $100 billion",
+   "date": "2026-05",
+   "category": "International Relations",
+   "tags": [
+    "UAE",
+    "CEPA",
+    "Trade",
+    "IMEC"
+   ],
+   "hook": "A trade agreement negotiated in eighty-eight days, and the target it set for 2030 was met four years early.",
+   "story": "Bilateral trade between India and the United Arab Emirates crossed **$100 billion**, the target the two countries had set for 2030 when they signed their **Comprehensive Economic Partnership Agreement**. The agreement was negotiated in about **eighty-eight days**, signed in **February 2022** and in force from **1 May 2022**, and it was India's first trade deal of its kind in a decade.\n\nThe CEPA removed tariffs on the large majority of tariff lines, phased over several years, and covers services, government procurement, digital trade and intellectual property. Indian gems and jewellery, textiles, engineering goods and pharmaceuticals gained; the UAE's petroleum products and its role as a re-export hub gained on the other side. The UAE is India's third largest trading partner after the United States and China, and its second largest export destination.\n\nBeyond trade the relationship has three legs. **Energy**: the UAE is a major crude supplier and holds capacity in India's **strategic petroleum reserve** at Mangaluru and Padur, with further agreements on LNG storage. **Payments**: the two central banks agreed in 2023 to settle bilateral trade in rupees and dirhams and to link the **UPI** with the UAE's instant payment platform, which cuts the cost of remittances sent by a diaspora of roughly **3.5 million** Indians, the largest expatriate group in the country. **Connectivity**: the UAE is a signatory to the **India-Middle East-Europe Economic Corridor** agreed at the G20 in New Delhi in 2023, and the corridor's eastern leg runs from Indian ports to Jebel Ali.\n\nThe newer additions are in artificial intelligence infrastructure and data centres, where Emirati sovereign funds have committed capital to Indian projects and Indian firms have taken space in Emirati compute capacity.",
+   "facts": [
+    {
+     "k": "Milestone",
+     "v": "Bilateral trade past $100 billion, the 2030 CEPA target reached early"
+    },
+    {
+     "k": "CEPA",
+     "v": "Negotiated in about 88 days, signed February 2022, in force 1 May 2022"
+    },
+    {
+     "k": "Ranking",
+     "v": "UAE is India's third largest trading partner and second largest export market"
+    },
+    {
+     "k": "Diaspora",
+     "v": "About 3.5 million Indians, the largest expatriate community in the UAE"
+    },
+    {
+     "k": "Strategic reserve",
+     "v": "UAE holds crude storage capacity at Mangaluru and Padur"
+    },
+    {
+     "k": "Payments",
+     "v": "Rupee-dirham settlement and UPI linkage agreed in 2023"
+    },
+    {
+     "k": "IMEC",
+     "v": "UAE is a signatory; the corridor's eastern leg runs to Jebel Ali"
+    }
+   ],
+   "timeline": [],
+   "why": "CEPA dates are the recall question: signed February 2022, in force 1 May 2022. The IMEC link is the connection worth carrying into any question on West Asia.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5a-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "India-UAE trade past $100bn",
+      "kind": "event",
+      "rel": "core",
+      "note": "The 2030 CEPA target met years early."
+     },
+     {
+      "id": "m5a-cepa",
+      "parent": "m5a-root",
+      "tier": 1,
+      "label": "CEPA",
+      "kind": "agreement",
+      "rel": "instrument",
+      "note": "Signed February 2022, in force 1 May 2022."
+     },
+     {
+      "id": "m5a-speed",
+      "parent": "m5a-cepa",
+      "tier": 2,
+      "label": "Eighty-eight days",
+      "kind": "concept",
+      "rel": "negotiation",
+      "note": "Unusually fast for a comprehensive trade agreement."
+     },
+     {
+      "id": "m5a-exp",
+      "parent": "m5a-cepa",
+      "tier": 2,
+      "label": "Gems, textiles, engineering, pharma",
+      "kind": "concept",
+      "rel": "gains",
+      "note": "The Indian export lines that benefited most."
+     },
+     {
+      "id": "m5a-energy",
+      "parent": "m5a-root",
+      "tier": 1,
+      "label": "Energy",
+      "kind": "concept",
+      "rel": "pillar",
+      "note": "Crude supply and storage in India's strategic reserve."
+     },
+     {
+      "id": "m5a-spr",
+      "parent": "m5a-energy",
+      "tier": 2,
+      "label": "Strategic Petroleum Reserve",
+      "kind": "institution",
+      "rel": "asset",
+      "note": "Caverns at Mangaluru, Padur and Visakhapatnam."
+     },
+     {
+      "id": "m5a-upi",
+      "parent": "m5a-root",
+      "tier": 1,
+      "label": "UPI linkage",
+      "kind": "concept",
+      "rel": "payments",
+      "note": "Rupee-dirham settlement and instant payment interoperability."
+     },
+     {
+      "id": "m5a-dia",
+      "parent": "m5a-upi",
+      "tier": 2,
+      "label": "3.5 million diaspora",
+      "kind": "concept",
+      "rel": "context",
+      "note": "Largest expatriate group in the UAE; remittance costs fall."
+     },
+     {
+      "id": "m5a-imec",
+      "parent": "m5a-root",
+      "tier": 1,
+      "label": "IMEC",
+      "kind": "concept",
+      "rel": "corridor",
+      "note": "Agreed at the 2023 G20; eastern leg to Jebel Ali."
+     },
+     {
+      "id": "m5a-ai",
+      "parent": "m5a-root",
+      "tier": 2,
+      "label": "AI and data centres",
+      "kind": "concept",
+      "rel": "new",
+      "note": "Emirati capital into Indian projects and compute deals."
+     },
+     {
+      "id": "m5a-i2u2",
+      "parent": "m5a-root",
+      "tier": 2,
+      "label": "I2U2",
+      "kind": "institution",
+      "rel": "grouping",
+      "note": "India, Israel, the UAE and the United States."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-erp",
+   "rank": 13,
+   "depth": "medium",
+   "importance": 4,
+   "title": "The essential religious practices doctrine comes back up",
+   "date": "2026-05",
+   "category": "Judiciary",
+   "tags": [
+    "Article 25",
+    "Sabarimala",
+    "Shirur Mutt"
+   ],
+   "hook": "A court that decides which parts of a religion are essential is doing theology, and it has been doing it since 1954.",
+   "story": "The Supreme Court returned in May to the **essential religious practices** test while dealing with the pending **Sabarimala** review reference, and restated the limit: the doctrine protects only what is essential to a religion, leaving secular activity associated with religion open to state regulation.\n\nThe doctrine comes from **Commissioner, Hindu Religious Endowments v. Lakshmindra Thirtha Swamiar of Shirur Mutt (1954)**, where the Court held that what constitutes an essential part of a religion is to be decided with reference to the doctrines of that religion itself. In practice courts have decided it themselves, reading scripture and expert evidence, which is the standing criticism: **Article 25** protects freedom of conscience and the right to profess, practise and propagate religion subject to public order, morality, health and the other Part III rights, and **Article 25(2)(a)** expressly allows the state to regulate secular activity associated with religious practice.\n\nThe test has produced uneven results. **Ananda Marga** was denied the right to perform the tandava dance in public. Excommunication by the Dai of the Dawoodi Bohras was upheld in 1962 and is again under challenge. In **Shayara Bano (2017)** the majority struck down instant triple talaq without resting on the doctrine, while one opinion held it was not an essential practice. In **Indian Young Lawyers Association (2018)** a majority held the exclusion of women of menstruating age from Sabarimala was not an essential practice and violated Articles 25 and 14. The **2019 review** did not decide the case; it referred a set of broader questions on the interplay of religious freedom, equality and constitutional morality to a nine-judge bench, which has not yet ruled.",
+   "facts": [
+    {
+     "k": "Origin",
+     "v": "Shirur Mutt, 1954: essentiality judged by the religion's own doctrines"
+    },
+    {
+     "k": "Article 25",
+     "v": "Freedom of religion, subject to public order, morality, health and other Part III rights"
+    },
+    {
+     "k": "Article 25(2)(a)",
+     "v": "Lets the state regulate secular activity associated with religion"
+    },
+    {
+     "k": "Sabarimala, 2018",
+     "v": "Exclusion held not essential and violative of Articles 25 and 14"
+    },
+    {
+     "k": "2019 review",
+     "v": "Referred wider questions to a nine-judge bench; still undecided"
+    },
+    {
+     "k": "Standing criticism",
+     "v": "Courts end up deciding theology rather than rights"
+    }
+   ],
+   "timeline": [],
+   "why": "The pairing to hold is Shirur Mutt 1954 with the doctrine, and 2018 with Sabarimala. Note that the 2019 order referred questions and did not overrule the 2018 judgment.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5p-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Essential religious practices",
+      "kind": "concept",
+      "rel": "core",
+      "note": "The test that decides what Article 25 actually protects."
+     },
+     {
+      "id": "m5p-shirur",
+      "parent": "m5p-root",
+      "tier": 1,
+      "label": "Shirur Mutt, 1954",
+      "kind": "case",
+      "rel": "origin",
+      "note": "Essentiality judged by the religion's own doctrines."
+     },
+     {
+      "id": "m5p-25",
+      "parent": "m5p-root",
+      "tier": 1,
+      "label": "Article 25",
+      "kind": "law",
+      "rel": "right",
+      "note": "Profess, practise and propagate, subject to public order and morality."
+     },
+     {
+      "id": "m5p-sec",
+      "parent": "m5p-25",
+      "tier": 2,
+      "label": "Article 25(2)(a)",
+      "kind": "law",
+      "rel": "carve-out",
+      "note": "State may regulate secular activity linked to religion."
+     },
+     {
+      "id": "m5p-sab",
+      "parent": "m5p-root",
+      "tier": 1,
+      "label": "Sabarimala, 2018",
+      "kind": "case",
+      "rel": "application",
+      "note": "Exclusion of women held not essential; Articles 25 and 14 breached."
+     },
+     {
+      "id": "m5p-rev",
+      "parent": "m5p-sab",
+      "tier": 2,
+      "label": "2019 reference",
+      "kind": "event",
+      "rel": "pending",
+      "note": "Nine-judge bench asked wider questions; not yet answered."
+     },
+     {
+      "id": "m5p-shayara",
+      "parent": "m5p-root",
+      "tier": 2,
+      "label": "Shayara Bano, 2017",
+      "kind": "case",
+      "rel": "parallel",
+      "note": "Instant triple talaq struck down; the doctrine split the bench."
+     },
+     {
+      "id": "m5p-bohra",
+      "parent": "m5p-root",
+      "tier": 2,
+      "label": "Dawoodi Bohra excommunication",
+      "kind": "case",
+      "rel": "line",
+      "note": "Upheld in 1962, under challenge again."
+     },
+     {
+      "id": "m5p-crit",
+      "parent": "m5p-root",
+      "tier": 2,
+      "label": "The theology objection",
+      "kind": "concept",
+      "rel": "critique",
+      "note": "Judges deciding what a faith requires."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-gdp-q4",
+   "rank": 16,
+   "depth": "brief",
+   "importance": 4,
+   "title": "Q4 growth at 7.2% and the unemployment number beside it",
+   "date": "2026-05",
+   "category": "Economy",
+   "tags": [
+    "GDP",
+    "PLFS",
+    "NSO"
+   ],
+   "hook": "Two numbers released within days of each other, measured by two different offices, and only one of them is easy to argue about.",
+   "story": "The **National Statistics Office** put growth for the fourth quarter of **2025-26** at about **7.2%**, keeping India the fastest growing major economy. Quarterly estimates come from the NSO under the Ministry of Statistics and Programme Implementation, which issues advance estimates in January, provisional estimates in May and revisions afterwards; the base year for the series is **2011-12**, with a revision to 2022-23 under way.\n\nThe **Periodic Labour Force Survey**, run by the same ministry, reported unemployment at about **5%**. PLFS has been monthly for urban areas and now reports rural figures monthly too, and it measures on two definitions: **usual status**, over a year, and **current weekly status**, over the preceding week. The survey also showed rural workers moving out of agriculture towards manufacturing and services.\n\nThe two numbers are read together because the standing criticism of Indian growth is that it has not produced proportionate employment. Growth is measured by value added, which rises fastest in capital-intensive sectors, while employment sits in construction, agriculture and small trade.",
+   "facts": [
+    {
+     "k": "Q4 growth",
+     "v": "About 7.2% for the fourth quarter of 2025-26"
+    },
+    {
+     "k": "Who measures",
+     "v": "National Statistics Office, under MoSPI; base year 2011-12"
+    },
+    {
+     "k": "Unemployment",
+     "v": "About 5% on PLFS"
+    },
+    {
+     "k": "PLFS definitions",
+     "v": "Usual status over a year, current weekly status over a week"
+    },
+    {
+     "k": "Shift",
+     "v": "Rural workers moving from agriculture into manufacturing and services"
+    }
+   ],
+   "timeline": [],
+   "why": "Know which body publishes which number: NSO for GDP, PLFS for employment, both under MoSPI. The base year of the GDP series is a standard recall question.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5g-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Growth and jobs",
+      "kind": "event",
+      "rel": "core",
+      "note": "Q4 GDP at 7.2% and PLFS unemployment at 5%."
+     },
+     {
+      "id": "m5g-nso",
+      "parent": "m5g-root",
+      "tier": 1,
+      "label": "National Statistics Office",
+      "kind": "institution",
+      "rel": "source",
+      "note": "Publishes the quarterly GDP estimates under MoSPI."
+     },
+     {
+      "id": "m5g-base",
+      "parent": "m5g-nso",
+      "tier": 2,
+      "label": "Base year 2011-12",
+      "kind": "concept",
+      "rel": "method",
+      "note": "Series base, with a revision under way."
+     },
+     {
+      "id": "m5g-plfs",
+      "parent": "m5g-root",
+      "tier": 1,
+      "label": "Periodic Labour Force Survey",
+      "kind": "institution",
+      "rel": "source",
+      "note": "India's employment survey, now monthly."
+     },
+     {
+      "id": "m5g-status",
+      "parent": "m5g-plfs",
+      "tier": 2,
+      "label": "Usual and current weekly status",
+      "kind": "concept",
+      "rel": "definition",
+      "note": "Two reference periods giving two rates."
+     },
+     {
+      "id": "m5g-jobless",
+      "parent": "m5g-root",
+      "tier": 2,
+      "label": "Jobless growth",
+      "kind": "concept",
+      "rel": "debate",
+      "note": "Value added grows fastest where employment does not."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-gst-ev",
+   "rank": 18,
+   "depth": "brief",
+   "importance": 3,
+   "title": "The GST Council cuts rates on EV batteries and medical devices",
+   "date": "2026-05",
+   "category": "Economy",
+   "tags": [
+    "GST Council",
+    "Article 279A",
+    "Electric Vehicles"
+   ],
+   "hook": "The one constitutional body where the Centre holds a third of the votes and can still be outvoted, in theory.",
+   "story": "The **GST Council** reduced rates on **electric vehicle batteries** and on a set of **medical devices**, both moves aimed at adoption rather than revenue.\n\nThe Council is a constitutional body created by **Article 279A**, inserted by the **101st Amendment** in 2016. It is chaired by the **Union Finance Minister**, with the Minister of State for Finance and one minister from each state. Decisions need a **three-fourths majority** of weighted votes; the Centre holds **one-third** of the total and the states together **two-thirds**, so neither side can act alone. Quorum is half the members.\n\nIts recommendations were long treated as binding in practice. In **Mohit Minerals (2022)**, dealing with integrated GST on ocean freight, the Supreme Court held that the Council's recommendations are **persuasive and not binding**, since both Parliament and state legislatures have simultaneous power to legislate on GST. The finding unsettled the assumption that the Council speaks with a single enforceable voice, though in practice its decisions are still adopted.",
+   "facts": [
+    {
+     "k": "Decision",
+     "v": "Lower GST on electric vehicle batteries and several medical devices"
+    },
+    {
+     "k": "Constitutional basis",
+     "v": "Article 279A, inserted by the 101st Amendment, 2016"
+    },
+    {
+     "k": "Composition",
+     "v": "Union Finance Minister as chair, MoS Finance, one minister per state"
+    },
+    {
+     "k": "Voting",
+     "v": "Three-fourths of weighted votes; Centre one-third, states two-thirds"
+    },
+    {
+     "k": "Mohit Minerals, 2022",
+     "v": "Council recommendations are persuasive, not binding"
+    }
+   ],
+   "timeline": [],
+   "why": "The voting split is the most asked fact and the easiest to invert. Mohit Minerals is the case to attach to any question on whether the Council can bind a state.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5t-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "GST rate cuts",
+      "kind": "event",
+      "rel": "core",
+      "note": "EV batteries and medical devices moved to lower slabs."
+     },
+     {
+      "id": "m5t-279a",
+      "parent": "m5t-root",
+      "tier": 1,
+      "label": "Article 279A",
+      "kind": "law",
+      "rel": "basis",
+      "note": "Created the Council through the 101st Amendment."
+     },
+     {
+      "id": "m5t-comp",
+      "parent": "m5t-279a",
+      "tier": 2,
+      "label": "Composition",
+      "kind": "concept",
+      "rel": "structure",
+      "note": "Union Finance Minister chairs; every state has a minister."
+     },
+     {
+      "id": "m5t-vote",
+      "parent": "m5t-279a",
+      "tier": 2,
+      "label": "Three-fourths rule",
+      "kind": "concept",
+      "rel": "voting",
+      "note": "Centre one-third, states two-thirds of weighted votes."
+     },
+     {
+      "id": "m5t-mohit",
+      "parent": "m5t-root",
+      "tier": 1,
+      "label": "Mohit Minerals, 2022",
+      "kind": "case",
+      "rel": "limit",
+      "note": "Recommendations persuasive, not binding."
+     },
+     {
+      "id": "m5t-ev",
+      "parent": "m5t-root",
+      "tier": 2,
+      "label": "Electric vehicles",
+      "kind": "concept",
+      "rel": "policy",
+      "note": "Rate cut aimed at adoption, with FAME and PM E-DRIVE alongside."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-gir-lions",
+   "rank": 20,
+   "depth": "brief",
+   "importance": 3,
+   "title": "The Asiatic lion count reaches 891",
+   "date": "2026-05",
+   "category": "Environment",
+   "tags": [
+    "Gir",
+    "Asiatic Lion",
+    "Wildlife"
+   ],
+   "hook": "Every Asiatic lion alive is descended from a population that dropped to perhaps twenty animals in one forest in Gujarat.",
+   "story": "The Gujarat forest department's estimation put the **Asiatic lion** population at **891**, up from 674 at the previous count in 2020. The lion survives in the wild only in and around the **Gir** forest in Saurashtra, and more than half the population now lives outside the protected area, in farmland, coastal scrub and near the Girnar hills.\n\nThe species is **Panthera leo persica**, listed as **Endangered** by the IUCN and placed in the highest protection schedule of the **Wildlife (Protection) Act 1972**. **Project Lion** was announced in 2020, along the lines of Project Tiger, and the state runs the count on a block-by-block direct sighting method rather than by camera trap.\n\nConcentration in one place is the risk. The **canine distemper virus** killed dozens of lions in 2018 and the same disease nearly wiped out the Serengeti population in 1994. The Supreme Court ordered in **2013** that some lions be translocated to **Kuno** in Madhya Pradesh; Gujarat did not comply, and Kuno was later used for the African cheetah introduction instead.",
+   "facts": [
+    {
+     "k": "Count",
+     "v": "891, up from 674 in 2020"
+    },
+    {
+     "k": "Range",
+     "v": "Gir and the surrounding landscape in Saurashtra; over half live outside protected areas"
+    },
+    {
+     "k": "Status",
+     "v": "Endangered on the IUCN list; highest schedule of the Wildlife (Protection) Act"
+    },
+    {
+     "k": "Project Lion",
+     "v": "Announced 2020, modelled on Project Tiger"
+    },
+    {
+     "k": "Kuno order",
+     "v": "Supreme Court directed translocation in 2013; not carried out"
+    }
+   ],
+   "timeline": [],
+   "why": "The trap is Kuno: the 2013 order was about lions, and the cheetahs that went there in 2022 were a different programme entirely.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5l-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Asiatic lion count 891",
+      "kind": "event",
+      "rel": "core",
+      "note": "Gujarat estimation, up from 674 in 2020."
+     },
+     {
+      "id": "m5l-gir",
+      "parent": "m5l-root",
+      "tier": 1,
+      "label": "Gir",
+      "kind": "place",
+      "rel": "habitat",
+      "note": "The only wild population, in Saurashtra."
+     },
+     {
+      "id": "m5l-out",
+      "parent": "m5l-gir",
+      "tier": 2,
+      "label": "Beyond the park",
+      "kind": "concept",
+      "rel": "spread",
+      "note": "More than half now live outside protected areas."
+     },
+     {
+      "id": "m5l-wpa",
+      "parent": "m5l-root",
+      "tier": 1,
+      "label": "Wildlife (Protection) Act, 1972",
+      "kind": "law",
+      "rel": "protection",
+      "note": "Highest schedule; the parent conservation statute."
+     },
+     {
+      "id": "m5l-proj",
+      "parent": "m5l-root",
+      "tier": 1,
+      "label": "Project Lion",
+      "kind": "scheme",
+      "rel": "programme",
+      "note": "Announced 2020, on the Project Tiger model."
+     },
+     {
+      "id": "m5l-cdv",
+      "parent": "m5l-root",
+      "tier": 2,
+      "label": "Canine distemper",
+      "kind": "concept",
+      "rel": "risk",
+      "note": "Killed dozens in 2018; devastated the Serengeti in 1994."
+     },
+     {
+      "id": "m5l-kuno",
+      "parent": "m5l-root",
+      "tier": 2,
+      "label": "Kuno",
+      "kind": "place",
+      "rel": "translocation",
+      "note": "Ordered in 2013, never done; later used for cheetahs."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-drdo",
+   "rank": 22,
+   "depth": "brief",
+   "importance": 3,
+   "title": "DRDO tests a glide weapon and an Agni-5 variant",
+   "date": "2026-05",
+   "category": "Defence",
+   "tags": [
+    "DRDO",
+    "Agni-5",
+    "MIRV",
+    "Missiles"
+   ],
+   "hook": "A missile that splits into several warheads on separate paths is one weapon on paper and several problems for an interceptor.",
+   "story": "The Defence Research and Development Organisation tested **TARA**, described as India's first indigenous precision glide weapon, and a variant of the **Agni-5** intermediate range ballistic missile.\n\nA glide weapon is released from an aircraft and glides to the target without an engine, guided by satellite and inertial navigation, which lets the launch aircraft stay outside air defence range. India already fields the **SAAW** and the **Gaurav** long-range glide bomb in this class.\n\n**Agni-5** has a range beyond 5,000 km and was first tested with **MIRV** capability in **Mission Divyastra** in March 2024. MIRV, or multiple independently targetable re-entry vehicles, lets one missile carry several warheads aimed at separate targets, which complicates missile defence and is why only a handful of countries have demonstrated it. India's declared nuclear posture remains **credible minimum deterrence** with **no first use**, set out after the 1998 Pokhran-II tests and formalised in the 2003 doctrine, which reserves the right to retaliate massively and also to respond to a chemical or biological attack.\n\nDefence production reached about **₹1.54 lakh crore** in 2024-25, with exports rising sharply from a low base.",
+   "facts": [
+    {
+     "k": "TARA",
+     "v": "Indigenous precision glide weapon, first tested May 2026"
+    },
+    {
+     "k": "Agni-5",
+     "v": "Range beyond 5,000 km; MIRV capability shown in Mission Divyastra, March 2024"
+    },
+    {
+     "k": "MIRV",
+     "v": "Several independently targeted warheads on one missile"
+    },
+    {
+     "k": "Doctrine",
+     "v": "Credible minimum deterrence and no first use, formalised in 2003"
+    },
+    {
+     "k": "Production",
+     "v": "About ₹1.54 lakh crore of defence production in 2024-25"
+    }
+   ],
+   "timeline": [],
+   "why": "Mission Divyastra and MIRV go together and are asked as a pair. No first use is the doctrine fact most often set against a wrong option.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5d-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "DRDO tests",
+      "kind": "event",
+      "rel": "core",
+      "note": "TARA glide weapon and an Agni-5 variant."
+     },
+     {
+      "id": "m5d-tara",
+      "parent": "m5d-root",
+      "tier": 1,
+      "label": "TARA",
+      "kind": "concept",
+      "rel": "weapon",
+      "note": "Indigenous precision glide weapon, released from aircraft."
+     },
+     {
+      "id": "m5d-agni",
+      "parent": "m5d-root",
+      "tier": 1,
+      "label": "Agni-5",
+      "kind": "concept",
+      "rel": "missile",
+      "note": "Range beyond 5,000 km."
+     },
+     {
+      "id": "m5d-mirv",
+      "parent": "m5d-agni",
+      "tier": 2,
+      "label": "MIRV",
+      "kind": "concept",
+      "rel": "capability",
+      "note": "Several warheads on separate paths from one missile."
+     },
+     {
+      "id": "m5d-divya",
+      "parent": "m5d-mirv",
+      "tier": 3,
+      "label": "Mission Divyastra, 2024",
+      "kind": "event",
+      "rel": "test",
+      "note": "First Indian MIRV demonstration."
+     },
+     {
+      "id": "m5d-doct",
+      "parent": "m5d-root",
+      "tier": 1,
+      "label": "No first use",
+      "kind": "concept",
+      "rel": "doctrine",
+      "note": "Credible minimum deterrence, formalised in 2003."
+     },
+     {
+      "id": "m5d-prod",
+      "parent": "m5d-root",
+      "tier": 2,
+      "label": "Defence production",
+      "kind": "concept",
+      "rel": "industry",
+      "note": "About ₹1.54 lakh crore in 2024-25, exports rising."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-ipl",
+   "rank": 24,
+   "depth": "brief",
+   "importance": 3,
+   "title": "RCB take a second consecutive IPL title",
+   "date": "2026-05",
+   "category": "Sports",
+   "tags": [
+    "IPL",
+    "Cricket",
+    "RCB"
+   ],
+   "hook": "A franchise that lost three finals in seventeen years has now won two in a row.",
+   "story": "**Royal Challengers Bengaluru** beat **Gujarat Titans** by five wickets in the final on **31 May 2026** to win a second consecutive Indian Premier League title, after ending an eighteen-season wait in 2025. **Virat Kohli** was player of the match in the final with an unbeaten 75 from 42 balls.\n\nThe season ran from **28 March to 31 May**. **Vaibhav Sooryavanshi** took the **Orange Cap** for most runs and the Emerging Player award; **Kagiso Rabada** of Gujarat Titans took the **Purple Cap** with 29 wickets.\n\nThe IPL is run by the **Board of Control for Cricket in India**, which is not a government body but a society registered under state law, held to be amenable to writ jurisdiction in **BCCI v. Cricket Association of Bihar (2015)** because it discharges public functions. The **Lodha Committee** reforms that followed reshaped its constitution, including a cooling-off period between terms.",
+   "facts": [
+    {
+     "k": "Final",
+     "v": "RCB beat Gujarat Titans by five wickets on 31 May 2026"
+    },
+    {
+     "k": "Title",
+     "v": "RCB's second, and second in succession after 2025"
+    },
+    {
+     "k": "Orange Cap",
+     "v": "Vaibhav Sooryavanshi, who also took the Emerging Player award"
+    },
+    {
+     "k": "Purple Cap",
+     "v": "Kagiso Rabada, 29 wickets"
+    },
+    {
+     "k": "Governance",
+     "v": "BCCI held amenable to writ jurisdiction in 2015; Lodha reforms followed"
+    }
+   ],
+   "timeline": [],
+   "why": "Sports questions in CLAT usually pair a trophy with a sport or a winner with a year. The BCCI governance point is the legal angle worth carrying across.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5ipl-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "IPL 2026",
+      "kind": "event",
+      "rel": "core",
+      "note": "RCB win a second consecutive title."
+     },
+     {
+      "id": "m5ipl-final",
+      "parent": "m5ipl-root",
+      "tier": 1,
+      "label": "The final",
+      "kind": "event",
+      "rel": "result",
+      "note": "Beat Gujarat Titans by five wickets on 31 May."
+     },
+     {
+      "id": "m5ipl-kohli",
+      "parent": "m5ipl-final",
+      "tier": 2,
+      "label": "Virat Kohli",
+      "kind": "person",
+      "rel": "player of the match",
+      "note": "Unbeaten 75 from 42 balls."
+     },
+     {
+      "id": "m5ipl-orange",
+      "parent": "m5ipl-root",
+      "tier": 1,
+      "label": "Orange Cap",
+      "kind": "concept",
+      "rel": "award",
+      "note": "Vaibhav Sooryavanshi, also Emerging Player."
+     },
+     {
+      "id": "m5ipl-purple",
+      "parent": "m5ipl-root",
+      "tier": 1,
+      "label": "Purple Cap",
+      "kind": "concept",
+      "rel": "award",
+      "note": "Kagiso Rabada, 29 wickets."
+     },
+     {
+      "id": "m5ipl-bcci",
+      "parent": "m5ipl-root",
+      "tier": 2,
+      "label": "BCCI",
+      "kind": "institution",
+      "rel": "governance",
+      "note": "Held amenable to writ jurisdiction in 2015."
+     },
+     {
+      "id": "m5ipl-lodha",
+      "parent": "m5ipl-bcci",
+      "tier": 3,
+      "label": "Lodha Committee",
+      "kind": "institution",
+      "rel": "reform",
+      "note": "Rewrote the board's constitution and terms."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-cannes79",
+   "rank": 26,
+   "depth": "brief",
+   "importance": 3,
+   "title": "Cristian Mungiu wins a second Palme d'Or",
+   "date": "2026-05",
+   "category": "Awards",
+   "tags": [
+    "Cannes",
+    "Palme d'Or",
+    "Film"
+   ],
+   "hook": "Only ten directors have won the Palme d'Or twice, and the tenth did it nineteen years after the first.",
+   "story": "**Fjord**, directed by the Romanian **Cristian Mungiu** and starring Sebastian Stan and Renate Reinsve, won the **Palme d'Or** at the **79th Festival de Cannes**, which closed on 23 May 2026. Mungiu had won in 2007 for **4 Months, 3 Weeks and 2 Days**, and becomes the tenth director to take the prize twice.\n\nCannes has run since **1946** and awards the Palme d'Or for the best film in competition, with the **Grand Prix** as the runner-up prize and the **Jury Prize** below it. The Indian record at the festival is short: **Chetan Anand's Neecha Nagar** shared the top prize at the first edition in 1946, **Payal Kapadia's All We Imagine as Light** took the Grand Prix in 2024, and the same director had won the Golden Eye documentary prize in 2021.\n\nCannes sits alongside **Berlin**, which awards the Golden Bear, and **Venice**, the oldest of the three, which awards the Golden Lion.",
+   "facts": [
+    {
+     "k": "Palme d'Or",
+     "v": "Fjord, directed by Cristian Mungiu, at the 79th festival"
+    },
+    {
+     "k": "Repeat winner",
+     "v": "Mungiu's second, after 4 Months, 3 Weeks and 2 Days in 2007"
+    },
+    {
+     "k": "Festival",
+     "v": "Running since 1946; Grand Prix is the second prize, Jury Prize the third"
+    },
+    {
+     "k": "Indian record",
+     "v": "Neecha Nagar shared the top prize in 1946; All We Imagine as Light took the Grand Prix in 2024"
+    },
+    {
+     "k": "The other two",
+     "v": "Berlin awards the Golden Bear, Venice the Golden Lion"
+    }
+   ],
+   "timeline": [],
+   "why": "The festival-to-award pairing is the standard question: Palme d'Or at Cannes, Golden Bear at Berlin, Golden Lion at Venice. Note that Payal Kapadia won the Grand Prix, not the Palme d'Or.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5cn-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "79th Cannes",
+      "kind": "event",
+      "rel": "core",
+      "note": "Fjord takes the Palme d'Or."
+     },
+     {
+      "id": "m5cn-mungiu",
+      "parent": "m5cn-root",
+      "tier": 1,
+      "label": "Cristian Mungiu",
+      "kind": "person",
+      "rel": "director",
+      "note": "Tenth director to win the Palme d'Or twice."
+     },
+     {
+      "id": "m5cn-2007",
+      "parent": "m5cn-mungiu",
+      "tier": 2,
+      "label": "4 Months, 3 Weeks and 2 Days",
+      "kind": "concept",
+      "rel": "first win",
+      "note": "Palme d'Or in 2007."
+     },
+     {
+      "id": "m5cn-prizes",
+      "parent": "m5cn-root",
+      "tier": 1,
+      "label": "The prize ladder",
+      "kind": "concept",
+      "rel": "structure",
+      "note": "Palme d'Or, then Grand Prix, then Jury Prize."
+     },
+     {
+      "id": "m5cn-india",
+      "parent": "m5cn-root",
+      "tier": 1,
+      "label": "Indian wins",
+      "kind": "concept",
+      "rel": "record",
+      "note": "Neecha Nagar 1946; All We Imagine as Light, Grand Prix 2024."
+     },
+     {
+      "id": "m5cn-payal",
+      "parent": "m5cn-india",
+      "tier": 2,
+      "label": "Payal Kapadia",
+      "kind": "person",
+      "rel": "director",
+      "note": "Grand Prix in 2024; Golden Eye in 2021."
+     },
+     {
+      "id": "m5cn-others",
+      "parent": "m5cn-root",
+      "tier": 2,
+      "label": "Berlin and Venice",
+      "kind": "concept",
+      "rel": "comparison",
+      "note": "Golden Bear and Golden Lion."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-migration",
+   "rank": 28,
+   "depth": "brief",
+   "importance": 3,
+   "title": "World Migration Report 2026: India leads on diaspora and remittances",
+   "date": "2026-05",
+   "category": "International Relations",
+   "tags": [
+    "Migration",
+    "IOM",
+    "Remittances",
+    "Diaspora"
+   ],
+   "hook": "The largest flow of money into India from abroad is not investment. It is people sending money home.",
+   "story": "The **World Migration Report 2026**, published by the **International Organization for Migration**, confirmed India as the country with the **largest diaspora** and the **largest recipient of remittances**. Indian remittance receipts have been above **$100 billion** a year since 2022, ahead of Mexico and China, and exceed India's annual foreign direct investment inflows. The largest sources are the United States, the United Arab Emirates and the other Gulf states.\n\nIOM was founded in 1951 and became a **related organisation of the United Nations** in 2016, joining the UN system without becoming a specialised agency. The report also recorded that climate-related disasters triggered millions of internal displacements, a category counted separately from cross-border migration and dominated by South Asia and East Asia.\n\nIndia's own framework distinguishes **non-resident Indians**, who are citizens, from **Overseas Citizens of India**, a status created in 2005 that gives lifelong visa-free entry and most economic rights but no vote and no public office. Dual citizenship is not permitted.",
+   "facts": [
+    {
+     "k": "Publisher",
+     "v": "International Organization for Migration, a UN related organisation since 2016"
+    },
+    {
+     "k": "Diaspora",
+     "v": "India's is the world's largest"
+    },
+    {
+     "k": "Remittances",
+     "v": "Above $100 billion a year since 2022, more than annual FDI inflows"
+    },
+    {
+     "k": "Main sources",
+     "v": "United States, United Arab Emirates and the Gulf"
+    },
+    {
+     "k": "Status categories",
+     "v": "NRI is a citizen; OCI is not, and cannot vote or hold public office"
+    }
+   ],
+   "timeline": [],
+   "why": "The remittance figure and the OCI distinction are the two things asked. Remember that India does not allow dual citizenship, which is what OCI status works around.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5m-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "World Migration Report 2026",
+      "kind": "event",
+      "rel": "core",
+      "note": "India first on diaspora and on remittances."
+     },
+     {
+      "id": "m5m-iom",
+      "parent": "m5m-root",
+      "tier": 1,
+      "label": "IOM",
+      "kind": "institution",
+      "rel": "publisher",
+      "note": "Founded 1951; a UN related organisation from 2016."
+     },
+     {
+      "id": "m5m-rem",
+      "parent": "m5m-root",
+      "tier": 1,
+      "label": "Remittances",
+      "kind": "concept",
+      "rel": "flow",
+      "note": "Above $100 billion a year, exceeding FDI inflows."
+     },
+     {
+      "id": "m5m-gulf",
+      "parent": "m5m-rem",
+      "tier": 2,
+      "label": "Gulf and United States",
+      "kind": "place",
+      "rel": "sources",
+      "note": "Where most of the money originates."
+     },
+     {
+      "id": "m5m-climate",
+      "parent": "m5m-root",
+      "tier": 2,
+      "label": "Climate displacement",
+      "kind": "concept",
+      "rel": "category",
+      "note": "Counted separately; mostly internal, mostly in Asia."
+     },
+     {
+      "id": "m5m-oci",
+      "parent": "m5m-root",
+      "tier": 1,
+      "label": "OCI and NRI",
+      "kind": "concept",
+      "rel": "status",
+      "note": "OCI created 2005; no vote, no public office, no dual citizenship."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-seabed",
+   "rank": 30,
+   "depth": "brief",
+   "importance": 2,
+   "title": "Deep-sea mining and the authority nobody wants to obey",
+   "date": "2026-05",
+   "category": "Environment",
+   "tags": [
+    "Deep Sea Mining",
+    "ISA",
+    "UNCLOS",
+    "Samudrayaan"
+   ],
+   "hook": "The seabed beyond national jurisdiction is legally the common heritage of mankind, which is a strong phrase with a weak enforcement mechanism.",
+   "story": "Demand for battery metals has revived interest in mining polymetallic nodules from the deep ocean floor, and the **International Seabed Authority** criticised United States efforts to fast-track permits outside its process.\n\nThe Authority was created by the **UN Convention on the Law of the Sea**, which came into force in 1994, and administers the **Area**, the seabed beyond national jurisdiction, declared the **common heritage of mankind**. It has issued exploration contracts but has not finalised the exploitation regulations, the so-called mining code, and several states have called for a moratorium until the ecological effects are understood. The **United States has not ratified UNCLOS**, which is the gap the fast-track permits exploit.\n\nIndia holds exploration rights over about **75,000 sq km** in the **Central Indian Ocean Basin** for polymetallic nodules and a further area on the **Carlsberg Ridge** for sulphides. The **Deep Ocean Mission**, approved in 2021, includes **Samudrayaan**, a crewed submersible called **Matsya-6000** designed to reach 6,000 metres.",
+   "facts": [
+    {
+     "k": "Body",
+     "v": "International Seabed Authority, created under UNCLOS; seat at Kingston, Jamaica"
+    },
+    {
+     "k": "The Area",
+     "v": "Seabed beyond national jurisdiction, the common heritage of mankind"
+    },
+    {
+     "k": "Gap",
+     "v": "The exploitation regulations are unfinished; the United States has not ratified UNCLOS"
+    },
+    {
+     "k": "India's claim",
+     "v": "About 75,000 sq km in the Central Indian Ocean Basin"
+    },
+    {
+     "k": "Deep Ocean Mission",
+     "v": "Approved 2021; Samudrayaan and the Matsya-6000 submersible"
+    }
+   ],
+   "timeline": [],
+   "why": "Common heritage of mankind is the phrase to attach to the Area, and the fact that the United States has not ratified UNCLOS explains most of the story.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5s-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Deep-sea mining",
+      "kind": "event",
+      "rel": "core",
+      "note": "Battery demand revives interest; the ISA objects to unilateral permits."
+     },
+     {
+      "id": "m5s-isa",
+      "parent": "m5s-root",
+      "tier": 1,
+      "label": "International Seabed Authority",
+      "kind": "institution",
+      "rel": "regulator",
+      "note": "Created by UNCLOS; seat at Kingston."
+     },
+     {
+      "id": "m5s-area",
+      "parent": "m5s-isa",
+      "tier": 2,
+      "label": "The Area",
+      "kind": "concept",
+      "rel": "status",
+      "note": "Seabed beyond national jurisdiction; common heritage of mankind."
+     },
+     {
+      "id": "m5s-code",
+      "parent": "m5s-isa",
+      "tier": 2,
+      "label": "The mining code",
+      "kind": "concept",
+      "rel": "gap",
+      "note": "Exploitation regulations still unfinished."
+     },
+     {
+      "id": "m5s-us",
+      "parent": "m5s-root",
+      "tier": 2,
+      "label": "United States",
+      "kind": "place",
+      "rel": "outsider",
+      "note": "Has not ratified UNCLOS; issuing its own permits."
+     },
+     {
+      "id": "m5s-india",
+      "parent": "m5s-root",
+      "tier": 1,
+      "label": "India's exploration rights",
+      "kind": "concept",
+      "rel": "claim",
+      "note": "About 75,000 sq km in the Central Indian Ocean Basin."
+     },
+     {
+      "id": "m5s-dom",
+      "parent": "m5s-india",
+      "tier": 2,
+      "label": "Deep Ocean Mission",
+      "kind": "scheme",
+      "rel": "programme",
+      "note": "Approved 2021; Samudrayaan and Matsya-6000."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "may26-forests",
+   "rank": 32,
+   "depth": "brief",
+   "importance": 2,
+   "title": "The Global Forest Goals Report counts the loss",
+   "date": "2026-05",
+   "category": "Environment",
+   "tags": [
+    "Forests",
+    "UN",
+    "Deforestation"
+   ],
+   "hook": "The world agreed in 2015 to increase forest area. Ten years on, forty million hectares had gone the other way.",
+   "story": "The **Global Forest Goals Report 2026**, published under the **United Nations Forum on Forests**, recorded a loss of more than **40 million hectares** of forest between 2015 and 2025, driven by agricultural expansion, climate change, wildfires and illegal logging. The Forum sits under the Economic and Social Council and oversees the **UN Strategic Plan for Forests 2017-2030**, whose first goal is to reverse forest loss.\n\nForest data in India comes from the **India State of Forest Report**, published every two years by the **Forest Survey of India** at Dehradun. India reports forest and tree cover at roughly a quarter of its area, against a **National Forest Policy 1988** target of a third, and the count is contested because plantations and orchards are included in what is measured from satellite.\n\nThe governing statutes are the **Forest (Conservation) Act 1980**, renamed the Van Sanrakshan Evam Samvardhan Adhiniyam in 2023, and the **Forest Rights Act 2006**, which recognises individual and community rights of forest-dwelling Scheduled Tribes and other traditional forest dwellers.",
+   "facts": [
+    {
+     "k": "Loss",
+     "v": "Over 40 million hectares of forest between 2015 and 2025"
+    },
+    {
+     "k": "Publisher",
+     "v": "UN Forum on Forests, under the Economic and Social Council"
+    },
+    {
+     "k": "Indian data",
+     "v": "India State of Forest Report, biennial, from the Forest Survey of India at Dehradun"
+    },
+    {
+     "k": "Target",
+     "v": "A third of the geographical area under the National Forest Policy 1988"
+    },
+    {
+     "k": "Statutes",
+     "v": "Forest (Conservation) Act 1980, renamed in 2023, and the Forest Rights Act 2006"
+    }
+   ],
+   "timeline": [],
+   "why": "The Forest Survey of India and the biennial report are the recall facts. The 1988 policy target of one third is the number set against the reported quarter.",
+   "map": {
+    "nodes": [
+     {
+      "id": "m5f-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Global Forest Goals Report 2026",
+      "kind": "event",
+      "rel": "core",
+      "note": "Over 40 million hectares lost in a decade."
+     },
+     {
+      "id": "m5f-unff",
+      "parent": "m5f-root",
+      "tier": 1,
+      "label": "UN Forum on Forests",
+      "kind": "institution",
+      "rel": "publisher",
+      "note": "Under ECOSOC; runs the Strategic Plan for Forests."
+     },
+     {
+      "id": "m5f-causes",
+      "parent": "m5f-root",
+      "tier": 2,
+      "label": "Drivers",
+      "kind": "concept",
+      "rel": "causes",
+      "note": "Agriculture, climate change, wildfire, illegal logging."
+     },
+     {
+      "id": "m5f-isfr",
+      "parent": "m5f-root",
+      "tier": 1,
+      "label": "India State of Forest Report",
+      "kind": "institution",
+      "rel": "data",
+      "note": "Biennial, from the Forest Survey of India at Dehradun."
+     },
+     {
+      "id": "m5f-policy",
+      "parent": "m5f-isfr",
+      "tier": 2,
+      "label": "National Forest Policy 1988",
+      "kind": "concept",
+      "rel": "target",
+      "note": "One third of the geographical area under forest."
+     },
+     {
+      "id": "m5f-fca",
+      "parent": "m5f-root",
+      "tier": 1,
+      "label": "Forest (Conservation) Act, 1980",
+      "kind": "law",
+      "rel": "statute",
+      "note": "Renamed Van Sanrakshan Evam Samvardhan Adhiniyam in 2023."
+     },
+     {
+      "id": "m5f-fra",
+      "parent": "m5f-root",
+      "tier": 1,
+      "label": "Forest Rights Act, 2006",
+      "kind": "law",
+      "rel": "statute",
+      "note": "Recognises rights of forest-dwelling communities."
+     }
+    ]
+   },
+   "sources": []
+  }
+ ],
+ "passages": [
+  {
+   "id": "2026-05-p1",
+   "kind": "current",
+   "month": "2026-05",
+   "topicIds": [
+    "2026-05-iran-hormuz-oil-shock"
+   ],
+   "category": "International Relations",
+   "tags": [
+    "May 2026",
+    "International Relations"
+   ],
+   "difficulty": 1,
+   "title": "May 2026 Passage 1: The Iran war reaches the Strait of Hormuz",
+   "passage": "In May 2026, major international and domestic developments unfolded across various sectors. The government and regulatory bodies announced key policy reforms while international courts and diplomatic summits reshaped global geopolitics. Analysts noted that these developments carry long-term implications for India's strategic interest and legal framework.",
+   "questions": [
+    {
+     "q": "What was the primary focus of the May 2026 development regarding International Relations?",
+     "options": [
+      "Strategic cooperation",
+      "Legislative reform",
+      "Economic stimulus",
+      "Environmental protection"
+     ],
+     "answer": 0,
+     "explain": "The passage highlights strategic cooperation and policy alignment."
+    },
+    {
+     "q": "Which organization or ministry primarily oversaw these implementation measures?",
+     "options": [
+      "Ministry of External Affairs",
+      "NITI Aayog",
+      "Reserve Bank of India",
+      "Supreme Court of India"
+     ],
+     "answer": 0,
+     "explain": "Ministry of External Affairs and related nodal ministries execute international and strategic agreements."
+    },
+    {
+     "q": "What is the standard requirement for international bilateral agreements under Indian law?",
+     "options": [
+      "Executive action under Article 73",
+      "Parliamentary approval in advance",
+      "State assembly ratification",
+      "Judicial clearance"
+     ],
+     "answer": 0,
+     "explain": "Executive power of the Union under Article 73 extends to matters where Parliament has power to make laws, including treaty making."
+    },
+    {
+     "q": "Which factor poses a potential challenge to the long-term execution of such initiatives?",
+     "options": [
+      "Geopolitical sanctions",
+      "Budgetary constraints",
+      "Lack of manpower",
+      "Judicial stays"
+     ],
+     "answer": 0,
+     "explain": "International geopolitical tensions and unilateral sanctions often affect cross-border projects."
+    },
+    {
+     "q": "What key metric is used by examiners to test candidates on such current affairs sets?",
+     "options": [
+      "Specific names, dates, and treaty terms",
+      "General opinions",
+      "Speculative outcomes",
+      "Unrelated historical trivia"
+     ],
+     "answer": 0,
+     "explain": "CLAT passage questions focus on specific names, dates, statutory articles, and treaty clauses."
+    }
+   ]
+  },
+  {
+   "id": "may26-p2",
+   "kind": "static",
+   "month": "2026-05",
+   "topicIds": [
+    "may26-emergency-care"
+   ],
+   "category": "Judiciary",
+   "tags": [
+    "Article 21",
+    "Health"
+   ],
+   "difficulty": 2,
+   "title": "The right that keeps growing",
+   "passage": "The provision runs to a single sentence and says only that no person shall be deprived of life or personal liberty except according to procedure established by law. For the first twenty-eight years it was read narrowly, and a majority of the Court held during the Emergency that even the right to move a court for enforcement could be suspended. The turn came in 1978, when the Court held that the procedure contemplated by the article could not be any procedure a legislature chose to enact, but had to be fair, just and reasonable. That reading converted a procedural safeguard into a source of substantive entitlements, and the entitlements have accumulated ever since.\n\nSome were recognised early. A person who is arrested has to be told why, has to be produced before a magistrate, and cannot be kept in solitary confinement or in fetters as a matter of routine. A pavement dweller evicted without notice was held to lose a right to livelihood that the article protected, because a person deprived of the means of living is deprived of life itself. Later cases added a clean environment, a speedy trial, legal aid, shelter, and education for children, the last of which Parliament eventually wrote into a separate article of its own.\n\nThe recent additions have run into private conduct. In May 2026 the Court held that a person in a medical emergency has a right to immediate treatment that binds private hospitals directly, not merely the state, and that no formality of documentation or payment may stand in the way. Two earlier judgments had pointed there: one in 1989 holding that a doctor's obligation to preserve life admits of no procedural excuse, and one in 1996 awarding compensation where a man with head injuries was turned away by a series of state hospitals.",
+   "questions": [
+    {
+     "q": "The provision described is:",
+     "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 32"
+     ],
+     "answer": 2,
+     "explain": "Article 21, life and personal liberty."
+    },
+    {
+     "q": "The 1978 decision that changed its reading is:",
+     "options": [
+      "ADM Jabalpur",
+      "Maneka Gandhi",
+      "Kesavananda Bharati",
+      "A.K. Gopalan"
+     ],
+     "answer": 1,
+     "explain": "Maneka Gandhi v. Union of India held that the procedure must be fair, just and reasonable."
+    },
+    {
+     "q": "The right to education for children was later placed in:",
+     "options": [
+      "Article 21A",
+      "Article 45",
+      "Article 15(4)",
+      "Article 39(f)"
+     ],
+     "answer": 0,
+     "explain": "Article 21A, inserted by the 86th Amendment in 2002."
+    },
+    {
+     "q": "On the passage, what is new about the May 2026 ruling?",
+     "options": [
+      "It created a right to health for the first time",
+      "It bound private hospitals directly",
+      "It applied only to government hospitals",
+      "It made treatment free of cost"
+     ],
+     "answer": 1,
+     "explain": "The passage says the obligation binds private hospitals directly rather than through the state."
+    },
+    {
+     "q": "The 1996 judgment referred to awarded:",
+     "options": [
+      "An injunction",
+      "Compensation",
+      "A declaration only",
+      "Criminal sanction against the doctors"
+     ],
+     "answer": 1,
+     "explain": "Paschim Banga Khet Mazdoor Samity awarded compensation for the denial of emergency treatment."
+    }
+   ]
+  },
+  {
+   "id": "may26-p3",
+   "kind": "static",
+   "month": "2026-05",
+   "topicIds": [
+    "may26-cbam"
+   ],
+   "category": "Economy",
+   "tags": [
+    "CBAM",
+    "Trade"
+   ],
+   "difficulty": 3,
+   "title": "A tariff by another name",
+   "passage": "From the start of 2026 an importer bringing steel, aluminium, cement, fertiliser, electricity or hydrogen into the European Union has had to buy certificates covering the greenhouse gases emitted in making those goods, priced against the bloc's own carbon market. A transitional phase from late 2023 had required only that the emissions be reported. Any carbon price already paid where the goods were produced is deducted from what the importer owes.\n\nThe stated purpose is to stop carbon leakage, the movement of emissions-intensive production to countries with looser rules, which would leave the bloc's own industry undercut and the atmosphere no better off. The objection from developing exporters is that the measure is unilateral, that it was designed without their participation, and that it sits badly with a principle written into the climate convention of 1992 and repeated since: that states share a responsibility for the climate but not an equal one, given their different historical contributions and different capacities.\n\nThere is also a trade law argument, that a charge calculated on the production method rather than on the product itself may fall foul of the rules on national treatment and most favoured nation. India has raised the point in a WTO committee without filing a formal dispute, and has said it would consider a countervailing levy of its own.\n\nThe more interesting response has been domestic. If a producer pays a carbon price at home, that payment reduces the certificate cost at the border. A country that taxes its own emissions therefore keeps the revenue that would otherwise cross to Brussels, which is an argument for a domestic carbon market made entirely on grounds of national self-interest.",
+   "questions": [
+    {
+     "q": "The mechanism described covers:",
+     "options": [
+      "All imports into the European Union",
+      "Six emissions-intensive categories of goods",
+      "Only steel and aluminium",
+      "Only goods from developing countries"
+     ],
+     "answer": 1,
+     "explain": "Iron and steel, aluminium, cement, fertiliser, electricity and hydrogen."
+    },
+    {
+     "q": "The principle the objection rests on is:",
+     "options": [
+      "Polluter pays",
+      "Common but differentiated responsibilities",
+      "The precautionary principle",
+      "Sustainable development"
+     ],
+     "answer": 1,
+     "explain": "Common but differentiated responsibilities, from the 1992 UNFCCC."
+    },
+    {
+     "q": "The stated purpose of the measure is to prevent:",
+     "options": [
+      "Currency manipulation",
+      "Carbon leakage",
+      "Dumping",
+      "Transfer pricing"
+     ],
+     "answer": 1,
+     "explain": "Carbon leakage, the shifting of emissions-intensive production to laxer jurisdictions."
+    },
+    {
+     "q": "On the passage, a domestic carbon price benefits the exporting country because:",
+     "options": [
+      "It exempts exports from the mechanism entirely",
+      "It reduces the certificate cost and keeps the revenue at home",
+      "It triggers a WTO exemption",
+      "It lowers the European carbon price"
+     ],
+     "answer": 1,
+     "explain": "The deduction means the money is collected at home instead of at the European border."
+    },
+    {
+     "q": "The trade law objection is that the charge is calculated on:",
+     "options": [
+      "The value of the goods",
+      "The production method rather than the product",
+      "The importer's nationality",
+      "The distance travelled"
+     ],
+     "answer": 1,
+     "explain": "A process-based charge raises national treatment and most favoured nation questions."
+    }
+   ]
+  },
+  {
+   "id": "may26-p4",
+   "kind": "static",
+   "month": "2026-05",
+   "topicIds": [
+    "may26-sc-strength"
+   ],
+   "category": "Polity",
+   "tags": [
+    "Supreme Court",
+    "Collegium",
+    "Article 124"
+   ],
+   "difficulty": 3,
+   "title": "Counting judges",
+   "passage": "The number is not in the Constitution. The relevant article provides for a Chief Justice and such number of other judges as Parliament may by law prescribe, and fixes a floor of seven until Parliament acts. The court opened in 1950 with eight judges including the Chief Justice, and Parliament has legislated seven times since to raise the ceiling, most recently to thirty-four in 2019 and now to thirty-eight.\n\nEach increase has been justified on the same ground and followed by the same result. The argument is arrears; the counter-argument, made every time, is that the arrears are not at the top. Something like eighty thousand matters are pending before the apex court, over sixty lakh before the High Courts, and more than four and a half crore before the district judiciary, where an ordinary litigant actually waits. Adding four judges to a court that already sits mostly in benches of two also multiplies the number of two-judge decisions, which multiplies conflicts between them, which produces references to larger benches, which is itself a source of delay.\n\nNothing in the change touches how the judges arrive. That process is not in the Constitution either. The text says appointments are made by the President after consultation with such judges as he considers necessary, and for decades consultation meant what it says. Three decisions between 1981 and 1998 converted consultation into concurrence and then into a recommendation by the Chief Justice acting with a plurality of senior colleagues, an arrangement the Constitution nowhere describes. Parliament tried to replace it in 2014 with a commission including the Law Minister and two eminent persons; a five-judge bench struck down both the amendment and the Act the following year, holding that the primacy of the judiciary in appointments is part of the basic structure.\n\nWhat remains is a memorandum of procedure the two sides have never finalised, a recurring quarrel about names returned and resent, and now four more vacancies to fill by the same route.",
+   "questions": [
+    {
+     "q": "The floor fixed by the Constitution until Parliament legislates is:",
+     "options": [
+      "Five other judges",
+      "Seven other judges",
+      "Ten other judges",
+      "Thirteen other judges"
+     ],
+     "answer": 1,
+     "explain": "Article 124(1) provides for a Chief Justice and seven other judges until Parliament prescribes more."
+    },
+    {
+     "q": "On the passage, the main objection to raising the number is that:",
+     "options": [
+      "It costs too much",
+      "The backlog is in the lower courts, not the apex court",
+      "The Constitution forbids it",
+      "It requires a constitutional amendment"
+     ],
+     "answer": 1,
+     "explain": "The passage locates the real backlog in the district judiciary."
+    },
+    {
+     "q": "The three decisions between 1981 and 1998 are collectively known as the:",
+     "options": [
+      "Judges cases",
+      "Basic structure cases",
+      "Emergency cases",
+      "Election cases"
+     ],
+     "answer": 0,
+     "explain": "The First, Second and Third Judges cases, which created the collegium."
+    },
+    {
+     "q": "The 2014 body Parliament tried to create was the:",
+     "options": [
+      "National Judicial Commission",
+      "National Judicial Appointments Commission",
+      "Judicial Standards Commission",
+      "Judicial Accountability Authority"
+     ],
+     "answer": 1,
+     "explain": "The NJAC, established by the 99th Amendment and struck down in 2015."
+    },
+    {
+     "q": "The ground on which it was struck down was that:",
+     "options": [
+      "It violated Article 14",
+      "Judicial primacy in appointments is part of the basic structure",
+      "It was passed as a money bill",
+      "It lacked presidential assent"
+     ],
+     "answer": 1,
+     "explain": "The Fourth Judges case held judicial primacy in appointments to be a basic feature."
+    }
+   ]
+  },
+  {
+   "id": "may26-p5",
+   "kind": "static",
+   "month": "2026-05",
+   "topicIds": [
+    "may26-assam-ucc"
+   ],
+   "category": "Polity",
+   "tags": [
+    "Uniform Civil Code",
+    "Article 44",
+    "Personal Law"
+   ],
+   "difficulty": 3,
+   "title": "An endeavour, not a command",
+   "passage": "The provision is one sentence long and sits in the part of the Constitution that courts may not enforce. It says the state shall endeavour to secure for the citizens a uniform civil code throughout the territory of India. The Constituent Assembly debated it for a day. Members from the minority benches moved amendments requiring the prior consent of the communities affected; the amendments were defeated, but the chairman of the drafting committee told the House in reply that the article was permissive, that it merely gave the state power it might never exercise, and that no future government would be so unwise as to impose a code on an unwilling population.\n\nSeventy-five years later two state legislatures have done what the Union has not. The route is a matter of legislative lists: personal law, including marriage, divorce, infants and minors, adoption, wills, intestacy and succession, appears in the concurrent list, so a state may legislate on it. Where a state law conflicts with an existing central law, it prevails within that state if it has been reserved for and received the assent of the President.\n\nThe state that went first exempted its scheduled tribes, and the second faced the same question in a sharper form, having a substantial population governed by customary law under a schedule of the Constitution that gives autonomous district councils power over marriage and inheritance among themselves.\n\nThe argument for is judicial. Courts have twice pressed the point in maintenance and conversion cases, observing that a common code would help national integration and remove contradictions based on conflicting ideologies. The argument against rests on the freedom to profess and practise religion, and on the observation that the one territory often described as already having such a code inherited it from a colonial power in 1867 and applies it with several community-specific exceptions, which makes it a poor advertisement for uniformity.",
+   "questions": [
+    {
+     "q": "The provision described is:",
+     "options": [
+      "Article 25",
+      "Article 37",
+      "Article 44",
+      "Article 48"
+     ],
+     "answer": 2,
+     "explain": "Article 44, a Directive Principle of State Policy."
+    },
+    {
+     "q": "The chairman of the drafting committee who replied in the debate was:",
+     "options": [
+      "Rajendra Prasad",
+      "B.R. Ambedkar",
+      "K.M. Munshi",
+      "Alladi Krishnaswami Ayyar"
+     ],
+     "answer": 1,
+     "explain": "Ambedkar chaired the drafting committee and answered the amendments on Article 44."
+    },
+    {
+     "q": "A state may legislate on personal law because it appears in the:",
+     "options": [
+      "Union List",
+      "State List",
+      "Concurrent List",
+      "Residuary powers"
+     ],
+     "answer": 2,
+     "explain": "Entry 5 of the Concurrent List covers marriage, divorce, adoption and succession."
+    },
+    {
+     "q": "A state law repugnant to a central law prevails in that state if:",
+     "options": [
+      "It is passed by a two-thirds majority",
+      "It receives the assent of the President",
+      "It is ratified by half the states",
+      "It is notified in the Gazette"
+     ],
+     "answer": 1,
+     "explain": "Article 254(2) requires reservation for and assent of the President."
+    },
+    {
+     "q": "The territory described as already having such a code:",
+     "options": [
+      "Has a modern uniform code applying to all",
+      "Applies a code inherited in 1867 with community-specific exceptions",
+      "Has no personal law at all",
+      "Follows the central law entirely"
+     ],
+     "answer": 1,
+     "explain": "Goa applies the Portuguese Civil Code of 1867 with several exceptions."
+    }
+   ]
+  },
+  {
+   "id": "may26-p6",
+   "kind": "static",
+   "month": "2026-05",
+   "topicIds": [
+    "may26-rbi-surplus"
+   ],
+   "category": "Economy",
+   "tags": [
+    "RBI",
+    "Surplus",
+    "Section 47"
+   ],
+   "difficulty": 2,
+   "title": "What a central bank does with its profit",
+   "passage": "It is routinely called a dividend and it is not one. A central bank has no shareholders in the ordinary sense; the governing statute of 1934 simply provides that after making provision for bad and doubtful debts, depreciation in assets, contributions to staff and superannuation funds and all other matters for which provision is customarily made, the balance of the profits shall be paid to the central government.\n\nThe profits come from three places. The bank holds a large portfolio of government securities and earns interest on them. It holds foreign assets and earns a return on those. And it buys and sells foreign currency in the market, booking the difference between the historical rate at which the dollars were acquired and the rate at which they are sold, which in a year of heavy intervention can be the largest single item.\n\nHow much is retained rather than paid over is not left to discretion. A committee that reported in 2019 recommended a framework under which the bank holds a contingent risk buffer within a band expressed as a percentage of its balance sheet, to absorb monetary and financial stability risks; the framework was revised in 2025 and the band widened. Whatever sits above the level chosen within that band flows to the government. A large transfer therefore reflects two separate things: a profitable year, and a decision about how much cushion to keep.\n\nFor the budget the money appears under non-tax revenue, alongside dividends from public sector undertakings and receipts from spectrum. A transfer above what was assumed gives the government room to spend more or to hold the deficit below target without cutting anything, which is why the figure is watched. The standing objection is that a government which builds its arithmetic around this line becomes interested in how large the buffer is, and a central bank whose cushion is set by someone with an interest in it being small has a problem it cannot solve with monetary policy.",
+   "questions": [
+    {
+     "q": "The transfer is made under:",
+     "options": [
+      "Section 7 of the RBI Act",
+      "Section 47 of the RBI Act",
+      "The Banking Regulation Act",
+      "The FRBM Act"
+     ],
+     "answer": 1,
+     "explain": "Section 47 provides for surplus profits to be paid to the central government."
+    },
+    {
+     "q": "Which is NOT given in the passage as a source of the bank's profits?",
+     "options": [
+      "Interest on government securities",
+      "Returns on foreign assets",
+      "Gains on foreign exchange sales",
+      "Fees charged to commercial banks"
+     ],
+     "answer": 3,
+     "explain": "The passage lists the first three only."
+    },
+    {
+     "q": "The 2019 committee recommended a framework centred on:",
+     "options": [
+      "An inflation target",
+      "A contingent risk buffer as a band of the balance sheet",
+      "A fixed dividend ratio",
+      "A cap on foreign exchange reserves"
+     ],
+     "answer": 1,
+     "explain": "The economic capital framework recommended by the Bimal Jalan Committee."
+    },
+    {
+     "q": "In the Union Budget the transfer appears as:",
+     "options": [
+      "Tax revenue",
+      "Non-tax revenue",
+      "Capital receipts",
+      "Borrowings"
+     ],
+     "answer": 1,
+     "explain": "Non-tax revenue, with PSU dividends and spectrum receipts."
+    },
+    {
+     "q": "The objection stated in the last paragraph is essentially about:",
+     "options": [
+      "Inflation",
+      "Central bank independence",
+      "Exchange rate policy",
+      "Tax buoyancy"
+     ],
+     "answer": 1,
+     "explain": "That a government dependent on the transfer acquires an interest in the size of the buffer."
+    }
+   ]
+  },
+  {
+   "id": "may26-p7",
+   "kind": "static",
+   "month": "2026-05",
+   "topicIds": [
+    "may26-iora"
+   ],
+   "category": "International Relations",
+   "tags": [
+    "IORA",
+    "Indian Ocean",
+    "Maritime"
+   ],
+   "difficulty": 2,
+   "title": "An association with no teeth, on purpose",
+   "passage": "Twenty-three states sit around one ocean and belong to a body founded in 1997 on a Mauritian initiative, with a secretariat on that island. The only qualification for membership is a coastline on the ocean in question, which is why the membership includes states at war with each other's allies, states of wildly different size, and states with almost nothing in common beyond salt water. One applicant has been kept out for two decades because admission requires consensus and one member will not give it.\n\nThe body works through six priority areas: maritime safety and security, trade and investment facilitation, fisheries management, disaster risk management, academic and scientific cooperation, and tourism, with the blue economy and women's economic empowerment running across all of them. It has no security function, no standing force, and no dispute mechanism. That is usually described as a weakness; it is at least as accurate to call it the condition on which a membership this heterogeneous holds together at all.\n\nIndia took the rotating chair for the 2025 to 2027 term. Its own framing of the region has moved twice. A doctrine announced at Mauritius in 2015 gave the acronym for security and growth for all in the region, and was recast a decade later under a longer name extending the same idea to Africa and the wider global south. Alongside it India runs a fusion centre near Delhi that shares merchant shipping tracks with partner navies, and a five-country security conclave with its immediate maritime neighbours.\n\nThe context is competition it cannot name in a communiqué. Port investment and naval deployment by a state that is only a dialogue partner, the disruption and partial reopening of the Red Sea route, and a corridor agreed at a summit in New Delhi in 2023 that would run from Indian ports through the Gulf to Europe all cross the same water, and none of them are on the agenda of the six priority areas.",
+   "questions": [
+    {
+     "q": "The body described was founded in:",
+     "options": [
+      "1985",
+      "1997",
+      "2003",
+      "2015"
+     ],
+     "answer": 1,
+     "explain": "The Indian Ocean Rim Association was founded in 1997, with its secretariat in Mauritius."
+    },
+    {
+     "q": "The sole qualification for membership is:",
+     "options": [
+      "Membership of the Commonwealth",
+      "A coastline on the Indian Ocean",
+      "A minimum trade volume",
+      "Signature of UNCLOS"
+     ],
+     "answer": 1,
+     "explain": "Any sovereign state of the Indian Ocean rim may apply."
+    },
+    {
+     "q": "On the passage, the absence of a security function is best described as:",
+     "options": [
+      "An oversight",
+      "The condition on which a diverse membership holds together",
+      "A temporary gap",
+      "A consequence of underfunding"
+     ],
+     "answer": 1,
+     "explain": "The passage explicitly reframes the weakness as an enabling condition."
+    },
+    {
+     "q": "The 2015 doctrine and its later recasting are:",
+     "options": [
+      "SAGAR and MAHASAGAR",
+      "Act East and Look East",
+      "Neighbourhood First and Act West",
+      "Blue Economy and Deep Ocean"
+     ],
+     "answer": 0,
+     "explain": "SAGAR, announced at Mauritius in 2015, recast as MAHASAGAR in 2025."
+    },
+    {
+     "q": "The corridor agreed at a New Delhi summit in 2023 is the:",
+     "options": [
+      "Chennai-Vladivostok corridor",
+      "India-Middle East-Europe Economic Corridor",
+      "Northern Sea Route",
+      "International North-South Transport Corridor"
+     ],
+     "answer": 1,
+     "explain": "IMEC, agreed at the G20 summit in New Delhi."
+    }
+   ]
+  },
+  {
+   "id": "may26-p8",
+   "kind": "static",
+   "month": "2026-05",
+   "topicIds": [
+    "may26-erp"
+   ],
+   "category": "Judiciary",
+   "tags": [
+    "Essential Religious Practices",
+    "Article 25",
+    "Sabarimala"
+   ],
+   "difficulty": 3,
+   "title": "Judges deciding what a religion requires",
+   "passage": "The test was invented in 1954, in a case about a mutt in the Madras presidency whose head objected to a statute placing its endowments under a government commissioner. The court held that what constitutes an essential part of a religion is to be ascertained with reference to the doctrines of that religion itself, and that the protection extends to practices as much as to belief. The sentence has been quoted ever since. What has happened in practice is the opposite of what it says: courts, not communities, decide, and they do it by reading scripture, hearing experts and forming a view about which observances a faith could survive the loss of.\n\nThe constitutional text invites some of this. The article guarantees freedom of conscience and the right to profess, practise and propagate religion, but subjects it to public order, morality, health and the other fundamental rights, and then expressly saves any law regulating or restricting economic, financial, political or other secular activity associated with religious practice. Something has to distinguish the religious core from the secular shell, and the test is what the court reached for.\n\nThe results have been uneven. A sect was refused the right to perform a dance with skulls in public processions. The power of a religious head to excommunicate was upheld in 1962 and is under challenge again. A ban on a form of unilateral divorce was struck down in 2017, with the plurality avoiding the test and one opinion resting on it. And in 2018 a majority held that excluding women of a particular age group from a temple was not essential to the faith and violated the guarantees of religious freedom and equality alike.\n\nThat last judgment was not overruled by what followed. A review in 2019 declined to decide the case and instead referred a set of broader questions — about the interplay of religious freedom with equality, about constitutional morality, about whether a court should be deciding any of this — to a bench of nine judges. Seven years on, those questions have not been answered, and every case in the area is argued in their shadow.",
+   "questions": [
+    {
+     "q": "The 1954 case that produced the test concerned:",
+     "options": [
+      "A temple entry ban",
+      "A mutt whose endowments were placed under a commissioner",
+      "A conversion statute",
+      "An excommunication"
+     ],
+     "answer": 1,
+     "explain": "Commissioner, Hindu Religious Endowments v. Lakshmindra Thirtha Swamiar of Shirur Mutt."
+    },
+    {
+     "q": "The article guaranteeing freedom of religion also permits the state to regulate:",
+     "options": [
+      "All religious practice",
+      "Secular activity associated with religious practice",
+      "Only financial activity",
+      "Nothing at all"
+     ],
+     "answer": 1,
+     "explain": "Article 25(2)(a) saves laws regulating economic, financial, political or other secular activity."
+    },
+    {
+     "q": "On the passage, the standing criticism of the test is that:",
+     "options": [
+      "It is too narrow",
+      "Courts rather than communities end up deciding what is essential",
+      "It applies only to Hinduism",
+      "It cannot be applied to new religions"
+     ],
+     "answer": 1,
+     "explain": "The passage says practice has inverted what the 1954 sentence prescribed."
+    },
+    {
+     "q": "The 2019 review of the 2018 temple judgment:",
+     "options": [
+      "Overruled it",
+      "Upheld it expressly",
+      "Referred broader questions to a nine-judge bench",
+      "Dismissed the review as not maintainable"
+     ],
+     "answer": 2,
+     "explain": "It referred questions onward without deciding the case."
+    },
+    {
+     "q": "The 2018 judgment held the exclusion violated:",
+     "options": [
+      "Only Article 25",
+      "Only Article 14",
+      "Both religious freedom and equality",
+      "Article 21 alone"
+     ],
+     "answer": 2,
+     "explain": "The majority found breaches of Articles 25 and 14."
+    }
+   ]
+  }
+ ]
+}

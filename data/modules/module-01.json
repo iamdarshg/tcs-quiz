@@ -1,0 +1,452 @@
+{
+  "id": "module-01",
+  "order": 1,
+  "label": "Computing History and Foundations",
+  "blurb": "A focused six-fact drill set for Computing History and Foundations.",
+  "topics": [
+    {
+      "id": "module-01-abacus",
+      "rank": 1,
+      "title": "Abacus",
+      "hook": "An abacus is a manual calculating frame used for arithmetic in several ancient civilizations.",
+      "explainer": "An abacus is a manual calculating frame used for arithmetic in several ancient civilizations. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Abacus",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Abacus encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Abacus"
+          },
+          {
+            "label": "Abacus reference search",
+            "url": "https://www.britannica.com/search?query=Abacus"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-ada-lovelace",
+            "relationship": "Manual tool versus programmed procedure",
+            "fact": "The abacus represents calculation performed by manipulating a physical aid, while Lovelace described how a machine could follow a written sequence of operations."
+          },
+          {
+            "topicId": "module-01-eniac",
+            "relationship": "Two eras of calculation hardware",
+            "fact": "Both perform arithmetic, but the abacus is manually operated whereas ENIAC used electronic vacuum-tube circuits for general-purpose computation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-01-ada-lovelace",
+      "rank": 2,
+      "title": "Ada Lovelace",
+      "hook": "Ada Lovelace published notes on Charles Babbage's Analytical Engine and described an algorithm for it.",
+      "explainer": "Ada Lovelace published notes on Charles Babbage's Analytical Engine and described an algorithm for it. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Ada Lovelace",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Ada Lovelace encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+          },
+          {
+            "label": "Ada Lovelace reference search",
+            "url": "https://www.britannica.com/search?query=Ada%20Lovelace"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-alan-turing",
+            "relationship": "Early milestones in algorithmic thought",
+            "fact": "Lovelace published an algorithm for Babbage's proposed machine; Turing later formalised what it means for a machine to carry out any computable algorithm."
+          },
+          {
+            "topicId": "module-01-eniac",
+            "relationship": "Program concept before electronic implementation",
+            "fact": "Lovelace wrote instructions for a mechanical Analytical Engine a century before ENIAC demonstrated large-scale electronic general-purpose computing."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-01-alan-turing",
+      "rank": 3,
+      "title": "Alan Turing",
+      "hook": "Alan Turing proposed the universal Turing machine, a foundational model of computation.",
+      "explainer": "Alan Turing proposed the universal Turing machine, a foundational model of computation. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Alan Turing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Alan Turing encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Alan_Turing"
+          },
+          {
+            "label": "Alan Turing reference search",
+            "url": "https://www.britannica.com/search?query=Alan%20Turing"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-ada-lovelace",
+            "relationship": "Complementary foundations of programming",
+            "fact": "Lovelace supplied an early published machine algorithm, while Turing supplied a mathematical model for universal computation."
+          },
+          {
+            "topicId": "module-01-eniac",
+            "relationship": "Theory alongside early hardware",
+            "fact": "Turing's universal machine was an abstract model; ENIAC was a physical electronic computer built in the following decade."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-01-eniac",
+      "rank": 4,
+      "title": "ENIAC",
+      "hook": "ENIAC, completed in 1945, was among the first general-purpose electronic digital computers.",
+      "explainer": "ENIAC, completed in 1945, was among the first general-purpose electronic digital computers. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "ENIAC encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/ENIAC"
+          },
+          {
+            "label": "ENIAC reference search",
+            "url": "https://www.britannica.com/search?query=ENIAC"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-transistor",
+            "relationship": "Vacuum-tube and transistor generations",
+            "fact": "ENIAC relied on thousands of vacuum tubes; the transistor soon made computers smaller, cooler, more reliable, and less power-hungry."
+          },
+          {
+            "topicId": "module-01-moore-s-law",
+            "relationship": "From room-sized machine to dense chips",
+            "fact": "ENIAC illustrates early electronic scale, while Moore's Law describes the later growth in transistor density that drove miniaturisation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-01-transistor",
+      "rank": 5,
+      "title": "Transistor",
+      "hook": "The transistor was invented at Bell Labs in 1947 and replaced many vacuum-tube functions.",
+      "explainer": "The transistor was invented at Bell Labs in 1947 and replaced many vacuum-tube functions. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Transistor",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Transistor encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Transistor"
+          },
+          {
+            "label": "Transistor reference search",
+            "url": "https://www.britannica.com/search?query=Transistor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-eniac",
+            "relationship": "Technology that displaced vacuum tubes",
+            "fact": "ENIAC typifies vacuum-tube computing, and transistors replaced the same switching and amplification functions in later machines."
+          },
+          {
+            "topicId": "module-01-moore-s-law",
+            "relationship": "Device counted by Moore's observation",
+            "fact": "Moore's Law tracks the rising number of transistors that manufacturers can place on an integrated circuit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-01-moore-s-law",
+      "rank": 6,
+      "title": "Moore's Law",
+      "hook": "Moore's Law is Gordon Moore's observation that chip transistor counts historically doubled roughly every two years.",
+      "explainer": "Moore's Law is Gordon Moore's observation that chip transistor counts historically doubled roughly every two years. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Moore's Law",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Moore's Law encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Moore's_Law"
+          },
+          {
+            "label": "Moore's Law reference search",
+            "url": "https://www.britannica.com/search?query=Moore's%20Law"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-transistor",
+            "relationship": "Measure of semiconductor scaling",
+            "fact": "The observation concerns transistor counts on chips, so the transistor is the physical unit behind the trend."
+          },
+          {
+            "topicId": "module-01-eniac",
+            "relationship": "Historical contrast in computing density",
+            "fact": "Comparing ENIAC's room-sized vacuum-tube design with modern chips makes the density trend described by Moore's Law concrete."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-01-q-01",
+      "module": "module-01",
+      "topicId": "module-01-abacus",
+      "difficulty": 1,
+      "q": "Which calculating aid works by moving counters along rods or grooves?",
+      "options": [
+        "Slide rule",
+        "Abacus",
+        "Pascaline",
+        "Difference Engine"
+      ],
+      "answer": 1,
+      "explanation": "An abacus represents numbers with movable counters and supports manual arithmetic; it does not execute a stored program.",
+      "optionFamily": "historical calculating devices",
+      "optionDomains": [
+        "historical calculating devices",
+        "historical calculating devices",
+        "historical calculating devices",
+        "historical calculating devices"
+      ]
+    },
+    {
+      "id": "module-01-q-02",
+      "module": "module-01",
+      "topicId": "module-01-ada-lovelace",
+      "difficulty": 2,
+      "q": "Ada Lovelace's celebrated algorithm appeared in notes about which proposed machine?",
+      "options": [
+        "ENIAC",
+        "Analytical Engine",
+        "Colossus",
+        "UNIVAC I"
+      ],
+      "answer": 1,
+      "explanation": "Lovelace annotated Menabrea's account of Babbage's Analytical Engine and described a method for calculating Bernoulli numbers.",
+      "optionFamily": "early programmable and electronic computers",
+      "optionDomains": [
+        "early programmable and electronic computers",
+        "early programmable and electronic computers",
+        "early programmable and electronic computers",
+        "early programmable and electronic computers"
+      ]
+    },
+    {
+      "id": "module-01-q-03",
+      "module": "module-01",
+      "topicId": "module-01-alan-turing",
+      "difficulty": 3,
+      "q": "Put these milestones in chronological order: Turing's universal-machine paper, ENIAC completion, transistor invention.",
+      "options": [
+        "Transistor, ENIAC, Turing paper",
+        "ENIAC, Turing paper, transistor",
+        "Turing paper, ENIAC, transistor",
+        "Turing paper, transistor, ENIAC"
+      ],
+      "answer": 2,
+      "explanation": "Turing published the model in 1936, ENIAC was completed in 1945, and Bell Labs demonstrated the transistor in 1947.",
+      "optionFamily": "computing milestone chronologies",
+      "optionDomains": [
+        "computing milestone chronologies",
+        "computing milestone chronologies",
+        "computing milestone chronologies",
+        "computing milestone chronologies"
+      ]
+    },
+    {
+      "id": "module-01-q-04",
+      "module": "module-01",
+      "topicId": "module-01-eniac",
+      "difficulty": 1,
+      "q": "A quiz clue says \"general-purpose electronic computer completed in 1945.\" Which answer fits best?",
+      "options": [
+        "ENIAC",
+        "EDSAC",
+        "Manchester Baby",
+        "UNIVAC I"
+      ],
+      "answer": 0,
+      "explanation": "ENIAC is the expected 1945 general-purpose electronic-computer answer; the Analytical Engine remained unbuilt and the Manchester Baby ran later.",
+      "optionFamily": "early general-purpose electronic computers",
+      "optionDomains": [
+        "early general-purpose electronic computers",
+        "early general-purpose electronic computers",
+        "early general-purpose electronic computers",
+        "early general-purpose electronic computers"
+      ]
+    },
+    {
+      "id": "module-01-q-05",
+      "module": "module-01",
+      "topicId": "module-01-transistor",
+      "difficulty": 2,
+      "q": "An engineer replaces a vacuum-tube switch with a smaller solid-state device invented at Bell Labs in 1947. What is it?",
+      "options": [
+        "Relay",
+        "Transistor",
+        "Vacuum tube",
+        "Magnetic-core memory"
+      ],
+      "answer": 1,
+      "explanation": "The Bell Labs transistor could switch and amplify electronically without the bulk and heat of a vacuum tube.",
+      "optionFamily": "electronic switching and memory components",
+      "optionDomains": [
+        "electronic switching and memory components",
+        "electronic switching and memory components",
+        "electronic switching and memory components",
+        "electronic switching and memory components"
+      ]
+    },
+    {
+      "id": "module-01-q-06",
+      "module": "module-01",
+      "topicId": "module-01-moore-s-law",
+      "difficulty": 3,
+      "q": "What quantity did Gordon Moore originally track when formulating the observation called Moore's Law?",
+      "options": [
+        "CPU clock speed",
+        "Semiconductor feature size",
+        "Components on an integrated circuit",
+        "Instructions executed per second"
+      ],
+      "answer": 2,
+      "explanation": "Moore examined component density on integrated circuits; the familiar shorthand later focuses on transistor counts, not clock speed.",
+      "optionFamily": "semiconductor scaling measures",
+      "optionDomains": [
+        "semiconductor scaling measures",
+        "semiconductor scaling measures",
+        "semiconductor scaling measures",
+        "semiconductor scaling measures"
+      ]
+    },
+    {
+      "id": "module-01-q-07",
+      "module": "module-01",
+      "topicId": "module-01-abacus",
+      "difficulty": 1,
+      "q": "Which comparison between an abacus and ENIAC is accurate?",
+      "options": [
+        "Both were electronic stored-program computers",
+        "Only the abacus used vacuum tubes",
+        "The abacus is manually operated; ENIAC used electronic circuits",
+        "ENIAC predates ancient calculating frames"
+      ],
+      "answer": 2,
+      "explanation": "The abacus depends on human manipulation of counters, whereas ENIAC automated arithmetic with electronic vacuum-tube circuitry.",
+      "optionFamily": "abacus and ENIAC comparisons",
+      "optionDomains": [
+        "abacus and ENIAC comparisons",
+        "abacus and ENIAC comparisons",
+        "abacus and ENIAC comparisons",
+        "abacus and ENIAC comparisons"
+      ]
+    },
+    {
+      "id": "module-01-q-08",
+      "module": "module-01",
+      "topicId": "module-01-ada-lovelace",
+      "difficulty": 2,
+      "q": "Which pairing is correctly matched?",
+      "options": [
+        "Ada Lovelace — PageRank",
+        "Ada Lovelace — Bernoulli-number algorithm",
+        "Alan Turing — invention of the transistor",
+        "Gordon Moore — Analytical Engine designer"
+      ],
+      "answer": 1,
+      "explanation": "Lovelace's notes included an Analytical Engine procedure for Bernoulli numbers, an early published machine algorithm.",
+      "optionFamily": "computing pioneers and contributions",
+      "optionDomains": [
+        "computing pioneers and contributions",
+        "computing pioneers and contributions",
+        "computing pioneers and contributions",
+        "computing pioneers and contributions"
+      ]
+    },
+    {
+      "id": "module-01-q-09",
+      "module": "module-01",
+      "topicId": "module-01-alan-turing",
+      "difficulty": 3,
+      "q": "A statement calls Turing the builder of ENIAC. What is the correction?",
+      "options": [
+        "He designed the Analytical Engine",
+        "He proposed a mathematical model of universal computation",
+        "He co-invented the transistor",
+        "He formulated Moore’s Law"
+      ],
+      "answer": 1,
+      "explanation": "Turing's key link here is the universal Turing machine, a theoretical model; Eckert and Mauchly led ENIAC's construction.",
+      "optionFamily": "Alan Turing contribution claims",
+      "optionDomains": [
+        "Alan Turing contribution claims",
+        "Alan Turing contribution claims",
+        "Alan Turing contribution claims",
+        "Alan Turing contribution claims"
+      ]
+    },
+    {
+      "id": "module-01-q-10",
+      "module": "module-01",
+      "topicId": "module-01-moore-s-law",
+      "difficulty": 1,
+      "q": "Which development most directly makes Moore's Law meaningful?",
+      "options": [
+        "Increasing CPU clock speed alone",
+        "Increasing transistor density on chips",
+        "Increasing magnetic-core memory size",
+        "Increasing the number of vacuum tubes per machine"
+      ],
+      "answer": 1,
+      "explanation": "The observation describes repeated increases in how densely semiconductor manufacturers integrate transistors, enabling greater computing capability per chip.",
+      "optionFamily": "transistor-density scaling claims",
+      "optionDomains": [
+        "transistor-density scaling claims",
+        "transistor-density scaling claims",
+        "transistor-density scaling claims",
+        "transistor-density scaling claims"
+      ]
+    }
+  ]
+}

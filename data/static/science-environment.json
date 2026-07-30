@@ -1,0 +1,1681 @@
+{
+ "id": "science-environment",
+ "kind": "static",
+ "label": "Science, Space & Defence",
+ "order": 6,
+ "blurb": "The space programme, the nuclear and missile programme, health vocabulary and the everyday physics and chemistry the paper asks about by name.",
+ "topics": [
+  {
+   "id": "sci-isro",
+   "rank": 1,
+   "depth": "deep",
+   "importance": 5,
+   "title": "ISRO: the missions, the launch vehicles and the people",
+   "date": "",
+   "category": "Science & Technology",
+   "tags": [
+    "ISRO",
+    "Chandrayaan",
+    "Mangalyaan",
+    "Gaganyaan",
+    "Launch Vehicles"
+   ],
+   "hook": "Chandrayaan-3 made India the first country to land near the lunar south pole, and the fourth to soft-land at all. The rest of the programme is a list worth memorising.",
+   "story": "**ISRO** was formed on **15 August 1969**, succeeding INCOSPAR which **Vikram Sarabhai** had set up in 1962. Sarabhai is called the father of the Indian space programme; the first sounding rocket flew from **Thumba** in Kerala in 1963. Headquarters are in **Bengaluru**; the main launch site is the **Satish Dhawan Space Centre at Sriharikota**, Andhra Pradesh. The current chairman is **V. Narayanan**, who took over in January 2025 from S. Somanath.\n\n**Satellites and firsts.** **Aryabhata**, India's first satellite, launched by the Soviet Union in 1975. **Rohini RS-1**, 1980, the first launched by an Indian vehicle, the SLV-3, under **A.P.J. Abdul Kalam** as project director. **INSAT** for communications, **IRS** for remote sensing, **NavIC** for regional navigation.\n\n**Launch vehicles.** **PSLV**, the workhorse, which in February 2017 launched **104 satellites** in a single flight, a record at the time. **GSLV**, which uses a cryogenic upper stage, indigenous from 2014. **LVM3**, formerly GSLV Mk III, the heaviest, which launched Chandrayaan-2 and Chandrayaan-3 and is planned for Gaganyaan. **SSLV**, for small satellites, first successful flight 2023.\n\n**Planetary missions.** **Chandrayaan-1 (2008)** confirmed water molecules on the Moon through the Moon Impact Probe and NASA's M3 instrument. **Mangalyaan**, the Mars Orbiter Mission, launched 5 November 2013 and inserted into Mars orbit on **24 September 2014**, made India the first country to reach Mars on its first attempt, and the cheapest such mission at about ₹450 crore. **Chandrayaan-2 (2019)** lost the Vikram lander but its orbiter still works. **Chandrayaan-3** landed on **23 August 2023** near the lunar south pole, with the **Vikram** lander and **Pragyan** rover; the date is now observed as **National Space Day**. **Aditya-L1**, launched 2 September 2023, reached the L1 Lagrange point in January 2024 to study the Sun.\n\n**Gaganyaan** is the crewed programme, with four Indian Air Force test pilots announced as astronaut-designates in February 2024, one of whom, Group Captain Shubhanshu Shukla, flew to the International Space Station on a commercial mission in 2025.",
+   "facts": [
+    {
+     "k": "ISRO formed",
+     "v": "15 August 1969"
+    },
+    {
+     "k": "Father of the Indian space programme",
+     "v": "Vikram Sarabhai"
+    },
+    {
+     "k": "Headquarters",
+     "v": "Bengaluru; launch site Sriharikota"
+    },
+    {
+     "k": "First Indian satellite",
+     "v": "Aryabhata, 1975"
+    },
+    {
+     "k": "First satellite on an Indian vehicle",
+     "v": "Rohini RS-1, 1980, on SLV-3"
+    },
+    {
+     "k": "PSLV record",
+     "v": "104 satellites in one launch, February 2017"
+    },
+    {
+     "k": "Mars Orbiter Mission",
+     "v": "Launched 5 November 2013, orbit 24 September 2014"
+    },
+    {
+     "k": "Chandrayaan-3 landing",
+     "v": "23 August 2023, near the lunar south pole"
+    },
+    {
+     "k": "National Space Day",
+     "v": "23 August"
+    },
+    {
+     "k": "Solar mission",
+     "v": "Aditya-L1, launched 2 September 2023"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1962",
+     "what": "INCOSPAR set up under Vikram Sarabhai"
+    },
+    {
+     "when": "1969",
+     "what": "ISRO formed"
+    },
+    {
+     "when": "1975",
+     "what": "Aryabhata"
+    },
+    {
+     "when": "1980",
+     "what": "Rohini on SLV-3"
+    },
+    {
+     "when": "2008",
+     "what": "Chandrayaan-1"
+    },
+    {
+     "when": "2014",
+     "what": "Mars orbit insertion"
+    },
+    {
+     "when": "2023",
+     "what": "Chandrayaan-3 and Aditya-L1"
+    }
+   ],
+   "why": "Space passages are common and the questions are factual: which vehicle, which year, which landing site. Chandrayaan-3 and the south pole is the single most likely question.",
+   "map": {
+    "nodes": [
+     {
+      "id": "sarabhai",
+      "parent": "root",
+      "tier": 1,
+      "label": "Vikram Sarabhai",
+      "kind": "person",
+      "rel": "founder",
+      "note": "Set up INCOSPAR in 1962 and founded the Physical Research Laboratory at Ahmedabad in 1947. Died in 1971."
+     },
+     {
+      "id": "ch3",
+      "parent": "root",
+      "tier": 1,
+      "label": "Chandrayaan-3 (2023)",
+      "kind": "event",
+      "rel": "the landing",
+      "note": "Landed 23 August 2023 near the lunar south pole. Vikram lander, Pragyan rover. India became the fourth country to soft-land."
+     },
+     {
+      "id": "mom",
+      "parent": "root",
+      "tier": 1,
+      "label": "Mars Orbiter Mission",
+      "kind": "event",
+      "rel": "Mangalyaan",
+      "note": "Launched 5 November 2013, Mars orbit 24 September 2014. First country to succeed on its first attempt."
+     },
+     {
+      "id": "pslv",
+      "parent": "root",
+      "tier": 1,
+      "label": "PSLV",
+      "kind": "term",
+      "rel": "the workhorse",
+      "note": "Polar Satellite Launch Vehicle. Launched 104 satellites on a single flight in February 2017."
+     },
+     {
+      "id": "sriharikota",
+      "parent": "root",
+      "tier": 1,
+      "label": "Satish Dhawan Space Centre",
+      "kind": "place",
+      "rel": "launch site",
+      "note": "At Sriharikota, Andhra Pradesh. Named after ISRO’s second chairman."
+     },
+     {
+      "id": "kalam",
+      "parent": "root",
+      "tier": 2,
+      "label": "A.P.J. Abdul Kalam",
+      "kind": "person",
+      "rel": "SLV-3",
+      "note": "Project director for SLV-3, which put Rohini in orbit in 1980. Later President of India, 2002 to 2007."
+     },
+     {
+      "id": "ch1",
+      "parent": "ch3",
+      "tier": 2,
+      "label": "Chandrayaan-1 (2008)",
+      "kind": "event",
+      "rel": "found water",
+      "note": "Its Moon Impact Probe and NASA’s M3 instrument confirmed water molecules on the lunar surface."
+     },
+     {
+      "id": "ch2",
+      "parent": "ch3",
+      "tier": 2,
+      "label": "Chandrayaan-2 (2019)",
+      "kind": "event",
+      "rel": "partial",
+      "note": "The Vikram lander crashed but the orbiter continues to function and relayed data for Chandrayaan-3."
+     },
+     {
+      "id": "aditya",
+      "parent": "root",
+      "tier": 2,
+      "label": "Aditya-L1",
+      "kind": "event",
+      "rel": "solar mission",
+      "note": "Launched 2 September 2023, reached the Sun-Earth L1 Lagrange point in January 2024."
+     },
+     {
+      "id": "lvm3",
+      "parent": "pslv",
+      "tier": 2,
+      "label": "LVM3",
+      "kind": "term",
+      "rel": "the heavy lifter",
+      "note": "Formerly GSLV Mk III. Launched Chandrayaan-2 and Chandrayaan-3 and is planned for Gaganyaan."
+     },
+     {
+      "id": "gagan",
+      "parent": "root",
+      "tier": 2,
+      "label": "Gaganyaan",
+      "kind": "event",
+      "rel": "crewed programme",
+      "note": "Four Indian Air Force test pilots named as astronaut-designates in February 2024."
+     },
+     {
+      "id": "navic",
+      "parent": "root",
+      "tier": 2,
+      "label": "NavIC",
+      "kind": "term",
+      "rel": "navigation",
+      "note": "Indian regional navigation satellite system, formerly IRNSS. Covers India and 1,500 km around it."
+     },
+     {
+      "id": "gslv",
+      "parent": "pslv",
+      "tier": 3,
+      "label": "GSLV",
+      "kind": "term",
+      "rel": "cryogenic",
+      "note": "Uses a cryogenic upper stage, indigenous from the January 2014 flight after the technology was denied under MTCR pressure in the 1990s."
+     },
+     {
+      "id": "thumba",
+      "parent": "sarabhai",
+      "tier": 3,
+      "label": "Thumba",
+      "kind": "place",
+      "rel": "the first launch",
+      "note": "Thumba Equatorial Rocket Launching Station in Kerala, from which the first sounding rocket flew in 1963."
+     },
+     {
+      "id": "nsd",
+      "parent": "ch3",
+      "tier": 3,
+      "label": "National Space Day",
+      "kind": "event",
+      "rel": "23 August",
+      "note": "Declared after the Chandrayaan-3 landing; the landing site is named Shiv Shakti Point."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "sci-nuclear",
+   "rank": 2,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The nuclear and missile programme, and the treaties India refuses to sign",
+   "date": "",
+   "category": "Defence & Security",
+   "tags": [
+    "Nuclear",
+    "Pokhran",
+    "NPT",
+    "DRDO",
+    "Missiles"
+   ],
+   "hook": "Two test sites, one three-stage plan built around thorium, and a consistent refusal to join the two treaties everyone asks about.",
+   "story": "**Homi J. Bhabha** is the father of the Indian nuclear programme. The **Atomic Energy Commission** was set up in 1948 and the **Department of Atomic Energy** in 1954, reporting directly to the Prime Minister. **BARC**, the Bhabha Atomic Research Centre at Trombay, was renamed after Bhabha's death in an air crash in 1966.\n\n**Bhabha's three-stage programme** is designed around India's small uranium reserves and the world's largest thorium reserves, in the monazite sands of Kerala, Tamil Nadu and Odisha. Stage one: pressurised heavy water reactors using natural uranium, producing plutonium. Stage two: **fast breeder reactors** burning plutonium and breeding uranium-233 from a thorium blanket; the Prototype Fast Breeder Reactor at **Kalpakkam** is the test of this stage. Stage three: thorium-uranium-233 reactors for long-term self-sufficiency.\n\n**Tests.** **Pokhran-I**, 18 May 1974, codenamed **Smiling Buddha**, described officially as a peaceful nuclear explosion. It triggered the creation of the **Nuclear Suppliers Group** in 1975 and technology sanctions. **Pokhran-II**, 11 and 13 May 1998, codenamed **Operation Shakti**, five devices under **A.P.J. Abdul Kalam** and **R. Chidambaram**; **National Technology Day is 11 May**. India declared itself a nuclear weapon state, adopted a doctrine of **no first use** and **credible minimum deterrence**, and set up the **Nuclear Command Authority** in 2003, whose Political Council alone can authorise use.\n\n**Treaties India has not signed.** The **NPT (1968)** is rejected as discriminatory: it recognises as nuclear weapon states only those that tested before 1 January 1967. The **CTBT (1996)** India has not signed either. India is a member of the **MTCR** (2016), **Wassenaar Arrangement** (2017) and **Australia Group** (2018), but not the **NSG**, where China has blocked entry. The **India-US civil nuclear agreement** of 2008, the 123 Agreement, gave India an NSG waiver and separated civilian from military facilities under IAEA safeguards.\n\n**Missiles.** The **Integrated Guided Missile Development Programme**, launched 1983 under Kalam, produced **Prithvi** (surface-to-surface), **Agni** (ballistic, now to Agni-V with over 5,000 km range and MIRV capability demonstrated in 2024), **Akash** (surface-to-air), **Trishul** and **Nag** (anti-tank). **BrahMos** is a supersonic cruise missile developed jointly with Russia, named for the Brahmaputra and Moskva. **Mission Shakti**, 27 March 2019, was an anti-satellite test making India the fourth country with that capability.",
+   "facts": [
+    {
+     "k": "Father of the programme",
+     "v": "Homi J. Bhabha"
+    },
+    {
+     "k": "DAE created",
+     "v": "1954, reporting to the Prime Minister"
+    },
+    {
+     "k": "Pokhran-I",
+     "v": "18 May 1974, Smiling Buddha"
+    },
+    {
+     "k": "Pokhran-II",
+     "v": "11 and 13 May 1998, Operation Shakti"
+    },
+    {
+     "k": "National Technology Day",
+     "v": "11 May"
+    },
+    {
+     "k": "Nuclear doctrine",
+     "v": "No first use, credible minimum deterrence"
+    },
+    {
+     "k": "Treaties not signed",
+     "v": "NPT and CTBT"
+    },
+    {
+     "k": "Groups joined",
+     "v": "MTCR 2016, Wassenaar 2017, Australia Group 2018; not the NSG"
+    },
+    {
+     "k": "Three-stage plan",
+     "v": "PHWR, fast breeder, thorium-U233"
+    },
+    {
+     "k": "Anti-satellite test",
+     "v": "Mission Shakti, 27 March 2019"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1948",
+     "what": "Atomic Energy Commission"
+    },
+    {
+     "when": "1954",
+     "what": "Department of Atomic Energy"
+    },
+    {
+     "when": "1974",
+     "what": "Pokhran-I"
+    },
+    {
+     "when": "1983",
+     "what": "IGMDP launched"
+    },
+    {
+     "when": "1998",
+     "what": "Pokhran-II"
+    },
+    {
+     "when": "2008",
+     "what": "India-US civil nuclear agreement"
+    },
+    {
+     "when": "2019",
+     "what": "Mission Shakti"
+    }
+   ],
+   "why": "A passage on non-proliferation or a missile test expects the two Pokhran dates, the doctrine in two phrases, and the fact that India is outside the NPT and CTBT but inside the MTCR.",
+   "map": {
+    "nodes": [
+     {
+      "id": "bhabha",
+      "parent": "root",
+      "tier": 1,
+      "label": "Homi J. Bhabha",
+      "kind": "person",
+      "rel": "founder",
+      "note": "Set up the Atomic Energy Commission in 1948 and designed the three-stage programme. Died in an air crash at Mont Blanc in 1966."
+     },
+     {
+      "id": "pok1",
+      "parent": "root",
+      "tier": 1,
+      "label": "Pokhran-I (1974)",
+      "kind": "event",
+      "rel": "Smiling Buddha",
+      "note": "18 May 1974, described as a peaceful nuclear explosion. Led directly to the creation of the Nuclear Suppliers Group in 1975."
+     },
+     {
+      "id": "pok2",
+      "parent": "root",
+      "tier": 1,
+      "label": "Pokhran-II (1998)",
+      "kind": "event",
+      "rel": "Operation Shakti",
+      "note": "Five devices on 11 and 13 May 1998 under Kalam and Chidambaram. India declared itself a nuclear weapon state."
+     },
+     {
+      "id": "npt",
+      "parent": "root",
+      "tier": 1,
+      "label": "NPT (1968)",
+      "kind": "law",
+      "rel": "not signed",
+      "note": "Recognises as nuclear weapon states only those that tested before 1 January 1967. India calls it discriminatory."
+     },
+     {
+      "id": "threestage",
+      "parent": "bhabha",
+      "tier": 1,
+      "label": "Three-stage programme",
+      "kind": "concept",
+      "rel": "the design",
+      "note": "PHWRs producing plutonium, then fast breeders using a thorium blanket, then thorium-uranium-233 reactors."
+     },
+     {
+      "id": "kalpakkam",
+      "parent": "threestage",
+      "tier": 2,
+      "label": "Kalpakkam PFBR",
+      "kind": "place",
+      "rel": "stage two",
+      "note": "The Prototype Fast Breeder Reactor in Tamil Nadu, the test of the second stage. Operated by BHAVINI."
+     },
+     {
+      "id": "nsg",
+      "parent": "pok1",
+      "tier": 2,
+      "label": "Nuclear Suppliers Group",
+      "kind": "org",
+      "rel": "created in response",
+      "note": "Formed in 1975 after Pokhran-I. India secured a waiver in 2008 but membership is blocked by China."
+     },
+     {
+      "id": "ctbt",
+      "parent": "npt",
+      "tier": 2,
+      "label": "CTBT (1996)",
+      "kind": "law",
+      "rel": "not signed",
+      "note": "Comprehensive Nuclear-Test-Ban Treaty. Never entered into force; India, Pakistan and North Korea have not signed."
+     },
+     {
+      "id": "123",
+      "parent": "nsg",
+      "tier": 2,
+      "label": "India-US civil nuclear agreement (2008)",
+      "kind": "event",
+      "rel": "the opening",
+      "note": "The 123 Agreement, which separated civilian from military facilities under IAEA safeguards and unlocked fuel supply."
+     },
+     {
+      "id": "nca",
+      "parent": "pok2",
+      "tier": 2,
+      "label": "Nuclear Command Authority",
+      "kind": "org",
+      "rel": "2003",
+      "note": "Political Council chaired by the Prime Minister is the only body that can authorise use; an Executive Council advises it."
+     },
+     {
+      "id": "igmdp",
+      "parent": "root",
+      "tier": 2,
+      "label": "IGMDP (1983)",
+      "kind": "concept",
+      "rel": "the missile programme",
+      "note": "Led by A.P.J. Abdul Kalam. Produced Prithvi, Agni, Akash, Trishul and Nag."
+     },
+     {
+      "id": "agni",
+      "parent": "igmdp",
+      "tier": 2,
+      "label": "Agni series",
+      "kind": "term",
+      "rel": "ballistic",
+      "note": "Agni-V has a range over 5,000 km; MIRV capability was demonstrated in March 2024 as Mission Divyastra."
+     },
+     {
+      "id": "brahmos",
+      "parent": "igmdp",
+      "tier": 2,
+      "label": "BrahMos",
+      "kind": "term",
+      "rel": "cruise missile",
+      "note": "Supersonic, developed with Russia, named for the Brahmaputra and Moskva rivers. Exported to the Philippines from 2024."
+     },
+     {
+      "id": "mtcr",
+      "parent": "npt",
+      "tier": 3,
+      "label": "MTCR, Wassenaar, Australia Group",
+      "kind": "org",
+      "rel": "joined",
+      "note": "India joined the Missile Technology Control Regime in 2016, the Wassenaar Arrangement in 2017 and the Australia Group in 2018."
+     },
+     {
+      "id": "shakti",
+      "parent": "root",
+      "tier": 3,
+      "label": "Mission Shakti (2019)",
+      "kind": "event",
+      "rel": "anti-satellite",
+      "note": "27 March 2019. India became the fourth country after the US, Russia and China to demonstrate an ASAT capability."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "sci-health",
+   "rank": 3,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Health and disease: the vocabulary a passage assumes you have",
+   "date": "",
+   "category": "Science & Technology",
+   "tags": [
+    "Health",
+    "Vaccines",
+    "Diseases",
+    "WHO"
+   ],
+   "hook": "Which disease is caused by which agent, which vitamin deficiency causes what, and the difference between an epidemic and a pandemic.",
+   "story": "**Causative agents.** **Bacterial**: tuberculosis (*Mycobacterium tuberculosis*), cholera, typhoid, tetanus, leprosy, plague, diphtheria, whooping cough. **Viral**: influenza, COVID-19, dengue, chikungunya, polio, measles, mumps, rabies, hepatitis, AIDS, chickenpox, Japanese encephalitis, Nipah, Zika. **Protozoan**: malaria (*Plasmodium*), amoebiasis, kala-azar or visceral leishmaniasis, sleeping sickness. **Fungal**: ringworm, athlete's foot, mucormycosis. **Worm**: filariasis, ascariasis.\n\n**Vectors.** *Anopheles* mosquito carries malaria; *Aedes aegypti* carries dengue, chikungunya, yellow fever and Zika; *Culex* carries filariasis and Japanese encephalitis; sandfly carries kala-azar; tsetse fly carries sleeping sickness.\n\n**Deficiency diseases.** Vitamin A: night blindness and xerophthalmia. B1 thiamine: beriberi. B3 niacin: pellagra. B12: pernicious anaemia. Vitamin C: scurvy. Vitamin D: rickets in children, osteomalacia in adults. Vitamin K: poor blood clotting. Iodine: goitre. Iron: anaemia. Protein-energy: kwashiorkor and marasmus.\n\n**Terms.** **Endemic**: constantly present in a population or area. **Epidemic**: a sudden rise above the expected level. **Pandemic**: an epidemic across countries or continents. **Zoonotic**: transmitted from animals to humans; COVID-19, rabies, Nipah and plague are zoonoses. **Herd immunity**: indirect protection when enough of a population is immune. **Vector-borne**: transmitted through an organism rather than directly.\n\n**Milestones.** **Smallpox** was declared eradicated by the WHO in **1980**, the only human disease eliminated so far. **Rinderpest**, an animal disease, was eradicated in 2011. India was declared **polio-free in March 2014**. **Edward Jenner** developed the smallpox vaccine in 1796 using cowpox, giving us the word vaccine from *vacca*, Latin for cow. **Louis Pasteur** developed the rabies vaccine and pasteurisation. **Alexander Fleming** discovered penicillin in 1928.\n\n**Programmes.** The **Universal Immunisation Programme** covers twelve diseases nationally. **Mission Indradhanush**, launched 2014, targets partially immunised children. **Ayushman Bharat**, launched 2018, has two limbs: health and wellness centres, and the **PM Jan Arogya Yojana** giving ₹5 lakh cover per family per year, the world's largest such scheme. The **National Health Mission** combines the rural mission of 2005 with an urban one added in 2013.",
+   "facts": [
+    {
+     "k": "Malaria vector",
+     "v": "Anopheles mosquito; caused by Plasmodium, a protozoan"
+    },
+    {
+     "k": "Dengue and Zika vector",
+     "v": "Aedes aegypti"
+    },
+    {
+     "k": "Scurvy",
+     "v": "Vitamin C deficiency"
+    },
+    {
+     "k": "Beriberi",
+     "v": "Vitamin B1, thiamine"
+    },
+    {
+     "k": "Pellagra",
+     "v": "Vitamin B3, niacin"
+    },
+    {
+     "k": "Goitre",
+     "v": "Iodine deficiency"
+    },
+    {
+     "k": "Smallpox eradicated",
+     "v": "1980, by the WHO"
+    },
+    {
+     "k": "India declared polio-free",
+     "v": "March 2014"
+    },
+    {
+     "k": "Smallpox vaccine",
+     "v": "Edward Jenner, 1796"
+    },
+    {
+     "k": "Ayushman Bharat cover",
+     "v": "₹5 lakh per family per year"
+    }
+   ],
+   "timeline": [],
+   "why": "Disease-to-agent and deficiency-to-vitamin matching appear as one-mark questions. The concept question is usually endemic against epidemic against pandemic.",
+   "map": {
+    "nodes": [
+     {
+      "id": "malaria",
+      "parent": "root",
+      "tier": 1,
+      "label": "Malaria",
+      "kind": "concept",
+      "rel": "protozoan",
+      "note": "Caused by Plasmodium, carried by the female Anopheles mosquito. Ronald Ross identified the transmission cycle in Secunderabad in 1897."
+     },
+     {
+      "id": "vectors",
+      "parent": "root",
+      "tier": 1,
+      "label": "Vectors",
+      "kind": "concept",
+      "rel": "who carries what",
+      "note": "Anopheles for malaria, Aedes aegypti for dengue and Zika, Culex for filariasis, sandfly for kala-azar."
+     },
+     {
+      "id": "deficiency",
+      "parent": "root",
+      "tier": 1,
+      "label": "Deficiency diseases",
+      "kind": "concept",
+      "rel": "vitamin to disease",
+      "note": "C for scurvy, B1 for beriberi, B3 for pellagra, D for rickets, A for night blindness, iodine for goitre."
+     },
+     {
+      "id": "terms",
+      "parent": "root",
+      "tier": 1,
+      "label": "Endemic, epidemic, pandemic",
+      "kind": "term",
+      "rel": "the ladder",
+      "note": "Endemic is constant presence, epidemic is a sudden rise above expectation, pandemic is an epidemic across countries."
+     },
+     {
+      "id": "smallpox",
+      "parent": "root",
+      "tier": 1,
+      "label": "Smallpox eradication (1980)",
+      "kind": "event",
+      "rel": "the only one",
+      "note": "The only human disease eradicated. Rinderpest, an animal disease, followed in 2011."
+     },
+     {
+      "id": "jenner",
+      "parent": "smallpox",
+      "tier": 2,
+      "label": "Edward Jenner",
+      "kind": "person",
+      "rel": "the vaccine",
+      "note": "Used cowpox in 1796. The word vaccine comes from vacca, Latin for cow."
+     },
+     {
+      "id": "polio",
+      "parent": "smallpox",
+      "tier": 2,
+      "label": "India polio-free (2014)",
+      "kind": "event",
+      "rel": "the campaign",
+      "note": "Declared by the WHO in March 2014, three years after the last case in Howrah in January 2011."
+     },
+     {
+      "id": "ayushman",
+      "parent": "root",
+      "tier": 2,
+      "label": "Ayushman Bharat (2018)",
+      "kind": "concept",
+      "rel": "the scheme",
+      "note": "Health and wellness centres plus PM Jan Arogya Yojana, giving ₹5 lakh cover per family per year."
+     },
+     {
+      "id": "zoonotic",
+      "parent": "terms",
+      "tier": 2,
+      "label": "Zoonotic diseases",
+      "kind": "term",
+      "rel": "animal origin",
+      "note": "COVID-19, rabies, Nipah, plague and avian influenza all cross from animals to humans."
+     },
+     {
+      "id": "pasteur",
+      "parent": "jenner",
+      "tier": 2,
+      "label": "Louis Pasteur",
+      "kind": "person",
+      "rel": "rabies and pasteurisation",
+      "note": "Developed the rabies vaccine in 1885 and the germ theory of disease."
+     },
+     {
+      "id": "fleming",
+      "parent": "jenner",
+      "tier": 2,
+      "label": "Alexander Fleming",
+      "kind": "person",
+      "rel": "penicillin",
+      "note": "Discovered penicillin in 1928. Nobel Prize in 1945 with Florey and Chain."
+     },
+     {
+      "id": "indradhanush",
+      "parent": "ayushman",
+      "tier": 2,
+      "label": "Mission Indradhanush",
+      "kind": "concept",
+      "rel": "immunisation",
+      "note": "Launched 2014 to reach partially immunised children. The Universal Immunisation Programme covers twelve diseases."
+     },
+     {
+      "id": "ross",
+      "parent": "malaria",
+      "tier": 3,
+      "label": "Ronald Ross",
+      "kind": "person",
+      "rel": "Nobel 1902",
+      "note": "Worked in Secunderabad and Calcutta. First Nobel laureate born in India, though British."
+     },
+     {
+      "id": "nhm",
+      "parent": "ayushman",
+      "tier": 3,
+      "label": "National Health Mission",
+      "kind": "org",
+      "rel": "2005 and 2013",
+      "note": "The rural mission began in 2005; an urban mission was added in 2013 and the two were combined."
+     },
+     {
+      "id": "who",
+      "parent": "smallpox",
+      "tier": 3,
+      "label": "World Health Organization",
+      "kind": "org",
+      "rel": "1948, Geneva",
+      "note": "World Health Day is 7 April. Certifies eradication and declares public health emergencies of international concern."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "sci-climate",
+   "rank": 3,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Climate science and the treaties built on it",
+   "date": "",
+   "category": "Environment",
+   "tags": [
+    "Climate Change",
+    "UNFCCC",
+    "Paris Agreement",
+    "Montreal Protocol"
+   ],
+   "hook": "One treaty on an atmospheric problem worked completely, and it is not the one anybody talks about.",
+   "story": "**The physics.** Solar radiation arrives mostly as short-wave energy, is absorbed and re-radiated by the surface as long-wave infrared, and some of that is absorbed by gases in the atmosphere and re-emitted downward. That is the **greenhouse effect**, and without it the planet's average temperature would be about 33°C lower. The problem is the enhancement, not the effect. The main greenhouse gases are **carbon dioxide**, **methane**, **nitrous oxide** and the industrial fluorinated gases; methane is far more potent per molecule but shorter-lived, which is why gases are compared on **global warming potential** over a fixed horizon. Carbon dioxide concentration has gone from about 280 parts per million before industrialisation to over 420 today.\n\n**Ozone is a separate problem** and gets confused with this one constantly. Stratospheric ozone absorbs ultraviolet radiation, and **chlorofluorocarbons** used in refrigeration were destroying it, producing the Antarctic hole. The **Vienna Convention of 1985** and the **Montreal Protocol of 1987** phased them out, and the protocol is the only UN treaty ever ratified by every member state. It worked, and the layer is recovering. The **Kigali Amendment of 2016** extended it to **hydrofluorocarbons**, which do not harm ozone but are powerful greenhouse gases; India ratified it in 2021.\n\n**The climate treaties.** The **UN Framework Convention on Climate Change** was opened at the **Rio Earth Summit in 1992** and set the principle of **common but differentiated responsibilities**. The **Kyoto Protocol of 1997** bound only developed countries, listed in **Annex I**, to targets, and created emissions trading, joint implementation and the clean development mechanism. The United States never ratified it. The **Paris Agreement of 2015**, in force from 2016, replaced binding targets with **nationally determined contributions**, which every party sets for itself and revises every five years, and set the goal of holding warming well below **2°C** while pursuing efforts to limit it to **1.5°C**. The **IPCC**, created in **1988** by the WMO and UNEP, assesses the science and does no research of its own.\n\nThe three **Rio conventions** are worth keeping straight: the UNFCCC on climate, the **Convention on Biological Diversity**, and the **Convention to Combat Desertification** of 1994. India has hosted conferences of the parties for the last two.",
+   "facts": [
+    {
+     "k": "Greenhouse effect",
+     "v": "Natural and necessary; without it the planet would be about 33°C colder"
+    },
+    {
+     "k": "Main gases",
+     "v": "Carbon dioxide, methane, nitrous oxide and fluorinated gases; compared by global warming potential"
+    },
+    {
+     "k": "Ozone is separate",
+     "v": "Vienna Convention 1985 and Montreal Protocol 1987, on CFCs"
+    },
+    {
+     "k": "Montreal Protocol",
+     "v": "The only UN treaty ratified by every member state; the layer is recovering"
+    },
+    {
+     "k": "Kigali Amendment",
+     "v": "2016, extending the protocol to hydrofluorocarbons; India ratified in 2021"
+    },
+    {
+     "k": "UNFCCC",
+     "v": "Opened at Rio in 1992; source of common but differentiated responsibilities"
+    },
+    {
+     "k": "Kyoto against Paris",
+     "v": "Kyoto bound Annex I countries; Paris uses self-set contributions"
+    },
+    {
+     "k": "Paris goal",
+     "v": "Well below 2°C, pursuing 1.5°C; the IPCC, created 1988, assesses the science"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1985",
+     "what": "Vienna Convention on the ozone layer"
+    },
+    {
+     "when": "1987",
+     "what": "Montreal Protocol"
+    },
+    {
+     "when": "1988",
+     "what": "IPCC established"
+    },
+    {
+     "when": "1992",
+     "what": "Rio Earth Summit; UNFCCC and CBD opened"
+    },
+    {
+     "when": "1997",
+     "what": "Kyoto Protocol"
+    },
+    {
+     "when": "2015",
+     "what": "Paris Agreement"
+    },
+    {
+     "when": "2016",
+     "what": "Kigali Amendment"
+    }
+   ],
+   "why": "Ozone and climate are different problems with different treaties, and swapping them is the commonest error in the whole subject. Kyoto binds and Paris does not — that distinction carries most of the rest.",
+   "map": {
+    "nodes": [
+     {
+      "id": "sc-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Climate and the treaties",
+      "kind": "concept",
+      "rel": "core",
+      "note": "The physics, and the two separate atmospheric regimes."
+     },
+     {
+      "id": "sc-green",
+      "parent": "sc-root",
+      "tier": 1,
+      "label": "Greenhouse effect",
+      "kind": "concept",
+      "rel": "physics",
+      "note": "Natural warming from long-wave absorption."
+     },
+     {
+      "id": "sc-gases",
+      "parent": "sc-green",
+      "tier": 2,
+      "label": "The gases",
+      "kind": "concept",
+      "rel": "list",
+      "note": "Carbon dioxide, methane, nitrous oxide, fluorinated gases."
+     },
+     {
+      "id": "sc-gwp",
+      "parent": "sc-gases",
+      "tier": 3,
+      "label": "Global warming potential",
+      "kind": "concept",
+      "rel": "measure",
+      "note": "Compares gases over a fixed horizon."
+     },
+     {
+      "id": "sc-ozone",
+      "parent": "sc-root",
+      "tier": 1,
+      "label": "Ozone depletion",
+      "kind": "concept",
+      "rel": "separate problem",
+      "note": "Stratospheric ozone destroyed by CFCs."
+     },
+     {
+      "id": "sc-vienna",
+      "parent": "sc-ozone",
+      "tier": 2,
+      "label": "Vienna Convention, 1985",
+      "kind": "agreement",
+      "rel": "framework",
+      "note": "The framework treaty on the ozone layer."
+     },
+     {
+      "id": "sc-montreal",
+      "parent": "sc-ozone",
+      "tier": 2,
+      "label": "Montreal Protocol, 1987",
+      "kind": "agreement",
+      "rel": "success",
+      "note": "The only treaty ratified by every UN member."
+     },
+     {
+      "id": "sc-kigali",
+      "parent": "sc-montreal",
+      "tier": 3,
+      "label": "Kigali Amendment, 2016",
+      "kind": "agreement",
+      "rel": "extension",
+      "note": "Covers hydrofluorocarbons; India ratified 2021."
+     },
+     {
+      "id": "sc-unfccc",
+      "parent": "sc-root",
+      "tier": 1,
+      "label": "UNFCCC, 1992",
+      "kind": "agreement",
+      "rel": "framework",
+      "note": "Opened at the Rio Earth Summit."
+     },
+     {
+      "id": "sc-cbdr",
+      "parent": "sc-unfccc",
+      "tier": 2,
+      "label": "Common but differentiated responsibilities",
+      "kind": "concept",
+      "rel": "principle",
+      "note": "Shared responsibility, unequal obligation."
+     },
+     {
+      "id": "sc-kyoto",
+      "parent": "sc-unfccc",
+      "tier": 2,
+      "label": "Kyoto Protocol, 1997",
+      "kind": "agreement",
+      "rel": "binding",
+      "note": "Bound Annex I countries; the US never ratified."
+     },
+     {
+      "id": "sc-paris",
+      "parent": "sc-unfccc",
+      "tier": 2,
+      "label": "Paris Agreement, 2015",
+      "kind": "agreement",
+      "rel": "current",
+      "note": "Self-set contributions; well below 2°C."
+     },
+     {
+      "id": "sc-ndc",
+      "parent": "sc-paris",
+      "tier": 3,
+      "label": "Nationally determined contributions",
+      "kind": "concept",
+      "rel": "instrument",
+      "note": "Revised every five years."
+     },
+     {
+      "id": "sc-ipcc",
+      "parent": "sc-root",
+      "tier": 1,
+      "label": "IPCC",
+      "kind": "institution",
+      "rel": "science",
+      "note": "Created 1988 by the WMO and UNEP; assesses, does not research."
+     },
+     {
+      "id": "sc-rio",
+      "parent": "sc-root",
+      "tier": 2,
+      "label": "The three Rio conventions",
+      "kind": "concept",
+      "rel": "set",
+      "note": "Climate, biodiversity and desertification."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "sci-everyday",
+   "rank": 4,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Everyday science: units, phenomena and who discovered what",
+   "date": "",
+   "category": "Science & Technology",
+   "tags": [
+    "Physics",
+    "Chemistry",
+    "Units",
+    "Discoveries"
+   ],
+   "hook": "Why the sky is blue, why a stick looks bent in water, and the list of scientist-to-discovery pairs that gets asked without warning.",
+   "story": "**Optical phenomena.** The sky is blue because of **Rayleigh scattering**: shorter wavelengths scatter more in the atmosphere. Sunsets are red because at a low angle light travels through more atmosphere and the blue is scattered away. A stick looks bent in water because of **refraction**, the bending of light as it passes between media of different density. A rainbow is refraction plus **dispersion** plus internal reflection in water droplets. **Total internal reflection** explains optical fibres and mirages. **Tyndall effect** is scattering by colloidal particles, which is why a beam is visible in fog.\n\n**Mechanics and heat.** **Newton's three laws**: inertia, F = ma, and action-reaction. **Archimedes' principle**: a body immersed in fluid experiences an upward force equal to the weight of the fluid displaced, which is why ships float and why ice floats with about a ninth above water. **Bernoulli's principle**: faster-moving fluid exerts lower pressure, which explains aerofoil lift and why a shower curtain moves inward. Heat moves by **conduction**, **convection** and **radiation**. Water's **anomalous expansion** below 4°C is why lakes freeze from the top and fish survive.\n\n**Sound.** Travels fastest in solids, slowest in gases, and not at all in vacuum. **Ultrasound** is above 20,000 Hz, **infrasound** below 20 Hz. The **Doppler effect** is the change in observed frequency when source and observer move relative to each other, used in radar and to measure the recession of galaxies.\n\n**Chemistry to remember.** Ordinary table salt is sodium chloride; baking soda is sodium bicarbonate; washing soda is sodium carbonate; bleaching powder is calcium hypochlorite; quicklime is calcium oxide; slaked lime is calcium hydroxide; plaster of Paris is calcium sulphate hemihydrate; marble and limestone are calcium carbonate. **Heavy water** is deuterium oxide, used as a moderator in PHWRs. **Dry ice** is solid carbon dioxide. **Aqua regia** is three parts hydrochloric to one part nitric acid, and dissolves gold. The most abundant element in the universe is **hydrogen**, in the earth's crust **oxygen**, and in the atmosphere **nitrogen** at about 78%.\n\n**Discoveries and their people.** Radioactivity, Henri Becquerel; radium and polonium, Marie and Pierre Curie; electron, J.J. Thomson; proton, Ernest Rutherford; neutron, James Chadwick; nucleus, Rutherford; periodic table, Dmitri Mendeleev; penicillin, Alexander Fleming; DNA double helix, Watson and Crick with Rosalind Franklin's data; blood circulation, William Harvey; cell, Robert Hooke; vaccination, Edward Jenner; theory of relativity, Albert Einstein; law of gravitation, Isaac Newton; Raman effect, C.V. Raman.",
+   "facts": [
+    {
+     "k": "Why the sky is blue",
+     "v": "Rayleigh scattering of shorter wavelengths"
+    },
+    {
+     "k": "Why a stick looks bent in water",
+     "v": "Refraction"
+    },
+    {
+     "k": "Ships float because of",
+     "v": "Archimedes’ principle"
+    },
+    {
+     "k": "Aerofoil lift",
+     "v": "Bernoulli’s principle"
+    },
+    {
+     "k": "Ultrasound",
+     "v": "Above 20,000 Hz"
+    },
+    {
+     "k": "Baking soda",
+     "v": "Sodium bicarbonate"
+    },
+    {
+     "k": "Washing soda",
+     "v": "Sodium carbonate"
+    },
+    {
+     "k": "Heavy water",
+     "v": "Deuterium oxide, a moderator in PHWRs"
+    },
+    {
+     "k": "Most abundant element in the atmosphere",
+     "v": "Nitrogen, about 78%"
+    },
+    {
+     "k": "Neutron discovered by",
+     "v": "James Chadwick, 1932"
+    }
+   ],
+   "timeline": [],
+   "why": "These are one-mark recall questions scattered through the section. The pairs most often confused are baking soda against washing soda, and refraction against reflection.",
+   "map": {
+    "nodes": [
+     {
+      "id": "rayleigh",
+      "parent": "root",
+      "tier": 1,
+      "label": "Rayleigh scattering",
+      "kind": "concept",
+      "rel": "why the sky is blue",
+      "note": "Shorter wavelengths scatter more. At sunset light travels through more atmosphere, so the blue is scattered away and red remains."
+     },
+     {
+      "id": "archimedes",
+      "parent": "root",
+      "tier": 1,
+      "label": "Archimedes’ principle",
+      "kind": "concept",
+      "rel": "flotation",
+      "note": "Upward force equals the weight of fluid displaced. Ice floats with about one ninth of its volume above water."
+     },
+     {
+      "id": "bernoulli",
+      "parent": "root",
+      "tier": 1,
+      "label": "Bernoulli’s principle",
+      "kind": "concept",
+      "rel": "pressure and speed",
+      "note": "Faster fluid means lower pressure. Explains aerofoil lift, the spin of a cricket ball and atomisers."
+     },
+     {
+      "id": "salts",
+      "parent": "root",
+      "tier": 1,
+      "label": "Common compounds",
+      "kind": "concept",
+      "rel": "name to formula",
+      "note": "Baking soda is NaHCO3, washing soda Na2CO3, quicklime CaO, slaked lime Ca(OH)2, plaster of Paris CaSO4·½H2O."
+     },
+     {
+      "id": "discoveries",
+      "parent": "root",
+      "tier": 1,
+      "label": "Discoveries and discoverers",
+      "kind": "concept",
+      "rel": "matching",
+      "note": "Electron Thomson, proton Rutherford, neutron Chadwick, radioactivity Becquerel, penicillin Fleming, periodic table Mendeleev."
+     },
+     {
+      "id": "refraction",
+      "parent": "rayleigh",
+      "tier": 2,
+      "label": "Refraction",
+      "kind": "concept",
+      "rel": "bending of light",
+      "note": "Light bends when it changes medium. Causes the bent-stick illusion, rainbows and the apparent position of stars."
+     },
+     {
+      "id": "tir",
+      "parent": "refraction",
+      "tier": 2,
+      "label": "Total internal reflection",
+      "kind": "concept",
+      "rel": "optical fibre",
+      "note": "Occurs beyond the critical angle. Explains optical fibres, mirages and the sparkle of a cut diamond."
+     },
+     {
+      "id": "doppler",
+      "parent": "root",
+      "tier": 2,
+      "label": "Doppler effect",
+      "kind": "concept",
+      "rel": "frequency shift",
+      "note": "Change in observed frequency with relative motion. Used in radar, sonar and to measure galactic redshift."
+     },
+     {
+      "id": "anomalous",
+      "parent": "archimedes",
+      "tier": 2,
+      "label": "Anomalous expansion of water",
+      "kind": "concept",
+      "rel": "why lakes freeze on top",
+      "note": "Water is densest at 4°C, so ice forms at the surface and aquatic life survives beneath."
+     },
+     {
+      "id": "heavy",
+      "parent": "salts",
+      "tier": 2,
+      "label": "Heavy water",
+      "kind": "term",
+      "rel": "moderator",
+      "note": "Deuterium oxide, D2O. Used to slow neutrons in pressurised heavy water reactors, India’s first-stage design."
+     },
+     {
+      "id": "newton",
+      "parent": "archimedes",
+      "tier": 2,
+      "label": "Newton’s laws",
+      "kind": "concept",
+      "rel": "mechanics",
+      "note": "Inertia, force equals mass times acceleration, and equal and opposite reaction. Published in the Principia, 1687."
+     },
+     {
+      "id": "tyndall",
+      "parent": "rayleigh",
+      "tier": 3,
+      "label": "Tyndall effect",
+      "kind": "concept",
+      "rel": "colloids",
+      "note": "Scattering by colloidal particles, which makes a light beam visible in fog or in a dusty room."
+     },
+     {
+      "id": "aqua",
+      "parent": "salts",
+      "tier": 3,
+      "label": "Aqua regia",
+      "kind": "term",
+      "rel": "dissolves gold",
+      "note": "Three parts hydrochloric acid to one part nitric acid. Named royal water because it dissolves the noble metals."
+     },
+     {
+      "id": "abundance",
+      "parent": "salts",
+      "tier": 3,
+      "label": "Most abundant elements",
+      "kind": "concept",
+      "rel": "three answers",
+      "note": "Hydrogen in the universe, oxygen in the earth’s crust, nitrogen in the atmosphere at about 78 per cent."
+     },
+     {
+      "id": "raman",
+      "parent": "discoveries",
+      "tier": 3,
+      "label": "Raman effect",
+      "kind": "concept",
+      "rel": "1928",
+      "note": "Inelastic scattering of light, discovered 28 February 1928, now National Science Day. Nobel Prize 1930."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "sci-digital",
+   "rank": 5,
+   "depth": "deep",
+   "importance": 4,
+   "title": "The digital state: Aadhaar, UPI, data law and the AI question",
+   "date": "",
+   "category": "Science & Technology",
+   "tags": [
+    "Aadhaar",
+    "UPI",
+    "Data Protection",
+    "Artificial Intelligence"
+   ],
+   "hook": "A biometric number, a payments rail and a data statute, each of which was litigated before it was finished.",
+   "story": "India's digital public infrastructure rests on three layers usually called **India Stack**: identity, payments and data.\n\n**Aadhaar** began in 2009 as a project of the **Unique Identification Authority of India** and ran for seven years without a statute. The **Aadhaar Act 2016** was passed as a **money bill**, which the Rajya Sabha could not amend. In **Puttaswamy II (2018)** a five-judge bench upheld the scheme by four to one, holding that the state may require Aadhaar for subsidies and for income tax under Section 139AA, but struck down **Section 57**, which had allowed private companies to demand it for services, and read down the provision on children. **Justice Chandrachud** dissented in full and held the money bill certification a fraud on the Constitution.\n\n**UPI**, launched in **2016** by the **National Payments Corporation of India**, put an interoperable layer above bank accounts and now handles the largest volume of real-time payments in the world. It has been linked to Singapore's PayNow and to systems in the UAE, France, Sri Lanka and elsewhere. The **RBI's digital rupee**, a central bank digital currency, has been in retail and wholesale pilots since 2022 and is a liability of the central bank, unlike a bank deposit or a private token.\n\nThe **Digital Personal Data Protection Act 2023** followed the privacy judgment and several withdrawn drafts. It applies to digital personal data, creates duties for **data fiduciaries**, gives rights of access, correction and erasure to **data principals**, requires consent that is free, specific and informed, and sets penalties up to **₹250 crore**. Its criticisms are the breadth of the state exemptions and its amendment of the Right to Information Act to remove the public interest override for personal information. The **Data Protection Board** enforces it. Rules were notified in stages and the Act is being brought into force gradually.\n\nOn artificial intelligence India has chosen advisories and a mission rather than a statute, and chaired the **Global Partnership on AI** summit in New Delhi in 2023.",
+   "facts": [
+    {
+     "k": "Aadhaar Act",
+     "v": "2016, passed as a money bill; the certification remains contested"
+    },
+    {
+     "k": "Puttaswamy II, 2018",
+     "v": "Upheld 4-1; Section 57 struck down, barring private demands for Aadhaar"
+    },
+    {
+     "k": "UPI",
+     "v": "Launched 2016 by NPCI; the largest real-time payments system by volume"
+    },
+    {
+     "k": "Digital rupee",
+     "v": "RBI central bank digital currency; pilots since 2022; a liability of the RBI"
+    },
+    {
+     "k": "DPDP Act",
+     "v": "2023; data fiduciaries and data principals; penalties up to ₹250 crore"
+    },
+    {
+     "k": "RTI amendment",
+     "v": "The Act removed the public interest override for personal information"
+    },
+    {
+     "k": "Regulator",
+     "v": "Data Protection Board of India"
+    },
+    {
+     "k": "AI approach",
+     "v": "Advisories and the IndiaAI Mission rather than a statute"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "2009",
+     "what": "UIDAI established"
+    },
+    {
+     "when": "2016",
+     "what": "Aadhaar Act passed; UPI launched"
+    },
+    {
+     "when": "2017",
+     "what": "Puttaswamy holds privacy a fundamental right"
+    },
+    {
+     "when": "2018",
+     "what": "Puttaswamy II upholds Aadhaar and strikes Section 57"
+    },
+    {
+     "when": "2022",
+     "what": "Digital rupee pilots begin"
+    },
+    {
+     "when": "2023",
+     "what": "Digital Personal Data Protection Act passed"
+    }
+   ],
+   "why": "Section 57 is the single most asked Aadhaar fact, and the money bill point connects straight to Article 110. For the data law, know that the regulator is a Board and that the RTI amendment is the main objection.",
+   "map": {
+    "nodes": [
+     {
+      "id": "sd-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "The digital state",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Identity, payments and data, each litigated."
+     },
+     {
+      "id": "sd-aadhaar",
+      "parent": "sd-root",
+      "tier": 1,
+      "label": "Aadhaar",
+      "kind": "concept",
+      "rel": "identity",
+      "note": "UIDAI from 2009; statute only in 2016."
+     },
+     {
+      "id": "sd-money",
+      "parent": "sd-aadhaar",
+      "tier": 2,
+      "label": "Money bill route",
+      "kind": "concept",
+      "rel": "controversy",
+      "note": "Article 110 certification the Rajya Sabha could not amend."
+     },
+     {
+      "id": "sd-put2",
+      "parent": "sd-aadhaar",
+      "tier": 2,
+      "label": "Puttaswamy II, 2018",
+      "kind": "case",
+      "rel": "ruling",
+      "note": "Upheld 4-1; Section 57 struck down."
+     },
+     {
+      "id": "sd-57",
+      "parent": "sd-put2",
+      "tier": 3,
+      "label": "Section 57",
+      "kind": "law",
+      "rel": "struck down",
+      "note": "Had let private companies demand Aadhaar."
+     },
+     {
+      "id": "sd-chandra",
+      "parent": "sd-put2",
+      "tier": 3,
+      "label": "The dissent",
+      "kind": "person",
+      "rel": "opinion",
+      "note": "Held the money bill certification a fraud on the Constitution."
+     },
+     {
+      "id": "sd-upi",
+      "parent": "sd-root",
+      "tier": 1,
+      "label": "UPI",
+      "kind": "concept",
+      "rel": "payments",
+      "note": "Launched 2016 by NPCI; largest real-time system by volume."
+     },
+     {
+      "id": "sd-npci",
+      "parent": "sd-upi",
+      "tier": 2,
+      "label": "NPCI",
+      "kind": "institution",
+      "rel": "operator",
+      "note": "Umbrella organisation for retail payments."
+     },
+     {
+      "id": "sd-cbdc",
+      "parent": "sd-root",
+      "tier": 1,
+      "label": "Digital rupee",
+      "kind": "concept",
+      "rel": "currency",
+      "note": "RBI liability; retail and wholesale pilots since 2022."
+     },
+     {
+      "id": "sd-dpdp",
+      "parent": "sd-root",
+      "tier": 1,
+      "label": "DPDP Act, 2023",
+      "kind": "law",
+      "rel": "data",
+      "note": "Consent, rights and penalties up to ₹250 crore."
+     },
+     {
+      "id": "sd-fid",
+      "parent": "sd-dpdp",
+      "tier": 2,
+      "label": "Fiduciaries and principals",
+      "kind": "concept",
+      "rel": "terms",
+      "note": "Who processes data and whose data it is."
+     },
+     {
+      "id": "sd-rti",
+      "parent": "sd-dpdp",
+      "tier": 2,
+      "label": "RTI amendment",
+      "kind": "concept",
+      "rel": "objection",
+      "note": "Removed the public interest override for personal information."
+     },
+     {
+      "id": "sd-board",
+      "parent": "sd-dpdp",
+      "tier": 2,
+      "label": "Data Protection Board",
+      "kind": "institution",
+      "rel": "regulator",
+      "note": "Adjudicates breaches and imposes penalties."
+     },
+     {
+      "id": "sd-ai",
+      "parent": "sd-root",
+      "tier": 1,
+      "label": "Artificial intelligence",
+      "kind": "concept",
+      "rel": "policy",
+      "note": "Advisories and the IndiaAI Mission; no statute yet."
+     },
+     {
+      "id": "sd-gpai",
+      "parent": "sd-ai",
+      "tier": 2,
+      "label": "Global Partnership on AI",
+      "kind": "institution",
+      "rel": "forum",
+      "note": "India chaired the New Delhi summit in 2023."
+     }
+    ]
+   },
+   "sources": []
+  }
+ ],
+ "passages": [
+  {
+   "id": "sci-p1",
+   "kind": "static",
+   "month": "science-environment",
+   "topicIds": [
+    "sci-isro"
+   ],
+   "category": "Science & Technology",
+   "tags": [
+    "ISRO",
+    "Chandrayaan"
+   ],
+   "difficulty": 2,
+   "title": "The south pole landing",
+   "passage": "On 23 August 2023 a lander separated from its propulsion module, descended for about twenty minutes, and came to rest on a part of the Moon nobody had reached before. Four countries had managed a controlled landing on the lunar surface. None had done it near the southern pole, where the terrain is broken, the sunlight arrives at a low angle, and permanently shadowed craters are thought to hold water ice. Days earlier a Russian spacecraft attempting the same region had crashed.\n\nThe mission was the country's third to the Moon and the second to attempt a landing. The first, launched in 2008, had carried an impact probe and an American instrument whose data confirmed the presence of water molecules on the lunar surface, a finding that changed how the Moon was regarded as a destination. The second, in 2019, placed an orbiter successfully but lost its lander in the final phase of descent; the orbiter continued working and relayed communications for the third mission four years later.\n\nThe third attempt changed the engineering rather than the ambition. The landing area was enlarged, the lander was strengthened to survive a harder touchdown, additional fuel was carried, and the software was rewritten so that failures in sensors or engines would not by themselves end the mission. The lander carried a small rover which travelled about a hundred metres over the following days, conducting elemental analysis of the regolith before both were put into sleep mode at the end of the lunar day. Neither woke.\n\nThe launch used the agency's heaviest vehicle, the same one that had carried the previous lunar mission. The day of the landing has since been designated a national day for space, and the touchdown site was given a name by the Prime Minister within a week.",
+   "questions": [
+    {
+     "q": "The mission described is:",
+     "options": [
+      "Chandrayaan-1",
+      "Chandrayaan-2",
+      "Chandrayaan-3",
+      "Aditya-L1"
+     ],
+     "answer": 2,
+     "explain": "Chandrayaan-3, which landed on 23 August 2023. Chandrayaan-1 was the 2008 impact mission and Chandrayaan-2 the 2019 attempt whose lander was lost; Aditya-L1 is the solar mission."
+    },
+    {
+     "q": "The rover carried by the lander was named:",
+     "options": [
+      "Vikram",
+      "Pragyan",
+      "Rohini",
+      "Aryabhata"
+     ],
+     "answer": 1,
+     "explain": "Pragyan was the rover; Vikram was the lander, named for Vikram Sarabhai. Rohini and Aryabhata were early satellites."
+    },
+    {
+     "q": "The launch vehicle referred to in the final paragraph is:",
+     "options": [
+      "PSLV",
+      "GSLV Mk II",
+      "LVM3",
+      "SSLV"
+     ],
+     "answer": 2,
+     "explain": "LVM3, formerly GSLV Mk III, the heaviest Indian launch vehicle, which also launched Chandrayaan-2."
+    },
+    {
+     "q": "The Russian mission that crashed days earlier was:",
+     "options": [
+      "Luna-25",
+      "Soyuz",
+      "Chang’e-4",
+      "Beresheet"
+     ],
+     "answer": 0,
+     "explain": "Luna-25 crashed on 19 August 2023 while attempting a landing in the same region. Chang’e-4 was Chinese and landed on the far side in 2019; Beresheet was Israeli."
+    },
+    {
+     "q": "What is now observed on 23 August?",
+     "options": [
+      "National Science Day",
+      "National Technology Day",
+      "National Space Day",
+      "World Space Week"
+     ],
+     "answer": 2,
+     "explain": "National Space Day, declared after the landing. National Science Day is 28 February for the Raman effect; National Technology Day is 11 May for Pokhran-II."
+    }
+   ]
+  },
+  {
+   "id": "sci-p2",
+   "kind": "static",
+   "month": "science-environment",
+   "topicIds": [
+    "sci-digital"
+   ],
+   "category": "Science & Technology",
+   "tags": [
+    "Aadhaar",
+    "Privacy"
+   ],
+   "difficulty": 3,
+   "title": "The number and its limits",
+   "passage": "The programme ran for seven years before Parliament gave it a legal basis, and when the statute came it was certified as a bill of a kind the upper House could only make recommendations on. Petitioners argued that the certification was improper because the legislation did far more than authorise expenditure from the consolidated fund, and that a scheme enrolling almost the entire population on biometric data could not be built on a provision meant for taxing and spending.\n\nA five-judge bench upheld the scheme by a majority of four to one in 2018. It held that requiring the number for welfare subsidies was proportionate, because the subsidies are funded from the consolidated fund and the statute's purpose was targeted delivery. It upheld the income tax provision linking the number to permanent account numbers. It read down the section dealing with children, requiring parental consent and an option to exit on majority. And it struck down the section that had permitted any body corporate or person to demand the number under a contract, holding that private entities could not compel disclosure of biometric identity for commercial services.\n\nThe dissenting judge would have struck the whole statute down. His reasoning had two limbs: that passing it as that category of bill was a fraud on the Constitution because it bypassed the upper House on a matter squarely within its competence, and that the architecture created a permanent record of where a citizen was and what they bought, which no amount of procedural safeguard could make proportionate.\n\nThe dissent has since been cited more often than most majorities. When the question of whether such certification can be judicially reviewed at all came up again, a larger bench referred it onward rather than answering, and it has not been answered since.",
+   "questions": [
+    {
+     "q": "The category of bill referred to is:",
+     "options": [
+      "An ordinary bill",
+      "A money bill",
+      "A constitutional amendment bill",
+      "A financial bill of the second category"
+     ],
+     "answer": 1,
+     "explain": "A money bill under Article 110, on which the Rajya Sabha may only make recommendations."
+    },
+    {
+     "q": "The provision struck down concerned:",
+     "options": [
+      "Linkage with income tax",
+      "Use by private entities under a contract",
+      "Enrolment of children",
+      "Welfare subsidy delivery"
+     ],
+     "answer": 1,
+     "explain": "Section 57, which had allowed body corporates and persons to require the number."
+    },
+    {
+     "q": "The majority was:",
+     "options": [
+      "Unanimous",
+      "Four to one",
+      "Three to two",
+      "Seven to two"
+     ],
+     "answer": 1,
+     "explain": "A five-judge bench upheld the scheme four to one."
+    },
+    {
+     "q": "On the passage, the dissent's first limb was that the certification:",
+     "options": [
+      "Was procedurally correct but unwise",
+      "Bypassed the upper House and was a fraud on the Constitution",
+      "Should have been made by the President",
+      "Required a referendum"
+     ],
+     "answer": 1,
+     "explain": "The dissent held that using the money bill route on a matter within the upper House's competence was a fraud on the Constitution."
+    },
+    {
+     "q": "The question of whether such certification is reviewable was:",
+     "options": [
+      "Answered in the affirmative",
+      "Answered in the negative",
+      "Referred to a larger bench and left undecided",
+      "Held to be a political question"
+     ],
+     "answer": 2,
+     "explain": "A larger bench referred the question onward, and it remains undecided."
+    }
+   ]
+  },
+  {
+   "id": "sci-p3",
+   "kind": "static",
+   "month": "science-environment",
+   "topicIds": [
+    "sci-climate"
+   ],
+   "category": "Environment",
+   "tags": [
+    "Montreal Protocol",
+    "Ozone"
+   ],
+   "difficulty": 3,
+   "title": "The treaty that worked",
+   "passage": "Two chemists published a paper in 1974 arguing that a family of industrial compounds, prized precisely because they were inert, non-toxic and non-flammable, would drift intact into the stratosphere, be broken apart by ultraviolet light, and release chlorine atoms that would destroy ozone catalytically, one atom taking apart thousands of molecules before being removed. The industry disputed it for a decade. Then in 1985 a British survey team reported that springtime ozone over Antarctica had fallen by about a third since the late 1970s, a depletion so large that satellite processing software had been discarding the readings as instrument error.\n\nA framework convention was signed the same year, committing nobody to anything specific. The operative agreement came two years later, and its design is the reason it succeeded where later environmental treaties have not. It set hard phase-out schedules rather than aspirational targets. It gave developing countries a grace period of ten years and a fund, financed by the industrialised parties, to pay the extra cost of switching. It allowed the schedules to be tightened by adjustment without reopening the treaty, which happened repeatedly as substitutes proved cheaper than the industry had predicted. And it controlled trade with non-parties, which made staying outside expensive.\n\nEvery member of the United Nations has ratified it, the only treaty of which that is true. Production of the controlled substances has fallen by about ninety-nine per cent, and the layer is on a path to recover to its 1980 state around the middle of this century.\n\nThe postscript is instructive. The replacement compounds were harmless to ozone but turned out to be greenhouse gases hundreds or thousands of times more potent than carbon dioxide. Rather than start again, the parties amended the same protocol in 2016 to phase those down too, using machinery built for an entirely different problem. India ratified that amendment in 2021, with a phase-down schedule running to 2047.",
+   "questions": [
+    {
+     "q": "The compounds described in the first paragraph are:",
+     "options": [
+      "Hydrofluorocarbons",
+      "Chlorofluorocarbons",
+      "Nitrogen oxides",
+      "Sulphur dioxide"
+     ],
+     "answer": 1,
+     "explain": "CFCs, whose chlorine atoms destroy stratospheric ozone catalytically."
+    },
+    {
+     "q": "The Antarctic depletion was reported in:",
+     "options": [
+      "1974",
+      "1985",
+      "1987",
+      "1992"
+     ],
+     "answer": 1,
+     "explain": "The British Antarctic Survey reported it in 1985, the year the Vienna Convention was signed."
+    },
+    {
+     "q": "The operative agreement two years later is the:",
+     "options": [
+      "Vienna Convention",
+      "Montreal Protocol",
+      "Kyoto Protocol",
+      "Kigali Amendment"
+     ],
+     "answer": 1,
+     "explain": "The Montreal Protocol, 1987."
+    },
+    {
+     "q": "On the passage, which feature is given as a reason for its success?",
+     "options": [
+      "It set aspirational targets",
+      "It allowed tightening by adjustment without reopening the treaty",
+      "It exempted developing countries permanently",
+      "It relied on voluntary industry pledges"
+     ],
+     "answer": 1,
+     "explain": "Adjustment without renegotiation, a funded grace period, hard schedules and trade controls are all listed."
+    },
+    {
+     "q": "The 2016 amendment addressed:",
+     "options": [
+      "Ozone-depleting substances not previously listed",
+      "Replacement compounds that are potent greenhouse gases",
+      "Carbon dioxide from industry",
+      "Methane from agriculture"
+     ],
+     "answer": 1,
+     "explain": "The Kigali Amendment phases down hydrofluorocarbons, which do not harm ozone but warm strongly."
+    }
+   ]
+  },
+  {
+   "id": "sci-p4",
+   "kind": "static",
+   "month": "science-environment",
+   "topicIds": [
+    "sci-isro"
+   ],
+   "category": "Science & Technology",
+   "tags": [
+    "ISRO",
+    "Space Law"
+   ],
+   "difficulty": 2,
+   "title": "Cheap to orbit",
+   "passage": "The organisation was founded in 1969 out of a committee set up seven years earlier, and its first physicist-director argued that a poor country had no business competing in manned flight or planetary exploration for prestige, but every reason to use satellites for communication, weather and resource surveys. The early sounding rockets were carried to the launch pad on bicycles from a church in a Kerala fishing village, a detail repeated so often that it has become slightly misleading; the programme was serious from the start and the first satellite went up in 1975 on a Soviet rocket.\n\nThe workhorse launcher first flew successfully in 1994 and has since put up more than fifty foreign customers' payloads, including a single flight in 2017 carrying a hundred and four satellites. Its reliability rather than its power is the selling point. The heavier vehicle in the fleet took much longer, because the cryogenic upper stage it needed was blocked by an export control regime in the early 1990s and had to be developed domestically over two decades.\n\nThe two missions that changed the organisation's international standing were both cheap. A lunar orbiter in 2008 carried an instrument that found water molecules on the moon's surface. A Mars orbiter reached its target in 2014 at the first attempt, which no other space agency had managed, at a cost repeatedly compared to that of a feature film. A later lunar mission landed near the south pole in 2023, the first to do so.\n\nThe legal frame is often overlooked. Outer space is governed by a 1967 treaty declaring it the province of all mankind, prohibiting national appropriation and the placing of weapons of mass destruction in orbit, and making states internationally responsible for national activities including those of their private operators. India is a party to that treaty and to three of the four agreements that followed it. A domestic policy opened launch and satellite services to private companies in 2020 and created a regulator to authorise them, which is why an Indian private orbital rocket is now a plausible sentence.",
+   "questions": [
+    {
+     "q": "The satellite launcher described as the workhorse first flew successfully in:",
+     "options": [
+      "1975",
+      "1980",
+      "1994",
+      "2001"
+     ],
+     "answer": 2,
+     "explain": "The PSLV's first fully successful flight was in 1994."
+    },
+    {
+     "q": "The heavier vehicle was delayed mainly because:",
+     "options": [
+      "Of funding cuts",
+      "A cryogenic upper stage was blocked by export controls",
+      "The launch site was unsuitable",
+      "Of a series of launch failures"
+     ],
+     "answer": 1,
+     "explain": "Cryogenic engine technology had to be developed domestically after the transfer was blocked."
+    },
+    {
+     "q": "The 2014 mission was notable because it:",
+     "options": [
+      "Landed on Mars",
+      "Reached Mars orbit at the first attempt",
+      "Carried a crew",
+      "Returned samples"
+     ],
+     "answer": 1,
+     "explain": "No other agency had reached Mars orbit on its first attempt."
+    },
+    {
+     "q": "The 1967 treaty declares outer space to be:",
+     "options": [
+      "Res nullius",
+      "The common heritage of mankind",
+      "The province of all mankind",
+      "Subject to national appropriation"
+     ],
+     "answer": 2,
+     "explain": "The Outer Space Treaty uses the phrase province of all mankind; common heritage of mankind belongs to the law of the sea."
+    },
+    {
+     "q": "Under that treaty, activities of private operators are:",
+     "options": [
+      "Unregulated",
+      "The responsibility of the launching company alone",
+      "The international responsibility of the state concerned",
+      "Governed only by domestic law"
+     ],
+     "answer": 2,
+     "explain": "States bear international responsibility for national activities, including private ones."
+    }
+   ]
+  },
+  {
+   "id": "sci-p5",
+   "kind": "static",
+   "month": "science-environment",
+   "topicIds": [
+    "sci-nuclear"
+   ],
+   "category": "Science & Technology",
+   "tags": [
+    "Nuclear",
+    "NPT",
+    "Deterrence"
+   ],
+   "difficulty": 3,
+   "title": "Outside the treaty",
+   "passage": "The treaty opened for signature in 1968 and divides the world by a date. A nuclear weapon state is defined as one that manufactured and exploded a nuclear device before 1 January 1967, which makes exactly five, and they happen to be the five permanent members of the Security Council. Everyone else undertakes never to acquire such weapons, accepts safeguards on civil facilities, and receives in exchange an assurance of access to peaceful nuclear technology and a promise, in one article, that the five will pursue negotiations in good faith on disarmament.\n\nIndia declined to sign, and has said the same thing about it for fifty-five years: that a treaty which permits five states to keep weapons indefinitely while forbidding them to everyone else is discriminatory, and that the disarmament article has never been honoured. It tested a device in 1974, described as a peaceful nuclear explosion, which produced an international supply cartel designed specifically to prevent a repeat. It tested again in 1998 and declared itself a weapon state, then announced a doctrine of credible minimum deterrence with no first use against a non-nuclear state, and a commitment to massive retaliation if attacked.\n\nThe isolation ended in an unusual way. A bilateral agreement with the United States, followed by a safeguards agreement with the atomic energy agency and a one-country exemption from the supply cartel in 2008, allowed India to trade in nuclear material and technology while remaining outside the treaty and keeping its military facilities unsafeguarded. No other state has that arrangement. India has since joined three of the four export control regimes but not the cartel itself, where consensus has been withheld.\n\nTwo later instruments matter. A comprehensive test ban treaty was adopted in 1996; India refused it too, on the ground that it froze the existing hierarchy without a disarmament timetable, and the treaty has never entered into force because eight listed states including India have not ratified it. A treaty prohibiting nuclear weapons outright entered into force in 2021, supported by no state that possesses them.",
+   "questions": [
+    {
+     "q": "The treaty defines a nuclear weapon state by reference to a test before:",
+     "options": [
+      "1 January 1965",
+      "1 January 1967",
+      "1 January 1970",
+      "1 January 1974"
+     ],
+     "answer": 1,
+     "explain": "The cut-off is 1 January 1967, which fixes the number at five."
+    },
+    {
+     "q": "India's principal objection to it is that it is:",
+     "options": [
+      "Unenforceable",
+      "Discriminatory, permitting five states to retain weapons",
+      "Too intrusive in its inspections",
+      "Inconsistent with the UN Charter"
+     ],
+     "answer": 1,
+     "explain": "The passage states the discrimination objection and the unfulfilled disarmament article."
+    },
+    {
+     "q": "The 1974 test led directly to the creation of:",
+     "options": [
+      "The IAEA",
+      "The Nuclear Suppliers Group",
+      "The Missile Technology Control Regime",
+      "The Wassenaar Arrangement"
+     ],
+     "answer": 1,
+     "explain": "The Nuclear Suppliers Group was formed in response to the 1974 test."
+    },
+    {
+     "q": "The 2008 arrangement allowed India to:",
+     "options": [
+      "Join the treaty as a weapon state",
+      "Trade in nuclear material while remaining outside the treaty",
+      "Place all facilities under safeguards",
+      "Withdraw from the IAEA"
+     ],
+     "answer": 1,
+     "explain": "A one-country exemption permitted civil nuclear trade with military facilities unsafeguarded."
+    },
+    {
+     "q": "The comprehensive test ban treaty has not entered into force because:",
+     "options": [
+      "It was never adopted",
+      "Eight listed states including India have not ratified it",
+      "The Security Council vetoed it",
+      "It expired in 2016"
+     ],
+     "answer": 1,
+     "explain": "Entry into force requires ratification by all forty-four listed states."
+    }
+   ]
+  }
+ ]
+}

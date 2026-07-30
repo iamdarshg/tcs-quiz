@@ -1,0 +1,452 @@
+{
+  "id": "module-02",
+  "order": 2,
+  "label": "Software, Operating Systems, Languages and Databases",
+  "blurb": "A focused six-fact drill set for Software, Operating Systems, Languages and Databases.",
+  "topics": [
+    {
+      "id": "module-02-operating-system",
+      "rank": 1,
+      "title": "Operating system",
+      "hook": "An operating system manages hardware resources and provides common services to applications.",
+      "explainer": "An operating system manages hardware resources and provides common services to applications. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Operating system",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Operating system encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Operating_system"
+          },
+          {
+            "label": "Operating system reference search",
+            "url": "https://www.britannica.com/search?query=Operating%20system"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-linux",
+            "relationship": "System category and kernel example",
+            "fact": "Linux is the kernel at the centre of many operating systems, which add user tools and services around that kernel."
+          },
+          {
+            "topicId": "module-02-compiler",
+            "relationship": "Platform service for program translation",
+            "fact": "A compiler runs under an operating system and produces executable code for a particular platform or runtime."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-02-linux",
+      "rank": 2,
+      "title": "Linux",
+      "hook": "Linux is an open-source kernel created by Linus Torvalds and first released in 1991.",
+      "explainer": "Linux is an open-source kernel created by Linus Torvalds and first released in 1991. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Linux",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Linux encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Linux"
+          },
+          {
+            "label": "Linux reference search",
+            "url": "https://www.britannica.com/search?query=Linux"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-operating-system",
+            "relationship": "Kernel within an operating system",
+            "fact": "Linux manages core hardware access as a kernel; a complete Linux distribution combines it with libraries, utilities, and applications."
+          },
+          {
+            "topicId": "module-02-python",
+            "relationship": "Common open-source development environment",
+            "fact": "Python programs commonly run on Linux systems, but Python is a programming language whereas Linux is a kernel."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-02-compiler",
+      "rank": 3,
+      "title": "Compiler",
+      "hook": "A compiler translates high-level source code into machine code or another executable form.",
+      "explainer": "A compiler translates high-level source code into machine code or another executable form. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Compiler",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Compiler encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Compiler"
+          },
+          {
+            "label": "Compiler reference search",
+            "url": "https://www.britannica.com/search?query=Compiler"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-python",
+            "relationship": "Contrasting language implementation models",
+            "fact": "A compiler translates source code before execution; Python is commonly executed through an interpreter and bytecode virtual machine, though implementations may compile stages internally."
+          },
+          {
+            "topicId": "module-02-operating-system",
+            "relationship": "Executable target and host platform",
+            "fact": "Compilers create or prepare programs for an operating system and processor combination."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-02-python",
+      "rank": 4,
+      "title": "Python",
+      "hook": "Python is a high-level programming language created by Guido van Rossum and first released in 1991.",
+      "explainer": "Python is a high-level programming language created by Guido van Rossum and first released in 1991. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Python",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Python encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Python"
+          },
+          {
+            "label": "Python reference search",
+            "url": "https://www.britannica.com/search?query=Python"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-sql",
+            "relationship": "General-purpose code and data-query language",
+            "fact": "Python can control application logic and send SQL statements to a database, while SQL specialises in defining and querying relational data."
+          },
+          {
+            "topicId": "module-02-linux",
+            "relationship": "Language frequently deployed on the kernel",
+            "fact": "Python is a language and runtime often installed on Linux-based operating systems; the two are not competing software categories."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-02-sql",
+      "rank": 5,
+      "title": "SQL",
+      "hook": "SQL is the standard language for querying and managing relational databases.",
+      "explainer": "SQL is the standard language for querying and managing relational databases. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "SQL",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "SQL encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/SQL"
+          },
+          {
+            "label": "SQL reference search",
+            "url": "https://www.britannica.com/search?query=SQL"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-relational-database",
+            "relationship": "Language for the relational model",
+            "fact": "SQL creates, reads, updates, and controls table-based data held by relational database systems."
+          },
+          {
+            "topicId": "module-02-python",
+            "relationship": "Database query within an application",
+            "fact": "A Python application can use a database driver to execute SQL while keeping business logic in Python."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-02-relational-database",
+      "rank": 6,
+      "title": "Relational database",
+      "hook": "A relational database stores data in tables whose rows can be linked using keys.",
+      "explainer": "A relational database stores data in tables whose rows can be linked using keys. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Relational database",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Relational database encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Relational_database"
+          },
+          {
+            "label": "Relational database reference search",
+            "url": "https://www.britannica.com/search?query=Relational%20database"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-sql",
+            "relationship": "Data model and its standard query language",
+            "fact": "Relational databases organise rows into linked tables, and SQL is the standard language used to work with those tables."
+          },
+          {
+            "topicId": "module-02-operating-system",
+            "relationship": "Application service above system software",
+            "fact": "A database server depends on the operating system for files, memory, processes, and device access."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-02-q-01",
+      "module": "module-02",
+      "topicId": "module-02-operating-system",
+      "difficulty": 1,
+      "q": "Which software layer schedules processes, manages memory, and mediates access to hardware?",
+      "options": [
+        "Compiler",
+        "Operating system",
+        "Database management system",
+        "Hypervisor"
+      ],
+      "answer": 1,
+      "explanation": "Resource management and common application services are operating-system responsibilities, distinct from translating code or querying data.",
+      "optionFamily": "system software roles",
+      "optionDomains": [
+        "system software roles",
+        "system software roles",
+        "system software roles",
+        "system software roles"
+      ]
+    },
+    {
+      "id": "module-02-q-02",
+      "module": "module-02",
+      "topicId": "module-02-linux",
+      "difficulty": 2,
+      "q": "Which statement carefully distinguishes Linux from a complete operating system?",
+      "options": [
+        "Linux is a database query language",
+        "Linux is the open-source kernel used in many operating systems",
+        "Linux is a Python compiler only",
+        "Linux is a relational table format"
+      ],
+      "answer": 1,
+      "explanation": "Linus Torvalds released the Linux kernel in 1991; distributions combine that kernel with utilities, libraries, and applications.",
+      "optionFamily": "Linux kernel descriptions",
+      "optionDomains": [
+        "Linux kernel descriptions",
+        "Linux kernel descriptions",
+        "Linux kernel descriptions",
+        "Linux kernel descriptions"
+      ]
+    },
+    {
+      "id": "module-02-q-03",
+      "module": "module-02",
+      "topicId": "module-02-compiler",
+      "difficulty": 3,
+      "q": "A team wants source code translated into a machine-executable form before deployment. Which tool is central?",
+      "options": [
+        "Interpreter",
+        "Compiler",
+        "Debugger",
+        "Package manager"
+      ],
+      "answer": 1,
+      "explanation": "A compiler translates a high-level program into machine code, bytecode, or another target representation used for execution.",
+      "optionFamily": "program translation tools",
+      "optionDomains": [
+        "program translation tools",
+        "program translation tools",
+        "program translation tools",
+        "program translation tools"
+      ]
+    },
+    {
+      "id": "module-02-q-04",
+      "module": "module-02",
+      "topicId": "module-02-python",
+      "difficulty": 1,
+      "q": "Which creator-and-year pair belongs to Python?",
+      "options": [
+        "Dennis Ritchie — 1972",
+        "James Gosling — 1995",
+        "Guido van Rossum — 1991",
+        "Linus Torvalds — 1991"
+      ],
+      "answer": 2,
+      "explanation": "Guido van Rossum created Python and first released it in 1991; Torvalds's 1991 release was the Linux kernel.",
+      "optionFamily": "programming-language creator dates",
+      "optionDomains": [
+        "programming-language creator dates",
+        "programming-language creator dates",
+        "programming-language creator dates",
+        "programming-language creator dates"
+      ]
+    },
+    {
+      "id": "module-02-q-05",
+      "module": "module-02",
+      "topicId": "module-02-sql",
+      "difficulty": 2,
+      "q": "A user needs all customer rows whose balance exceeds a threshold. Which language is designed to express that query?",
+      "options": [
+        "SQL",
+        "XPath",
+        "GraphQL",
+        "SPARQL"
+      ],
+      "answer": 0,
+      "explanation": "SQL is the standard declarative language for selecting and managing table data in relational database systems.",
+      "optionFamily": "data query languages",
+      "optionDomains": [
+        "data query languages",
+        "data query languages",
+        "data query languages",
+        "data query languages"
+      ]
+    },
+    {
+      "id": "module-02-q-06",
+      "module": "module-02",
+      "topicId": "module-02-relational-database",
+      "difficulty": 3,
+      "q": "What lets rows in separate relational tables be associated?",
+      "options": [
+        "Indexes",
+        "Keys",
+        "Views",
+        "Transaction logs"
+      ],
+      "answer": 1,
+      "explanation": "Primary and foreign keys identify records and express relationships across tables without placing all data in one table.",
+      "optionFamily": "relational database structures",
+      "optionDomains": [
+        "relational database structures",
+        "relational database structures",
+        "relational database structures",
+        "relational database structures"
+      ]
+    },
+    {
+      "id": "module-02-q-07",
+      "module": "module-02",
+      "topicId": "module-02-operating-system",
+      "difficulty": 1,
+      "q": "Which match is wrong?",
+      "options": [
+        "Operating system — hardware resource management",
+        "Compiler — source translation",
+        "SQL — relational queries",
+        "Linux — spreadsheet file format"
+      ],
+      "answer": 3,
+      "explanation": "Linux is an open-source kernel, not a spreadsheet format; the other three pairings describe their normal roles.",
+      "optionFamily": "software term and role matches",
+      "optionDomains": [
+        "software term and role matches",
+        "software term and role matches",
+        "software term and role matches",
+        "software term and role matches"
+      ]
+    },
+    {
+      "id": "module-02-q-08",
+      "module": "module-02",
+      "topicId": "module-02-python",
+      "difficulty": 2,
+      "q": "A Python service must retrieve records from a relational database. What is the sensible division of labour?",
+      "options": [
+        "Python handles application logic; SQL expresses the database query",
+        "SQL replaces the operating system",
+        "Linux stores every row as a key",
+        "The compiler becomes the database"
+      ],
+      "answer": 0,
+      "explanation": "Application code can call a database driver and submit SQL while Python controls validation, workflow, and response handling.",
+      "optionFamily": "Python and SQL responsibility splits",
+      "optionDomains": [
+        "Python and SQL responsibility splits",
+        "Python and SQL responsibility splits",
+        "Python and SQL responsibility splits",
+        "Python and SQL responsibility splits"
+      ]
+    },
+    {
+      "id": "module-02-q-09",
+      "module": "module-02",
+      "topicId": "module-02-sql",
+      "difficulty": 3,
+      "q": "Which comparison is accurate?",
+      "options": [
+        "SQL and Python are both operating-system kernels",
+        "SQL specialises in relational data; Python is general purpose",
+        "Python can only define database tables",
+        "SQL was created by Linus Torvalds"
+      ],
+      "answer": 1,
+      "explanation": "SQL focuses on defining and querying structured relational data, whereas Python supports a much wider range of programming tasks.",
+      "optionFamily": "SQL and Python comparisons",
+      "optionDomains": [
+        "SQL and Python comparisons",
+        "SQL and Python comparisons",
+        "SQL and Python comparisons",
+        "SQL and Python comparisons"
+      ]
+    },
+    {
+      "id": "module-02-q-10",
+      "module": "module-02",
+      "topicId": "module-02-relational-database",
+      "difficulty": 1,
+      "q": "A designer stores customers once and links orders to them by customer ID. Which model is being used?",
+      "options": [
+        "Relational database",
+        "Document database",
+        "Graph database",
+        "Hierarchical database"
+      ],
+      "answer": 0,
+      "explanation": "Separate customer and order tables linked by a key are a classic application of the relational model.",
+      "optionFamily": "database models",
+      "optionDomains": [
+        "database models",
+        "database models",
+        "database models",
+        "database models"
+      ]
+    }
+  ]
+}

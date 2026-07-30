@@ -1,0 +1,458 @@
+{
+  "id": "module-14",
+  "order": 14,
+  "label": "Current Technology, Science and Business Affairs",
+  "blurb": "A focused six-fact drill set for Current Technology, Science and Business Affairs.",
+  "topics": [
+    {
+      "id": "module-14-inflation",
+      "rank": 1,
+      "title": "ISRO SpaDeX docking",
+      "hook": "On 16 January 2025, ISRO docked the two SpaDeX satellites and made India the fourth country to demonstrate space docking.",
+      "explainer": "ISRO completed the first SpaDeX docking on 16 January 2025. The mission demonstrated rendezvous, docking and power-transfer capabilities needed for future Indian space stations and sample-return missions.",
+      "importance": 5,
+      "category": "Current Technology, Science and Business Affairs",
+      "tags": [
+        "ISRO SpaDeX docking",
+        "2025 current affairs",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "ISRO SpaDeX mission",
+            "url": "https://www.isro.gov.in/mission_SpaDeX.html"
+          },
+          {
+            "label": "ISRO docking update",
+            "url": "https://www.isro.gov.in/ISRO_Space_Docking_Experiment.html"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-antitrust",
+            "relationship": "Indian docking and NASA survey missions in 2025",
+            "fact": "SpaDeX demonstrated two spacecraft joining in orbit on 16 January; SPHEREx began an all-sky infrared survey after its 11 March launch."
+          },
+          {
+            "topicId": "module-14-digital-regulation",
+            "relationship": "ISRO and ESA space milestones",
+            "fact": "SpaDeX made India the fourth nation to demonstrate docking, while Euclid's March release opened European survey catalogues to researchers."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-14-ipo",
+      "rank": 2,
+      "title": "Microsoft Majorana 1",
+      "hook": "Microsoft announced Majorana 1 on 19 February 2025 as a quantum chip built around its claimed topological-core architecture.",
+      "explainer": "Majorana 1 was unveiled by Microsoft on 19 February 2025. Its significance is the company’s topological-qubit approach, intended to make quantum systems easier to scale and control.",
+      "importance": 5,
+      "category": "Current Technology, Science and Business Affairs",
+      "tags": [
+        "Microsoft Majorana 1",
+        "2025 current affairs",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Microsoft Majorana 1 announcement",
+            "url": "https://news.microsoft.com/source/features/innovation/majorana-1/"
+          },
+          {
+            "label": "Microsoft quantum research",
+            "url": "https://azure.microsoft.com/en-us/blog/quantum/"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-climate-summit",
+            "relationship": "Specialised processors announced in 2025",
+            "fact": "Microsoft presented Majorana 1 for quantum computing in February; IBM presented the Telum II-powered z17 for enterprise AI in April."
+          },
+          {
+            "topicId": "module-14-open-source",
+            "relationship": "Contrasting quantum and graphics chips",
+            "fact": "Majorana 1 targets topological qubits, whereas NVIDIA's Blackwell GPUs target graphics and AI workloads."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-14-antitrust",
+      "rank": 3,
+      "title": "NASA SPHEREx launch",
+      "hook": "NASA launched the SPHEREx observatory on 11 March 2025 to map the whole sky in 102 infrared colours.",
+      "explainer": "SPHEREx launched on 11 March 2025. Its all-sky spectroscopic survey studies cosmic inflation, galaxy evolution and the distribution of water and organic molecules in the Milky Way.",
+      "importance": 4,
+      "category": "Current Technology, Science and Business Affairs",
+      "tags": [
+        "NASA SPHEREx launch",
+        "2025 current affairs",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "NASA SPHEREx mission",
+            "url": "https://science.nasa.gov/mission/spherex/"
+          },
+          {
+            "label": "NASA SPHEREx launch coverage",
+            "url": "https://www.nasa.gov/missions/spherex/nasa-launches-spherex-observatory-to-explore-origins-of-universe/"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-digital-regulation",
+            "relationship": "Two cosmic survey missions",
+            "fact": "SPHEREx maps the full sky spectroscopically, while Euclid maps galaxies to study dark matter, dark energy, and cosmic structure."
+          },
+          {
+            "topicId": "module-14-inflation",
+            "relationship": "NASA launch after ISRO docking",
+            "fact": "ISRO docked SpaDeX in January 2025, nearly two months before NASA launched SPHEREx in March."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-14-climate-summit",
+      "rank": 4,
+      "title": "IBM z17 mainframe",
+      "hook": "IBM announced the AI-focused z17 mainframe on 8 April 2025, powered by the Telum II processor.",
+      "explainer": "IBM introduced z17 on 8 April 2025. It pairs the Telum II processor with on-chip AI acceleration so enterprises can score transactions for fraud and other risks with low latency.",
+      "importance": 4,
+      "category": "Current Technology, Science and Business Affairs",
+      "tags": [
+        "IBM z17 mainframe",
+        "2025 current affairs",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "IBM z17 announcement",
+            "url": "https://newsroom.ibm.com/2025-04-08-IBM-z17-Redefines-AI-at-Scale-with-Innovations-Across-Hardware,-Software-Systems-Operations"
+          },
+          {
+            "label": "IBM z17 product overview",
+            "url": "https://www.ibm.com/products/z17"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-open-source",
+            "relationship": "AI acceleration in different computer markets",
+            "fact": "IBM z17 embeds Telum II acceleration for enterprise transactions; RTX 50 GPUs use Blackwell for consumer graphics and neural rendering."
+          },
+          {
+            "topicId": "module-14-ipo",
+            "relationship": "Classical enterprise processor versus quantum claim",
+            "fact": "The z17 is a commercial mainframe using conventional silicon, unlike Microsoft's experimental topological-quantum architecture."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-14-open-source",
+      "rank": 5,
+      "title": "NVIDIA GeForce RTX 50 series",
+      "hook": "NVIDIA unveiled the Blackwell-based GeForce RTX 50 series at CES on 6 January 2025.",
+      "explainer": "The GeForce RTX 50 series debuted on 6 January 2025 using NVIDIA’s Blackwell architecture. The launch emphasized neural rendering, including the DLSS 4 family of AI-assisted graphics techniques.",
+      "importance": 3,
+      "category": "Current Technology, Science and Business Affairs",
+      "tags": [
+        "NVIDIA GeForce RTX 50 series",
+        "2025 current affairs",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "NVIDIA RTX 50 announcement",
+            "url": "https://nvidianews.nvidia.com/news/geforce-rtx-50-series"
+          },
+          {
+            "label": "NVIDIA Blackwell architecture",
+            "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-climate-summit",
+            "relationship": "Blackwell graphics and Telum enterprise systems",
+            "fact": "Both announcements highlighted AI acceleration, but NVIDIA addressed GPUs and gaming while IBM addressed mainframe transactions."
+          },
+          {
+            "topicId": "module-14-ipo",
+            "relationship": "Two frontier chip announcements",
+            "fact": "RTX 50 products use classical GPU architecture; Majorana 1 was presented as a route toward scalable topological quantum computing."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-14-digital-regulation",
+      "rank": 6,
+      "title": "Euclid first data release",
+      "hook": "ESA released Euclid mission survey data for the first time on 19 March 2025, including deep-field previews and source catalogues.",
+      "explainer": "Euclid’s first survey-data release arrived on 19 March 2025. The mission maps galaxies across cosmic time to investigate dark matter, dark energy and the large-scale structure of the Universe.",
+      "importance": 3,
+      "category": "Current Technology, Science and Business Affairs",
+      "tags": [
+        "Euclid first data release",
+        "2025 current affairs",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "ESA Euclid data release",
+            "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields"
+          },
+          {
+            "label": "ESA Euclid mission",
+            "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-antitrust",
+            "relationship": "Complementary surveys of the Universe",
+            "fact": "Euclid studies large-scale galaxy structure while SPHEREx obtains an all-sky infrared spectral map."
+          },
+          {
+            "topicId": "module-14-inflation",
+            "relationship": "European data release and Indian docking result",
+            "fact": "Both were 2025 space milestones, but Euclid released survey data and SpaDeX demonstrated orbital rendezvous and docking."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-14-q-01",
+      "module": "module-14",
+      "topicId": "module-14-inflation",
+      "difficulty": 1,
+      "q": "Which country became the fourth to demonstrate in-space docking on 16 January 2025?",
+      "options": [
+        "India through SpaDeX",
+        "China through Tiangong spacecraft",
+        "Japan through HTV",
+        "Europe through the Automated Transfer Vehicle"
+      ],
+      "answer": 0,
+      "explanation": "ISRO docked the two SpaDeX spacecraft on 16 January 2025, demonstrating rendezvous and docking technology needed for complex future missions.",
+      "optionFamily": "national orbital-docking demonstrations",
+      "optionDomains": [
+        "national orbital-docking demonstrations",
+        "national orbital-docking demonstrations",
+        "national orbital-docking demonstrations",
+        "national orbital-docking demonstrations"
+      ]
+    },
+    {
+      "id": "module-14-q-02",
+      "module": "module-14",
+      "topicId": "module-14-ipo",
+      "difficulty": 2,
+      "q": "Which company announced the Majorana 1 quantum chip on 19 February 2025?",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "NVIDIA",
+        "Google"
+      ],
+      "answer": 1,
+      "explanation": "Microsoft presented Majorana 1 in February 2025 around a claimed topological-core architecture aimed at more scalable qubits.",
+      "optionFamily": "quantum-computing companies",
+      "optionDomains": [
+        "quantum-computing companies",
+        "quantum-computing companies",
+        "quantum-computing companies",
+        "quantum-computing companies"
+      ]
+    },
+    {
+      "id": "module-14-q-03",
+      "module": "module-14",
+      "topicId": "module-14-antitrust",
+      "difficulty": 3,
+      "q": "What was SPHEREx launched to map after 11 March 2025?",
+      "options": [
+        "The whole sky in 102 infrared colours",
+        "The distribution of dark matter from galaxy shapes",
+        "Atmospheres of selected nearby exoplanets",
+        "The Sun’s corona in visible light"
+      ],
+      "answer": 0,
+      "explanation": "NASA's 2025 SPHEREx mission performs all-sky spectroscopy to study cosmic history, galaxies, and water-bearing molecules.",
+      "optionFamily": "space observatory survey targets",
+      "optionDomains": [
+        "space observatory survey targets",
+        "space observatory survey targets",
+        "space observatory survey targets",
+        "space observatory survey targets"
+      ]
+    },
+    {
+      "id": "module-14-q-04",
+      "module": "module-14",
+      "topicId": "module-14-climate-summit",
+      "difficulty": 1,
+      "q": "Which processor powers the AI-focused IBM z17 announced on 8 April 2025?",
+      "options": [
+        "Blackwell",
+        "Telum II",
+        "Majorana 1",
+        "Power10"
+      ],
+      "answer": 1,
+      "explanation": "IBM paired the 2025 z17 mainframe with Telum II so AI inference can occur close to high-volume enterprise transactions.",
+      "optionFamily": "AI accelerator processors",
+      "optionDomains": [
+        "AI accelerator processors",
+        "AI accelerator processors",
+        "AI accelerator processors",
+        "AI accelerator processors"
+      ]
+    },
+    {
+      "id": "module-14-q-05",
+      "module": "module-14",
+      "topicId": "module-14-open-source",
+      "difficulty": 2,
+      "q": "At CES on 6 January 2025, NVIDIA unveiled which Blackwell-based consumer line?",
+      "options": [
+        "GeForce RTX 50 series",
+        "Radeon RX 9000 series",
+        "Intel Arc B series",
+        "GeForce RTX 40 series"
+      ],
+      "answer": 0,
+      "explanation": "The GeForce RTX 50 series brought NVIDIA's Blackwell architecture and DLSS 4 neural-rendering features to the 2025 gaming market.",
+      "optionFamily": "consumer GPU product lines",
+      "optionDomains": [
+        "consumer GPU product lines",
+        "consumer GPU product lines",
+        "consumer GPU product lines",
+        "consumer GPU product lines"
+      ]
+    },
+    {
+      "id": "module-14-q-06",
+      "module": "module-14",
+      "topicId": "module-14-digital-regulation",
+      "difficulty": 3,
+      "q": "Which European mission issued its first survey-data release on 19 March 2025?",
+      "options": [
+        "Gaia",
+        "Euclid",
+        "James Webb Space Telescope",
+        "XRISM"
+      ],
+      "answer": 1,
+      "explanation": "ESA's Euclid release in March 2025 included deep-field previews and catalogues for research on dark matter and dark energy.",
+      "optionFamily": "space-survey missions",
+      "optionDomains": [
+        "space-survey missions",
+        "space-survey missions",
+        "space-survey missions",
+        "space-survey missions"
+      ]
+    },
+    {
+      "id": "module-14-q-07",
+      "module": "module-14",
+      "topicId": "module-14-inflation",
+      "difficulty": 1,
+      "q": "Place the 2025 events in order: RTX 50 unveiling, SpaDeX docking, Majorana 1 announcement.",
+      "options": [
+        "Majorana 1, SpaDeX, RTX 50",
+        "RTX 50, SpaDeX, Majorana 1",
+        "SpaDeX, RTX 50, Majorana 1",
+        "RTX 50, Majorana 1, SpaDeX"
+      ],
+      "answer": 1,
+      "explanation": "NVIDIA announced RTX 50 on 6 January 2025, ISRO docked SpaDeX on 16 January, and Microsoft unveiled Majorana 1 on 19 February.",
+      "optionFamily": "2025 technology event chronologies",
+      "optionDomains": [
+        "2025 technology event chronologies",
+        "2025 technology event chronologies",
+        "2025 technology event chronologies",
+        "2025 technology event chronologies"
+      ]
+    },
+    {
+      "id": "module-14-q-08",
+      "module": "module-14",
+      "topicId": "module-14-ipo",
+      "difficulty": 2,
+      "q": "Which 2025 chip pairing is matched to the correct purpose?",
+      "options": [
+        "Majorana 1 — topological quantum approach",
+        "Telum II — consumer gaming graphics",
+        "Blackwell — topological qubit control",
+        "GeForce RTX 50 — mainframe transaction processing"
+      ],
+      "answer": 0,
+      "explanation": "Microsoft linked Majorana 1 to topological qubits in 2025; Telum II and Blackwell are classical processor architectures for different markets.",
+      "optionFamily": "2025 processor and purpose pairings",
+      "optionDomains": [
+        "2025 processor and purpose pairings",
+        "2025 processor and purpose pairings",
+        "2025 processor and purpose pairings",
+        "2025 processor and purpose pairings"
+      ]
+    },
+    {
+      "id": "module-14-q-09",
+      "module": "module-14",
+      "topicId": "module-14-antitrust",
+      "difficulty": 3,
+      "q": "Which comparison between the two March 2025 space milestones is correct?",
+      "options": [
+        "SPHEREx launched; Euclid released survey data",
+        "Euclid launched; SPHEREx completed a survey-data release",
+        "Both missions launched on the same day",
+        "Both missions released their first survey catalogues"
+      ],
+      "answer": 0,
+      "explanation": "NASA launched SPHEREx on 11 March 2025, while ESA opened Euclid's first survey-data treasure trove on 19 March.",
+      "optionFamily": "March 2025 space mission milestones",
+      "optionDomains": [
+        "March 2025 space mission milestones",
+        "March 2025 space mission milestones",
+        "March 2025 space mission milestones",
+        "March 2025 space mission milestones"
+      ]
+    },
+    {
+      "id": "module-14-q-10",
+      "module": "module-14",
+      "topicId": "module-14-climate-summit",
+      "difficulty": 1,
+      "q": "A bank wants low-latency fraud scoring on a 2025 enterprise mainframe. Which announcement is most relevant?",
+      "options": [
+        "IBM z17 with Telum II",
+        "NVIDIA DGX system with Blackwell GPUs",
+        "Microsoft Azure system using Majorana 1",
+        "Google quantum system using Willow"
+      ],
+      "answer": 0,
+      "explanation": "The April 2025 z17 announcement emphasised on-chip AI inference for transaction-heavy enterprise workloads such as real-time fraud detection.",
+      "optionFamily": "2025 enterprise AI computing announcements",
+      "optionDomains": [
+        "2025 enterprise AI computing announcements",
+        "2025 enterprise AI computing announcements",
+        "2025 enterprise AI computing announcements",
+        "2025 enterprise AI computing announcements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "id": "module-13",
+  "order": 13,
+  "label": "Space, Satellites, Defence and Frontier Technology",
+  "blurb": "A focused six-fact drill set for Space, Satellites, Defence and Frontier Technology.",
+  "topics": [
+    {
+      "id": "module-13-satellite",
+      "rank": 1,
+      "title": "Satellite",
+      "hook": "An artificial satellite orbits a larger body and can support communication, navigation, or observation.",
+      "explainer": "An artificial satellite orbits a larger body and can support communication, navigation, or observation. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Space, Satellites, Defence and Frontier Technology",
+      "tags": [
+        "Satellite",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Satellite encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Satellite"
+          },
+          {
+            "label": "Satellite reference search",
+            "url": "https://www.britannica.com/search?query=Satellite"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-geostationary-orbit",
+            "relationship": "Spacecraft and one orbital class",
+            "fact": "A satellite placed over the equator with a 24-hour period appears fixed and is called geostationary."
+          },
+          {
+            "topicId": "module-13-gps",
+            "relationship": "Navigation performed by a constellation",
+            "fact": "GPS determines position from timing signals broadcast by multiple orbiting satellites."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-13-geostationary-orbit",
+      "rank": 2,
+      "title": "Geostationary orbit",
+      "hook": "A geostationary satellite appears fixed above Earth's equator because its period matches Earth's rotation.",
+      "explainer": "A geostationary satellite appears fixed above Earth's equator because its period matches Earth's rotation. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Space, Satellites, Defence and Frontier Technology",
+      "tags": [
+        "Geostationary orbit",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Geostationary orbit encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Geostationary_orbit"
+          },
+          {
+            "label": "Geostationary orbit reference search",
+            "url": "https://www.britannica.com/search?query=Geostationary%20orbit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-satellite",
+            "relationship": "Orbit that fixes apparent sky position",
+            "fact": "A satellite in this equatorial orbit matches Earth's rotation and appears stationary to a ground observer."
+          },
+          {
+            "topicId": "module-13-gps",
+            "relationship": "Different orbit choices for different services",
+            "fact": "GPS satellites use medium Earth orbit rather than geostationary orbit, enabling worldwide navigation coverage."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-13-gps",
+      "rank": 3,
+      "title": "GPS",
+      "hook": "The Global Positioning System is a satellite-based navigation system operated by the United States.",
+      "explainer": "The Global Positioning System is a satellite-based navigation system operated by the United States. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Space, Satellites, Defence and Frontier Technology",
+      "tags": [
+        "GPS",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "GPS encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/GPS"
+          },
+          {
+            "label": "GPS reference search",
+            "url": "https://www.britannica.com/search?query=GPS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-satellite",
+            "relationship": "Satellite signals used for positioning",
+            "fact": "A GPS receiver calculates position from precisely timed transmissions sent by a satellite constellation."
+          },
+          {
+            "topicId": "module-13-drone",
+            "relationship": "Navigation input for unmanned aircraft",
+            "fact": "Many drones use GPS for position holding, route following, and return-to-home functions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-13-chandrayaan-3",
+      "rank": 4,
+      "title": "Chandrayaan-3",
+      "hook": "Chandrayaan-3 achieved India's first successful soft landing on the Moon in 2023.",
+      "explainer": "Chandrayaan-3 achieved India's first successful soft landing on the Moon in 2023. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Space, Satellites, Defence and Frontier Technology",
+      "tags": [
+        "Chandrayaan-3",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Chandrayaan-3 encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Chandrayaan-3"
+          },
+          {
+            "label": "Chandrayaan-3 reference search",
+            "url": "https://www.britannica.com/search?query=Chandrayaan-3"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-gaganyaan",
+            "relationship": "Indian robotic and crewed missions",
+            "fact": "Chandrayaan-3 was an uncrewed lunar landing mission; Gaganyaan is intended to carry Indian astronauts to low Earth orbit."
+          },
+          {
+            "topicId": "module-13-satellite",
+            "relationship": "Lunar spacecraft beyond Earth-orbit services",
+            "fact": "Chandrayaan-3 used an orbiter-related propulsion module and lander-rover system, unlike routine communication or navigation satellites."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-13-gaganyaan",
+      "rank": 5,
+      "title": "Gaganyaan",
+      "hook": "Gaganyaan is India's human-spaceflight programme.",
+      "explainer": "Gaganyaan is India's human-spaceflight programme. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Space, Satellites, Defence and Frontier Technology",
+      "tags": [
+        "Gaganyaan",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Gaganyaan encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Gaganyaan"
+          },
+          {
+            "label": "Gaganyaan reference search",
+            "url": "https://www.britannica.com/search?query=Gaganyaan"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-chandrayaan-3",
+            "relationship": "Human spaceflight contrasted with robotic exploration",
+            "fact": "Gaganyaan targets a crewed low-Earth-orbit flight, while Chandrayaan-3 placed robotic hardware on the Moon."
+          },
+          {
+            "topicId": "module-13-satellite",
+            "relationship": "Crew capsule and orbital spacecraft distinction",
+            "fact": "Both travel in space, but Gaganyaan is designed around safely carrying people rather than providing an unmanned satellite service."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-13-drone",
+      "rank": 6,
+      "title": "Drone",
+      "hook": "A drone is an unmanned aircraft controlled remotely or autonomously.",
+      "explainer": "A drone is an unmanned aircraft controlled remotely or autonomously. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Space, Satellites, Defence and Frontier Technology",
+      "tags": [
+        "Drone",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Drone encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Drone"
+          },
+          {
+            "label": "Drone reference search",
+            "url": "https://www.britannica.com/search?query=Drone"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-gps",
+            "relationship": "Satellite navigation for autonomous flight",
+            "fact": "GPS supplies location data that enables a drone to follow waypoints or return to its launch point."
+          },
+          {
+            "topicId": "module-13-satellite",
+            "relationship": "Aircraft in atmosphere versus spacecraft in orbit",
+            "fact": "A drone flies within Earth's atmosphere, whereas an artificial satellite remains in orbit around a larger body."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-13-q-01",
+      "module": "module-13",
+      "topicId": "module-13-satellite",
+      "difficulty": 1,
+      "q": "Which object qualifies as an artificial satellite?",
+      "options": [
+        "A human-made spacecraft orbiting Earth",
+        "A natural moon orbiting a planet",
+        "An unmanned aircraft flying in the atmosphere",
+        "A sounding rocket on a suborbital trajectory"
+      ],
+      "answer": 0,
+      "explanation": "An artificial satellite remains in orbit around a larger body and may provide communication, observation, science, or navigation services.",
+      "optionFamily": "aerospace vehicle categories",
+      "optionDomains": [
+        "aerospace vehicle categories",
+        "aerospace vehicle categories",
+        "aerospace vehicle categories",
+        "aerospace vehicle categories"
+      ]
+    },
+    {
+      "id": "module-13-q-02",
+      "module": "module-13",
+      "topicId": "module-13-geostationary-orbit",
+      "difficulty": 2,
+      "q": "Why does a geostationary satellite appear fixed in the sky?",
+      "options": [
+        "Its equatorial orbital period matches Earth’s rotation",
+        "Its polar orbit crosses the equator twice on every pass",
+        "Its orbital period is shorter than Earth’s rotation",
+        "It remains stationary without orbiting Earth"
+      ],
+      "answer": 0,
+      "explanation": "A circular equatorial orbit with the same rotational period as Earth keeps the satellite over one longitude.",
+      "optionFamily": "geostationary orbit explanations",
+      "optionDomains": [
+        "geostationary orbit explanations",
+        "geostationary orbit explanations",
+        "geostationary orbit explanations",
+        "geostationary orbit explanations"
+      ]
+    },
+    {
+      "id": "module-13-q-03",
+      "module": "module-13",
+      "topicId": "module-13-gps",
+      "difficulty": 3,
+      "q": "Which country operates the Global Positioning System?",
+      "options": [
+        "India",
+        "United States",
+        "France",
+        "Japan"
+      ],
+      "answer": 1,
+      "explanation": "GPS is the United States satellite-navigation constellation; other systems include India's NavIC and Europe's Galileo.",
+      "optionFamily": "satellite-navigation operators",
+      "optionDomains": [
+        "satellite-navigation operators",
+        "satellite-navigation operators",
+        "satellite-navigation operators",
+        "satellite-navigation operators"
+      ]
+    },
+    {
+      "id": "module-13-q-04",
+      "module": "module-13",
+      "topicId": "module-13-chandrayaan-3",
+      "difficulty": 1,
+      "q": "What did Chandrayaan-3 achieve in 2023?",
+      "options": [
+        "India’s first successful lunar soft landing",
+        "India’s first Mars-orbit insertion",
+        "India’s first solar-observation orbit",
+        "India’s first crewed Earth-orbit mission"
+      ],
+      "answer": 0,
+      "explanation": "The Vikram lander achieved India's first soft landing on the Moon and deployed the Pragyan rover.",
+      "optionFamily": "Indian lunar mission achievements",
+      "optionDomains": [
+        "Indian lunar mission achievements",
+        "Indian lunar mission achievements",
+        "Indian lunar mission achievements",
+        "Indian lunar mission achievements"
+      ]
+    },
+    {
+      "id": "module-13-q-05",
+      "module": "module-13",
+      "topicId": "module-13-gaganyaan",
+      "difficulty": 2,
+      "q": "Which mission is designed as India's human-spaceflight programme?",
+      "options": [
+        "Chandrayaan-3",
+        "Gaganyaan",
+        "Aditya-L1",
+        "Mangalyaan"
+      ],
+      "answer": 1,
+      "explanation": "Gaganyaan is intended to carry an Indian crew to low Earth orbit and return them safely.",
+      "optionFamily": "Indian space missions",
+      "optionDomains": [
+        "Indian space missions",
+        "Indian space missions",
+        "Indian space missions",
+        "Indian space missions"
+      ]
+    },
+    {
+      "id": "module-13-q-06",
+      "module": "module-13",
+      "topicId": "module-13-drone",
+      "difficulty": 3,
+      "q": "Which feature defines a drone?",
+      "options": [
+        "It is an unmanned aircraft controlled remotely or autonomously",
+        "It is a crewed aircraft flown only by an onboard pilot",
+        "It is an unpowered balloon tethered to the ground",
+        "It is a spacecraft maintained in Earth orbit"
+      ],
+      "answer": 0,
+      "explanation": "A drone operates within the atmosphere without an onboard human pilot, using remote control, automation, or both.",
+      "optionFamily": "uncrewed aerial vehicle definitions",
+      "optionDomains": [
+        "uncrewed aerial vehicle definitions",
+        "uncrewed aerial vehicle definitions",
+        "uncrewed aerial vehicle definitions",
+        "uncrewed aerial vehicle definitions"
+      ]
+    },
+    {
+      "id": "module-13-q-07",
+      "module": "module-13",
+      "topicId": "module-13-satellite",
+      "difficulty": 1,
+      "q": "Which orbit-service match is false?",
+      "options": [
+        "Geostationary — fixed apparent position",
+        "GPS — satellite navigation",
+        "Drone — permanent Earth orbit",
+        "Satellite — communication or observation"
+      ],
+      "answer": 2,
+      "explanation": "A drone is an aircraft in the atmosphere, not an orbital spacecraft; the other pairings describe standard space uses.",
+      "optionFamily": "orbit and service matches",
+      "optionDomains": [
+        "orbit and service matches",
+        "orbit and service matches",
+        "orbit and service matches",
+        "orbit and service matches"
+      ]
+    },
+    {
+      "id": "module-13-q-08",
+      "module": "module-13",
+      "topicId": "module-13-gps",
+      "difficulty": 2,
+      "q": "A drone follows programmed waypoints and returns to its launch site. Which external system likely supplies position?",
+      "options": [
+        "GPS",
+        "Inertial measurement unit",
+        "Visual odometry",
+        "Barometric altimeter"
+      ],
+      "answer": 0,
+      "explanation": "Satellite-navigation fixes allow many drones to hold position, fly routes, and trigger return-to-home behaviour.",
+      "optionFamily": "drone positioning systems",
+      "optionDomains": [
+        "drone positioning systems",
+        "drone positioning systems",
+        "drone positioning systems",
+        "drone positioning systems"
+      ]
+    },
+    {
+      "id": "module-13-q-09",
+      "module": "module-13",
+      "topicId": "module-13-chandrayaan-3",
+      "difficulty": 3,
+      "q": "Which comparison with Gaganyaan is accurate?",
+      "options": [
+        "Chandrayaan-3 was robotic lunar exploration; Gaganyaan targets crewed Earth orbit",
+        "Both missions are designed to place crews on the lunar surface",
+        "Gaganyaan is a lunar rover while Chandrayaan-3 is an orbital crew capsule",
+        "Chandrayaan-3 and Gaganyaan are both satellite-navigation constellations"
+      ],
+      "answer": 0,
+      "explanation": "The missions differ in destination and crew: Chandrayaan-3 was uncrewed and lunar, while Gaganyaan focuses on astronauts in low Earth orbit.",
+      "optionFamily": "Chandrayaan and Gaganyaan comparisons",
+      "optionDomains": [
+        "Chandrayaan and Gaganyaan comparisons",
+        "Chandrayaan and Gaganyaan comparisons",
+        "Chandrayaan and Gaganyaan comparisons",
+        "Chandrayaan and Gaganyaan comparisons"
+      ]
+    },
+    {
+      "id": "module-13-q-10",
+      "module": "module-13",
+      "topicId": "module-13-geostationary-orbit",
+      "difficulty": 1,
+      "q": "Which navigation constellation is not geostationary?",
+      "options": [
+        "GPS, whose satellites use medium Earth orbit",
+        "A fixed communications satellite over the equator",
+        "A weather satellite matching Earth's rotation",
+        "A broadcast spacecraft stationed over one longitude"
+      ],
+      "answer": 0,
+      "explanation": "GPS satellites orbit in medium Earth orbit and move across the sky; geostationary satellites remain apparently fixed.",
+      "optionFamily": "satellite orbit classes",
+      "optionDomains": [
+        "satellite orbit classes",
+        "satellite orbit classes",
+        "satellite orbit classes",
+        "satellite orbit classes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "id": "module-11",
+  "order": 11,
+  "label": "Science, Medicine and Mathematics Through Innovation",
+  "blurb": "A focused six-fact drill set for Science, Medicine and Mathematics Through Innovation.",
+  "topics": [
+    {
+      "id": "module-11-scientific-method",
+      "rank": 1,
+      "title": "Scientific method",
+      "hook": "The scientific method uses observation, hypothesis, testing, and revision to investigate questions.",
+      "explainer": "The scientific method uses observation, hypothesis, testing, and revision to investigate questions. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Science, Medicine and Mathematics Through Innovation",
+      "tags": [
+        "Scientific method",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Scientific method encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Scientific_method"
+          },
+          {
+            "label": "Scientific method reference search",
+            "url": "https://www.britannica.com/search?query=Scientific%20method"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-vaccination",
+            "relationship": "Evidence pathway for preventive medicine",
+            "fact": "Vaccine safety and effectiveness are evaluated through hypotheses, controlled trials, observation, and revision."
+          },
+          {
+            "topicId": "module-11-probability",
+            "relationship": "Quantifying uncertainty in evidence",
+            "fact": "Scientific experiments use probability and statistics to judge whether observed results plausibly arose by chance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-11-vaccination",
+      "rank": 2,
+      "title": "Vaccination",
+      "hook": "Vaccination trains the immune system to recognise a pathogen before serious disease occurs.",
+      "explainer": "Vaccination trains the immune system to recognise a pathogen before serious disease occurs. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Science, Medicine and Mathematics Through Innovation",
+      "tags": [
+        "Vaccination",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Vaccination encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Vaccination"
+          },
+          {
+            "label": "Vaccination reference search",
+            "url": "https://www.britannica.com/search?query=Vaccination"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-dna",
+            "relationship": "Genetic instructions and immune training",
+            "fact": "Some vaccines deliver genetic instructions related to a pathogen, while DNA is the hereditary material in most organisms."
+          },
+          {
+            "topicId": "module-11-antibiotics",
+            "relationship": "Prevention compared with bacterial treatment",
+            "fact": "Vaccines prepare immunity before disease, whereas antibiotics treat bacterial infections after they occur."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-11-dna",
+      "rank": 3,
+      "title": "DNA",
+      "hook": "DNA carries genetic information in most living organisms.",
+      "explainer": "DNA carries genetic information in most living organisms. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Science, Medicine and Mathematics Through Innovation",
+      "tags": [
+        "DNA",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "DNA encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/DNA"
+          },
+          {
+            "label": "DNA reference search",
+            "url": "https://www.britannica.com/search?query=DNA"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-vaccination",
+            "relationship": "Genetic material in vaccine technology",
+            "fact": "DNA can encode antigens in some vaccine platforms, but vaccination is the process of training immune memory."
+          },
+          {
+            "topicId": "module-11-antibiotics",
+            "relationship": "Genetic target and drug resistance",
+            "fact": "Bacteria carry DNA mutations or resistance genes that can make an antibiotic ineffective."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-11-antibiotics",
+      "rank": 4,
+      "title": "Antibiotics",
+      "hook": "Antibiotics treat bacterial infections and do not treat viral infections.",
+      "explainer": "Antibiotics treat bacterial infections and do not treat viral infections. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Science, Medicine and Mathematics Through Innovation",
+      "tags": [
+        "Antibiotics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Antibiotics encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Antibiotics"
+          },
+          {
+            "label": "Antibiotics reference search",
+            "url": "https://www.britannica.com/search?query=Antibiotics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-vaccination",
+            "relationship": "Treatment versus prevention",
+            "fact": "Antibiotics act against bacteria in an existing infection; vaccines prime the immune system before exposure or serious illness."
+          },
+          {
+            "topicId": "module-11-dna",
+            "relationship": "Resistance inherited through genetic material",
+            "fact": "Changes in bacterial DNA can confer antibiotic resistance and spread through reproduction or gene transfer."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-11-algorithm",
+      "rank": 5,
+      "title": "Algorithm",
+      "hook": "An algorithm is a finite, defined sequence of steps for solving a problem.",
+      "explainer": "An algorithm is a finite, defined sequence of steps for solving a problem. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Science, Medicine and Mathematics Through Innovation",
+      "tags": [
+        "Algorithm",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Algorithm encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Algorithm"
+          },
+          {
+            "label": "Algorithm reference search",
+            "url": "https://www.britannica.com/search?query=Algorithm"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-scientific-method",
+            "relationship": "Defined procedure and investigative cycle",
+            "fact": "An algorithm gives finite steps for solving a problem, while the scientific method gives a repeatable process for testing explanations."
+          },
+          {
+            "topicId": "module-11-probability",
+            "relationship": "Decision procedures using likelihood",
+            "fact": "Algorithms use probability in tasks such as risk scoring, randomised search, and statistical inference."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-11-probability",
+      "rank": 6,
+      "title": "Probability",
+      "hook": "Probability measures the likelihood of an event on a scale from 0 to 1.",
+      "explainer": "Probability measures the likelihood of an event on a scale from 0 to 1. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Science, Medicine and Mathematics Through Innovation",
+      "tags": [
+        "Probability",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Probability encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Probability"
+          },
+          {
+            "label": "Probability reference search",
+            "url": "https://www.britannica.com/search?query=Probability"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-scientific-method",
+            "relationship": "Uncertainty in experimental conclusions",
+            "fact": "Probability helps researchers assess evidence and distinguish a real effect from random variation."
+          },
+          {
+            "topicId": "module-11-algorithm",
+            "relationship": "Mathematics inside computational procedures",
+            "fact": "A probabilistic algorithm uses random choices or likelihood estimates while still following defined computational steps."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-11-q-01",
+      "module": "module-11",
+      "topicId": "module-11-scientific-method",
+      "difficulty": 1,
+      "q": "Which sequence best represents the scientific method?",
+      "options": [
+        "Observation, hypothesis, test, revision",
+        "Hypothesis, conclusion, observation, test",
+        "Test, revision, observation, hypothesis",
+        "Conclusion, hypothesis, revision, observation"
+      ],
+      "answer": 0,
+      "explanation": "Scientific inquiry moves from observations to testable explanations, gathers evidence, and revises conclusions when results demand it.",
+      "optionFamily": "scientific method sequences",
+      "optionDomains": [
+        "scientific method sequences",
+        "scientific method sequences",
+        "scientific method sequences",
+        "scientific method sequences"
+      ]
+    },
+    {
+      "id": "module-11-q-02",
+      "module": "module-11",
+      "topicId": "module-11-vaccination",
+      "difficulty": 2,
+      "q": "What does vaccination prepare the body to do?",
+      "options": [
+        "Recognise a pathogen before serious disease",
+        "Kill every bacterium directly on injection",
+        "Supply permanent ready-made antibodies",
+        "Replace inherited DNA with pathogen DNA"
+      ],
+      "answer": 0,
+      "explanation": "Vaccines expose the immune system to an antigen or its instructions so memory responses can act rapidly on later exposure.",
+      "optionFamily": "vaccine immune-response claims",
+      "optionDomains": [
+        "vaccine immune-response claims",
+        "vaccine immune-response claims",
+        "vaccine immune-response claims",
+        "vaccine immune-response claims"
+      ]
+    },
+    {
+      "id": "module-11-q-03",
+      "module": "module-11",
+      "topicId": "module-11-dna",
+      "difficulty": 3,
+      "q": "Which molecule carries hereditary information in most living organisms?",
+      "options": [
+        "DNA",
+        "RNA",
+        "Protein",
+        "Lipid"
+      ],
+      "answer": 0,
+      "explanation": "DNA encodes genetic information in nucleotide sequences and passes that information through cell division and reproduction.",
+      "optionFamily": "biological macromolecules",
+      "optionDomains": [
+        "biological macromolecules",
+        "biological macromolecules",
+        "biological macromolecules",
+        "biological macromolecules"
+      ]
+    },
+    {
+      "id": "module-11-q-04",
+      "module": "module-11",
+      "topicId": "module-11-antibiotics",
+      "difficulty": 1,
+      "q": "Which illness would not be cured merely by taking an antibiotic?",
+      "options": [
+        "Streptococcal throat infection",
+        "Bacterial urinary infection",
+        "Influenza caused by a virus",
+        "Bacterial pneumonia"
+      ],
+      "answer": 2,
+      "explanation": "Antibiotics target bacterial structures or processes; influenza is viral and therefore needs prevention or antiviral management rather than antibacterial drugs.",
+      "optionFamily": "infectious diseases and antibiotic response",
+      "optionDomains": [
+        "infectious diseases and antibiotic response",
+        "infectious diseases and antibiotic response",
+        "infectious diseases and antibiotic response",
+        "infectious diseases and antibiotic response"
+      ]
+    },
+    {
+      "id": "module-11-q-05",
+      "module": "module-11",
+      "topicId": "module-11-algorithm",
+      "difficulty": 2,
+      "q": "A finite sequence of unambiguous problem-solving steps is called what?",
+      "options": [
+        "Heuristic",
+        "Algorithm",
+        "Hypothesis",
+        "Mathematical model"
+      ],
+      "answer": 1,
+      "explanation": "An algorithm specifies a bounded, defined procedure whose steps transform inputs or state toward a result.",
+      "optionFamily": "formal problem-solving concepts",
+      "optionDomains": [
+        "formal problem-solving concepts",
+        "formal problem-solving concepts",
+        "formal problem-solving concepts",
+        "formal problem-solving concepts"
+      ]
+    },
+    {
+      "id": "module-11-q-06",
+      "module": "module-11",
+      "topicId": "module-11-probability",
+      "difficulty": 3,
+      "q": "On the conventional 0-to-1 scale, what probability represents an impossible event?",
+      "options": [
+        "0",
+        "0.25",
+        "0.5",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "Probability zero denotes impossibility in the elementary scale, while one denotes certainty and values between represent uncertainty.",
+      "optionFamily": "probability values",
+      "optionDomains": [
+        "probability values",
+        "probability values",
+        "probability values",
+        "probability values"
+      ]
+    },
+    {
+      "id": "module-11-q-07",
+      "module": "module-11",
+      "topicId": "module-11-scientific-method",
+      "difficulty": 1,
+      "q": "Why are controlled vaccine trials part of the scientific method?",
+      "options": [
+        "They test safety and effectiveness claims against evidence",
+        "They prove a hypothesis before participants are observed",
+        "They remove the need for a comparison or control group",
+        "They guarantee that later evidence cannot revise a conclusion"
+      ],
+      "answer": 0,
+      "explanation": "Controlled comparison lets researchers estimate effects and uncertainty instead of accepting a medical claim on authority alone.",
+      "optionFamily": "controlled-trial evidence claims",
+      "optionDomains": [
+        "controlled-trial evidence claims",
+        "controlled-trial evidence claims",
+        "controlled-trial evidence claims",
+        "controlled-trial evidence claims"
+      ]
+    },
+    {
+      "id": "module-11-q-08",
+      "module": "module-11",
+      "topicId": "module-11-vaccination",
+      "difficulty": 2,
+      "q": "Which contrast is correct?",
+      "options": [
+        "Vaccines prime immune memory; antibiotics act against bacteria",
+        "Vaccines directly kill all bacteria; antibiotics train immune memory",
+        "Antibiotics prevent viral infection; vaccines treat every active infection",
+        "Vaccines and antibiotics are interchangeable pathogen treatments"
+      ],
+      "answer": 0,
+      "explanation": "Vaccination is preventive immune training, while antibiotics are treatments directed at bacterial infections.",
+      "optionFamily": "vaccines and antibiotics comparisons",
+      "optionDomains": [
+        "vaccines and antibiotics comparisons",
+        "vaccines and antibiotics comparisons",
+        "vaccines and antibiotics comparisons",
+        "vaccines and antibiotics comparisons"
+      ]
+    },
+    {
+      "id": "module-11-q-09",
+      "module": "module-11",
+      "topicId": "module-11-dna",
+      "difficulty": 3,
+      "q": "How can DNA be linked to antibiotic resistance?",
+      "options": [
+        "Resistance genes or mutations can be carried in bacterial DNA",
+        "Resistance occurs only when human DNA changes after treatment",
+        "Antibiotics prevent bacteria from inheriting any DNA",
+        "Bacterial resistance is independent of mutation and gene transfer"
+      ],
+      "answer": 0,
+      "explanation": "Bacteria can inherit or exchange genetic changes that reduce a drug's effect, allowing resistant populations to survive.",
+      "optionFamily": "genetic antibiotic-resistance claims",
+      "optionDomains": [
+        "genetic antibiotic-resistance claims",
+        "genetic antibiotic-resistance claims",
+        "genetic antibiotic-resistance claims",
+        "genetic antibiotic-resistance claims"
+      ]
+    },
+    {
+      "id": "module-11-q-10",
+      "module": "module-11",
+      "topicId": "module-11-algorithm",
+      "difficulty": 1,
+      "q": "A navigation program chooses routes using estimated traffic likelihoods. Which two ideas are combined?",
+      "options": [
+        "Algorithm and probability",
+        "Database indexing and encryption",
+        "Computer graphics and compression",
+        "Network routing and authentication"
+      ],
+      "answer": 0,
+      "explanation": "The route procedure is an algorithm, and its uncertain traffic estimates are expressed with probabilistic information.",
+      "optionFamily": "computational route-planning concepts",
+      "optionDomains": [
+        "computational route-planning concepts",
+        "computational route-planning concepts",
+        "computational route-planning concepts",
+        "computational route-planning concepts"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "id": "module-07",
+  "order": 7,
+  "label": "Cybersecurity, Malware, Privacy and Global Outages",
+  "blurb": "A focused six-fact drill set for Cybersecurity, Malware, Privacy and Global Outages.",
+  "topics": [
+    {
+      "id": "module-07-cybersecurity",
+      "rank": 1,
+      "title": "Cybersecurity",
+      "hook": "Cybersecurity protects systems, networks, and data from unauthorised access, attack, or disruption.",
+      "explainer": "Cybersecurity protects systems, networks, and data from unauthorised access, attack, or disruption. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Cybersecurity encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Cybersecurity"
+          },
+          {
+            "label": "Cybersecurity reference search",
+            "url": "https://www.britannica.com/search?query=Cybersecurity"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-07-phishing",
+            "relationship": "Defence discipline and human-targeted attack",
+            "fact": "Cybersecurity includes training and technical controls to stop phishing messages from stealing credentials."
+          },
+          {
+            "topicId": "module-07-distributed-denial-of-service",
+            "relationship": "Protecting service availability",
+            "fact": "DDoS mitigation is a cybersecurity task focused on keeping a service reachable despite malicious traffic."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-07-phishing",
+      "rank": 2,
+      "title": "Phishing",
+      "hook": "Phishing uses deceptive messages or sites to trick people into disclosing sensitive information.",
+      "explainer": "Phishing uses deceptive messages or sites to trick people into disclosing sensitive information. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Phishing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Phishing encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Phishing"
+          },
+          {
+            "label": "Phishing reference search",
+            "url": "https://www.britannica.com/search?query=Phishing"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-07-ransomware",
+            "relationship": "Common initial access route",
+            "fact": "Attackers often use a deceptive email or site to steal credentials or deliver the malware that begins a ransomware intrusion."
+          },
+          {
+            "topicId": "module-07-data-privacy",
+            "relationship": "Credential theft and personal-information risk",
+            "fact": "A successful phishing attempt can expose login details and personal data, directly undermining privacy."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-07-ransomware",
+      "rank": 3,
+      "title": "Ransomware",
+      "hook": "Ransomware is malware that encrypts or blocks data access and demands payment.",
+      "explainer": "Ransomware is malware that encrypts or blocks data access and demands payment. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Ransomware",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Ransomware encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Ransomware"
+          },
+          {
+            "label": "Ransomware reference search",
+            "url": "https://www.britannica.com/search?query=Ransomware"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-07-encryption",
+            "relationship": "Malicious use of cryptographic locking",
+            "fact": "Ransomware applies encryption to deny the owner access; legitimate encryption protects data for authorised users."
+          },
+          {
+            "topicId": "module-07-phishing",
+            "relationship": "Delivery tactic and payload",
+            "fact": "Phishing describes the deception used to gain access, while ransomware is the extortion malware that may follow."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-07-encryption",
+      "rank": 4,
+      "title": "Encryption",
+      "hook": "Encryption transforms readable plaintext into protected ciphertext that authorised parties can decrypt.",
+      "explainer": "Encryption transforms readable plaintext into protected ciphertext that authorised parties can decrypt. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Encryption",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Encryption encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Encryption"
+          },
+          {
+            "label": "Encryption reference search",
+            "url": "https://www.britannica.com/search?query=Encryption"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-07-data-privacy",
+            "relationship": "Technical safeguard for personal data",
+            "fact": "Encryption can protect stored or transmitted personal information, although privacy also requires rules about lawful collection and use."
+          },
+          {
+            "topicId": "module-07-ransomware",
+            "relationship": "Protective tool versus hostile abuse",
+            "fact": "Both may encrypt files, but defenders retain authorised keys whereas ransomware attackers withhold access for payment."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-07-data-privacy",
+      "rank": 5,
+      "title": "Data privacy",
+      "hook": "Data privacy governs how personal information is collected, used, stored, and shared.",
+      "explainer": "Data privacy governs how personal information is collected, used, stored, and shared. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Data privacy",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Data privacy encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Data_privacy"
+          },
+          {
+            "label": "Data privacy reference search",
+            "url": "https://www.britannica.com/search?query=Data%20privacy"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-07-encryption",
+            "relationship": "Governance goal and security control",
+            "fact": "Privacy governs appropriate handling of personal data; encryption is one technical control that supports confidentiality."
+          },
+          {
+            "topicId": "module-07-phishing",
+            "relationship": "Personal data exposed by deception",
+            "fact": "Phishing can trick a person into surrendering credentials or identity information that privacy practices are meant to protect."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-07-distributed-denial-of-service",
+      "rank": 6,
+      "title": "Distributed denial of service",
+      "hook": "A distributed denial-of-service attack overwhelms a service using traffic from many systems.",
+      "explainer": "A distributed denial-of-service attack overwhelms a service using traffic from many systems. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Distributed denial of service",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Distributed denial of service encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Distributed_denial_of_service"
+          },
+          {
+            "label": "Distributed denial of service reference search",
+            "url": "https://www.britannica.com/search?query=Distributed%20denial%20of%20service"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-07-cybersecurity",
+            "relationship": "Availability attack within the security triad",
+            "fact": "DDoS attacks target availability, one of the central properties that cybersecurity seeks to preserve."
+          },
+          {
+            "topicId": "module-07-ransomware",
+            "relationship": "Two different disruption mechanisms",
+            "fact": "DDoS floods a service from many systems, while ransomware blocks access by compromising and encrypting data or devices."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-07-q-01",
+      "module": "module-07",
+      "topicId": "module-07-cybersecurity",
+      "difficulty": 1,
+      "q": "Which goal belongs to cybersecurity?",
+      "options": [
+        "Protecting systems, networks, and data from attack",
+        "Increasing every network's latency",
+        "Publishing all personal records",
+        "Removing authentication controls"
+      ],
+      "answer": 0,
+      "explanation": "Cybersecurity protects confidentiality, integrity, and availability through people, processes, and technical safeguards.",
+      "optionFamily": "cybersecurity objectives",
+      "optionDomains": [
+        "cybersecurity objectives",
+        "cybersecurity objectives",
+        "cybersecurity objectives",
+        "cybersecurity objectives"
+      ]
+    },
+    {
+      "id": "module-07-q-02",
+      "module": "module-07",
+      "topicId": "module-07-phishing",
+      "difficulty": 2,
+      "q": "An email imitates a bank and links to a fake login page. What attack is this?",
+      "options": [
+        "Distributed denial of service",
+        "Phishing",
+        "Credential stuffing",
+        "DNS cache poisoning"
+      ],
+      "answer": 1,
+      "explanation": "Phishing uses deceptive messages and websites to make a victim reveal credentials or run malicious content.",
+      "optionFamily": "credential-theft attacks",
+      "optionDomains": [
+        "credential-theft attacks",
+        "credential-theft attacks",
+        "credential-theft attacks",
+        "credential-theft attacks"
+      ]
+    },
+    {
+      "id": "module-07-q-03",
+      "module": "module-07",
+      "topicId": "module-07-ransomware",
+      "difficulty": 3,
+      "q": "Which behaviour defines ransomware most directly?",
+      "options": [
+        "It blocks or encrypts data and demands payment",
+        "It secretly mines cryptocurrency without an extortion demand",
+        "It records keystrokes to steal credentials",
+        "It recruits a device into a traffic-flooding botnet"
+      ],
+      "answer": 0,
+      "explanation": "Ransomware is extortion malware: access is denied and restoration is offered in exchange for money, often without any guarantee.",
+      "optionFamily": "malware behaviours",
+      "optionDomains": [
+        "malware behaviours",
+        "malware behaviours",
+        "malware behaviours",
+        "malware behaviours"
+      ]
+    },
+    {
+      "id": "module-07-q-04",
+      "module": "module-07",
+      "topicId": "module-07-encryption",
+      "difficulty": 1,
+      "q": "Readable plaintext becomes what after encryption?",
+      "options": [
+        "Ciphertext",
+        "Hash digest",
+        "Encoded text",
+        "Compressed archive"
+      ],
+      "answer": 0,
+      "explanation": "Encryption transforms plaintext into ciphertext that should be intelligible only with the authorised cryptographic key.",
+      "optionFamily": "cryptographic output terms",
+      "optionDomains": [
+        "cryptographic output terms",
+        "cryptographic output terms",
+        "cryptographic output terms",
+        "cryptographic output terms"
+      ]
+    },
+    {
+      "id": "module-07-q-05",
+      "module": "module-07",
+      "topicId": "module-07-data-privacy",
+      "difficulty": 2,
+      "q": "Which question is principally about data privacy rather than service availability?",
+      "options": [
+        "Why was my location collected and shared?",
+        "Can the service recover from a traffic flood?",
+        "Were account records altered without permission?",
+        "Can an authorised user retrieve the backup?"
+      ],
+      "answer": 0,
+      "explanation": "Privacy concerns the legitimate collection, purpose, retention, and sharing of personal information such as location data.",
+      "optionFamily": "information-security governance questions",
+      "optionDomains": [
+        "information-security governance questions",
+        "information-security governance questions",
+        "information-security governance questions",
+        "information-security governance questions"
+      ]
+    },
+    {
+      "id": "module-07-q-06",
+      "module": "module-07",
+      "topicId": "module-07-distributed-denial-of-service",
+      "difficulty": 3,
+      "q": "Thousands of compromised devices flood one site until genuine users cannot connect. Identify the attack.",
+      "options": [
+        "Phishing",
+        "Ransomware",
+        "Distributed denial of service",
+        "Encryption at rest"
+      ],
+      "answer": 2,
+      "explanation": "A DDoS attack coordinates traffic from many systems to exhaust a target and damage service availability.",
+      "optionFamily": "service-disruption attacks",
+      "optionDomains": [
+        "service-disruption attacks",
+        "service-disruption attacks",
+        "service-disruption attacks",
+        "service-disruption attacks"
+      ]
+    },
+    {
+      "id": "module-07-q-07",
+      "module": "module-07",
+      "topicId": "module-07-phishing",
+      "difficulty": 1,
+      "q": "How can phishing and ransomware be related without being synonyms?",
+      "options": [
+        "Phishing may deliver ransomware or stolen access",
+        "Both always mean network flooding",
+        "Ransomware is a privacy law",
+        "Phishing is protective encryption"
+      ],
+      "answer": 0,
+      "explanation": "Phishing is the deception or delivery route; ransomware is the malware-driven extortion that may follow initial access.",
+      "optionFamily": "phishing and ransomware relationships",
+      "optionDomains": [
+        "phishing and ransomware relationships",
+        "phishing and ransomware relationships",
+        "phishing and ransomware relationships",
+        "phishing and ransomware relationships"
+      ]
+    },
+    {
+      "id": "module-07-q-08",
+      "module": "module-07",
+      "topicId": "module-07-encryption",
+      "difficulty": 2,
+      "q": "Which contrast is accurate?",
+      "options": [
+        "Legitimate encryption protects authorised access; ransomware withholds access",
+        "All encryption is ransomware",
+        "Ciphertext is always public plaintext",
+        "Privacy makes cryptography unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "The cryptographic operation can be similar, but purpose and key control distinguish a safeguard from a ransomware attack.",
+      "optionFamily": "encryption and ransomware comparisons",
+      "optionDomains": [
+        "encryption and ransomware comparisons",
+        "encryption and ransomware comparisons",
+        "encryption and ransomware comparisons",
+        "encryption and ransomware comparisons"
+      ]
+    },
+    {
+      "id": "module-07-q-09",
+      "module": "module-07",
+      "topicId": "module-07-data-privacy",
+      "difficulty": 3,
+      "q": "A company encrypts records but collects them without a lawful purpose. What remains unresolved?",
+      "options": [
+        "Data privacy governance",
+        "Authentication strength",
+        "Encryption-key rotation",
+        "Disaster-recovery testing"
+      ],
+      "answer": 0,
+      "explanation": "Encryption supports confidentiality, but privacy also demands lawful purpose, minimisation, retention limits, and accountable use.",
+      "optionFamily": "personal-data protection controls",
+      "optionDomains": [
+        "personal-data protection controls",
+        "personal-data protection controls",
+        "personal-data protection controls",
+        "personal-data protection controls"
+      ]
+    },
+    {
+      "id": "module-07-q-10",
+      "module": "module-07",
+      "topicId": "module-07-distributed-denial-of-service",
+      "difficulty": 1,
+      "q": "Which security property is the main target of a DDoS flood?",
+      "options": [
+        "Availability",
+        "Confidentiality",
+        "Integrity",
+        "Authenticity"
+      ],
+      "answer": 0,
+      "explanation": "By preventing legitimate users from reaching a service, denial-of-service attacks principally undermine availability.",
+      "optionFamily": "information-security properties",
+      "optionDomains": [
+        "information-security properties",
+        "information-security properties",
+        "information-security properties",
+        "information-security properties"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "id": "module-06",
+  "order": 6,
+  "label": "Hardware, Semiconductors, Architectures and Quantum Computing",
+  "blurb": "A focused six-fact drill set for Hardware, Semiconductors, Architectures and Quantum Computing.",
+  "topics": [
+    {
+      "id": "module-06-cpu",
+      "rank": 1,
+      "title": "CPU",
+      "hook": "The central processing unit executes instructions and coordinates a computer's core operations.",
+      "explainer": "The central processing unit executes instructions and coordinates a computer's core operations. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "CPU",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "CPU encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/CPU"
+          },
+          {
+            "label": "CPU reference search",
+            "url": "https://www.britannica.com/search?query=CPU"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-risc",
+            "relationship": "Processor and instruction-set design",
+            "fact": "RISC describes a style of instruction set that a CPU can implement; it is not a separate memory or chip material."
+          },
+          {
+            "topicId": "module-06-ram",
+            "relationship": "Processing and working-memory roles",
+            "fact": "The CPU executes instructions while RAM temporarily holds the active code and data it needs."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-06-semiconductor",
+      "rank": 2,
+      "title": "Semiconductor",
+      "hook": "A semiconductor has controllable electrical conductivity and is the material basis for most electronic chips.",
+      "explainer": "A semiconductor has controllable electrical conductivity and is the material basis for most electronic chips. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Semiconductor",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Semiconductor encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Semiconductor"
+          },
+          {
+            "label": "Semiconductor reference search",
+            "url": "https://www.britannica.com/search?query=Semiconductor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-integrated-circuit",
+            "relationship": "Material and fabricated device",
+            "fact": "Integrated circuits are manufactured on semiconductor material, commonly silicon, with many components patterned onto one chip."
+          },
+          {
+            "topicId": "module-06-cpu",
+            "relationship": "Semiconductor foundation of processors",
+            "fact": "Modern CPUs are fabricated as semiconductor chips whose switching devices exploit controllable conductivity."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-06-integrated-circuit",
+      "rank": 3,
+      "title": "Integrated circuit",
+      "hook": "An integrated circuit places many electronic components on a small semiconductor chip.",
+      "explainer": "An integrated circuit places many electronic components on a small semiconductor chip. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Integrated circuit",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Integrated circuit encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Integrated_circuit"
+          },
+          {
+            "label": "Integrated circuit reference search",
+            "url": "https://www.britannica.com/search?query=Integrated%20circuit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-semiconductor",
+            "relationship": "Chip structure built on material",
+            "fact": "An integrated circuit combines components on a semiconductor substrate instead of wiring each component separately."
+          },
+          {
+            "topicId": "module-06-cpu",
+            "relationship": "Processor implemented as a chip",
+            "fact": "A modern CPU is typically an integrated circuit containing enormous numbers of transistors and supporting components."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-06-ram",
+      "rank": 4,
+      "title": "RAM",
+      "hook": "Random-access memory is volatile working memory used while programs are running.",
+      "explainer": "Random-access memory is volatile working memory used while programs are running. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "RAM",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "RAM encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/RAM"
+          },
+          {
+            "label": "RAM reference search",
+            "url": "https://www.britannica.com/search?query=RAM"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-cpu",
+            "relationship": "Temporary data supply for processing",
+            "fact": "RAM keeps currently used instructions and data available for the CPU, and loses its contents when power is removed."
+          },
+          {
+            "topicId": "module-06-quantum-computing",
+            "relationship": "Classical bit storage versus qubits",
+            "fact": "RAM stores classical binary states for ordinary processors; quantum computers manipulate qubit states under different physical rules."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-06-risc",
+      "rank": 5,
+      "title": "RISC",
+      "hook": "Reduced instruction set computing uses a relatively small set of simple instructions.",
+      "explainer": "Reduced instruction set computing uses a relatively small set of simple instructions. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "RISC",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "RISC encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/RISC"
+          },
+          {
+            "label": "RISC reference search",
+            "url": "https://www.britannica.com/search?query=RISC"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-cpu",
+            "relationship": "Instruction-set philosophy for processors",
+            "fact": "A RISC CPU uses a comparatively small set of simple instructions designed for efficient execution."
+          },
+          {
+            "topicId": "module-06-integrated-circuit",
+            "relationship": "Logical architecture realised in silicon",
+            "fact": "RISC specifies how software sees processor instructions, while the integrated circuit physically implements that architecture."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-06-quantum-computing",
+      "rank": 6,
+      "title": "Quantum computing",
+      "hook": "Quantum computing uses quantum states called qubits to process some problems differently from classical computers.",
+      "explainer": "Quantum computing uses quantum states called qubits to process some problems differently from classical computers. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Quantum computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Quantum computing encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Quantum_computing"
+          },
+          {
+            "label": "Quantum computing reference search",
+            "url": "https://www.britannica.com/search?query=Quantum%20computing"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-cpu",
+            "relationship": "Quantum processor versus classical processor",
+            "fact": "A classical CPU operates on bits with conventional instructions; a quantum processor controls qubits to exploit superposition and interference."
+          },
+          {
+            "topicId": "module-06-ram",
+            "relationship": "Different information units",
+            "fact": "RAM holds classical bits during ordinary execution, whereas quantum computation requires fragile qubit states and specialised control."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-06-q-01",
+      "module": "module-06",
+      "topicId": "module-06-cpu",
+      "difficulty": 1,
+      "q": "Which component fetches and executes a computer program's instructions?",
+      "options": [
+        "RAM",
+        "CPU",
+        "Solid-state drive",
+        "Graphics processing unit"
+      ],
+      "answer": 1,
+      "explanation": "The central processing unit performs instruction execution and coordinates core operations, using memory and other components for support.",
+      "optionFamily": "computer instruction-processing components",
+      "optionDomains": [
+        "computer instruction-processing components",
+        "computer instruction-processing components",
+        "computer instruction-processing components",
+        "computer instruction-processing components"
+      ]
+    },
+    {
+      "id": "module-06-q-02",
+      "module": "module-06",
+      "topicId": "module-06-semiconductor",
+      "difficulty": 2,
+      "q": "Why is silicon useful in electronic chips?",
+      "options": [
+        "Its conductivity can be controlled",
+        "It is always a perfect insulator",
+        "It stores data without circuits",
+        "It is a quantum algorithm"
+      ],
+      "answer": 0,
+      "explanation": "A semiconductor's controllable conductivity allows engineers to form switching devices such as transistors on silicon.",
+      "optionFamily": "semiconductor electrical properties",
+      "optionDomains": [
+        "semiconductor electrical properties",
+        "semiconductor electrical properties",
+        "semiconductor electrical properties",
+        "semiconductor electrical properties"
+      ]
+    },
+    {
+      "id": "module-06-q-03",
+      "module": "module-06",
+      "topicId": "module-06-integrated-circuit",
+      "difficulty": 3,
+      "q": "What was the key integration achieved by an integrated circuit?",
+      "options": [
+        "Many electronic components fabricated on one chip",
+        "One transistor placed in each package",
+        "Vacuum tubes wired on a chassis",
+        "Separate components connected across a circuit board"
+      ],
+      "answer": 0,
+      "explanation": "Integrated circuits replace assemblies of separately wired components with patterned devices and connections on a compact semiconductor substrate.",
+      "optionFamily": "electronic integration approaches",
+      "optionDomains": [
+        "electronic integration approaches",
+        "electronic integration approaches",
+        "electronic integration approaches",
+        "electronic integration approaches"
+      ]
+    },
+    {
+      "id": "module-06-q-04",
+      "module": "module-06",
+      "topicId": "module-06-ram",
+      "difficulty": 1,
+      "q": "Which property distinguishes ordinary RAM from permanent storage?",
+      "options": [
+        "It is volatile working memory",
+        "It retains data without electrical power",
+        "It is intended for archival storage",
+        "It normally stores read-only firmware"
+      ],
+      "answer": 0,
+      "explanation": "RAM quickly holds active code and data but normally loses its contents when electrical power is removed.",
+      "optionFamily": "computer memory properties",
+      "optionDomains": [
+        "computer memory properties",
+        "computer memory properties",
+        "computer memory properties",
+        "computer memory properties"
+      ]
+    },
+    {
+      "id": "module-06-q-05",
+      "module": "module-06",
+      "topicId": "module-06-risc",
+      "difficulty": 2,
+      "q": "The letters RISC expand to what?",
+      "options": [
+        "Rapid Integrated Semiconductor Circuit",
+        "Reduced Instruction Set Computing",
+        "Random Internet Storage Core",
+        "Relational Instruction Service Code"
+      ],
+      "answer": 1,
+      "explanation": "Reduced Instruction Set Computing favours a comparatively small collection of simple processor instructions.",
+      "optionFamily": "RISC acronym expansions",
+      "optionDomains": [
+        "RISC acronym expansions",
+        "RISC acronym expansions",
+        "RISC acronym expansions",
+        "RISC acronym expansions"
+      ]
+    },
+    {
+      "id": "module-06-q-06",
+      "module": "module-06",
+      "topicId": "module-06-quantum-computing",
+      "difficulty": 3,
+      "q": "What information unit does a quantum computer manipulate?",
+      "options": [
+        "Bit",
+        "Qubit",
+        "Byte",
+        "Machine word"
+      ],
+      "answer": 1,
+      "explanation": "A qubit is a controlled quantum state; computation uses effects such as superposition and interference rather than ordinary bits alone.",
+      "optionFamily": "computing information units",
+      "optionDomains": [
+        "computing information units",
+        "computing information units",
+        "computing information units",
+        "computing information units"
+      ]
+    },
+    {
+      "id": "module-06-q-07",
+      "module": "module-06",
+      "topicId": "module-06-cpu",
+      "difficulty": 1,
+      "q": "Which pairing correctly separates roles?",
+      "options": [
+        "CPU stores files permanently; RAM decodes every instruction",
+        "CPU executes instructions; RAM holds active data",
+        "CPU supplies long-term archives; RAM performs arithmetic",
+        "CPU is volatile storage; RAM is the instruction-set design"
+      ],
+      "answer": 1,
+      "explanation": "The processor carries out operations and RAM supplies temporary working contents, so neither substitutes for the other.",
+      "optionFamily": "CPU and RAM role comparisons",
+      "optionDomains": [
+        "CPU and RAM role comparisons",
+        "CPU and RAM role comparisons",
+        "CPU and RAM role comparisons",
+        "CPU and RAM role comparisons"
+      ]
+    },
+    {
+      "id": "module-06-q-08",
+      "module": "module-06",
+      "topicId": "module-06-integrated-circuit",
+      "difficulty": 2,
+      "q": "A modern processor contains billions of transistors on a small die. Which two concepts does that illustrate?",
+      "options": [
+        "Integrated circuit and semiconductor fabrication",
+        "Discrete-transistor assembly and vacuum-tube logic",
+        "Magnetic-core memory and punched-card input",
+        "Quantum gates and superconducting qubits"
+      ],
+      "answer": 0,
+      "explanation": "The processor is an integrated circuit, and its transistors are fabricated by controlling semiconductor material.",
+      "optionFamily": "processor fabrication concepts",
+      "optionDomains": [
+        "processor fabrication concepts",
+        "processor fabrication concepts",
+        "processor fabrication concepts",
+        "processor fabrication concepts"
+      ]
+    },
+    {
+      "id": "module-06-q-09",
+      "module": "module-06",
+      "topicId": "module-06-risc",
+      "difficulty": 3,
+      "q": "Which claim about RISC is a misconception?",
+      "options": [
+        "It describes an instruction-set approach",
+        "It often uses simple instructions",
+        "It is a type of volatile memory",
+        "A CPU can implement it"
+      ],
+      "answer": 2,
+      "explanation": "RISC concerns processor instruction architecture, whereas RAM is the volatile component used for working memory.",
+      "optionFamily": "RISC architecture claims",
+      "optionDomains": [
+        "RISC architecture claims",
+        "RISC architecture claims",
+        "RISC architecture claims",
+        "RISC architecture claims"
+      ]
+    },
+    {
+      "id": "module-06-q-10",
+      "module": "module-06",
+      "topicId": "module-06-quantum-computing",
+      "difficulty": 1,
+      "q": "For an everyday spreadsheet, which processor model remains the ordinary choice?",
+      "options": [
+        "Classical CPU operating on bits",
+        "Fault-tolerant quantum processor using logical qubits",
+        "Analogue neuromorphic processor",
+        "Photonic quantum sampler"
+      ],
+      "answer": 0,
+      "explanation": "Quantum machines target specialised problem classes; normal applications continue to run on classical CPUs and conventional memory.",
+      "optionFamily": "classical and emerging processor models",
+      "optionDomains": [
+        "classical and emerging processor models",
+        "classical and emerging processor models",
+        "classical and emerging processor models",
+        "classical and emerging processor models"
+      ]
+    }
+  ]
+}

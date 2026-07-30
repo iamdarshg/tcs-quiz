@@ -1,0 +1,452 @@
+{
+  "id": "module-03",
+  "order": 3,
+  "label": "Internet, Web, Networking, Telecom and Mobile",
+  "blurb": "A focused six-fact drill set for Internet, Web, Networking, Telecom and Mobile.",
+  "topics": [
+    {
+      "id": "module-03-arpanet",
+      "rank": 1,
+      "title": "ARPANET",
+      "hook": "ARPANET was a packet-switching research network and an important predecessor of the Internet.",
+      "explainer": "ARPANET was a packet-switching research network and an important predecessor of the Internet. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "ARPANET",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "ARPANET encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/ARPANET"
+          },
+          {
+            "label": "ARPANET reference search",
+            "url": "https://www.britannica.com/search?query=ARPANET"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-tcp-ip",
+            "relationship": "Network predecessor and common protocol suite",
+            "fact": "ARPANET became an early proving ground for packet networking and switched to TCP/IP in 1983, a key step toward the Internet."
+          },
+          {
+            "topicId": "module-03-world-wide-web",
+            "relationship": "Internet infrastructure before the Web",
+            "fact": "ARPANET helped develop the network of networks; the Web arrived later as an information service that runs over Internet protocols."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-03-tcp-ip",
+      "rank": 2,
+      "title": "TCP/IP",
+      "hook": "TCP/IP is the protocol suite that lets independent networks exchange Internet data.",
+      "explainer": "TCP/IP is the protocol suite that lets independent networks exchange Internet data. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "TCP/IP",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "TCP/IP encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/TCP%2FIP"
+          },
+          {
+            "label": "TCP/IP reference search",
+            "url": "https://www.britannica.com/search?query=TCP%2FIP"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-arpanet",
+            "relationship": "Protocol adoption milestone",
+            "fact": "ARPANET's 1983 transition to TCP/IP helped establish the suite as the basis for internetworking."
+          },
+          {
+            "topicId": "module-03-dns",
+            "relationship": "Addressing and naming layers",
+            "fact": "DNS resolves a human-readable name to an IP address, after which TCP/IP carries packets between hosts."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-03-world-wide-web",
+      "rank": 3,
+      "title": "World Wide Web",
+      "hook": "Tim Berners-Lee invented the World Wide Web at CERN, introducing URLs, HTTP, and HTML.",
+      "explainer": "Tim Berners-Lee invented the World Wide Web at CERN, introducing URLs, HTTP, and HTML. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "World Wide Web",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "World Wide Web encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+          },
+          {
+            "label": "World Wide Web reference search",
+            "url": "https://www.britannica.com/search?query=World%20Wide%20Web"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-tcp-ip",
+            "relationship": "Application service over Internet transport",
+            "fact": "HTTP web traffic travels across networks using the TCP/IP suite; the Web is not the same thing as the Internet."
+          },
+          {
+            "topicId": "module-03-dns",
+            "relationship": "Web names resolved to network addresses",
+            "fact": "A browser commonly asks DNS for a site's IP address before requesting its web resources."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-03-dns",
+      "rank": 4,
+      "title": "DNS",
+      "hook": "The Domain Name System translates domain names into numerical IP addresses.",
+      "explainer": "The Domain Name System translates domain names into numerical IP addresses. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "DNS",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "DNS encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/DNS"
+          },
+          {
+            "label": "DNS reference search",
+            "url": "https://www.britannica.com/search?query=DNS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-world-wide-web",
+            "relationship": "Name resolution before a web request",
+            "fact": "DNS makes memorable web domains usable by translating them into the numeric addresses needed for routing."
+          },
+          {
+            "topicId": "module-03-tcp-ip",
+            "relationship": "Naming service within the Internet stack",
+            "fact": "DNS messages are carried over IP networks and supply addresses that TCP/IP applications use."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-03-5g",
+      "rank": 5,
+      "title": "5G",
+      "hook": "5G is the fifth generation of cellular networking, designed for higher capacity and lower latency.",
+      "explainer": "5G is the fifth generation of cellular networking, designed for higher capacity and lower latency. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "5G",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "5G encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/5G"
+          },
+          {
+            "label": "5G reference search",
+            "url": "https://www.britannica.com/search?query=5G"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-tcp-ip",
+            "relationship": "Cellular access carrying Internet packets",
+            "fact": "A 5G radio network can provide the access link while TCP/IP supplies end-to-end Internet communication."
+          },
+          {
+            "topicId": "module-03-bluetooth",
+            "relationship": "Wide-area versus short-range wireless",
+            "fact": "5G connects devices through cellular base stations over broad areas; Bluetooth directly links nearby devices at short range."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-03-bluetooth",
+      "rank": 6,
+      "title": "Bluetooth",
+      "hook": "Bluetooth is a short-range wireless standard for exchanging data between nearby devices.",
+      "explainer": "Bluetooth is a short-range wireless standard for exchanging data between nearby devices. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Bluetooth",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Bluetooth encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Bluetooth"
+          },
+          {
+            "label": "Bluetooth reference search",
+            "url": "https://www.britannica.com/search?query=Bluetooth"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-5g",
+            "relationship": "Different wireless ranges and purposes",
+            "fact": "Bluetooth is designed for nearby peripherals and personal-area links, while 5G is a cellular wide-area access technology."
+          },
+          {
+            "topicId": "module-03-tcp-ip",
+            "relationship": "Local device link versus Internet suite",
+            "fact": "Bluetooth defines short-range radio connections; TCP/IP defines how data is addressed and exchanged across interconnected networks."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-03-q-01",
+      "module": "module-03",
+      "topicId": "module-03-arpanet",
+      "difficulty": 1,
+      "q": "Which US Department of Defense research network became a central packet-switching predecessor of the Internet?",
+      "options": [
+        "ARPANET",
+        "NSFNET",
+        "CYCLADES",
+        "NPL network"
+      ],
+      "answer": 0,
+      "explanation": "ARPANET connected research sites and advanced packet networking; it was infrastructure history, not a short-range radio standard.",
+      "optionFamily": "early packet-network projects",
+      "optionDomains": [
+        "early packet-network projects",
+        "early packet-network projects",
+        "early packet-network projects",
+        "early packet-network projects"
+      ]
+    },
+    {
+      "id": "module-03-q-02",
+      "module": "module-03",
+      "topicId": "module-03-tcp-ip",
+      "difficulty": 2,
+      "q": "What happened on ARPANET in 1983 that became an Internet-history landmark?",
+      "options": [
+        "It adopted TCP/IP",
+        "It adopted the OSI protocol suite",
+        "It became the first commercial Internet service provider",
+        "It was replaced by the World Wide Web"
+      ],
+      "answer": 0,
+      "explanation": "ARPANET's transition to TCP/IP on 1 January 1983 helped establish a common protocol suite for interconnected networks.",
+      "optionFamily": "ARPANET protocol milestones",
+      "optionDomains": [
+        "ARPANET protocol milestones",
+        "ARPANET protocol milestones",
+        "ARPANET protocol milestones",
+        "ARPANET protocol milestones"
+      ]
+    },
+    {
+      "id": "module-03-q-03",
+      "module": "module-03",
+      "topicId": "module-03-world-wide-web",
+      "difficulty": 3,
+      "q": "Which trio was introduced together in Tim Berners-Lee's Web architecture at CERN?",
+      "options": [
+        "URL, HTTP, HTML",
+        "TCP, IP, SMTP",
+        "DNS, FTP, Telnet",
+        "XML, CSS, JavaScript"
+      ],
+      "answer": 0,
+      "explanation": "The Web combined resource addresses through URLs, transfer through HTTP, and hypertext documents written in HTML.",
+      "optionFamily": "Internet and Web technology trios",
+      "optionDomains": [
+        "Internet and Web technology trios",
+        "Internet and Web technology trios",
+        "Internet and Web technology trios",
+        "Internet and Web technology trios"
+      ]
+    },
+    {
+      "id": "module-03-q-04",
+      "module": "module-03",
+      "topicId": "module-03-dns",
+      "difficulty": 1,
+      "q": "Typing a domain name succeeds even though routers use numeric addresses. Which service bridges the two?",
+      "options": [
+        "DNS",
+        "DHCP",
+        "ARP",
+        "NAT"
+      ],
+      "answer": 0,
+      "explanation": "DNS resolves human-readable domain names to IP addresses that network software can route.",
+      "optionFamily": "network address resolution services",
+      "optionDomains": [
+        "network address resolution services",
+        "network address resolution services",
+        "network address resolution services",
+        "network address resolution services"
+      ]
+    },
+    {
+      "id": "module-03-q-05",
+      "module": "module-03",
+      "topicId": "module-03-5g",
+      "difficulty": 2,
+      "q": "Which feature most clearly separates 5G from Bluetooth?",
+      "options": [
+        "5G is a cellular wide-area generation",
+        "5G and Bluetooth use the same network range and infrastructure",
+        "5G is designed only for direct peripheral pairing",
+        "5G works without a cellular operator’s radio-access network"
+      ],
+      "answer": 0,
+      "explanation": "5G uses operator cellular infrastructure for broad coverage and capacity; Bluetooth is intended for short-range personal-area links.",
+      "optionFamily": "5G and Bluetooth comparisons",
+      "optionDomains": [
+        "5G and Bluetooth comparisons",
+        "5G and Bluetooth comparisons",
+        "5G and Bluetooth comparisons",
+        "5G and Bluetooth comparisons"
+      ]
+    },
+    {
+      "id": "module-03-q-06",
+      "module": "module-03",
+      "topicId": "module-03-bluetooth",
+      "difficulty": 3,
+      "q": "A wireless keyboard connects directly to a laptop a metre away. Which standard is the likely choice?",
+      "options": [
+        "Wi-Fi Direct",
+        "NFC",
+        "Bluetooth",
+        "Zigbee"
+      ],
+      "answer": 2,
+      "explanation": "Bluetooth is optimised for low-power, short-range exchange between nearby personal devices and peripherals.",
+      "optionFamily": "short-range wireless standards",
+      "optionDomains": [
+        "short-range wireless standards",
+        "short-range wireless standards",
+        "short-range wireless standards",
+        "short-range wireless standards"
+      ]
+    },
+    {
+      "id": "module-03-q-07",
+      "module": "module-03",
+      "topicId": "module-03-arpanet",
+      "difficulty": 1,
+      "q": "Which chronology is correct?",
+      "options": [
+        "Web invention, ARPANET creation, TCP/IP adoption",
+        "ARPANET creation, TCP/IP adoption, Web invention",
+        "TCP/IP adoption, Web invention, ARPANET creation",
+        "TCP/IP adoption, ARPANET creation, Web invention"
+      ],
+      "answer": 1,
+      "explanation": "ARPANET began in the late 1960s, adopted TCP/IP in 1983, and the Web was proposed at CERN in 1989.",
+      "optionFamily": "Internet milestone chronologies",
+      "optionDomains": [
+        "Internet milestone chronologies",
+        "Internet milestone chronologies",
+        "Internet milestone chronologies",
+        "Internet milestone chronologies"
+      ]
+    },
+    {
+      "id": "module-03-q-08",
+      "module": "module-03",
+      "topicId": "module-03-tcp-ip",
+      "difficulty": 2,
+      "q": "DNS has returned an IP address. What protocol family then carries data across the Internet?",
+      "options": [
+        "TCP/IP",
+        "IPX/SPX",
+        "AppleTalk",
+        "OSI protocol suite"
+      ],
+      "answer": 0,
+      "explanation": "Name resolution supplies the address; TCP/IP provides packet addressing and transport across interconnected networks.",
+      "optionFamily": "network protocol suites",
+      "optionDomains": [
+        "network protocol suites",
+        "network protocol suites",
+        "network protocol suites",
+        "network protocol suites"
+      ]
+    },
+    {
+      "id": "module-03-q-09",
+      "module": "module-03",
+      "topicId": "module-03-world-wide-web",
+      "difficulty": 3,
+      "q": "Which statement avoids a common misconception?",
+      "options": [
+        "The Web and Internet are exact synonyms",
+        "The Web is a service that runs over Internet infrastructure",
+        "ARPANET was a web browser",
+        "DNS is a replacement for HTTP"
+      ],
+      "answer": 1,
+      "explanation": "The Internet is the network system; the Web is one application layer using that network, alongside email and other services.",
+      "optionFamily": "Web and Internet distinctions",
+      "optionDomains": [
+        "Web and Internet distinctions",
+        "Web and Internet distinctions",
+        "Web and Internet distinctions",
+        "Web and Internet distinctions"
+      ]
+    },
+    {
+      "id": "module-03-q-10",
+      "module": "module-03",
+      "topicId": "module-03-bluetooth",
+      "difficulty": 1,
+      "q": "Match the wireless technology to its normal use.",
+      "options": [
+        "Bluetooth — nationwide cellular coverage",
+        "5G — nearby mouse pairing only",
+        "Bluetooth — nearby device exchange",
+        "DNS — radio access network"
+      ],
+      "answer": 2,
+      "explanation": "Bluetooth handles personal-area connections such as headsets and keyboards, while 5G supplies cellular access over much larger areas.",
+      "optionFamily": "wireless technology use matches",
+      "optionDomains": [
+        "wireless technology use matches",
+        "wireless technology use matches",
+        "wireless technology use matches",
+        "wireless technology use matches"
+      ]
+    }
+  ]
+}

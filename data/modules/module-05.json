@@ -1,0 +1,452 @@
+{
+  "id": "module-05",
+  "order": 5,
+  "label": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+  "blurb": "A focused six-fact drill set for Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics.",
+  "topics": [
+    {
+      "id": "module-05-artificial-intelligence",
+      "rank": 1,
+      "title": "Artificial intelligence",
+      "hook": "Artificial intelligence develops systems that perform tasks associated with human reasoning, perception, or language.",
+      "explainer": "Artificial intelligence develops systems that perform tasks associated with human reasoning, perception, or language. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial intelligence",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Artificial intelligence encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+          },
+          {
+            "label": "Artificial intelligence reference search",
+            "url": "https://www.britannica.com/search?query=Artificial%20intelligence"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-machine-learning",
+            "relationship": "Broad field and learning method",
+            "fact": "Machine learning is one major approach used to build AI systems, but AI also includes rule-based reasoning and other techniques."
+          },
+          {
+            "topicId": "module-05-robotics",
+            "relationship": "Software intelligence acting through machines",
+            "fact": "Robots use sensors and actuators; AI can help them perceive surroundings, plan actions, and adapt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-05-machine-learning",
+      "rank": 2,
+      "title": "Machine learning",
+      "hook": "Machine learning improves a model's performance from data instead of only fixed hand-written rules.",
+      "explainer": "Machine learning improves a model's performance from data instead of only fixed hand-written rules. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Machine learning",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Machine learning encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Machine_learning"
+          },
+          {
+            "label": "Machine learning reference search",
+            "url": "https://www.britannica.com/search?query=Machine%20learning"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-artificial-intelligence",
+            "relationship": "Method within the wider field",
+            "fact": "Machine learning improves behaviour from data and is a subset of the broader goal of artificial intelligence."
+          },
+          {
+            "topicId": "module-05-generative-ai",
+            "relationship": "Training method behind content generation",
+            "fact": "Modern generative AI models are trained with machine-learning methods to learn patterns and produce new outputs."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-05-cloud-computing",
+      "rank": 3,
+      "title": "Cloud computing",
+      "hook": "Cloud computing provides on-demand network access to shared computing resources such as servers and storage.",
+      "explainer": "Cloud computing provides on-demand network access to shared computing resources such as servers and storage. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Cloud computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Cloud computing encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Cloud_computing"
+          },
+          {
+            "label": "Cloud computing reference search",
+            "url": "https://www.britannica.com/search?query=Cloud%20computing"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-generative-ai",
+            "relationship": "Scalable infrastructure for model workloads",
+            "fact": "Cloud platforms rent the processors, storage, and deployment services used to train or serve many generative AI systems."
+          },
+          {
+            "topicId": "module-05-biometrics",
+            "relationship": "Remote processing of identity signals",
+            "fact": "A biometric application may send encrypted face or fingerprint features to cloud services for storage or matching, raising security and privacy concerns."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-05-robotics",
+      "rank": 4,
+      "title": "Robotics",
+      "hook": "Robotics combines mechanical engineering, sensors, and software to build machines that act in the physical world.",
+      "explainer": "Robotics combines mechanical engineering, sensors, and software to build machines that act in the physical world. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Robotics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Robotics encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Robotics"
+          },
+          {
+            "label": "Robotics reference search",
+            "url": "https://www.britannica.com/search?query=Robotics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-artificial-intelligence",
+            "relationship": "Embodied use of intelligent systems",
+            "fact": "Robotics supplies physical sensors and actuators, while AI can supply perception and decision-making."
+          },
+          {
+            "topicId": "module-05-machine-learning",
+            "relationship": "Learning from sensor and action data",
+            "fact": "A robot can use machine learning to recognise objects or improve control from examples rather than fixed rules alone."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-05-biometrics",
+      "rank": 5,
+      "title": "Biometrics",
+      "hook": "Biometrics verifies identity through physical or behavioural traits such as fingerprints, faces, or iris patterns.",
+      "explainer": "Biometrics verifies identity through physical or behavioural traits such as fingerprints, faces, or iris patterns. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Biometrics encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Biometrics"
+          },
+          {
+            "label": "Biometrics reference search",
+            "url": "https://www.britannica.com/search?query=Biometrics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-machine-learning",
+            "relationship": "Pattern recognition for identity",
+            "fact": "Many face, voice, and iris systems use trained models to compare a presented sample with stored biometric features."
+          },
+          {
+            "topicId": "module-05-artificial-intelligence",
+            "relationship": "Identity task versus broad discipline",
+            "fact": "Biometric recognition can use AI, but biometrics specifically concerns measurable human traits used for identity."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-05-generative-ai",
+      "rank": 6,
+      "title": "Generative AI",
+      "hook": "Generative AI creates new text, images, audio, or code by modelling patterns in training data.",
+      "explainer": "Generative AI creates new text, images, audio, or code by modelling patterns in training data. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Generative AI",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Generative AI encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Generative_AI"
+          },
+          {
+            "label": "Generative AI reference search",
+            "url": "https://www.britannica.com/search?query=Generative%20AI"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-machine-learning",
+            "relationship": "Generative models learned from data",
+            "fact": "Generative AI is built with machine-learning models that estimate patterns in training data and sample new content."
+          },
+          {
+            "topicId": "module-05-cloud-computing",
+            "relationship": "Compute delivery for large models",
+            "fact": "Cloud computing supplies accelerators and elastic capacity for training and serving large generative models."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-05-q-01",
+      "module": "module-05",
+      "topicId": "module-05-artificial-intelligence",
+      "difficulty": 1,
+      "q": "Which description is broad enough to cover reasoning, perception, and language tasks performed by machines?",
+      "options": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Computer vision",
+        "Natural-language processing"
+      ],
+      "answer": 0,
+      "explanation": "Artificial intelligence is the umbrella field; machine learning, language systems, and rule-based reasoning are approaches or applications within it.",
+      "optionFamily": "artificial-intelligence scope categories",
+      "optionDomains": [
+        "artificial-intelligence scope categories",
+        "artificial-intelligence scope categories",
+        "artificial-intelligence scope categories",
+        "artificial-intelligence scope categories"
+      ]
+    },
+    {
+      "id": "module-05-q-02",
+      "module": "module-05",
+      "topicId": "module-05-machine-learning",
+      "difficulty": 2,
+      "q": "What distinguishes machine learning from a system made only of fixed hand-written rules?",
+      "options": [
+        "It improves a model using data",
+        "It must use a physical robot",
+        "It stores files in the cloud",
+        "It verifies fingerprints by definition"
+      ],
+      "answer": 0,
+      "explanation": "Machine learning estimates patterns from examples or feedback so performance can improve without specifying every decision rule manually.",
+      "optionFamily": "machine-learning characteristics",
+      "optionDomains": [
+        "machine-learning characteristics",
+        "machine-learning characteristics",
+        "machine-learning characteristics",
+        "machine-learning characteristics"
+      ]
+    },
+    {
+      "id": "module-05-q-03",
+      "module": "module-05",
+      "topicId": "module-05-cloud-computing",
+      "difficulty": 3,
+      "q": "A startup rents servers for one week and releases them after a traffic spike. Which model is this?",
+      "options": [
+        "Colocation hosting",
+        "Cloud computing",
+        "Reserved dedicated hosting",
+        "Owned on-premises infrastructure"
+      ],
+      "answer": 1,
+      "explanation": "Elastic, on-demand access to shared servers and storage is a defining cloud-computing capability.",
+      "optionFamily": "computing infrastructure ownership models",
+      "optionDomains": [
+        "computing infrastructure ownership models",
+        "computing infrastructure ownership models",
+        "computing infrastructure ownership models",
+        "computing infrastructure ownership models"
+      ]
+    },
+    {
+      "id": "module-05-q-04",
+      "module": "module-05",
+      "topicId": "module-05-robotics",
+      "difficulty": 1,
+      "q": "Which combination is most characteristic of robotics?",
+      "options": [
+        "Database tables, keys, and queries",
+        "Mechanical structures, sensors, and control software",
+        "Cameras, labels, and a static image archive",
+        "Servers, switches, and storage arrays"
+      ],
+      "answer": 1,
+      "explanation": "A robot couples physical mechanisms and actuators with sensing and software so it can act in the real world.",
+      "optionFamily": "robotics system components",
+      "optionDomains": [
+        "robotics system components",
+        "robotics system components",
+        "robotics system components",
+        "robotics system components"
+      ]
+    },
+    {
+      "id": "module-05-q-05",
+      "module": "module-05",
+      "topicId": "module-05-biometrics",
+      "difficulty": 2,
+      "q": "Which identifier is biometric rather than something a user knows or carries?",
+      "options": [
+        "Password",
+        "Security token",
+        "Iris pattern",
+        "Personal identification number"
+      ],
+      "answer": 2,
+      "explanation": "An iris pattern is a measurable physical trait; passwords are knowledge factors and tokens are possession factors.",
+      "optionFamily": "authentication factors",
+      "optionDomains": [
+        "authentication factors",
+        "authentication factors",
+        "authentication factors",
+        "authentication factors"
+      ]
+    },
+    {
+      "id": "module-05-q-06",
+      "module": "module-05",
+      "topicId": "module-05-generative-ai",
+      "difficulty": 3,
+      "q": "A model produces a new image from a text prompt. Which AI category best fits?",
+      "options": [
+        "Generative AI",
+        "Discriminative classification",
+        "Rule-based expert system",
+        "Robotic process automation"
+      ],
+      "answer": 0,
+      "explanation": "Generative AI learns distributions in training data and creates new text, images, audio, video, or code from prompts.",
+      "optionFamily": "AI model task categories",
+      "optionDomains": [
+        "AI model task categories",
+        "AI model task categories",
+        "AI model task categories",
+        "AI model task categories"
+      ]
+    },
+    {
+      "id": "module-05-q-07",
+      "module": "module-05",
+      "topicId": "module-05-artificial-intelligence",
+      "difficulty": 1,
+      "q": "Which hierarchy is correct?",
+      "options": [
+        "Artificial intelligence is only a branch of biometrics",
+        "Machine learning is a method within AI",
+        "Cloud computing is a subfield of robotics",
+        "Generative AI contains the entire field of machine learning"
+      ],
+      "answer": 1,
+      "explanation": "Machine learning is one route to artificial intelligence; the two terms overlap but are not interchangeable.",
+      "optionFamily": "AI and computing-field hierarchies",
+      "optionDomains": [
+        "AI and computing-field hierarchies",
+        "AI and computing-field hierarchies",
+        "AI and computing-field hierarchies",
+        "AI and computing-field hierarchies"
+      ]
+    },
+    {
+      "id": "module-05-q-08",
+      "module": "module-05",
+      "topicId": "module-05-machine-learning",
+      "difficulty": 2,
+      "q": "A spam filter changes after learning from labelled messages. What is doing the learning?",
+      "options": [
+        "Machine-learning model",
+        "Static rule list",
+        "Message transport agent",
+        "Signature-only filter"
+      ],
+      "answer": 0,
+      "explanation": "Learning from labelled examples to classify later messages is supervised machine learning, even if the model runs in the cloud.",
+      "optionFamily": "adaptive spam-filter components",
+      "optionDomains": [
+        "adaptive spam-filter components",
+        "adaptive spam-filter components",
+        "adaptive spam-filter components",
+        "adaptive spam-filter components"
+      ]
+    },
+    {
+      "id": "module-05-q-09",
+      "module": "module-05",
+      "topicId": "module-05-robotics",
+      "difficulty": 3,
+      "q": "Which statement corrects the claim that every robot is intelligent?",
+      "options": [
+        "Physical automation can follow fixed control rules without AI",
+        "Every robot must adapt its behaviour by learning from data",
+        "A machine becomes a robot only when it uses generative AI",
+        "Remote control alone proves that a robot reasons autonomously"
+      ],
+      "answer": 0,
+      "explanation": "Robotics concerns machines acting physically; some use AI for perception or planning, while others execute predetermined control sequences.",
+      "optionFamily": "robot intelligence claims",
+      "optionDomains": [
+        "robot intelligence claims",
+        "robot intelligence claims",
+        "robot intelligence claims",
+        "robot intelligence claims"
+      ]
+    },
+    {
+      "id": "module-05-q-10",
+      "module": "module-05",
+      "topicId": "module-05-generative-ai",
+      "difficulty": 1,
+      "q": "Why is cloud computing often paired with large generative models?",
+      "options": [
+        "It supplies scalable processors and storage",
+        "It guarantees accurate model outputs",
+        "It supplies all training data automatically",
+        "It removes the need for model optimisation"
+      ],
+      "answer": 0,
+      "explanation": "Cloud platforms make costly accelerators and elastic deployment capacity available without each user owning a data centre.",
+      "optionFamily": "cloud support for AI models",
+      "optionDomains": [
+        "cloud support for AI models",
+        "cloud support for AI models",
+        "cloud support for AI models",
+        "cloud support for AI models"
+      ]
+    }
+  ]
+}

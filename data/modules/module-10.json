@@ -1,0 +1,452 @@
+{
+  "id": "module-10",
+  "order": 10,
+  "label": "Technology Across Industries and Culture",
+  "blurb": "A focused six-fact drill set for Technology Across Industries and Culture.",
+  "topics": [
+    {
+      "id": "module-10-fintech",
+      "rank": 1,
+      "title": "Fintech",
+      "hook": "Financial technology applies digital tools to payments, lending, insurance, investing, and other financial services.",
+      "explainer": "Financial technology applies digital tools to payments, lending, insurance, investing, and other financial services. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Technology Across Industries and Culture",
+      "tags": [
+        "Fintech",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Fintech encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Fintech"
+          },
+          {
+            "label": "Fintech reference search",
+            "url": "https://www.britannica.com/search?query=Fintech"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-e-commerce",
+            "relationship": "Digital finance enabling online transactions",
+            "fact": "Payment gateways, wallets, and fraud checks are fintech services that allow e-commerce purchases to be completed."
+          },
+          {
+            "topicId": "module-10-telemedicine",
+            "relationship": "Regulated services delivered digitally",
+            "fact": "Both move an established service online, but fintech handles financial activity while telemedicine handles clinical care."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-10-telemedicine",
+      "rank": 2,
+      "title": "Telemedicine",
+      "hook": "Telemedicine delivers clinical healthcare remotely through telecommunications technology.",
+      "explainer": "Telemedicine delivers clinical healthcare remotely through telecommunications technology. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Technology Across Industries and Culture",
+      "tags": [
+        "Telemedicine",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Telemedicine encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Telemedicine"
+          },
+          {
+            "label": "Telemedicine reference search",
+            "url": "https://www.britannica.com/search?query=Telemedicine"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-streaming",
+            "relationship": "Real-time media used for remote care",
+            "fact": "A telemedicine consultation may use live audio and video streaming, but its purpose is clinical diagnosis or treatment."
+          },
+          {
+            "topicId": "module-10-smart-city",
+            "relationship": "Digital delivery of public-facing services",
+            "fact": "Connected urban infrastructure can include remote-health access, while telemedicine itself is specifically a healthcare mode."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-10-precision-agriculture",
+      "rank": 3,
+      "title": "Precision agriculture",
+      "hook": "Precision agriculture uses data, sensors, and analysis to manage crops and farm inputs more precisely.",
+      "explainer": "Precision agriculture uses data, sensors, and analysis to manage crops and farm inputs more precisely. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Technology Across Industries and Culture",
+      "tags": [
+        "Precision agriculture",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Precision agriculture encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Precision_agriculture"
+          },
+          {
+            "label": "Precision agriculture reference search",
+            "url": "https://www.britannica.com/search?query=Precision%20agriculture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-smart-city",
+            "relationship": "Sensor-driven management of complex environments",
+            "fact": "Both combine sensors, connectivity, and analytics; one optimises farms and the other urban services."
+          },
+          {
+            "topicId": "module-10-fintech",
+            "relationship": "Digital services for farm decisions and finance",
+            "fact": "Farm data can support precision input use and also inform lending or insurance products offered through fintech."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-10-streaming",
+      "rank": 4,
+      "title": "Streaming",
+      "hook": "Streaming delivers audio or video over a network for playback without a complete prior download.",
+      "explainer": "Streaming delivers audio or video over a network for playback without a complete prior download. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Technology Across Industries and Culture",
+      "tags": [
+        "Streaming",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Streaming encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Streaming"
+          },
+          {
+            "label": "Streaming reference search",
+            "url": "https://www.britannica.com/search?query=Streaming"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-telemedicine",
+            "relationship": "Media transport supporting consultation",
+            "fact": "Live streaming carries the audio and video used in many remote consultations, though it does not itself provide healthcare."
+          },
+          {
+            "topicId": "module-10-e-commerce",
+            "relationship": "Internet-delivered consumer services",
+            "fact": "Streaming subscriptions and online shopping are both digital businesses, but one delivers media continuously and the other trades goods or services."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-10-e-commerce",
+      "rank": 5,
+      "title": "E-commerce",
+      "hook": "Electronic commerce is the buying and selling of goods or services through electronic networks.",
+      "explainer": "Electronic commerce is the buying and selling of goods or services through electronic networks. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Technology Across Industries and Culture",
+      "tags": [
+        "E-commerce",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "E-commerce encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/E-commerce"
+          },
+          {
+            "label": "E-commerce reference search",
+            "url": "https://www.britannica.com/search?query=E-commerce"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-fintech",
+            "relationship": "Commerce and payment infrastructure",
+            "fact": "E-commerce platforms arrange buying and selling; fintech systems process payments, credit, and fraud controls around the transaction."
+          },
+          {
+            "topicId": "module-10-streaming",
+            "relationship": "Download-free media as a digital product",
+            "fact": "A streaming subscription may be sold through e-commerce, but streaming describes how the media is delivered."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-10-smart-city",
+      "rank": 6,
+      "title": "Smart city",
+      "hook": "A smart city uses digital technology and data to improve urban services and infrastructure.",
+      "explainer": "A smart city uses digital technology and data to improve urban services and infrastructure. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Technology Across Industries and Culture",
+      "tags": [
+        "Smart city",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Smart city encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Smart_city"
+          },
+          {
+            "label": "Smart city reference search",
+            "url": "https://www.britannica.com/search?query=Smart%20city"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-precision-agriculture",
+            "relationship": "Shared use of sensors and analytics",
+            "fact": "Smart cities optimise transport or utilities, while precision agriculture applies comparable data tools to fields and farm inputs."
+          },
+          {
+            "topicId": "module-10-telemedicine",
+            "relationship": "Connected urban-service application",
+            "fact": "A city digital-services programme may improve access to telemedicine, especially where hospitals connect patients remotely."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-10-q-01",
+      "module": "module-10",
+      "topicId": "module-10-fintech",
+      "difficulty": 1,
+      "q": "A mobile app offers instant payments, small loans, and digital insurance. Which sector is it in?",
+      "options": [
+        "Fintech",
+        "Telemedicine",
+        "Streaming media",
+        "Civil engineering"
+      ],
+      "answer": 0,
+      "explanation": "Fintech applies software and data to financial activities including payments, lending, investing, and insurance.",
+      "optionFamily": "technology-enabled industry sectors",
+      "optionDomains": [
+        "technology-enabled industry sectors",
+        "technology-enabled industry sectors",
+        "technology-enabled industry sectors",
+        "technology-enabled industry sectors"
+      ]
+    },
+    {
+      "id": "module-10-q-02",
+      "module": "module-10",
+      "topicId": "module-10-telemedicine",
+      "difficulty": 2,
+      "q": "Which activity is telemedicine?",
+      "options": [
+        "A remote clinical consultation by video",
+        "Streaming a concert",
+        "Buying shoes online",
+        "Monitoring soil moisture only"
+      ],
+      "answer": 0,
+      "explanation": "Telemedicine uses telecommunications to deliver clinical healthcare when patient and clinician are in different locations.",
+      "optionFamily": "digitally delivered sector activities",
+      "optionDomains": [
+        "digitally delivered sector activities",
+        "digitally delivered sector activities",
+        "digitally delivered sector activities",
+        "digitally delivered sector activities"
+      ]
+    },
+    {
+      "id": "module-10-q-03",
+      "module": "module-10",
+      "topicId": "module-10-precision-agriculture",
+      "difficulty": 3,
+      "q": "Sensors vary fertiliser application across a field according to soil data. What is this?",
+      "options": [
+        "Precision agriculture",
+        "E-commerce",
+        "Fintech lending",
+        "Media streaming"
+      ],
+      "answer": 0,
+      "explanation": "Precision agriculture combines measurement, positioning, and analysis to apply farm inputs where and when they are needed.",
+      "optionFamily": "data-driven sector applications",
+      "optionDomains": [
+        "data-driven sector applications",
+        "data-driven sector applications",
+        "data-driven sector applications",
+        "data-driven sector applications"
+      ]
+    },
+    {
+      "id": "module-10-q-04",
+      "module": "module-10",
+      "topicId": "module-10-streaming",
+      "difficulty": 1,
+      "q": "What distinguishes streaming from a conventional complete download?",
+      "options": [
+        "Playback can begin while data continues arriving",
+        "The entire file must arrive before playback starts",
+        "Streaming never buffers data on the receiving device",
+        "Streaming requires permanent offline storage of the complete file"
+      ],
+      "answer": 0,
+      "explanation": "Streaming delivers successive media data over a network so playback need not wait for the entire file.",
+      "optionFamily": "streaming and download behaviours",
+      "optionDomains": [
+        "streaming and download behaviours",
+        "streaming and download behaviours",
+        "streaming and download behaviours",
+        "streaming and download behaviours"
+      ]
+    },
+    {
+      "id": "module-10-q-05",
+      "module": "module-10",
+      "topicId": "module-10-e-commerce",
+      "difficulty": 2,
+      "q": "Which transaction is the clearest example of e-commerce?",
+      "options": [
+        "Ordering a product through an online marketplace",
+        "Booking a remote clinical consultation",
+        "Starting an on-demand film stream",
+        "Viewing a city traffic dashboard"
+      ],
+      "answer": 0,
+      "explanation": "Electronic commerce covers buying and selling goods or services through online and other electronic networks.",
+      "optionFamily": "digital commerce transactions",
+      "optionDomains": [
+        "digital commerce transactions",
+        "digital commerce transactions",
+        "digital commerce transactions",
+        "digital commerce transactions"
+      ]
+    },
+    {
+      "id": "module-10-q-06",
+      "module": "module-10",
+      "topicId": "module-10-smart-city",
+      "difficulty": 3,
+      "q": "Traffic sensors adjust signal timing to reduce congestion. Which concept does this illustrate?",
+      "options": [
+        "Smart city",
+        "Precision agriculture",
+        "Telemedicine",
+        "Fintech"
+      ],
+      "answer": 0,
+      "explanation": "Smart-city systems use connected devices and data analysis to improve urban infrastructure and public services.",
+      "optionFamily": "sensor-enabled urban and sector systems",
+      "optionDomains": [
+        "sensor-enabled urban and sector systems",
+        "sensor-enabled urban and sector systems",
+        "sensor-enabled urban and sector systems",
+        "sensor-enabled urban and sector systems"
+      ]
+    },
+    {
+      "id": "module-10-q-07",
+      "module": "module-10",
+      "topicId": "module-10-fintech",
+      "difficulty": 1,
+      "q": "How does fintech commonly support e-commerce?",
+      "options": [
+        "By processing payments and detecting transaction fraud",
+        "By providing the product-search and catalogue layer",
+        "By operating the parcel warehouse and delivery fleet",
+        "By manufacturing the goods offered by each seller"
+      ],
+      "answer": 0,
+      "explanation": "Online trade needs financial rails for authorisation, settlement, credit, and risk management, all common fintech functions.",
+      "optionFamily": "fintech support for digital commerce",
+      "optionDomains": [
+        "fintech support for digital commerce",
+        "fintech support for digital commerce",
+        "fintech support for digital commerce",
+        "fintech support for digital commerce"
+      ]
+    },
+    {
+      "id": "module-10-q-08",
+      "module": "module-10",
+      "topicId": "module-10-telemedicine",
+      "difficulty": 2,
+      "q": "A video platform is used for a remote diagnosis. Which term describes the clinical service, not merely the media transport?",
+      "options": [
+        "Telemedicine",
+        "Streaming",
+        "E-commerce",
+        "Smart metering"
+      ],
+      "answer": 0,
+      "explanation": "Streaming carries the call, but the regulated act of delivering healthcare remotely is telemedicine.",
+      "optionFamily": "remote-health and media terms",
+      "optionDomains": [
+        "remote-health and media terms",
+        "remote-health and media terms",
+        "remote-health and media terms",
+        "remote-health and media terms"
+      ]
+    },
+    {
+      "id": "module-10-q-09",
+      "module": "module-10",
+      "topicId": "module-10-precision-agriculture",
+      "difficulty": 3,
+      "q": "Which pairing captures a shared technology but different setting?",
+      "options": [
+        "Precision agriculture and smart cities both use sensor data",
+        "Streaming and telemedicine always describe the same service",
+        "Fintech and e-commerce are identical because both accept payments",
+        "Smart-city analytics cannot use techniques also used on farms"
+      ],
+      "answer": 0,
+      "explanation": "Farms and cities can both optimise resources with sensing and analytics, though their decisions concern crops and urban systems respectively.",
+      "optionFamily": "cross-sector technology comparisons",
+      "optionDomains": [
+        "cross-sector technology comparisons",
+        "cross-sector technology comparisons",
+        "cross-sector technology comparisons",
+        "cross-sector technology comparisons"
+      ]
+    },
+    {
+      "id": "module-10-q-10",
+      "module": "module-10",
+      "topicId": "module-10-smart-city",
+      "difficulty": 1,
+      "q": "Which proposal is least consistent with a smart-city project?",
+      "options": [
+        "Adaptive public transport information",
+        "Networked water-leak detection",
+        "Data-driven waste collection",
+        "Removing all measurement from city services"
+      ],
+      "answer": 3,
+      "explanation": "Smart-city programmes depend on useful measurement and connected management; eliminating data collection removes the defining mechanism.",
+      "optionFamily": "smart-city service proposals",
+      "optionDomains": [
+        "smart-city service proposals",
+        "smart-city service proposals",
+        "smart-city service proposals",
+        "smart-city service proposals"
+      ]
+    }
+  ]
+}

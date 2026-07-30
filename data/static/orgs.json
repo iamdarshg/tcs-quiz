@@ -1,0 +1,1864 @@
+{
+ "id": "orgs",
+ "kind": "static",
+ "label": "World Organisations & Treaties",
+ "order": 4,
+ "blurb": "Founding years, headquarters cities and current heads, plus the treaty calendar. The most mechanically examined material in the whole syllabus.",
+ "topics": [
+  {
+   "id": "orgs-united-nations",
+   "rank": 1,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The United Nations: Charter, six organs, and 193 members",
+   "date": "1945-10-24",
+   "category": "International Organisations",
+   "tags": [
+    "United Nations",
+    "UN Charter",
+    "San Francisco Conference",
+    "UN Day"
+   ],
+   "hook": "The UN Charter was signed in San Francisco in 1945 by 51 states and set up six organs; eighty years later membership has nearly quadrupled to 193, one of those six organs has gone dormant, and the whole structure is the base layer for almost every other body this section covers.",
+   "story": "Fifty countries sent delegates to San Francisco in April 1945, while the Second World War was still being fought in the Pacific. Over two months they negotiated a charter meant to succeed the League of Nations, the Geneva-based body that had failed to stop that war after emerging from the wreckage of the First. They signed the United Nations Charter on 26 June 1945; Poland, absent from the conference, signed later and is still counted among the 51 original members. The Charter took effect on 24 October 1945, once China, France, the Soviet Union, the United Kingdom, the United States and a majority of the other signatories had ratified it. That date is marked every year as UN Day.\n\nThe Charter created six principal organs. The General Assembly is the one-country-one-vote plenary where every member state gets a seat, even though its resolutions are not binding the way Security Council decisions are. The Security Council is the only organ that can issue orders binding on all members, and its five permanent members can each veto a resolution outright. The Economic and Social Council, ECOSOC, coordinates the UN's economic, social and cultural work through 54 elected members and a set of functional and regional commissions. The International Court of Justice, seated at the Peace Palace in The Hague, settles legal disputes between states. The Secretariat, headed by the Secretary-General, runs day-to-day administration from UN Headquarters in New York, built on land in Manhattan that John D. Rockefeller Jr. bought and donated in 1946.\n\nThe sixth organ, the Trusteeship Council, is the one students forget, because it has not functioned since 1 November 1994. It existed to supervise territories, mostly former colonies, moving toward self-government. When Palau, the last of the original eleven UN trust territories, became independent in October 1994, the Council's job was done. It still exists on paper: abolishing it formally would need a two-thirds vote of the General Assembly plus ratification by all five permanent Security Council members, a bar nobody has bothered to clear. Examiners like this fact because it reads like a trap. Five organs work; one is switched off; the Charter never says the Council is dissolved, only that it has suspended operations.\n\nMembership has grown from 51 to 193 as decolonisation, the breakup of the Soviet Union and Yugoslavia, and newer independence movements added states through the second half of the twentieth century and into this one. South Sudan, independent from Sudan in July 2011, was the most recent admission and is the answer to \\\"which country most recently joined the UN.\\\" Two entities hold non-member observer status without full membership: the Holy See and the State of Palestine.\n\nThe UN is a system rather than one body. The six organs sit at the centre, and around them are the specialised agencies, funds and programmes covered elsewhere in this section, from WHO and UNESCO to UNICEF and the World Bank, each with its own founding treaty, headquarters and head, but reporting in some fashion back to ECOSOC or the General Assembly. A passage on the UN rarely asks only for the founding date; it tests whether a student can place an agency correctly inside this structure or explain why the Trusteeship Council is inactive rather than abolished.",
+   "facts": [
+    {
+     "k": "Charter signed",
+     "v": "26 June 1945, San Francisco Conference (UN Conference on International Organization)"
+    },
+    {
+     "k": "Charter in force",
+     "v": "24 October 1945, now marked as UN Day"
+    },
+    {
+     "k": "Original signatories",
+     "v": "51 states (Poland signed later, still an original member)"
+    },
+    {
+     "k": "Current member states",
+     "v": "193; South Sudan (July 2011) was the last to join"
+    },
+    {
+     "k": "Non-member observers",
+     "v": "Holy See and State of Palestine"
+    },
+    {
+     "k": "Six principal organs",
+     "v": "General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ, Secretariat"
+    },
+    {
+     "k": "Trusteeship Council status",
+     "v": "Suspended operations 1 November 1994, after Palau's independence"
+    },
+    {
+     "k": "ECOSOC size",
+     "v": "54 elected member states"
+    },
+    {
+     "k": "Predecessor body",
+     "v": "League of Nations, founded 1920, dissolved 1946"
+    },
+    {
+     "k": "UN Headquarters",
+     "v": "New York, on land donated by John D. Rockefeller Jr. in 1946"
+    },
+    {
+     "k": "ICJ seat",
+     "v": "Peace Palace, The Hague"
+    }
+   ],
+   "why": "The Trusteeship Council question is the classic trap: most students assume a defunct-sounding organ has been abolished when it has only suspended operations. Expect direct recall questions on UN Day's date, the last country admitted, or which organ has 54 members, and passage questions that ask you to place a named agency inside the six-organ structure.",
+   "map": {
+    "nodes": [
+     {
+      "id": "san-francisco",
+      "parent": "root",
+      "tier": 1,
+      "kind": "event",
+      "label": "San Francisco Conference, 1945",
+      "rel": "founding conference",
+      "note": "50 states negotiated the Charter over two months in April-June 1945; Poland signed later as the 51st original member."
+     },
+     {
+      "id": "charter",
+      "parent": "root",
+      "tier": 1,
+      "kind": "law",
+      "label": "UN Charter",
+      "rel": "founding treaty",
+      "note": "Signed 26 June 1945, entered into force 24 October 1945, the date now marked as UN Day."
+     },
+     {
+      "id": "unsc-node",
+      "parent": "root",
+      "tier": 1,
+      "kind": "org",
+      "label": "Security Council",
+      "rel": "organ",
+      "note": "Only UN organ whose resolutions are binding on all members under Article 25.",
+      "topicRef": "orgs-unsc"
+     },
+     {
+      "id": "unga-node",
+      "parent": "root",
+      "tier": 1,
+      "kind": "org",
+      "label": "General Assembly",
+      "rel": "organ",
+      "note": "One country, one vote; 193 members meet annually from September."
+     },
+     {
+      "id": "icj-node",
+      "parent": "root",
+      "tier": 1,
+      "kind": "org",
+      "label": "International Court of Justice",
+      "rel": "organ",
+      "note": "Seated at the Peace Palace, The Hague, since 1946; settles disputes between states.",
+      "topicRef": "orgs-icj-icc"
+     },
+     {
+      "id": "sg-node",
+      "parent": "root",
+      "tier": 1,
+      "kind": "org",
+      "label": "Secretariat",
+      "rel": "organ",
+      "note": "Administrative arm led by the Secretary-General, headquartered in New York.",
+      "topicRef": "orgs-secretaries-general"
+     },
+     {
+      "id": "ecosoc-node",
+      "parent": "root",
+      "tier": 2,
+      "kind": "org",
+      "label": "ECOSOC",
+      "rel": "organ",
+      "note": "54 elected members coordinate UN economic, social and cultural work through functional and regional commissions."
+     },
+     {
+      "id": "trusteeship",
+      "parent": "root",
+      "tier": 2,
+      "kind": "concept",
+      "label": "Trusteeship Council",
+      "rel": "suspended organ",
+      "note": "Inactive since 1 November 1994 after Palau's independence; formal abolition needs a two-thirds UNGA vote plus P5 ratification."
+     },
+     {
+      "id": "league-of-nations",
+      "parent": "charter",
+      "tier": 2,
+      "kind": "org",
+      "label": "League of Nations",
+      "rel": "predecessor",
+      "note": "Founded 1920 in Geneva, failed to prevent the Second World War, formally dissolved in 1946."
+     },
+     {
+      "id": "un-day",
+      "parent": "charter",
+      "tier": 2,
+      "kind": "event",
+      "label": "UN Day, 24 October",
+      "rel": "commemorates",
+      "note": "Marks the date the Charter entered into force after ratification by the required majority including all wartime great powers."
+     },
+     {
+      "id": "south-sudan",
+      "parent": "root",
+      "tier": 2,
+      "kind": "place",
+      "label": "South Sudan",
+      "rel": "newest member",
+      "note": "Joined July 2011 after independence from Sudan, the 193rd and most recent UN member."
+     },
+     {
+      "id": "rockefeller",
+      "parent": "sg-node",
+      "tier": 2,
+      "kind": "person",
+      "label": "John D. Rockefeller Jr.",
+      "rel": "donated HQ land",
+      "note": "Bought and donated the Manhattan site for UN Headquarters in 1946."
+     },
+     {
+      "id": "ww2-backdrop",
+      "parent": "san-francisco",
+      "tier": 3,
+      "kind": "event",
+      "label": "Second World War",
+      "rel": "backdrop",
+      "note": "The conference ran while fighting continued in the Pacific theatre; the UN was designed to prevent a third global war."
+     },
+     {
+      "id": "palau",
+      "parent": "trusteeship",
+      "tier": 3,
+      "kind": "place",
+      "label": "Palau",
+      "rel": "last trust territory",
+      "note": "Became independent in October 1994, the last of eleven original UN trust territories to do so."
+     },
+     {
+      "id": "holy-see",
+      "parent": "unga-node",
+      "tier": 3,
+      "kind": "place",
+      "label": "Holy See",
+      "rel": "non-member observer",
+      "note": "Along with the State of Palestine, holds permanent observer status without full UN membership."
+     },
+     {
+      "id": "charter-amendment",
+      "parent": "charter",
+      "tier": 3,
+      "kind": "law",
+      "label": "Charter amendment rule",
+      "rel": "governs reform",
+      "note": "Any Charter amendment needs a two-thirds General Assembly vote and ratification by all five permanent Security Council members."
+     },
+     {
+      "id": "specialised-agencies",
+      "parent": "ecosoc-node",
+      "tier": 3,
+      "kind": "concept",
+      "label": "Specialised agencies",
+      "rel": "linked bodies",
+      "note": "WHO, UNESCO, ILO and other agencies report through ECOSOC despite having independent charters and budgets."
+     },
+     {
+      "id": "decolonisation",
+      "parent": "south-sudan",
+      "tier": 3,
+      "kind": "concept",
+      "label": "Decolonisation wave",
+      "rel": "membership growth",
+      "note": "Membership nearly quadrupled from 51 to 193 as former colonies gained independence through the twentieth century."
+     },
+     {
+      "id": "geneva-contrast",
+      "parent": "league-of-nations",
+      "tier": 3,
+      "kind": "place",
+      "label": "Geneva",
+      "rel": "League's seat",
+      "note": "The League of Nations was headquartered in Geneva, unlike the UN's choice of New York for its main seat."
+     },
+     {
+      "id": "article25",
+      "parent": "unsc-node",
+      "tier": 3,
+      "kind": "law",
+      "label": "Article 25",
+      "rel": "binding force",
+      "note": "UN Charter provision that obliges member states to accept and carry out Security Council decisions."
+     }
+    ]
+   },
+   "sources": [
+    "https://www.un.org/en/about-us/un-charter",
+    "https://www.un.org/en/about-us/history-of-the-un",
+    "https://legalclarity.org/list-of-un-countries-all-193-member-states/",
+    "https://archives.un.org/en/content/25th-anniversary-suspension-trusteeship-council"
+   ]
+  },
+  {
+   "id": "orgs-unsc",
+   "rank": 2,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The Security Council: the veto, the P5, and India's push for a seat",
+   "date": "1945-10-24",
+   "category": "International Organisations",
+   "tags": [
+    "UN Security Council",
+    "veto",
+    "P5",
+    "India UNSC bid"
+   ],
+   "hook": "Fifteen countries sit on the Security Council, but only five can single-handedly stop it from acting, and that veto power has shaped nearly every major international crisis since 1945, including India's decades-long campaign for a permanent seat of its own.",
+   "story": "The Security Council is the only UN organ whose decisions member states are legally bound to carry out, under Article 25 of the Charter. It has 15 seats: five permanent members and ten elected non-permanent members serving staggered two-year terms with no immediate re-election. The permanent five, the P5, are the United States, the United Kingdom, France, Russia and China, the powers the 1945 Charter recognised as the war's victors. Russia inherited the Soviet Union's seat automatically when the USSR dissolved in 1991; nobody voted on the succession, it simply carried over. China's seat has a trickier history. Until 1971, the seat nominally reserved for \\\"China\\\" was held by the Republic of China, the government that had retreated to Taiwan after the 1949 revolution. UN General Assembly Resolution 2758, passed on 25 October 1971, transferred recognition to the People's Republic of China and expelled the Taipei government's representatives, a fact examiners like because it tests whether a student knows the seat changed hands mid-Cold War rather than at founding.\n\nEach P5 member can veto any substantive resolution with a single negative vote, whatever the other 14 members decide. Procedural questions cannot be vetoed. The veto has been cast more than 300 times since 1945. The Soviet Union and then Russia account for the largest single share; the United States has used it most often since the 1970s, frequently to block resolutions critical of Israel. The Cold War years produced the bulk of vetoes; the 1990s and early 2000s saw a lull before the rate climbed again over Syria and, more recently, Gaza and Ukraine.\n\nNon-permanent seats rotate by region: three for Africa, two for Asia-Pacific, two for Latin America and the Caribbean, two for Western Europe and Others, and one for Eastern Europe. For the 2025-26 term the ten elected seats are held by Bahrain, Colombia, the Democratic Republic of the Congo, Denmark, Greece, Latvia, Liberia, Pakistan, Panama and Somalia. India has sat on the Council eight times as a non-permanent member, most recently in 2021-22, and in July 2026 formally opened a campaign, nicknamed SHANTI, for the 2028-29 term, contesting the Asia-Pacific seat against Tajikistan.\n\nIndia's larger ambition is a permanent seat. Along with Brazil, Germany and Japan, it forms the G4, four countries that support each other's bids for permanent membership and have pushed for reform that would expand the Council toward 25 seats, adding new permanent members from Asia-Pacific, Africa, Latin America and Western Europe. Nobody has resolved whether new permanent members would carry the veto, and existing P5 states have shown little appetite for diluting a power only they hold. Through the intergovernmental negotiations running into 2026, India has rejected proposals for permanent seats without veto rights, arguing that a two-tier permanent membership defeats the point of reform. A CLAT passage on this topic is likely to test the China-1971 detail, the veto mechanics, or India's specific objection to a veto-less seat, since all three are easy to misremember as simpler than they are.",
+   "facts": [
+    {
+     "k": "Council size",
+     "v": "15 seats: 5 permanent (P5) + 10 elected, two-year terms"
+    },
+    {
+     "k": "P5 members",
+     "v": "United States, United Kingdom, France, Russia, China"
+    },
+    {
+     "k": "China's seat transfer",
+     "v": "UNGA Resolution 2758, 25 October 1971, from Republic of China (Taiwan) to People's Republic of China"
+    },
+    {
+     "k": "Russia's seat",
+     "v": "Inherited automatically from the USSR on its 1991 dissolution"
+    },
+    {
+     "k": "Veto mechanic",
+     "v": "Any single P5 negative vote blocks a substantive resolution; used 300+ times since 1945"
+    },
+    {
+     "k": "2025-26 elected members",
+     "v": "Bahrain, Colombia, DR Congo, Denmark, Greece, Latvia, Liberia, Pakistan, Panama, Somalia"
+    },
+    {
+     "k": "India's non-permanent terms",
+     "v": "8 terms, most recent 2021-22"
+    },
+    {
+     "k": "India's 2028-29 bid",
+     "v": "Campaign named SHANTI, launched July 2026, contesting Tajikistan for the Asia-Pacific seat"
+    },
+    {
+     "k": "G4 nations",
+     "v": "India, Brazil, Germany, Japan, backing each other's permanent-seat bids"
+    },
+    {
+     "k": "Binding authority",
+     "v": "Only the Security Council can bind all UN members, under Article 25 of the Charter"
+    }
+   ],
+   "why": "This is one of the highest-yield UN topics in the syllabus. Expect direct questions on which country holds the veto, the exact year China's seat changed hands, or how many times India has served as a non-permanent member. A passage angle would connect the veto to a live news event, such as a blocked resolution on Gaza or Ukraine, and ask what a veto does and does not require.",
+   "map": {
+    "nodes": [
+     {
+      "id": "p5",
+      "parent": "root",
+      "tier": 1,
+      "kind": "concept",
+      "label": "P5",
+      "rel": "permanent members",
+      "note": "US, UK, France, Russia, China; each holds an individual veto over substantive resolutions."
+     },
+     {
+      "id": "veto",
+      "parent": "root",
+      "tier": 1,
+      "kind": "concept",
+      "label": "Veto power",
+      "rel": "defining feature",
+      "note": "Cast 300+ times since 1945; USSR/Russia and the US are the most frequent users."
+     },
+     {
+      "id": "resolution-2758",
+      "parent": "root",
+      "tier": 1,
+      "kind": "law",
+      "label": "UNGA Resolution 2758 (1971)",
+      "rel": "transferred China's seat",
+      "note": "Passed 25 October 1971, moved China's UN recognition from Taipei to Beijing."
+     },
+     {
+      "id": "article25-node",
+      "parent": "root",
+      "tier": 1,
+      "kind": "law",
+      "label": "Article 25",
+      "rel": "binding force",
+      "note": "Obliges all UN member states to accept and carry out Security Council decisions, unique among UN organs."
+     },
+     {
+      "id": "g4",
+      "parent": "root",
+      "tier": 1,
+      "kind": "concept",
+      "label": "G4 nations",
+      "rel": "seek permanent seats",
+      "note": "India, Brazil, Germany and Japan back each other's bids for permanent Council membership."
+     },
+     {
+      "id": "un-charter-ref",
+      "parent": "root",
+      "tier": 1,
+      "kind": "law",
+      "label": "UN Charter",
+      "rel": "founding document",
+      "note": "The Security Council is one of the six organs the 1945 Charter created.",
+      "topicRef": "orgs-united-nations"
+     },
+     {
+      "id": "russia-succession",
+      "parent": "p5",
+      "tier": 2,
+      "kind": "event",
+      "label": "Soviet-Russian succession, 1991",
+      "rel": "seat continuity",
+      "note": "Russia took over the USSR's permanent seat automatically on the Soviet Union's dissolution, without a UN vote."
+     },
+     {
+      "id": "non-permanent-seats",
+      "parent": "root",
+      "tier": 2,
+      "kind": "concept",
+      "label": "Regional seat allocation",
+      "rel": "rotation rule",
+      "note": "Ten elected seats split by region: 3 Africa, 2 Asia-Pacific, 2 Latin America/Caribbean, 2 Western Europe and Others, 1 Eastern Europe."
+     },
+     {
+      "id": "india-terms",
+      "parent": "g4",
+      "tier": 2,
+      "kind": "concept",
+      "label": "India's 8 UNSC terms",
+      "rel": "track record",
+      "note": "Most recent term 2021-22; India has never held a permanent seat."
+     },
+     {
+      "id": "shanti-campaign",
+      "parent": "india-terms",
+      "tier": 2,
+      "kind": "event",
+      "label": "SHANTI campaign",
+      "rel": "2028-29 bid",
+      "note": "India formally launched its campaign for the 2028-29 non-permanent seat in July 2026, against Tajikistan."
+     },
+     {
+      "id": "cold-war-vetoes",
+      "parent": "veto",
+      "tier": 2,
+      "kind": "event",
+      "label": "Cold War veto era",
+      "rel": "peak usage",
+      "note": "The majority of Security Council vetoes were cast during the Cold War, mostly by the USSR."
+     },
+     {
+      "id": "us-vetoes",
+      "parent": "veto",
+      "tier": 2,
+      "kind": "event",
+      "label": "US vetoes on Israel",
+      "rel": "recent pattern",
+      "note": "Since the 1970s the US has used its veto most often to block resolutions critical of Israel."
+     },
+     {
+      "id": "council-reform",
+      "parent": "g4",
+      "tier": 3,
+      "kind": "concept",
+      "label": "Council reform proposals",
+      "rel": "expansion plan",
+      "note": "G4-backed reform would expand the Council toward 25 seats with new permanent members from Asia-Pacific, Africa and Latin America."
+     },
+     {
+      "id": "veto-less-seats",
+      "parent": "council-reform",
+      "tier": 3,
+      "kind": "concept",
+      "label": "Veto-less permanent seats",
+      "rel": "rejected compromise",
+      "note": "India has rejected proposals for permanent membership without veto rights as defeating the purpose of reform."
+     },
+     {
+      "id": "taiwan-node",
+      "parent": "resolution-2758",
+      "tier": 3,
+      "kind": "place",
+      "label": "Taipei",
+      "rel": "lost the seat",
+      "note": "The Republic of China government held China's UN seat from 1945 until its 1971 expulsion."
+     },
+     {
+      "id": "tajikistan",
+      "parent": "shanti-campaign",
+      "tier": 3,
+      "kind": "place",
+      "label": "Tajikistan",
+      "rel": "rival bidder",
+      "note": "Competing with India for the Asia-Pacific group's 2028-29 non-permanent seat."
+     },
+     {
+      "id": "2025-26-members",
+      "parent": "non-permanent-seats",
+      "tier": 3,
+      "kind": "concept",
+      "label": "2025-26 elected members",
+      "rel": "current roster",
+      "note": "Bahrain, Colombia, DR Congo, Denmark, Greece, Latvia, Liberia, Pakistan, Panama, Somalia."
+     },
+     {
+      "id": "procedural-vote",
+      "parent": "veto",
+      "tier": 3,
+      "kind": "term",
+      "label": "Procedural vs substantive votes",
+      "rel": "veto limit",
+      "note": "The veto applies only to substantive resolutions; procedural questions cannot be vetoed by a P5 member."
+     },
+     {
+      "id": "unsc-icc-tension",
+      "parent": "article25-node",
+      "tier": 3,
+      "kind": "concept",
+      "label": "Council referral power",
+      "rel": "links to ICC",
+      "note": "The Security Council can refer situations to the International Criminal Court even in states that are not ICC members.",
+      "staticRef": "orgs#orgs-icj-icc"
+     },
+     {
+      "id": "gaza-ukraine",
+      "parent": "us-vetoes",
+      "tier": 3,
+      "kind": "event",
+      "label": "Gaza and Ukraine vetoes",
+      "rel": "recent examples",
+      "note": "Both conflicts produced multiple vetoed Security Council resolutions through the mid-2020s."
+     }
+    ]
+   },
+   "sources": [
+    "https://main.un.org/securitycouncil/en/content/current-members",
+    "https://betterworldcampaign.org/peace-and-security/un-explained-the-history-of-the-united-nations-security-council-veto",
+    "https://www.cfr.org/backgrounders/un-security-council",
+    "https://www.manoramayearbook.in/current-affairs/india/2026/07/14/india-launches-campaign-for-non-permanent-seat-at-unsc.html"
+   ]
+  },
+  {
+   "id": "org-agencies",
+   "rank": 3,
+   "depth": "deep",
+   "importance": 5,
+   "title": "UN specialised agencies: founding year, headquarters, and what each one does",
+   "date": "",
+   "category": "International Organisations",
+   "tags": [
+    "UN Agencies",
+    "WHO",
+    "UNESCO",
+    "ILO",
+    "Headquarters"
+   ],
+   "hook": "The single most mechanically examined table in general knowledge. Learn the city and the year and you can answer most of what is asked.",
+   "story": "The specialised agencies are legally separate organisations linked to the UN through agreements with ECOSOC. The exam wants three things about each: founding year, headquarters, and mandate.\n\n**Geneva** holds the most: **WHO** (1948), **ILO** (1919, the oldest, created by the Treaty of Versailles and the only one predating the UN), **WMO** (1950), **ITU** (1865, the oldest international organisation of any kind), **WIPO** (1967), **WTO** (1995, not a UN specialised agency but treated alongside them), **UNHCR** (1950) and **UNCTAD** (1964).\n\n**Paris**: **UNESCO** (1945), which runs the World Heritage list. **Rome**: **FAO** (1945), **WFP** (1961) and **IFAD** (1977), which makes Rome the food capital of the UN system. **Vienna**: **IAEA** (1957), **UNIDO** (1966) and **UNODC**. **Washington DC**: the **World Bank** and the **IMF**, both created at the Bretton Woods conference of July 1944 and operational from 1945-46. **New York**: **UNICEF** (1946) and **UNDP** (1965), and the UN Secretariat itself. **Montreal**: **ICAO** (1944, under the Chicago Convention). **London**: **IMO** (1948). **Bern**: **UPU** (1874). **Nairobi**: **UNEP** (1972), created after the Stockholm Conference, the first UN body headquartered in a developing country.\n\nHeads to know: the **UN Secretary-General** is **António Guterres** of Portugal, in office since 2017. Ban Ki-moon of South Korea preceded him; Kofi Annan of Ghana before that; U Thant of Burma was the first Asian, and Trygve Lie of Norway the first ever. The **WHO Director-General** is **Tedros Adhanom Ghebreyesus** of Ethiopia. The **IMF Managing Director** is by convention European, the **World Bank President** American.\n\nIndia-specific points that recur: India was a founding member of the UN, signing the Declaration by United Nations on 1 January 1942 while still under British rule. India has been a non-permanent member of the Security Council eight times, most recently in 2021-22. **UNESCO World Heritage Sites in India** number 43 as of 2024, the most recent being the Moidams of the Ahom dynasty in Assam.",
+   "facts": [
+    {
+     "k": "Oldest UN specialised agency",
+     "v": "ILO, 1919, Geneva"
+    },
+    {
+     "k": "Oldest international organisation",
+     "v": "ITU, 1865, Geneva"
+    },
+    {
+     "k": "WHO",
+     "v": "1948, Geneva"
+    },
+    {
+     "k": "UNESCO",
+     "v": "1945, Paris"
+    },
+    {
+     "k": "FAO",
+     "v": "1945, Rome"
+    },
+    {
+     "k": "IAEA",
+     "v": "1957, Vienna"
+    },
+    {
+     "k": "UNEP",
+     "v": "1972, Nairobi, the first UN body headquartered in a developing country"
+    },
+    {
+     "k": "World Bank and IMF",
+     "v": "Bretton Woods conference, July 1944, Washington DC"
+    },
+    {
+     "k": "UN Secretary-General",
+     "v": "António Guterres, Portugal, since 2017"
+    },
+    {
+     "k": "UNESCO World Heritage Sites in India",
+     "v": "43"
+    }
+   ],
+   "timeline": [],
+   "why": "Pure recall, and reliably four to six marks across a paper. The commonest trap pairs an agency with the wrong city: UNESCO is Paris, not Geneva; UNEP is Nairobi, not New York.",
+   "map": {
+    "nodes": [
+     {
+      "id": "geneva",
+      "parent": "root",
+      "tier": 1,
+      "label": "Geneva",
+      "kind": "place",
+      "rel": "headquarters cluster",
+      "note": "WHO, ILO, WMO, ITU, WIPO, WTO, UNHCR and UNCTAD are all headquartered here."
+     },
+     {
+      "id": "ilo",
+      "parent": "geneva",
+      "tier": 1,
+      "label": "ILO",
+      "kind": "org",
+      "rel": "1919",
+      "note": "Oldest specialised agency, created by the Treaty of Versailles. Tripartite structure of governments, employers and workers. Nobel Peace Prize 1969."
+     },
+     {
+      "id": "who",
+      "parent": "geneva",
+      "tier": 1,
+      "label": "WHO",
+      "kind": "org",
+      "rel": "1948",
+      "note": "World Health Day is 7 April, its founding date. Director-General Tedros Adhanom Ghebreyesus."
+     },
+     {
+      "id": "unesco",
+      "parent": "root",
+      "tier": 1,
+      "label": "UNESCO",
+      "kind": "org",
+      "rel": "1945, Paris",
+      "note": "Runs the World Heritage Convention of 1972. India has 43 sites."
+     },
+     {
+      "id": "bretton",
+      "parent": "root",
+      "tier": 1,
+      "label": "Bretton Woods (1944)",
+      "kind": "event",
+      "rel": "created two",
+      "note": "Conference at Mount Washington Hotel, New Hampshire, July 1944. Created the IMF and the World Bank, both in Washington DC."
+     },
+     {
+      "id": "fao",
+      "parent": "root",
+      "tier": 2,
+      "label": "FAO",
+      "kind": "org",
+      "rel": "1945, Rome",
+      "note": "World Food Day is 16 October. Publishes the State of Food Security and Nutrition report with IFAD, UNICEF, WFP and WHO."
+     },
+     {
+      "id": "iaea",
+      "parent": "root",
+      "tier": 2,
+      "label": "IAEA",
+      "kind": "org",
+      "rel": "1957, Vienna",
+      "note": "Created after Eisenhower’s Atoms for Peace speech. Nobel Peace Prize 2005 with Mohamed ElBaradei."
+     },
+     {
+      "id": "unep",
+      "parent": "root",
+      "tier": 2,
+      "label": "UNEP",
+      "kind": "org",
+      "rel": "1972, Nairobi",
+      "note": "Created after the Stockholm Conference. World Environment Day is 5 June."
+     },
+     {
+      "id": "guterres",
+      "parent": "root",
+      "tier": 1,
+      "label": "António Guterres",
+      "kind": "person",
+      "rel": "Secretary-General",
+      "note": "Former Prime Minister of Portugal and UN High Commissioner for Refugees. Took office 1 January 2017."
+     },
+     {
+      "id": "itu",
+      "parent": "geneva",
+      "tier": 2,
+      "label": "ITU",
+      "kind": "org",
+      "rel": "1865",
+      "note": "Oldest international organisation in the world, founded as the International Telegraph Union."
+     },
+     {
+      "id": "unicef",
+      "parent": "root",
+      "tier": 2,
+      "label": "UNICEF",
+      "kind": "org",
+      "rel": "1946, New York",
+      "note": "Created for children after the Second World War. Nobel Peace Prize 1965."
+     },
+     {
+      "id": "imo",
+      "parent": "root",
+      "tier": 3,
+      "label": "IMO",
+      "kind": "org",
+      "rel": "1948, London",
+      "note": "Regulates shipping safety and marine pollution. India is a member of its Council."
+     },
+     {
+      "id": "icao",
+      "parent": "root",
+      "tier": 3,
+      "label": "ICAO",
+      "kind": "org",
+      "rel": "1944, Montreal",
+      "note": "Created by the Chicago Convention on International Civil Aviation."
+     },
+     {
+      "id": "upu",
+      "parent": "root",
+      "tier": 3,
+      "label": "UPU",
+      "kind": "org",
+      "rel": "1874, Bern",
+      "note": "Universal Postal Union, the second oldest international organisation."
+     },
+     {
+      "id": "unhcr",
+      "parent": "geneva",
+      "tier": 3,
+      "label": "UNHCR",
+      "kind": "org",
+      "rel": "1950",
+      "note": "Two Nobel Peace Prizes, 1954 and 1981. India is not a signatory to the 1951 Refugee Convention."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "org-groupings",
+   "rank": 4,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Regional groupings: who is in, who founded them, and where the last summit was",
+   "date": "",
+   "category": "International Organisations",
+   "tags": [
+    "BRICS",
+    "G20",
+    "QUAD",
+    "SCO",
+    "ASEAN",
+    "SAARC"
+   ],
+   "hook": "BRICS, G20, QUAD, SCO, ASEAN, SAARC, BIMSTEC. Membership lists that change, and the changes are exactly what gets asked.",
+   "story": "**BRICS.** The acronym was coined by **Jim O'Neill** of Goldman Sachs in 2001 for Brazil, Russia, India and China. South Africa joined in 2010, making the S. The first summit was at **Yekaterinburg in 2009**. At the **Johannesburg summit of 2023** the group invited six more members from 1 January 2024: Egypt, Ethiopia, Iran, Saudi Arabia and the UAE joined, while Argentina declined after a change of government. Indonesia joined in 2025. The **New Development Bank**, headquartered in **Shanghai**, was created at the 2014 Fortaleza summit with Dilma Rousseff later as president.\n\n**G20.** Formed in 1999 after the Asian financial crisis, upgraded to leaders' level in 2008. India held the presidency in 2023 and hosted the summit at **Bharat Mandapam, New Delhi**, where the **African Union was admitted as a permanent member**, making it 21 members.\n\n**QUAD.** India, the United States, Japan and Australia. Originated in coordination after the 2004 tsunami, revived in 2017, first leaders' summit in 2021. It is a diplomatic grouping, not a military alliance, and has no secretariat.\n\n**SCO.** Shanghai Cooperation Organisation, founded 2001 from the Shanghai Five, headquartered in **Beijing**. India and Pakistan joined in 2017, Iran in 2023, Belarus in 2024.\n\n**ASEAN.** Founded by the **Bangkok Declaration of 1967** with five members: Indonesia, Malaysia, Philippines, Singapore and Thailand. Now ten, with Timor-Leste admitted in principle. Secretariat in **Jakarta**. India is a dialogue partner and its Act East Policy runs through ASEAN.\n\n**SAARC.** Founded at **Dhaka in 1985** with seven members; Afghanistan joined in 2007 making eight. Secretariat in **Kathmandu**. No summit has been held since 2014 in Kathmandu; the 2016 Islamabad summit was called off after Uri. **BIMSTEC**, founded 1997 with secretariat in **Dhaka**, has become the working substitute, with seven members including Myanmar and Thailand but not Pakistan.\n\n**OPEC**, founded at the **Baghdad Conference of 1960** by Iran, Iraq, Kuwait, Saudi Arabia and Venezuela, headquarters in **Vienna** since 1965. **NATO**, founded by the **Washington Treaty of 1949**, headquarters **Brussels**, 32 members after Finland joined in 2023 and Sweden in 2024.",
+   "facts": [
+    {
+     "k": "BRICS acronym coined by",
+     "v": "Jim O’Neill, Goldman Sachs, 2001"
+    },
+    {
+     "k": "First BRICS summit",
+     "v": "Yekaterinburg, 2009"
+    },
+    {
+     "k": "New Development Bank",
+     "v": "Shanghai, created at Fortaleza, 2014"
+    },
+    {
+     "k": "G20 admitted the African Union",
+     "v": "New Delhi summit, 2023"
+    },
+    {
+     "k": "QUAD members",
+     "v": "India, United States, Japan, Australia"
+    },
+    {
+     "k": "SCO headquarters",
+     "v": "Beijing; India and Pakistan joined 2017"
+    },
+    {
+     "k": "ASEAN founded",
+     "v": "Bangkok Declaration, 1967; secretariat Jakarta"
+    },
+    {
+     "k": "SAARC founded",
+     "v": "Dhaka, 1985; secretariat Kathmandu"
+    },
+    {
+     "k": "BIMSTEC secretariat",
+     "v": "Dhaka"
+    },
+    {
+     "k": "OPEC founded",
+     "v": "Baghdad, 1960; headquarters Vienna"
+    },
+    {
+     "k": "NATO members",
+     "v": "32, after Finland in 2023 and Sweden in 2024"
+    }
+   ],
+   "timeline": [],
+   "why": "Membership changes are the live part of this topic. Know that Argentina declined BRICS, that the African Union is in the G20, and that SAARC has not met since 2014.",
+   "map": {
+    "nodes": [
+     {
+      "id": "brics",
+      "parent": "root",
+      "tier": 1,
+      "label": "BRICS",
+      "kind": "org",
+      "rel": "expanded",
+      "note": "Brazil, Russia, India, China, South Africa, plus Egypt, Ethiopia, Iran, Saudi Arabia, UAE from 2024 and Indonesia in 2025."
+     },
+     {
+      "id": "g20",
+      "parent": "root",
+      "tier": 1,
+      "label": "G20",
+      "kind": "org",
+      "rel": "21 members",
+      "note": "Formed 1999, leaders’ level from 2008. The African Union was admitted at the New Delhi summit in 2023."
+     },
+     {
+      "id": "quad",
+      "parent": "root",
+      "tier": 1,
+      "label": "QUAD",
+      "kind": "org",
+      "rel": "diplomatic grouping",
+      "note": "India, US, Japan, Australia. Revived 2017, first leaders’ summit 2021. No secretariat, no treaty."
+     },
+     {
+      "id": "asean",
+      "parent": "root",
+      "tier": 1,
+      "label": "ASEAN",
+      "kind": "org",
+      "rel": "1967",
+      "note": "Bangkok Declaration. Five founders, now ten members, secretariat in Jakarta."
+     },
+     {
+      "id": "saarc",
+      "parent": "root",
+      "tier": 1,
+      "label": "SAARC",
+      "kind": "org",
+      "rel": "1985",
+      "note": "Founded at Dhaka, secretariat Kathmandu, eight members. No summit since 2014."
+     },
+     {
+      "id": "ndb",
+      "parent": "brics",
+      "tier": 2,
+      "label": "New Development Bank",
+      "kind": "org",
+      "rel": "Shanghai",
+      "note": "Created at the Fortaleza summit, 2014. Initial authorised capital of 100 billion dollars."
+     },
+     {
+      "id": "bimstec",
+      "parent": "saarc",
+      "tier": 2,
+      "label": "BIMSTEC",
+      "kind": "org",
+      "rel": "the substitute",
+      "note": "Founded 1997, secretariat Dhaka. Seven members: India, Bangladesh, Bhutan, Nepal, Sri Lanka, Myanmar and Thailand."
+     },
+     {
+      "id": "sco",
+      "parent": "root",
+      "tier": 2,
+      "label": "SCO",
+      "kind": "org",
+      "rel": "2001",
+      "note": "Grew out of the Shanghai Five. Headquarters Beijing. India and Pakistan joined 2017, Iran 2023, Belarus 2024."
+     },
+     {
+      "id": "opec",
+      "parent": "root",
+      "tier": 2,
+      "label": "OPEC",
+      "kind": "org",
+      "rel": "1960",
+      "note": "Founded at the Baghdad Conference by Iran, Iraq, Kuwait, Saudi Arabia and Venezuela. Headquarters Vienna since 1965."
+     },
+     {
+      "id": "nato",
+      "parent": "root",
+      "tier": 2,
+      "label": "NATO",
+      "kind": "org",
+      "rel": "1949",
+      "note": "Washington Treaty. Article 5 is the collective defence clause, invoked once, after 11 September 2001. 32 members."
+     },
+     {
+      "id": "actea",
+      "parent": "asean",
+      "tier": 2,
+      "label": "Act East Policy",
+      "kind": "concept",
+      "rel": "India’s link",
+      "note": "Renamed from Look East in 2014. India is an ASEAN dialogue partner and part of the East Asia Summit."
+     },
+     {
+      "id": "au",
+      "parent": "g20",
+      "tier": 2,
+      "label": "African Union",
+      "kind": "org",
+      "rel": "newest G20 member",
+      "note": "Founded 2002 as successor to the OAU, headquarters Addis Ababa, 55 members."
+     },
+     {
+      "id": "oneill",
+      "parent": "brics",
+      "tier": 3,
+      "label": "Jim O’Neill",
+      "kind": "person",
+      "rel": "coined BRIC",
+      "note": "Goldman Sachs economist, in a 2001 paper titled \"Building Better Global Economic BRICs\"."
+     },
+     {
+      "id": "uri",
+      "parent": "saarc",
+      "tier": 3,
+      "label": "Uri attack (2016)",
+      "kind": "event",
+      "rel": "why SAARC stalled",
+      "note": "India withdrew from the Islamabad summit after the attack, and other members followed."
+     },
+     {
+      "id": "ea",
+      "parent": "asean",
+      "tier": 3,
+      "label": "East Asia Summit",
+      "kind": "org",
+      "rel": "wider forum",
+      "note": "Founded 2005, 18 members including India, the US, China and Russia, held alongside ASEAN summits."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "org-bretton",
+   "rank": 4,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Bretton Woods: the Fund, the Bank and the trade body that took fifty years",
+   "date": "",
+   "category": "International Organisations",
+   "tags": [
+    "IMF",
+    "World Bank",
+    "WTO",
+    "Bretton Woods"
+   ],
+   "hook": "Two institutions were agreed in three weeks at a New Hampshire hotel in 1944. The third took until 1995.",
+   "story": "Delegates from forty-four allied nations met at the **Mount Washington Hotel in Bretton Woods, New Hampshire**, in **July 1944**, while the war was still running, to design a monetary order that would not repeat the competitive devaluations and trade blocs of the 1930s. Two institutions came out of it, and both began work in **1945**. India was among the founding members of each.\n\nThe **International Monetary Fund** was built to keep exchange rates stable and to lend to countries in balance of payments difficulty. Its unit of account is the **Special Drawing Right**, created in 1969, whose value is set from a basket of five currencies: the dollar, the euro, the renminbi, the yen and the pound. Voting is by **quota**, roughly reflecting economic size, which gives the United States alone enough weight to veto the 85% supermajority that major decisions require. The Fund publishes the **World Economic Outlook** and the **Global Financial Stability Report**. Its lending has always carried **conditionality**, the reforms a borrower must accept, which is the source of most of the criticism directed at it, including over the Indian programme of **1991**, when India pledged gold and devalued the rupee.\n\nThe **World Bank** began as the **International Bank for Reconstruction and Development**, aimed first at rebuilding Europe and afterwards at development lending. It now sits inside a **World Bank Group** of five: the IBRD, the **International Development Association** which lends concessionally to the poorest countries, the **International Finance Corporation** which lends to the private sector, **MIGA** which insures against political risk, and **ICSID** which arbitrates investment disputes. India is a member of all except ICSID, which it has never joined. The Bank publishes the **World Development Report**. By long convention the Bank's president is American and the Fund's managing director European, an arrangement developing countries have objected to for decades.\n\nTrade took longer. The Bretton Woods plan for an **International Trade Organization** died when the United States Senate refused the Havana Charter, leaving the **General Agreement on Tariffs and Trade** of **1947** to run trade rules as a provisional treaty through eight negotiating rounds. The last of them, the **Uruguay Round**, created the **World Trade Organization** on **1 January 1995**, based at Geneva, with a binding **Dispute Settlement Body** whose Appellate Body has been paralysed since 2019 because the United States has blocked appointments.",
+   "facts": [
+    {
+     "k": "Conference",
+     "v": "Bretton Woods, New Hampshire, July 1944; 44 nations; India a founder member"
+    },
+    {
+     "k": "IMF",
+     "v": "Exchange rate stability and balance of payments lending; quota-based voting; SDR from 1969"
+    },
+    {
+     "k": "SDR basket",
+     "v": "Dollar, euro, renminbi, yen, pound"
+    },
+    {
+     "k": "World Bank Group",
+     "v": "IBRD, IDA, IFC, MIGA and ICSID; India is not a member of ICSID"
+    },
+    {
+     "k": "Convention",
+     "v": "The Bank's head is American, the Fund's European, by long practice"
+    },
+    {
+     "k": "GATT",
+     "v": "1947, provisional; ran eight rounds of trade negotiation"
+    },
+    {
+     "k": "WTO",
+     "v": "Created 1 January 1995 out of the Uruguay Round; headquartered at Geneva"
+    },
+    {
+     "k": "Appellate Body",
+     "v": "Paralysed since 2019 by blocked appointments"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1944",
+     "what": "Bretton Woods conference"
+    },
+    {
+     "when": "1945",
+     "what": "IMF and IBRD begin operations"
+    },
+    {
+     "when": "1947",
+     "what": "GATT signed"
+    },
+    {
+     "when": "1969",
+     "what": "Special Drawing Right created"
+    },
+    {
+     "when": "1991",
+     "what": "India's IMF programme, devaluation and gold pledge"
+    },
+    {
+     "when": "1995",
+     "what": "WTO established"
+    },
+    {
+     "when": "2019",
+     "what": "WTO Appellate Body loses quorum"
+    }
+   ],
+   "why": "The examiner mixes the five World Bank arms and asks which report comes from which body. Remember the World Development Report is the Bank and the World Economic Outlook is the Fund, and that the WTO is 1995 while GATT is 1947.",
+   "map": {
+    "nodes": [
+     {
+      "id": "ob-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Bretton Woods",
+      "kind": "event",
+      "rel": "core",
+      "note": "A monetary order designed in 1944 to avoid repeating the 1930s."
+     },
+     {
+      "id": "ob-imf",
+      "parent": "ob-root",
+      "tier": 1,
+      "label": "International Monetary Fund",
+      "kind": "institution",
+      "rel": "pillar",
+      "note": "Exchange rates and balance of payments lending."
+     },
+     {
+      "id": "ob-sdr",
+      "parent": "ob-imf",
+      "tier": 2,
+      "label": "Special Drawing Right",
+      "kind": "concept",
+      "rel": "unit",
+      "note": "Created 1969; a basket of five currencies."
+     },
+     {
+      "id": "ob-quota",
+      "parent": "ob-imf",
+      "tier": 2,
+      "label": "Quota voting",
+      "kind": "concept",
+      "rel": "governance",
+      "note": "Weighted by economic size; the United States can block."
+     },
+     {
+      "id": "ob-cond",
+      "parent": "ob-imf",
+      "tier": 2,
+      "label": "Conditionality",
+      "kind": "concept",
+      "rel": "criticism",
+      "note": "The reforms attached to a loan."
+     },
+     {
+      "id": "ob-1991",
+      "parent": "ob-cond",
+      "tier": 3,
+      "label": "India, 1991",
+      "kind": "event",
+      "rel": "case",
+      "note": "Gold pledged, rupee devalued, liberalisation followed."
+     },
+     {
+      "id": "ob-weo",
+      "parent": "ob-imf",
+      "tier": 2,
+      "label": "World Economic Outlook",
+      "kind": "concept",
+      "rel": "publication",
+      "note": "The Fund's flagship report."
+     },
+     {
+      "id": "ob-wb",
+      "parent": "ob-root",
+      "tier": 1,
+      "label": "World Bank",
+      "kind": "institution",
+      "rel": "pillar",
+      "note": "Began as the IBRD, for reconstruction then development."
+     },
+     {
+      "id": "ob-ida",
+      "parent": "ob-wb",
+      "tier": 2,
+      "label": "IDA",
+      "kind": "institution",
+      "rel": "arm",
+      "note": "Concessional lending to the poorest countries."
+     },
+     {
+      "id": "ob-ifc",
+      "parent": "ob-wb",
+      "tier": 2,
+      "label": "IFC",
+      "kind": "institution",
+      "rel": "arm",
+      "note": "Lends to the private sector."
+     },
+     {
+      "id": "ob-icsid",
+      "parent": "ob-wb",
+      "tier": 2,
+      "label": "ICSID",
+      "kind": "institution",
+      "rel": "arm",
+      "note": "Investment arbitration; India has never joined."
+     },
+     {
+      "id": "ob-wdr",
+      "parent": "ob-wb",
+      "tier": 2,
+      "label": "World Development Report",
+      "kind": "concept",
+      "rel": "publication",
+      "note": "The Bank's flagship report."
+     },
+     {
+      "id": "ob-gatt",
+      "parent": "ob-root",
+      "tier": 1,
+      "label": "GATT, 1947",
+      "kind": "agreement",
+      "rel": "trade",
+      "note": "Provisional treaty that ran eight negotiating rounds."
+     },
+     {
+      "id": "ob-ito",
+      "parent": "ob-gatt",
+      "tier": 2,
+      "label": "The stillborn ITO",
+      "kind": "concept",
+      "rel": "history",
+      "note": "Havana Charter refused by the United States Senate."
+     },
+     {
+      "id": "ob-wto",
+      "parent": "ob-gatt",
+      "tier": 2,
+      "label": "WTO, 1995",
+      "kind": "institution",
+      "rel": "successor",
+      "note": "Out of the Uruguay Round; based at Geneva."
+     },
+     {
+      "id": "ob-dsb",
+      "parent": "ob-wto",
+      "tier": 3,
+      "label": "Dispute Settlement Body",
+      "kind": "institution",
+      "rel": "teeth",
+      "note": "Appellate Body paralysed since 2019."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "org-envtreaties",
+   "rank": 5,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Environmental treaties: the conventions, their years and their host cities",
+   "date": "",
+   "category": "Environment",
+   "tags": [
+    "Paris Agreement",
+    "UNFCCC",
+    "Montreal Protocol",
+    "Ramsar",
+    "CBD"
+   ],
+   "hook": "Stockholm to Kunming-Montreal, with a protocol named after every city that hosted a conference. The years and the gases are what get asked.",
+   "story": "**Stockholm Conference, 1972.** The UN Conference on the Human Environment, the first of its kind, which created **UNEP** and gave us **World Environment Day on 5 June**. India's contribution was Indira Gandhi's speech linking poverty and pollution.\n\n**Ramsar Convention, 1971**, signed at Ramsar in Iran, in force 1975. On wetlands. **World Wetlands Day is 2 February**. India has **85 Ramsar sites** as of 2024, the most in Asia; Tamil Nadu has the most of any state.\n\n**CITES, 1973**, signed in Washington DC, in force 1975. Trade in endangered species. Three appendices, with Appendix I the most protected.\n\n**Montreal Protocol, 1987**, under the Vienna Convention of 1985. On ozone-depleting substances, chiefly CFCs. It is the only UN treaty ratified by every country, and the **Kigali Amendment of 2016** extended it to hydrofluorocarbons, which are greenhouse gases rather than ozone depleters. **World Ozone Day is 16 September**.\n\n**Basel Convention 1989** on hazardous waste movement, **Rotterdam 1998** on prior informed consent for chemicals, **Stockholm Convention 2001** on persistent organic pollutants: the three chemicals conventions.\n\n**Rio Earth Summit, 1992**, produced three conventions: the **UNFCCC**, the **Convention on Biological Diversity** and the **UNCCD** on desertification, agreed in 1994. Under the CBD sit the **Cartagena Protocol (2000)** on biosafety and living modified organisms, and the **Nagoya Protocol (2010)** on access and benefit sharing. The **Kunming-Montreal Global Biodiversity Framework** was adopted at CBD COP15 in December 2022, with the **30 by 30** target of protecting 30% of land and sea by 2030.\n\nUnder the UNFCCC: the **Kyoto Protocol (1997)**, binding on developed countries only, with commitment periods from 2008; and the **Paris Agreement**, adopted at **COP21 in December 2015** and in force from November 2016. Paris works through nationally determined contributions, aims to hold warming well below 2°C and pursue 1.5°C, and rests on **common but differentiated responsibilities**. India's updated NDC targets 50% of installed electric capacity from non-fossil sources by 2030 and net zero by **2070**, announced at COP26 in Glasgow along with the **Panchamrit** commitments.\n\nOther bodies: the **IPCC**, created in 1988 by UNEP and WMO, shares the 2007 Nobel Peace Prize with Al Gore. The **IUCN**, founded 1948 and headquartered at Gland in Switzerland, publishes the **Red List** with nine categories from Least Concern to Extinct.",
+   "facts": [
+    {
+     "k": "Stockholm Conference",
+     "v": "1972; created UNEP; World Environment Day 5 June"
+    },
+    {
+     "k": "Ramsar Convention",
+     "v": "1971, on wetlands; India has 85 sites"
+    },
+    {
+     "k": "CITES",
+     "v": "1973, Washington DC"
+    },
+    {
+     "k": "Montreal Protocol",
+     "v": "1987, ozone; Kigali Amendment 2016 for HFCs"
+    },
+    {
+     "k": "Rio Earth Summit",
+     "v": "1992; UNFCCC, CBD and later UNCCD"
+    },
+    {
+     "k": "Kyoto Protocol",
+     "v": "1997"
+    },
+    {
+     "k": "Paris Agreement",
+     "v": "COP21, December 2015, in force November 2016"
+    },
+    {
+     "k": "India’s net zero target",
+     "v": "2070, announced at COP26 Glasgow"
+    },
+    {
+     "k": "Kunming-Montreal Framework",
+     "v": "CBD COP15, 2022; 30 by 30 target"
+    },
+    {
+     "k": "IPCC created",
+     "v": "1988, by UNEP and WMO"
+    }
+   ],
+   "timeline": [],
+   "why": "Treaty-to-year and treaty-to-city matching is guaranteed. The most missed pair is Montreal for ozone against Kyoto and Paris for climate, and the Kigali Amendment being about HFCs rather than CFCs.",
+   "map": {
+    "nodes": [
+     {
+      "id": "paris",
+      "parent": "root",
+      "tier": 1,
+      "label": "Paris Agreement (2015)",
+      "kind": "event",
+      "rel": "climate",
+      "note": "Adopted at COP21, in force November 2016. Nationally determined contributions, well below 2°C, pursuing 1.5°C."
+     },
+     {
+      "id": "unfccc",
+      "parent": "paris",
+      "tier": 1,
+      "label": "UNFCCC",
+      "kind": "org",
+      "rel": "the parent",
+      "note": "Agreed at Rio in 1992, in force 1994. Secretariat in Bonn. The COP is its supreme body."
+     },
+     {
+      "id": "montreal",
+      "parent": "root",
+      "tier": 1,
+      "label": "Montreal Protocol (1987)",
+      "kind": "event",
+      "rel": "ozone",
+      "note": "The only UN treaty with universal ratification. Phased out CFCs under the Vienna Convention of 1985."
+     },
+     {
+      "id": "rio",
+      "parent": "root",
+      "tier": 1,
+      "label": "Rio Earth Summit (1992)",
+      "kind": "event",
+      "rel": "three conventions",
+      "note": "UNFCCC, Convention on Biological Diversity, and the process leading to the UNCCD in 1994."
+     },
+     {
+      "id": "ramsar",
+      "parent": "root",
+      "tier": 1,
+      "label": "Ramsar Convention (1971)",
+      "kind": "event",
+      "rel": "wetlands",
+      "note": "Signed in Iran, in force 1975. India has 85 sites, the most in Asia. World Wetlands Day is 2 February."
+     },
+     {
+      "id": "kigali",
+      "parent": "montreal",
+      "tier": 2,
+      "label": "Kigali Amendment (2016)",
+      "kind": "event",
+      "rel": "extended it",
+      "note": "Brought hydrofluorocarbons within the protocol. HFCs do not deplete ozone but are potent greenhouse gases."
+     },
+     {
+      "id": "kyoto",
+      "parent": "unfccc",
+      "tier": 2,
+      "label": "Kyoto Protocol (1997)",
+      "kind": "event",
+      "rel": "the predecessor",
+      "note": "Binding targets for developed countries only, reflecting common but differentiated responsibilities."
+     },
+     {
+      "id": "cbd",
+      "parent": "rio",
+      "tier": 2,
+      "label": "Convention on Biological Diversity",
+      "kind": "org",
+      "rel": "biodiversity",
+      "note": "In force 1993. Secretariat in Montreal. Parents the Cartagena and Nagoya Protocols."
+     },
+     {
+      "id": "kunming",
+      "parent": "cbd",
+      "tier": 2,
+      "label": "Kunming-Montreal Framework (2022)",
+      "kind": "event",
+      "rel": "30 by 30",
+      "note": "Adopted at COP15. Protect 30% of land and sea by 2030 and restore 30% of degraded ecosystems."
+     },
+     {
+      "id": "nagoya",
+      "parent": "cbd",
+      "tier": 2,
+      "label": "Nagoya Protocol (2010)",
+      "kind": "event",
+      "rel": "benefit sharing",
+      "note": "Access to genetic resources and fair sharing of benefits. India enacted the Biological Diversity Act in 2002."
+     },
+     {
+      "id": "ipcc",
+      "parent": "unfccc",
+      "tier": 2,
+      "label": "IPCC",
+      "kind": "org",
+      "rel": "the science",
+      "note": "Created 1988 by UNEP and WMO. Shared the 2007 Nobel Peace Prize with Al Gore. Sixth Assessment Report completed 2023."
+     },
+     {
+      "id": "cites",
+      "parent": "ramsar",
+      "tier": 2,
+      "label": "CITES (1973)",
+      "kind": "event",
+      "rel": "wildlife trade",
+      "note": "Three appendices; Appendix I bans commercial trade in the most endangered species."
+     },
+     {
+      "id": "iucn",
+      "parent": "cites",
+      "tier": 3,
+      "label": "IUCN",
+      "kind": "org",
+      "rel": "Red List",
+      "note": "Founded 1948, headquartered at Gland, Switzerland. Nine Red List categories from Least Concern to Extinct."
+     },
+     {
+      "id": "panchamrit",
+      "parent": "paris",
+      "tier": 3,
+      "label": "Panchamrit (2021)",
+      "kind": "concept",
+      "rel": "India’s pledge",
+      "note": "Announced at COP26 Glasgow: 500 GW non-fossil capacity, 50% of energy from renewables, a billion tonnes of emissions cut, 45% lower emissions intensity, net zero by 2070."
+     },
+     {
+      "id": "stockholm",
+      "parent": "rio",
+      "tier": 3,
+      "label": "Stockholm Conference (1972)",
+      "kind": "event",
+      "rel": "the first",
+      "note": "Created UNEP and set the pattern for later summits. Indira Gandhi was the only head of government besides the host to attend."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "org-courts",
+   "rank": 6,
+   "depth": "deep",
+   "importance": 4,
+   "title": "The international courts and what each one can actually do",
+   "date": "",
+   "category": "International Organisations",
+   "tags": [
+    "ICJ",
+    "ICC",
+    "ITLOS",
+    "International Law"
+   ],
+   "hook": "One court tries states, another tries people, and they sit in the same city without any connection between them.",
+   "story": "Four international judicial bodies get confused with one another, and the distinctions are the whole of the question.\n\nThe **International Court of Justice** is the principal judicial organ of the United Nations, created by the **Charter** in 1945 and seated at the **Peace Palace, The Hague**. It has **fifteen judges** elected for nine-year terms by the **General Assembly and the Security Council voting separately**, with no two from the same country. **Only states** may be parties, and its jurisdiction rests on consent. It also gives **advisory opinions** to UN organs, which bind nobody. India's most cited appearance is **Jadhav v. Pakistan (2019)**, where the Court held Pakistan had breached the **Vienna Convention on Consular Relations** and ordered effective review of the conviction. **Justice Dalveer Bhandari** has sat on the Court since 2012.\n\nThe **International Criminal Court**, also at The Hague, is a separate creature entirely. It was created by the **Rome Statute of 1998**, in force from **2002**, and tries **individuals** for genocide, crimes against humanity, war crimes and the crime of aggression. It is not a UN body. **India has not ratified** the Rome Statute, and neither have the United States, China or Russia; India's objections were the Security Council's referral power, the exclusion of terrorism and of nuclear weapons use from the definitions, and the prosecutor's power to act on their own initiative.\n\nThe **International Tribunal for the Law of the Sea** sits at **Hamburg** under the **UN Convention on the Law of the Sea**, and handles maritime disputes; the **Enrica Lexie** case between India and Italy went to arbitration under the same convention. The **Permanent Court of Arbitration**, also at The Hague, is the oldest of them, established by the **Hague Convention of 1899**; it is not a court but a registry that administers tribunals, and it heard the South China Sea case brought by the Philippines in 2016.",
+   "facts": [
+    {
+     "k": "ICJ",
+     "v": "Principal judicial organ of the UN; 15 judges; only states may be parties"
+    },
+    {
+     "k": "ICJ election",
+     "v": "By the General Assembly and Security Council voting separately; nine-year terms"
+    },
+    {
+     "k": "Jadhav case, 2019",
+     "v": "ICJ held Pakistan breached the Vienna Convention on Consular Relations"
+    },
+    {
+     "k": "ICC",
+     "v": "Rome Statute 1998, in force 2002; tries individuals; not a UN body"
+    },
+    {
+     "k": "India and the ICC",
+     "v": "Has not ratified, nor have the United States, China or Russia"
+    },
+    {
+     "k": "ITLOS",
+     "v": "At Hamburg, under UNCLOS, for maritime disputes"
+    },
+    {
+     "k": "PCA",
+     "v": "Hague Convention of 1899; a registry administering tribunals, not a court"
+    },
+    {
+     "k": "Seats",
+     "v": "ICJ, ICC and PCA at The Hague; ITLOS at Hamburg"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1899",
+     "what": "Permanent Court of Arbitration established"
+    },
+    {
+     "when": "1945",
+     "what": "ICJ created by the UN Charter"
+    },
+    {
+     "when": "1998",
+     "what": "Rome Statute adopted"
+    },
+    {
+     "when": "2002",
+     "what": "ICC begins work"
+    },
+    {
+     "when": "2016",
+     "what": "PCA tribunal rejects China's nine-dash line"
+    },
+    {
+     "when": "2019",
+     "what": "ICJ decides Jadhav"
+    }
+   ],
+   "why": "States against individuals is the distinction that decides most of these questions. The other reliable one is that an advisory opinion is not binding, and that the PCA is not a court at all.",
+   "map": {
+    "nodes": [
+     {
+      "id": "oc-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "International courts",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Four bodies, four different jurisdictions."
+     },
+     {
+      "id": "oc-icj",
+      "parent": "oc-root",
+      "tier": 1,
+      "label": "International Court of Justice",
+      "kind": "institution",
+      "rel": "court",
+      "note": "Principal judicial organ of the UN, at The Hague."
+     },
+     {
+      "id": "oc-15",
+      "parent": "oc-icj",
+      "tier": 2,
+      "label": "Fifteen judges",
+      "kind": "concept",
+      "rel": "composition",
+      "note": "Elected by the Assembly and Council voting separately."
+     },
+     {
+      "id": "oc-states",
+      "parent": "oc-icj",
+      "tier": 2,
+      "label": "Only states",
+      "kind": "concept",
+      "rel": "jurisdiction",
+      "note": "Individuals cannot be parties; consent is required."
+     },
+     {
+      "id": "oc-adv",
+      "parent": "oc-icj",
+      "tier": 2,
+      "label": "Advisory opinions",
+      "kind": "concept",
+      "rel": "function",
+      "note": "Given to UN organs; not binding."
+     },
+     {
+      "id": "oc-jadhav",
+      "parent": "oc-icj",
+      "tier": 2,
+      "label": "Jadhav, 2019",
+      "kind": "case",
+      "rel": "India",
+      "note": "Pakistan held in breach of the consular relations convention."
+     },
+     {
+      "id": "oc-icc",
+      "parent": "oc-root",
+      "tier": 1,
+      "label": "International Criminal Court",
+      "kind": "institution",
+      "rel": "court",
+      "note": "Rome Statute 1998; tries individuals; not a UN body."
+     },
+     {
+      "id": "oc-crimes",
+      "parent": "oc-icc",
+      "tier": 2,
+      "label": "Four crimes",
+      "kind": "concept",
+      "rel": "jurisdiction",
+      "note": "Genocide, crimes against humanity, war crimes, aggression."
+     },
+     {
+      "id": "oc-india",
+      "parent": "oc-icc",
+      "tier": 2,
+      "label": "India outside",
+      "kind": "concept",
+      "rel": "position",
+      "note": "Has not ratified; nor have the US, China or Russia."
+     },
+     {
+      "id": "oc-itlos",
+      "parent": "oc-root",
+      "tier": 1,
+      "label": "ITLOS",
+      "kind": "institution",
+      "rel": "court",
+      "note": "At Hamburg, under UNCLOS, for maritime disputes."
+     },
+     {
+      "id": "oc-unclos",
+      "parent": "oc-itlos",
+      "tier": 2,
+      "label": "UNCLOS",
+      "kind": "agreement",
+      "rel": "source",
+      "note": "The law of the sea convention behind it."
+     },
+     {
+      "id": "oc-pca",
+      "parent": "oc-root",
+      "tier": 1,
+      "label": "Permanent Court of Arbitration",
+      "kind": "institution",
+      "rel": "registry",
+      "note": "Hague Convention 1899; administers tribunals."
+     },
+     {
+      "id": "oc-scs",
+      "parent": "oc-pca",
+      "tier": 2,
+      "label": "South China Sea, 2016",
+      "kind": "case",
+      "rel": "award",
+      "note": "Brought by the Philippines; rejected the nine-dash line."
+     },
+     {
+      "id": "oc-vienna",
+      "parent": "oc-jadhav",
+      "tier": 3,
+      "label": "Vienna Convention, 1963",
+      "kind": "agreement",
+      "rel": "instrument",
+      "note": "On consular relations, including access to detainees."
+     }
+    ]
+   },
+   "sources": []
+  }
+ ],
+ "passages": [
+  {
+   "id": "orgs-p1",
+   "kind": "static",
+   "month": "orgs",
+   "topicIds": [
+    "org-envtreaties"
+   ],
+   "category": "Environment",
+   "tags": [
+    "Paris Agreement",
+    "UNFCCC"
+   ],
+   "difficulty": 2,
+   "title": "The climate treaty framework",
+   "passage": "The framework convention agreed at the 1992 summit in Rio de Janeiro did something unusual for an environmental treaty: it set an objective without setting any binding targets. Stabilising greenhouse gas concentrations at a safe level was the goal, and the details were left to later agreements negotiated by the annual conference of the parties.\n\nThe first of those, agreed in a Japanese city in 1997, took the principle of common but differentiated responsibilities literally. Binding reduction targets applied to industrialised countries listed in an annexure; developing countries, including the two most populous, had none. The United States signed but never ratified, and Canada withdrew. By the time its second commitment period began, the treaty covered a small and shrinking share of global emissions.\n\nThe agreement reached in 2015 abandoned that architecture entirely. Instead of targets negotiated from the top down and imposed on a defined list of countries, every party submits its own pledge, revises it upward every five years, and reports progress under a common transparency framework. Nothing in the pledges is legally enforceable; the obligations are to submit, to report and to review. The collective goal is to hold the increase in global average temperature to well below two degrees above pre-industrial levels, and to pursue efforts to limit it to one and a half.\n\nCritics call the design toothless. Its defenders point out that the earlier treaty, which did have teeth, was ratified by a group of countries that between them accounted for a declining fraction of the problem, while the later one has near-universal participation. The pledge submitted by India at the 2021 conference in Glasgow committed the country to a set of five targets, including reaching net zero emissions by a date two decades later than most industrialised countries have promised.",
+   "questions": [
+    {
+     "q": "The framework convention referred to in the first paragraph is the:",
+     "options": [
+      "Convention on Biological Diversity",
+      "United Nations Framework Convention on Climate Change",
+      "United Nations Convention to Combat Desertification",
+      "Vienna Convention"
+     ],
+     "answer": 1,
+     "explain": "The UNFCCC, agreed at Rio in 1992 and in force from 1994. The CBD and UNCCD also emerged from the Rio process but deal with biodiversity and desertification."
+    },
+    {
+     "q": "The 1997 agreement described in the second paragraph is the:",
+     "options": [
+      "Montreal Protocol",
+      "Kyoto Protocol",
+      "Nagoya Protocol",
+      "Cartagena Protocol"
+     ],
+     "answer": 1,
+     "explain": "The Kyoto Protocol, adopted in Kyoto in 1997. Montreal (1987) deals with ozone; Nagoya and Cartagena sit under the Convention on Biological Diversity."
+    },
+    {
+     "q": "Which feature distinguishes the 2015 agreement from its predecessor, on the passage?",
+     "options": [
+      "It imposes binding targets on all parties",
+      "It applies only to developing countries",
+      "Parties set their own pledges and revise them every five years",
+      "It replaced the framework convention entirely"
+     ],
+     "answer": 2,
+     "explain": "The Paris Agreement works through nationally determined contributions submitted by each party and revised on a five-year cycle. It sits under the UNFCCC rather than replacing it."
+    },
+    {
+     "q": "India’s net zero target, announced at the conference referred to in the final paragraph, is:",
+     "options": [
+      "2050",
+      "2060",
+      "2070",
+      "2047"
+     ],
+     "answer": 2,
+     "explain": "India committed to net zero by 2070 at COP26 in Glasgow, as part of the five Panchamrit commitments. 2047 is the target year for developed-nation status, not for net zero."
+    },
+    {
+     "q": "The principle described in the second paragraph as being taken literally is:",
+     "options": [
+      "The precautionary principle",
+      "The polluter pays principle",
+      "Common but differentiated responsibilities",
+      "Sustainable development"
+     ],
+     "answer": 2,
+     "explain": "Common but differentiated responsibilities, which underlies both Kyoto and Paris but was applied far more sharply in Kyoto through the Annex I list."
+    }
+   ]
+  },
+  {
+   "id": "orgs-p2",
+   "kind": "static",
+   "month": "orgs",
+   "topicIds": [],
+   "category": "International Organisations",
+   "tags": [
+    "United Nations",
+    "Security Council",
+    "Veto"
+   ],
+   "difficulty": 2,
+   "title": "The Council and the veto",
+   "passage": "The organ that the Charter charges with primary responsibility for international peace and security has fifteen members. Five of them hold their seats permanently and were, in 1945, the principal victors of the war just ended. The other ten are elected by the General Assembly for two-year terms on a regional formula, and cannot be re-elected immediately. Decisions on anything other than procedure need nine affirmative votes, and none of the permanent members may have voted against.\n\nThat last requirement is what people mean by the veto, though the word appears nowhere in the Charter. Practice has softened it in one respect: an abstention by a permanent member has been treated since the late 1940s as not blocking a resolution, a reading the International Court of Justice endorsed in 1971 despite the text speaking of concurring votes. Practice has hardened it in another: the threat of a veto is usually enough to keep a draft from ever being tabled.\n\nAttempts to work around the deadlock began early. In 1950, with the Soviet delegate boycotting the Council, the General Assembly adopted a resolution allowing itself to take up a matter and recommend collective measures when the Council fails to act because of a lack of unanimity. Since 2022, every veto cast automatically triggers a debate in the Assembly within ten working days, so that the casting state has to explain itself in public.\n\nReform of membership has moved nowhere. Four states that each support the others' claim to permanent seats have pressed the case since the early 2000s; a rival grouping, which prefers expanding only the non-permanent category, has blocked them. India has sat on the Council as an elected member eight times, most recently for 2021 and 2022.",
+   "questions": [
+    {
+     "q": "How many affirmative votes does a substantive Security Council resolution need?",
+     "options": [
+      "Eight",
+      "Nine",
+      "Ten",
+      "Eleven"
+     ],
+     "answer": 1,
+     "explain": "Nine of fifteen, with no permanent member voting against."
+    },
+    {
+     "q": "The permanent members are:",
+     "options": [
+      "China, France, Germany, Russia, United States",
+      "China, France, Russia, United Kingdom, United States",
+      "Brazil, China, India, Russia, United States",
+      "France, Japan, Russia, United Kingdom, United States"
+     ],
+     "answer": 1,
+     "explain": "China, France, Russia, the United Kingdom and the United States."
+    },
+    {
+     "q": "A permanent member that abstains:",
+     "options": [
+      "Blocks the resolution",
+      "Does not block the resolution",
+      "Forces a General Assembly vote",
+      "Loses its vote for that session"
+     ],
+     "answer": 1,
+     "explain": "Settled practice since 1946 treats abstention as not a veto, confirmed by the ICJ in the 1971 Namibia advisory opinion."
+    },
+    {
+     "q": "The 1950 General Assembly resolution referred to is:",
+     "options": [
+      "Uniting for Peace",
+      "The Declaration on Friendly Relations",
+      "The Definition of Aggression",
+      "Responsibility to Protect"
+     ],
+     "answer": 0,
+     "explain": "Uniting for Peace, Resolution 377(V), adopted during the Korean crisis."
+    },
+    {
+     "q": "The four states pressing jointly for permanent seats are known as:",
+     "options": [
+      "The G4",
+      "The Quad",
+      "Uniting for Consensus",
+      "The P5 plus one"
+     ],
+     "answer": 0,
+     "explain": "The G4: India, Brazil, Germany and Japan. Uniting for Consensus, sometimes called the Coffee Club, opposes them."
+    }
+   ]
+  },
+  {
+   "id": "orgs-p3",
+   "kind": "static",
+   "month": "orgs",
+   "topicIds": [
+    "org-bretton"
+   ],
+   "category": "International Organisations",
+   "tags": [
+    "Bretton Woods",
+    "IMF",
+    "World Bank"
+   ],
+   "difficulty": 3,
+   "title": "Three weeks in New Hampshire",
+   "passage": "Seven hundred delegates from forty-four allied nations gathered at a hotel in the White Mountains in July 1944, eleven months before the war in Europe ended, to design the monetary order that would follow it. The memory driving them was the decade before: countries that had devalued to steal each other's exports, raised tariffs in retaliation, and split the world into currency blocs, with the political consequences everyone in the room had just lived through.\n\nTwo rival plans were on the table. The British delegation, led by an economist who had predicted in 1919 that the reparations imposed on Germany would end badly, proposed an international clearing union with its own unit of account and, crucially, pressure on surplus countries as well as deficit ones to adjust. The American plan, from a Treasury official, put the dollar at the centre, tied it to gold, and placed the burden of adjustment on the deficit country alone. The United States held most of the world's gold and almost all of its intact industry, and the American plan is substantially what was adopted.\n\nTwo institutions emerged and both opened in 1945. One would lend to countries in balance of payments trouble and police exchange rates. The other would lend for reconstruction, and then, when European reconstruction turned out to be financed by a bilateral American programme instead, for development. India was a founding member of both.\n\nThe third pillar was never built as planned. A charter for an international trade organisation was negotiated at Havana and then refused by the American Senate, leaving a provisional tariff agreement signed in 1947 to carry world trade rules for forty-seven years, through eight rounds of negotiation, until the last of them finally produced a permanent body in 1995.",
+   "questions": [
+    {
+     "q": "The conference described was held in:",
+     "options": [
+      "1919",
+      "1944",
+      "1945",
+      "1947"
+     ],
+     "answer": 1,
+     "explain": "July 1944, at Bretton Woods, New Hampshire."
+    },
+    {
+     "q": "The British plan, unlike the American one, would have:",
+     "options": [
+      "Fixed all currencies to gold",
+      "Pressed surplus countries to adjust as well as deficit ones",
+      "Abolished tariffs entirely",
+      "Created a single world currency for retail use"
+     ],
+     "answer": 1,
+     "explain": "Keynes's clearing union placed adjustment pressure on creditors too; the American plan did not."
+    },
+    {
+     "q": "The two institutions that opened in 1945 were:",
+     "options": [
+      "The IMF and the WTO",
+      "The IMF and the World Bank",
+      "The World Bank and GATT",
+      "The UN and the IMF"
+     ],
+     "answer": 1,
+     "explain": "The International Monetary Fund and the International Bank for Reconstruction and Development."
+    },
+    {
+     "q": "The provisional agreement signed in 1947 was:",
+     "options": [
+      "The Havana Charter",
+      "The General Agreement on Tariffs and Trade",
+      "The Marshall Plan",
+      "The Bretton Woods Agreement"
+     ],
+     "answer": 1,
+     "explain": "GATT ran trade rules provisionally until the WTO was created."
+    },
+    {
+     "q": "The permanent trade body was finally created in:",
+     "options": [
+      "1971",
+      "1986",
+      "1995",
+      "2001"
+     ],
+     "answer": 2,
+     "explain": "The WTO came into being on 1 January 1995, out of the Uruguay Round."
+    }
+   ]
+  },
+  {
+   "id": "orgs-p4",
+   "kind": "static",
+   "month": "orgs",
+   "topicIds": [
+    "org-courts"
+   ],
+   "category": "International Organisations",
+   "tags": [
+    "ICJ",
+    "ICC",
+    "Jurisdiction"
+   ],
+   "difficulty": 3,
+   "title": "Two courts in one city",
+   "passage": "Both sit in The Hague and both are commonly called world courts, and almost nothing else about them is the same.\n\nThe older one was set up by the Charter in 1945 as the principal judicial organ of the organisation, inheriting the building and much of the practice of a predecessor from the League era. Fifteen judges sit for nine-year terms, elected by two organs of the parent body voting separately, and no two may hold the nationality of the same state. Its contentious jurisdiction extends only to disputes between states, and only where the states concerned have consented, whether by a clause in a treaty, by a special agreement, or by a general declaration accepting jurisdiction in advance. It has a second function with no equivalent elsewhere: on request from certain organs it delivers opinions that carry great authority and bind nobody, a combination that has produced findings on nuclear weapons, on a wall, and on the detachment of an archipelago from a colony before independence.\n\nThe younger one was created by a treaty adopted at Rome in 1998 and in force from 2002, and it is not part of the parent organisation at all. It prosecutes individuals, not states, for four categories of offence, and only where the national courts of the state concerned are unwilling or unable to act genuinely, a limitation known as complementarity. Its reach depends on ratification, and several of the largest states, including India, have declined to ratify. India's stated objections included the power given to the Security Council to refer situations and to defer them, the exclusion of terrorism from the listed crimes, and the independent power of the prosecutor to open an investigation.",
+   "questions": [
+    {
+     "q": "The court created in 1945 may hear contentious cases:",
+     "options": [
+      "Between individuals",
+      "Between states only",
+      "Between states and individuals",
+      "Between international organisations"
+     ],
+     "answer": 1,
+     "explain": "The ICJ's contentious jurisdiction is limited to states."
+    },
+    {
+     "q": "Its advisory opinions are:",
+     "options": [
+      "Binding on all UN members",
+      "Binding only on the requesting organ",
+      "Not binding on anyone",
+      "Binding once endorsed by the Security Council"
+     ],
+     "answer": 2,
+     "explain": "They carry authority but bind nobody, as the passage says."
+    },
+    {
+     "q": "The 1998 treaty referred to is:",
+     "options": [
+      "The Vienna Convention",
+      "The Rome Statute",
+      "The Geneva Conventions",
+      "The Hague Convention"
+     ],
+     "answer": 1,
+     "explain": "The Rome Statute of the International Criminal Court, in force from 2002."
+    },
+    {
+     "q": "Complementarity means the younger court acts only when:",
+     "options": [
+      "The Security Council refers the case",
+      "National courts are unwilling or unable to act genuinely",
+      "The accused consents",
+      "The state has ratified the treaty"
+     ],
+     "answer": 1,
+     "explain": "It is a court of last resort relative to national jurisdictions."
+    },
+    {
+     "q": "On the passage, one of India's objections was:",
+     "options": [
+      "The court sits in The Hague",
+      "The exclusion of terrorism from the listed crimes",
+      "The nine-year judicial term",
+      "The requirement of state consent"
+     ],
+     "answer": 1,
+     "explain": "India objected to terrorism's exclusion, to the Council's referral and deferral powers, and to the prosecutor's own initiative."
+    }
+   ]
+  }
+ ]
+}

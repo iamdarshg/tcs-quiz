@@ -1,0 +1,452 @@
+{
+  "id": "module-12",
+  "order": 12,
+  "label": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+  "blurb": "A focused six-fact drill set for Engineering, Architecture, Infrastructure, Energy and Climate Technology.",
+  "topics": [
+    {
+      "id": "module-12-civil-engineering",
+      "rank": 1,
+      "title": "Civil engineering",
+      "hook": "Civil engineering designs and maintains infrastructure including roads, bridges, water systems, and buildings.",
+      "explainer": "Civil engineering designs and maintains infrastructure including roads, bridges, water systems, and buildings. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Civil engineering",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Civil engineering encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Civil_engineering"
+          },
+          {
+            "label": "Civil engineering reference search",
+            "url": "https://www.britannica.com/search?query=Civil%20engineering"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-leed",
+            "relationship": "Infrastructure design and building assessment",
+            "fact": "Civil engineers design building systems, while LEED scores selected environmental features of completed or planned buildings."
+          },
+          {
+            "topicId": "module-12-renewable-energy",
+            "relationship": "Infrastructure for low-carbon power",
+            "fact": "Renewable projects require engineered foundations, roads, grids, drainage, and other civil works."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-12-renewable-energy",
+      "rank": 2,
+      "title": "Renewable energy",
+      "hook": "Renewable energy comes from sources naturally replenished on human timescales, such as sunlight and wind.",
+      "explainer": "Renewable energy comes from sources naturally replenished on human timescales, such as sunlight and wind. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Renewable energy",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Renewable energy encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Renewable_energy"
+          },
+          {
+            "label": "Renewable energy reference search",
+            "url": "https://www.britannica.com/search?query=Renewable%20energy"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-solar-photovoltaic",
+            "relationship": "Broad category and specific technology",
+            "fact": "Solar photovoltaic power is one renewable option that converts sunlight directly into electricity."
+          },
+          {
+            "topicId": "module-12-wind-turbine",
+            "relationship": "Two replenished energy sources",
+            "fact": "Wind turbines and solar panels generate electricity from naturally replenished flows without burning fuel during operation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-12-solar-photovoltaic",
+      "rank": 3,
+      "title": "Solar photovoltaic",
+      "hook": "Solar photovoltaic cells convert sunlight directly into electricity.",
+      "explainer": "Solar photovoltaic cells convert sunlight directly into electricity. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Solar photovoltaic",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Solar photovoltaic encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Solar_photovoltaic"
+          },
+          {
+            "label": "Solar photovoltaic reference search",
+            "url": "https://www.britannica.com/search?query=Solar%20photovoltaic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-renewable-energy",
+            "relationship": "Specific form of renewable generation",
+            "fact": "Photovoltaic cells turn sunlight into electricity and therefore sit within the wider renewable-energy category."
+          },
+          {
+            "topicId": "module-12-green-hydrogen",
+            "relationship": "Electricity source for electrolysis",
+            "fact": "Solar power can run an electrolyser, allowing hydrogen to be labelled green when the electricity is renewable."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-12-wind-turbine",
+      "rank": 4,
+      "title": "Wind turbine",
+      "hook": "A wind turbine converts the kinetic energy of wind into electrical energy.",
+      "explainer": "A wind turbine converts the kinetic energy of wind into electrical energy. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Wind turbine",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Wind turbine encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Wind_turbine"
+          },
+          {
+            "label": "Wind turbine reference search",
+            "url": "https://www.britannica.com/search?query=Wind%20turbine"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-renewable-energy",
+            "relationship": "Wind as a renewable source",
+            "fact": "The turbine converts replenished wind energy into electricity without consuming the wind as a fuel."
+          },
+          {
+            "topicId": "module-12-green-hydrogen",
+            "relationship": "Renewable input to hydrogen production",
+            "fact": "Electricity from wind turbines can power water electrolysis used to produce green hydrogen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-12-green-hydrogen",
+      "rank": 5,
+      "title": "Green hydrogen",
+      "hook": "Green hydrogen is produced by using renewable electricity to split water through electrolysis.",
+      "explainer": "Green hydrogen is produced by using renewable electricity to split water through electrolysis. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Green hydrogen",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Green hydrogen encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Green_hydrogen"
+          },
+          {
+            "label": "Green hydrogen reference search",
+            "url": "https://www.britannica.com/search?query=Green%20hydrogen"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-solar-photovoltaic",
+            "relationship": "Solar electricity for electrolysis",
+            "fact": "Solar photovoltaic output can power the water-splitting process that qualifies the hydrogen as green."
+          },
+          {
+            "topicId": "module-12-wind-turbine",
+            "relationship": "Wind electricity for electrolysis",
+            "fact": "Wind generation is another renewable supply for electrolysers producing low-carbon hydrogen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-12-leed",
+      "rank": 6,
+      "title": "LEED",
+      "hook": "LEED is a green-building rating system that assesses environmental performance of buildings.",
+      "explainer": "LEED is a green-building rating system that assesses environmental performance of buildings. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "LEED",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "LEED encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/LEED"
+          },
+          {
+            "label": "LEED reference search",
+            "url": "https://www.britannica.com/search?query=LEED"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-civil-engineering",
+            "relationship": "Rating framework applied to buildings",
+            "fact": "LEED evaluates building sustainability choices that architects and civil engineers incorporate into design and construction."
+          },
+          {
+            "topicId": "module-12-renewable-energy",
+            "relationship": "Clean-energy credit within green buildings",
+            "fact": "On-site renewable generation can contribute to a building's environmental performance and LEED score."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-12-q-01",
+      "module": "module-12",
+      "topicId": "module-12-civil-engineering",
+      "difficulty": 1,
+      "q": "Which project falls most directly under civil engineering?",
+      "options": [
+        "Designing a bridge foundation",
+        "Designing a jet-engine compressor",
+        "Laying out a microprocessor circuit",
+        "Formulating a new antibiotic"
+      ],
+      "answer": 0,
+      "explanation": "Civil engineering covers the design and maintenance of structures and infrastructure such as bridges, roads, water systems, and buildings.",
+      "optionFamily": "engineering discipline projects",
+      "optionDomains": [
+        "engineering discipline projects",
+        "engineering discipline projects",
+        "engineering discipline projects",
+        "engineering discipline projects"
+      ]
+    },
+    {
+      "id": "module-12-q-02",
+      "module": "module-12",
+      "topicId": "module-12-renewable-energy",
+      "difficulty": 2,
+      "q": "Which source is naturally replenished on a human timescale?",
+      "options": [
+        "Coal seam",
+        "Crude oil reservoir",
+        "Sunlight",
+        "Natural gas field"
+      ],
+      "answer": 2,
+      "explanation": "Sunlight is continuously replenished and supports solar generation, unlike finite fossil-fuel deposits formed over geological time.",
+      "optionFamily": "energy source renewability",
+      "optionDomains": [
+        "energy source renewability",
+        "energy source renewability",
+        "energy source renewability",
+        "energy source renewability"
+      ]
+    },
+    {
+      "id": "module-12-q-03",
+      "module": "module-12",
+      "topicId": "module-12-solar-photovoltaic",
+      "difficulty": 3,
+      "q": "What conversion occurs inside a solar photovoltaic cell?",
+      "options": [
+        "Sunlight directly to electricity",
+        "Moving air directly to electricity",
+        "Chemical fuel to heat and then electricity",
+        "Electricity to stored chemical energy"
+      ],
+      "answer": 0,
+      "explanation": "Photovoltaic materials produce an electric current when illuminated, avoiding a mechanical turbine in the direct conversion step.",
+      "optionFamily": "energy conversion pathways",
+      "optionDomains": [
+        "energy conversion pathways",
+        "energy conversion pathways",
+        "energy conversion pathways",
+        "energy conversion pathways"
+      ]
+    },
+    {
+      "id": "module-12-q-04",
+      "module": "module-12",
+      "topicId": "module-12-wind-turbine",
+      "difficulty": 1,
+      "q": "A rotor turns because moving air has kinetic energy. What output does the generator produce?",
+      "options": [
+        "Electrical energy",
+        "Mechanical energy stored only in the blades",
+        "Chemical energy in a fuel tank",
+        "Solar radiation"
+      ],
+      "answer": 0,
+      "explanation": "The rotor and drive train convert wind motion into mechanical rotation, and the generator converts that rotation into electricity.",
+      "optionFamily": "wind turbine generator outputs",
+      "optionDomains": [
+        "wind turbine generator outputs",
+        "wind turbine generator outputs",
+        "wind turbine generator outputs",
+        "wind turbine generator outputs"
+      ]
+    },
+    {
+      "id": "module-12-q-05",
+      "module": "module-12",
+      "topicId": "module-12-green-hydrogen",
+      "difficulty": 2,
+      "q": "Which production route qualifies hydrogen as green?",
+      "options": [
+        "Electrolysis powered by renewable electricity",
+        "Coal gasification without carbon controls",
+        "Oil refining alone",
+        "Natural-gas combustion without capture"
+      ],
+      "answer": 0,
+      "explanation": "Green hydrogen is made by splitting water in an electrolyser whose electricity comes from renewable generation.",
+      "optionFamily": "hydrogen production pathways",
+      "optionDomains": [
+        "hydrogen production pathways",
+        "hydrogen production pathways",
+        "hydrogen production pathways",
+        "hydrogen production pathways"
+      ]
+    },
+    {
+      "id": "module-12-q-06",
+      "module": "module-12",
+      "topicId": "module-12-leed",
+      "difficulty": 3,
+      "q": "What does LEED evaluate?",
+      "options": [
+        "Environmental performance of buildings",
+        "Fuel economy of road vehicles",
+        "Frequency stability of electricity grids",
+        "Aerodynamic efficiency of turbine blades"
+      ],
+      "answer": 0,
+      "explanation": "LEED is a green-building rating framework covering areas such as energy, water, materials, sites, and indoor environmental quality.",
+      "optionFamily": "building environmental rating measures",
+      "optionDomains": [
+        "building environmental rating measures",
+        "building environmental rating measures",
+        "building environmental rating measures",
+        "building environmental rating measures"
+      ]
+    },
+    {
+      "id": "module-12-q-07",
+      "module": "module-12",
+      "topicId": "module-12-civil-engineering",
+      "difficulty": 1,
+      "q": "How can civil engineering enable a wind farm?",
+      "options": [
+        "By designing foundations, roads, and grid-related works",
+        "By designing the blade aerodynamics and rotor profile",
+        "By programming the generator-control electronics",
+        "By forecasting wind speed for daily market bids"
+      ],
+      "answer": 0,
+      "explanation": "Turbines require substantial engineered foundations, access infrastructure, drainage, and connections before electrical generation can operate safely.",
+      "optionFamily": "wind-farm engineering roles",
+      "optionDomains": [
+        "wind-farm engineering roles",
+        "wind-farm engineering roles",
+        "wind-farm engineering roles",
+        "wind-farm engineering roles"
+      ]
+    },
+    {
+      "id": "module-12-q-08",
+      "module": "module-12",
+      "topicId": "module-12-solar-photovoltaic",
+      "difficulty": 2,
+      "q": "A solar array powers an electrolyser. What product connects the two topics?",
+      "options": [
+        "Green hydrogen",
+        "Green ammonia",
+        "Synthetic methane",
+        "Methanol"
+      ],
+      "answer": 0,
+      "explanation": "Renewable solar electricity can split water into hydrogen and oxygen, making the resulting hydrogen a green fuel feedstock.",
+      "optionFamily": "renewable electrolysis products",
+      "optionDomains": [
+        "renewable electrolysis products",
+        "renewable electrolysis products",
+        "renewable electrolysis products",
+        "renewable electrolysis products"
+      ]
+    },
+    {
+      "id": "module-12-q-09",
+      "module": "module-12",
+      "topicId": "module-12-renewable-energy",
+      "difficulty": 3,
+      "q": "Which comparison correctly distinguishes solar power from wind power?",
+      "options": [
+        "Solar PV converts light; wind turbines convert moving air",
+        "Solar PV and wind turbines both require fuel combustion in the generator",
+        "Wind turbines convert sunlight directly while solar panels convert air motion",
+        "Solar PV produces mechanical shaft rotation before generating electricity"
+      ],
+      "answer": 0,
+      "explanation": "Solar cells use the photovoltaic effect, whereas turbines first capture wind's kinetic energy through rotating blades.",
+      "optionFamily": "solar and wind conversion comparisons",
+      "optionDomains": [
+        "solar and wind conversion comparisons",
+        "solar and wind conversion comparisons",
+        "solar and wind conversion comparisons",
+        "solar and wind conversion comparisons"
+      ]
+    },
+    {
+      "id": "module-12-q-10",
+      "module": "module-12",
+      "topicId": "module-12-leed",
+      "difficulty": 1,
+      "q": "A building earns a sustainability rating. Which claim would be a trap?",
+      "options": [
+        "LEED assesses building performance",
+        "Renewable energy may contribute to credits",
+        "LEED itself generates electricity",
+        "Civil engineers may help implement rated features"
+      ],
+      "answer": 2,
+      "explanation": "LEED measures and certifies design outcomes; it is a rating system, not a technology that produces power.",
+      "optionFamily": "LEED building-rating claims",
+      "optionDomains": [
+        "LEED building-rating claims",
+        "LEED building-rating claims",
+        "LEED building-rating claims",
+        "LEED building-rating claims"
+      ]
+    }
+  ]
+}

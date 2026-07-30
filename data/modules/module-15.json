@@ -1,0 +1,452 @@
+{
+  "id": "module-15",
+  "order": 15,
+  "label": "General-Awareness Safety Net",
+  "blurb": "A focused six-fact drill set for General-Awareness Safety Net.",
+  "topics": [
+    {
+      "id": "module-15-united-nations",
+      "rank": 1,
+      "title": "United Nations",
+      "hook": "The United Nations was founded in 1945 to promote international peace, cooperation, and development.",
+      "explainer": "The United Nations was founded in 1945 to promote international peace, cooperation, and development. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "General-Awareness Safety Net",
+      "tags": [
+        "United Nations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "United Nations encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/United_Nations"
+          },
+          {
+            "label": "United Nations reference search",
+            "url": "https://www.britannica.com/search?query=United%20Nations"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-suez-canal",
+            "relationship": "UN peacekeeping after the Suez Crisis",
+            "fact": "The UN General Assembly created the first United Nations Emergency Force after the 1956 Suez Crisis to supervise the end of hostilities and withdrawal from Egyptian territory."
+          },
+          {
+            "topicId": "module-15-olympic-games",
+            "relationship": "Formal UN–IOC cooperation",
+            "fact": "The International Olympic Committee has held UN General Assembly observer status since 2009, and the Assembly regularly adopts an Olympic Truce resolution."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-15-indian-constitution",
+      "rank": 2,
+      "title": "Indian Constitution",
+      "hook": "The Constitution of India came into effect on 26 January 1950.",
+      "explainer": "The Constitution of India came into effect on 26 January 1950. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "General-Awareness Safety Net",
+      "tags": [
+        "Indian Constitution",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Indian Constitution encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Indian_Constitution"
+          },
+          {
+            "label": "Indian Constitution reference search",
+            "url": "https://www.britannica.com/search?query=Indian%20Constitution"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-bharat-ratna",
+            "relationship": "Republican framework and national honour",
+            "fact": "The Constitution establishes India's republic; the Bharat Ratna is a civilian award created by government notification, not by a constitutional article."
+          },
+          {
+            "topicId": "module-15-united-nations",
+            "relationship": "Domestic supreme law and international charter",
+            "fact": "India's Constitution governs the Indian state, while the UN Charter creates duties within an international organisation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-15-nobel-prize",
+      "rank": 3,
+      "title": "Nobel Prize",
+      "hook": "The Nobel Prizes were established through the will of Alfred Nobel.",
+      "explainer": "The Nobel Prizes were established through the will of Alfred Nobel. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "General-Awareness Safety Net",
+      "tags": [
+        "Nobel Prize",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Nobel Prize encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Nobel_Prize"
+          },
+          {
+            "label": "Nobel Prize reference search",
+            "url": "https://www.britannica.com/search?query=Nobel%20Prize"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-bharat-ratna",
+            "relationship": "International prize and Indian civilian honour",
+            "fact": "Nobel Prizes follow Alfred Nobel's will and specified fields; the Bharat Ratna recognises exceptional service without being a Nobel category."
+          },
+          {
+            "topicId": "module-15-olympic-games",
+            "relationship": "Global recognition in scholarship and sport",
+            "fact": "Nobel laureates are selected for achievements in defined fields, while Olympic medals are won in international athletic competition."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-15-olympic-games",
+      "rank": 4,
+      "title": "Olympic Games",
+      "hook": "The modern Olympic Games were revived in Athens in 1896.",
+      "explainer": "The modern Olympic Games were revived in Athens in 1896. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "General-Awareness Safety Net",
+      "tags": [
+        "Olympic Games",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Olympic Games encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Olympic_Games"
+          },
+          {
+            "label": "Olympic Games reference search",
+            "url": "https://www.britannica.com/search?query=Olympic%20Games"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-nobel-prize",
+            "relationship": "International achievement awards with different bases",
+            "fact": "Olympic medals reward sporting performance at the Games, while Nobel Prizes recognise work in fields named by Nobel’s will."
+          },
+          {
+            "topicId": "module-15-united-nations",
+            "relationship": "Olympic Truce and UN observer status",
+            "fact": "The UN General Assembly supports the Olympic Truce, and the International Olympic Committee participates in Assembly work as a permanent observer."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-15-suez-canal",
+      "rank": 5,
+      "title": "Suez Canal",
+      "hook": "The Suez Canal connects the Mediterranean Sea and the Red Sea through Egypt.",
+      "explainer": "The Suez Canal connects the Mediterranean Sea and the Red Sea through Egypt. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "General-Awareness Safety Net",
+      "tags": [
+        "Suez Canal",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Suez Canal encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+          },
+          {
+            "label": "Suez Canal reference search",
+            "url": "https://www.britannica.com/search?query=Suez%20Canal"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-united-nations",
+            "relationship": "Suez Crisis and UN peacekeeping",
+            "fact": "The 1956 Suez Crisis led the UN General Assembly to establish the first United Nations Emergency Force for deployment in and around Egypt."
+          },
+          {
+            "topicId": "module-15-nobel-prize",
+            "relationship": "Sadat’s canal reopening and peace diplomacy",
+            "fact": "Egyptian President Anwar Sadat reopened the Suez Canal in 1975 and later shared the 1978 Nobel Peace Prize for the Camp David peace framework."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-15-bharat-ratna",
+      "rank": 6,
+      "title": "Bharat Ratna",
+      "hook": "The Bharat Ratna is India's highest civilian award.",
+      "explainer": "The Bharat Ratna is India's highest civilian award. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "General-Awareness Safety Net",
+      "tags": [
+        "Bharat Ratna",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Bharat Ratna encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Bharat_Ratna"
+          },
+          {
+            "label": "Bharat Ratna reference search",
+            "url": "https://www.britannica.com/search?query=Bharat%20Ratna"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-indian-constitution",
+            "relationship": "National honour outside the constitutional text",
+            "fact": "The award belongs to the Republic of India but was instituted by executive notification in 1954 rather than created by the Constitution."
+          },
+          {
+            "topicId": "module-15-nobel-prize",
+            "relationship": "Civilian honour versus international prize",
+            "fact": "Bharat Ratna recognises exceptional service in India; Nobel Prizes are international awards funded under Alfred Nobel's will."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-15-q-01",
+      "module": "module-15",
+      "topicId": "module-15-united-nations",
+      "difficulty": 1,
+      "q": "In which year was the United Nations founded?",
+      "options": [
+        "1896",
+        "1945",
+        "1950",
+        "1954"
+      ],
+      "answer": 1,
+      "explanation": "The UN was created in 1945 after the Second World War to support peace, cooperation, development, and international law.",
+      "optionFamily": "twentieth-century institutional founding years",
+      "optionDomains": [
+        "twentieth-century institutional founding years",
+        "twentieth-century institutional founding years",
+        "twentieth-century institutional founding years",
+        "twentieth-century institutional founding years"
+      ]
+    },
+    {
+      "id": "module-15-q-02",
+      "module": "module-15",
+      "topicId": "module-15-indian-constitution",
+      "difficulty": 2,
+      "q": "When did the Constitution of India come into effect?",
+      "options": [
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1950",
+        "2 October 1950"
+      ],
+      "answer": 2,
+      "explanation": "The Constituent Assembly adopted the text on 26 November 1949, but commencement occurred on Republic Day, 26 January 1950.",
+      "optionFamily": "Indian constitutional milestone dates",
+      "optionDomains": [
+        "Indian constitutional milestone dates",
+        "Indian constitutional milestone dates",
+        "Indian constitutional milestone dates",
+        "Indian constitutional milestone dates"
+      ]
+    },
+    {
+      "id": "module-15-q-03",
+      "module": "module-15",
+      "topicId": "module-15-nobel-prize",
+      "difficulty": 3,
+      "q": "Whose will established the Nobel Prizes?",
+      "options": [
+        "Pierre de Coubertin",
+        "Alfred Nobel",
+        "Andrew Carnegie",
+        "Henry Dunant"
+      ],
+      "answer": 1,
+      "explanation": "Alfred Nobel directed most of his estate to prizes in named fields, creating the basis for the international awards.",
+      "optionFamily": "international prize founders",
+      "optionDomains": [
+        "international prize founders",
+        "international prize founders",
+        "international prize founders",
+        "international prize founders"
+      ]
+    },
+    {
+      "id": "module-15-q-04",
+      "module": "module-15",
+      "topicId": "module-15-olympic-games",
+      "difficulty": 1,
+      "q": "Where were the first modern Olympic Games held in 1896?",
+      "options": [
+        "Paris",
+        "Athens",
+        "London",
+        "Stockholm"
+      ],
+      "answer": 1,
+      "explanation": "Athens hosted the first modern Olympics in 1896, reviving an international festival inspired by the ancient Greek Games.",
+      "optionFamily": "modern Olympic host cities",
+      "optionDomains": [
+        "modern Olympic host cities",
+        "modern Olympic host cities",
+        "modern Olympic host cities",
+        "modern Olympic host cities"
+      ]
+    },
+    {
+      "id": "module-15-q-05",
+      "module": "module-15",
+      "topicId": "module-15-suez-canal",
+      "difficulty": 2,
+      "q": "Which two seas does the Suez Canal connect?",
+      "options": [
+        "Black Sea and Caspian Sea",
+        "Mediterranean Sea and Red Sea",
+        "Arabian Sea and Bay of Bengal",
+        "Baltic Sea and North Sea"
+      ],
+      "answer": 1,
+      "explanation": "The Egyptian canal links the Mediterranean with the Red Sea, shortening the Europe-Asia sea route by avoiding Africa's southern tip.",
+      "optionFamily": "strategic waterway sea connections",
+      "optionDomains": [
+        "strategic waterway sea connections",
+        "strategic waterway sea connections",
+        "strategic waterway sea connections",
+        "strategic waterway sea connections"
+      ]
+    },
+    {
+      "id": "module-15-q-06",
+      "module": "module-15",
+      "topicId": "module-15-bharat-ratna",
+      "difficulty": 3,
+      "q": "What rank does the Bharat Ratna hold among Indian civilian awards?",
+      "options": [
+        "Second-highest Indian civilian award",
+        "Highest Indian civilian award",
+        "Highest Indian wartime gallantry award",
+        "Highest Indian literary honour"
+      ],
+      "answer": 1,
+      "explanation": "Instituted in 1954, the Bharat Ratna is India's highest civilian honour for exceptional service or performance.",
+      "optionFamily": "Indian national award precedence",
+      "optionDomains": [
+        "Indian national award precedence",
+        "Indian national award precedence",
+        "Indian national award precedence",
+        "Indian national award precedence"
+      ]
+    },
+    {
+      "id": "module-15-q-07",
+      "module": "module-15",
+      "topicId": "module-15-united-nations",
+      "difficulty": 1,
+      "q": "Which statement avoids confusing the UN with the Indian Constitution?",
+      "options": [
+        "The UN is an international organisation; the Constitution is India's supreme domestic law",
+        "Both are the same 1950 statute",
+        "The Constitution created every UN agency",
+        "The UN administers the Bharat Ratna"
+      ],
+      "answer": 0,
+      "explanation": "The UN Charter governs an intergovernmental body, while India's Constitution structures national government and rights within India.",
+      "optionFamily": "UN and Indian Constitution comparisons",
+      "optionDomains": [
+        "UN and Indian Constitution comparisons",
+        "UN and Indian Constitution comparisons",
+        "UN and Indian Constitution comparisons",
+        "UN and Indian Constitution comparisons"
+      ]
+    },
+    {
+      "id": "module-15-q-08",
+      "module": "module-15",
+      "topicId": "module-15-nobel-prize",
+      "difficulty": 2,
+      "q": "Which comparison with the Bharat Ratna is accurate?",
+      "options": [
+        "Both are Olympic medals",
+        "Nobel Prizes are international awards; Bharat Ratna is an Indian civilian honour",
+        "Both were created by the Indian Constitution",
+        "Bharat Ratna follows Alfred Nobel's will"
+      ],
+      "answer": 1,
+      "explanation": "The awards differ in origin, scope, and selection even though both recognise exceptional human achievement.",
+      "optionFamily": "international and Indian honour comparisons",
+      "optionDomains": [
+        "international and Indian honour comparisons",
+        "international and Indian honour comparisons",
+        "international and Indian honour comparisons",
+        "international and Indian honour comparisons"
+      ]
+    },
+    {
+      "id": "module-15-q-09",
+      "module": "module-15",
+      "topicId": "module-15-suez-canal",
+      "difficulty": 3,
+      "q": "Which event occurred first?",
+      "options": [
+        "Opening of the Suez Canal in 1869",
+        "First modern Olympics in 1896",
+        "UN founding in 1945",
+        "Indian Constitution commencement in 1950"
+      ],
+      "answer": 0,
+      "explanation": "The canal opened in 1869, followed by Athens 1896, the United Nations in 1945, and constitutional commencement in 1950.",
+      "optionFamily": "nineteenth and twentieth-century milestone chronology",
+      "optionDomains": [
+        "nineteenth and twentieth-century milestone chronology",
+        "nineteenth and twentieth-century milestone chronology",
+        "nineteenth and twentieth-century milestone chronology",
+        "nineteenth and twentieth-century milestone chronology"
+      ]
+    },
+    {
+      "id": "module-15-q-10",
+      "module": "module-15",
+      "topicId": "module-15-bharat-ratna",
+      "difficulty": 1,
+      "q": "Which claim about the Bharat Ratna is incorrect?",
+      "options": [
+        "It is India's highest civilian award",
+        "It was instituted in 1954",
+        "It was created by a specific article of the Constitution",
+        "It recognises exceptional service"
+      ],
+      "answer": 2,
+      "explanation": "The government instituted Bharat Ratna by notification; no constitutional article creates the award.",
+      "optionFamily": "Bharat Ratna constitutional-status claims",
+      "optionDomains": [
+        "Bharat Ratna constitutional-status claims",
+        "Bharat Ratna constitutional-status claims",
+        "Bharat Ratna constitutional-status claims",
+        "Bharat Ratna constitutional-status claims"
+      ]
+    }
+  ]
+}

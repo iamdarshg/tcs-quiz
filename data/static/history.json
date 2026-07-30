@@ -1,0 +1,3226 @@
+{
+ "id": "history",
+ "kind": "static",
+ "label": "Modern Indian History",
+ "order": 3,
+ "blurb": "From Plassey to Partition, ranked by exam frequency. Dates, sessions, pacts and the people who were actually in the room.",
+ "topics": [
+  {
+   "id": "his-gandhi-movements",
+   "rank": 1,
+   "depth": "deep",
+   "importance": 5,
+   "title": "Gandhi’s three mass movements and what triggered each",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Gandhi",
+    "Non-Cooperation",
+    "Civil Disobedience",
+    "Quit India"
+   ],
+   "hook": "Non-Cooperation in 1920, Civil Disobedience in 1930, Quit India in 1942. Three movements, three triggers, three different ways of ending.",
+   "story": "Gandhi returned from South Africa in **1915**. His first Indian campaigns were local: **Champaran (1917)** against indigo planters in Bihar, his first satyagraha in India; **Ahmedabad mill workers (1918)**, his first hunger strike; and **Kheda (1918)** against revenue collection after crop failure, his first non-cooperation.\n\n**Non-Cooperation, 1920-22.** Triggered by the **Rowlatt Act (1919)**, which allowed detention without trial and was called the black act, and by the **Jallianwala Bagh massacre of 13 April 1919**, where General Dyer's troops fired on a crowd at Amritsar. The Khilafat grievance over the treatment of the Ottoman Caliph after the First World War brought Muslim leaders, the Ali brothers, into alliance. Adopted at the Nagpur session of 1920. Boycott of schools, courts, councils, foreign cloth and titles. Gandhi returned his Kaiser-i-Hind medal. It ended abruptly when a crowd burned a police station at **Chauri Chaura** in Gorakhpur on **5 February 1922**, killing 22 policemen; Gandhi suspended the movement on 12 February, to the anger of Motilal Nehru, C.R. Das and Subhas Bose.\n\n**Civil Disobedience, 1930-34.** Triggered by the **Simon Commission (1927)**, an all-white statutory commission with no Indian member, met with \"Simon Go Back\"; by the rejection of the **Nehru Report (1928)**; and by the **Lahore session of December 1929**, which declared **Purna Swaraj** and fixed 26 January 1930 as Independence Day. Gandhi launched it with the **Dandi March**, 12 March to 6 April 1930, walking 240 miles from Sabarmati to break the salt law. Suspended by the **Gandhi-Irwin Pact of March 1931**, resumed after the second Round Table Conference failed, and called off in 1934.\n\n**Quit India, 1942.** Triggered by the failure of the **Cripps Mission** and the advance of Japan. The resolution was passed in Bombay on **8 August 1942**; \"Do or Die\" was the slogan. The entire leadership was arrested within hours, and the movement was leaderless and largely spontaneous. Aruna Asaf Ali hoisted the flag at Gowalia Tank; Jayaprakash Narayan, Ram Manohar Lohia and Usha Mehta, who ran an underground radio, led from below.",
+   "facts": [
+    {
+     "k": "First satyagraha in India",
+     "v": "Champaran, 1917"
+    },
+    {
+     "k": "Rowlatt Act",
+     "v": "1919, detention without trial"
+    },
+    {
+     "k": "Jallianwala Bagh",
+     "v": "13 April 1919, Amritsar, General Dyer"
+    },
+    {
+     "k": "Non-Cooperation adopted",
+     "v": "Nagpur session, 1920"
+    },
+    {
+     "k": "Chauri Chaura",
+     "v": "5 February 1922, Gorakhpur"
+    },
+    {
+     "k": "Purna Swaraj declared",
+     "v": "Lahore session, December 1929"
+    },
+    {
+     "k": "Dandi March",
+     "v": "12 March to 6 April 1930, 240 miles, Sabarmati to Dandi"
+    },
+    {
+     "k": "Quit India resolution",
+     "v": "8 August 1942, Bombay"
+    },
+    {
+     "k": "Quit India slogan",
+     "v": "Do or Die"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1917",
+     "what": "Champaran"
+    },
+    {
+     "when": "1919",
+     "what": "Rowlatt Act and Jallianwala Bagh"
+    },
+    {
+     "when": "1920",
+     "what": "Non-Cooperation begins at Nagpur"
+    },
+    {
+     "when": "1922",
+     "what": "Chauri Chaura, movement suspended"
+    },
+    {
+     "when": "1929",
+     "what": "Lahore session, Purna Swaraj"
+    },
+    {
+     "when": "1930",
+     "what": "Dandi March"
+    },
+    {
+     "when": "1931",
+     "what": "Gandhi-Irwin Pact"
+    },
+    {
+     "when": "1942",
+     "what": "Quit India"
+    }
+   ],
+   "why": "The reliable question is which event triggered which movement, and which movement was called off after which incident. Chauri Chaura and the Gandhi-Irwin Pact are the two the paper reaches for.",
+   "map": {
+    "nodes": [
+     {
+      "id": "rowlatt",
+      "parent": "root",
+      "tier": 1,
+      "label": "Rowlatt Act (1919)",
+      "kind": "law",
+      "rel": "trigger",
+      "note": "Anarchical and Revolutionary Crimes Act. Detention without trial. \"No vakil, no appeal, no daleel.\""
+     },
+     {
+      "id": "jallian",
+      "parent": "root",
+      "tier": 1,
+      "label": "Jallianwala Bagh (1919)",
+      "kind": "event",
+      "rel": "trigger",
+      "note": "13 April 1919, Baisakhi. General Reginald Dyer ordered firing on an enclosed crowd. Tagore returned his knighthood in protest."
+     },
+     {
+      "id": "chauri",
+      "parent": "root",
+      "tier": 1,
+      "label": "Chauri Chaura (1922)",
+      "kind": "event",
+      "rel": "ended Non-Cooperation",
+      "note": "5 February 1922, Gorakhpur district. A mob burned a police station killing 22 policemen. Gandhi suspended the movement a week later."
+     },
+     {
+      "id": "dandi",
+      "parent": "root",
+      "tier": 1,
+      "label": "Dandi March (1930)",
+      "kind": "event",
+      "rel": "launched Civil Disobedience",
+      "note": "240 miles over 24 days with 78 followers, from Sabarmati Ashram to Dandi, to make salt in breach of the salt law."
+     },
+     {
+      "id": "quit",
+      "parent": "root",
+      "tier": 1,
+      "label": "Quit India (1942)",
+      "kind": "event",
+      "rel": "the last movement",
+      "note": "8 August 1942, Gowalia Tank, Bombay. Leadership arrested within hours under Operation Zero Hour."
+     },
+     {
+      "id": "khilafat",
+      "parent": "rowlatt",
+      "tier": 2,
+      "label": "Khilafat Movement",
+      "kind": "event",
+      "rel": "allied cause",
+      "note": "Led by the Ali brothers, Shaukat and Mohammad Ali, over the treatment of the Ottoman Caliph. Ended when Turkey abolished the Caliphate in 1924."
+     },
+     {
+      "id": "simon",
+      "parent": "dandi",
+      "tier": 2,
+      "label": "Simon Commission (1927)",
+      "kind": "event",
+      "rel": "trigger",
+      "note": "Seven British members, no Indian. Lala Lajpat Rai was injured in a lathi charge at Lahore protesting it and died weeks later."
+     },
+     {
+      "id": "lahore",
+      "parent": "dandi",
+      "tier": 2,
+      "label": "Lahore session (1929)",
+      "kind": "event",
+      "rel": "declared Purna Swaraj",
+      "note": "Presided over by Jawaharlal Nehru. Fixed 26 January 1930 as Independence Day, the date reused in 1950."
+     },
+     {
+      "id": "irwin",
+      "parent": "dandi",
+      "tier": 2,
+      "label": "Gandhi-Irwin Pact (1931)",
+      "kind": "event",
+      "rel": "suspended it",
+      "note": "Signed 5 March 1931. Political prisoners released, salt-making allowed for personal use, Gandhi to attend the Second Round Table Conference."
+     },
+     {
+      "id": "cripps",
+      "parent": "quit",
+      "tier": 2,
+      "label": "Cripps Mission (1942)",
+      "kind": "event",
+      "rel": "trigger",
+      "note": "Offered dominion status after the war. Gandhi called it \"a post-dated cheque on a crashing bank\"."
+     },
+     {
+      "id": "champaran",
+      "parent": "root",
+      "tier": 2,
+      "label": "Champaran (1917)",
+      "kind": "event",
+      "rel": "the first",
+      "note": "Against the tinkathia system forcing indigo cultivation. Rajendra Prasad and J.B. Kripalani assisted."
+     },
+     {
+      "id": "aruna",
+      "parent": "quit",
+      "tier": 2,
+      "label": "Aruna Asaf Ali",
+      "kind": "person",
+      "rel": "led in 1942",
+      "note": "Hoisted the Congress flag at Gowalia Tank after the leadership was arrested. Called the heroine of the 1942 movement."
+     },
+     {
+      "id": "usha",
+      "parent": "quit",
+      "tier": 3,
+      "label": "Usha Mehta",
+      "kind": "person",
+      "rel": "underground radio",
+      "note": "Ran the Congress Radio secretly from Bombay during Quit India."
+     },
+     {
+      "id": "nagpur",
+      "parent": "root",
+      "tier": 3,
+      "label": "Nagpur session (1920)",
+      "kind": "event",
+      "rel": "adopted the programme",
+      "note": "Also restructured the Congress with provincial committees on linguistic lines and a working committee."
+     },
+     {
+      "id": "bose",
+      "parent": "chauri",
+      "tier": 3,
+      "label": "Subhas Chandra Bose",
+      "kind": "person",
+      "rel": "opposed the suspension",
+      "note": "Along with Motilal Nehru and C.R. Das, criticised Gandhi for calling off Non-Cooperation. Later founded the Forward Bloc in 1939."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-1857",
+   "rank": 2,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The Revolt of 1857 and the end of Company rule",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "1857",
+    "Revolt",
+    "Company Rule",
+    "Government of India Act 1858"
+   ],
+   "hook": "Started by sepoys over a rifle cartridge, spread into a rebellion of dispossessed rulers, and ended with the Crown taking India over directly.",
+   "story": "The immediate cause was the **Enfield P-53 rifle**, whose cartridges were greased with animal fat and had to be bitten open. **Mangal Pandey** of the 34th Bengal Native Infantry attacked his officers at **Barrackpore on 29 March 1857** and was hanged on 8 April. The revolt proper began at **Meerut on 10 May 1857**, and the sepoys marched to Delhi and proclaimed the Mughal emperor **Bahadur Shah Zafar** as their leader.\n\nDeeper causes: the **Doctrine of Lapse** under Dalhousie, which annexed Satara, Jhansi and Nagpur; the annexation of **Awadh in 1856** on grounds of misgovernment, which affected a large share of the Bengal Army's recruits; the **General Service Enlistment Act 1856** requiring sepoys to serve overseas; land settlements that dispossessed talukdars; and resentment at missionary activity and social legislation.\n\nCentres and leaders: **Delhi**, Bahadur Shah Zafar with General Bakht Khan; **Kanpur**, Nana Sahib with Tantia Tope; **Lucknow**, Begum Hazrat Mahal; **Jhansi**, Rani Lakshmibai, who died fighting near Gwalior on 18 June 1858; **Bareilly**, Khan Bahadur Khan; **Bihar**, Kunwar Singh of Jagdishpur, then in his seventies; **Faizabad**, Maulvi Ahmadullah Shah.\n\nThe revolt failed. It was confined largely to the north, the Punjab and the south stayed quiet, the Sikh and Gurkha regiments sided with the British, and the leaders had no common programme. Bahadur Shah Zafar was tried and exiled to Rangoon, where he died in 1862, the last Mughal emperor.\n\nThe consequence was the **Government of India Act 1858**. The East India Company was abolished, the Board of Control and Court of Directors were replaced by a **Secretary of State for India** with a Council of fifteen, and the Governor-General became **Viceroy**, the first being **Lord Canning**. **Queen Victoria's Proclamation of 1 November 1858**, read at Allahabad, promised non-interference in religion, the end of annexation, and equality of Indians in public office. The army was reorganised on a one-to-two European-to-Indian ratio, artillery kept in British hands, and recruitment shifted to declared \"martial races\".",
+   "facts": [
+    {
+     "k": "Immediate cause",
+     "v": "Greased cartridges of the Enfield P-53 rifle"
+    },
+    {
+     "k": "First act",
+     "v": "Mangal Pandey at Barrackpore, 29 March 1857"
+    },
+    {
+     "k": "Revolt began",
+     "v": "Meerut, 10 May 1857"
+    },
+    {
+     "k": "Symbolic leader",
+     "v": "Bahadur Shah Zafar, last Mughal emperor"
+    },
+    {
+     "k": "Kanpur",
+     "v": "Nana Sahib and Tantia Tope"
+    },
+    {
+     "k": "Lucknow",
+     "v": "Begum Hazrat Mahal"
+    },
+    {
+     "k": "Jhansi",
+     "v": "Rani Lakshmibai, died 18 June 1858"
+    },
+    {
+     "k": "Consequence",
+     "v": "Government of India Act 1858; Company rule ended"
+    },
+    {
+     "k": "First Viceroy",
+     "v": "Lord Canning"
+    },
+    {
+     "k": "Queen Victoria’s Proclamation",
+     "v": "1 November 1858, at Allahabad"
+    }
+   ],
+   "timeline": [],
+   "why": "Expect leader-and-centre matching, and the distinction between the immediate cause and the underlying ones. The Act of 1858 and the title Viceroy are the standard follow-up.",
+   "map": {
+    "nodes": [
+     {
+      "id": "meerut",
+      "parent": "root",
+      "tier": 1,
+      "label": "Meerut, 10 May 1857",
+      "kind": "event",
+      "rel": "the start",
+      "note": "Sepoys of the 3rd Light Cavalry mutinied after 85 were jailed for refusing the cartridges, and marched on Delhi."
+     },
+     {
+      "id": "pandey",
+      "parent": "root",
+      "tier": 1,
+      "label": "Mangal Pandey",
+      "kind": "person",
+      "rel": "the first act",
+      "note": "29 March 1857 at Barrackpore. Hanged on 8 April 1857."
+     },
+     {
+      "id": "zafar",
+      "parent": "root",
+      "tier": 1,
+      "label": "Bahadur Shah Zafar",
+      "kind": "person",
+      "rel": "proclaimed leader",
+      "note": "Last Mughal emperor, a poet in Urdu and Persian. Tried in 1858 and exiled to Rangoon, where he died in 1862."
+     },
+     {
+      "id": "gia1858",
+      "parent": "root",
+      "tier": 1,
+      "label": "Government of India Act, 1858",
+      "kind": "law",
+      "rel": "the consequence",
+      "note": "Abolished the East India Company, created the Secretary of State for India, and made the Governor-General a Viceroy."
+     },
+     {
+      "id": "lapse",
+      "parent": "root",
+      "tier": 1,
+      "label": "Doctrine of Lapse",
+      "kind": "concept",
+      "rel": "underlying cause",
+      "note": "Dalhousie’s policy annexing states without a natural heir. Satara 1848, Jhansi and Nagpur 1854. Abandoned after 1858."
+     },
+     {
+      "id": "canning",
+      "parent": "gia1858",
+      "tier": 2,
+      "label": "Lord Canning",
+      "kind": "person",
+      "rel": "first Viceroy",
+      "note": "Governor-General from 1856, first Viceroy from 1858. Called \"Clemency Canning\" for opposing indiscriminate reprisals."
+     },
+     {
+      "id": "victoria",
+      "parent": "gia1858",
+      "tier": 2,
+      "label": "Queen Victoria’s Proclamation",
+      "kind": "event",
+      "rel": "the promise",
+      "note": "1 November 1858. Non-interference in religion, no further annexation, equality in public employment. Called the Magna Carta of Indian liberties."
+     },
+     {
+      "id": "lakshmi",
+      "parent": "root",
+      "tier": 2,
+      "label": "Rani Lakshmibai",
+      "kind": "person",
+      "rel": "Jhansi",
+      "note": "Her state was annexed under the Doctrine of Lapse in 1854. Died in action near Gwalior, 18 June 1858."
+     },
+     {
+      "id": "nana",
+      "parent": "root",
+      "tier": 2,
+      "label": "Nana Sahib",
+      "kind": "person",
+      "rel": "Kanpur",
+      "note": "Adopted son of Peshwa Baji Rao II, denied his pension. Tantia Tope was his general, captured and hanged in 1859."
+     },
+     {
+      "id": "hazrat",
+      "parent": "root",
+      "tier": 2,
+      "label": "Begum Hazrat Mahal",
+      "kind": "person",
+      "rel": "Lucknow",
+      "note": "Led the revolt in Awadh in the name of her son Birjis Qadr, and later took refuge in Nepal."
+     },
+     {
+      "id": "awadh",
+      "parent": "lapse",
+      "tier": 2,
+      "label": "Annexation of Awadh (1856)",
+      "kind": "event",
+      "rel": "underlying cause",
+      "note": "Annexed on grounds of misgovernment. A large part of the Bengal Army was recruited from Awadh, which spread resentment through the ranks."
+     },
+     {
+      "id": "kunwar",
+      "parent": "root",
+      "tier": 3,
+      "label": "Kunwar Singh",
+      "kind": "person",
+      "rel": "Bihar",
+      "note": "Zamindar of Jagdishpur, in his seventies, who led the revolt in Bihar and died in April 1858."
+     },
+     {
+      "id": "army",
+      "parent": "gia1858",
+      "tier": 3,
+      "label": "Army reorganisation",
+      "kind": "concept",
+      "rel": "after 1857",
+      "note": "Ratio of European to Indian troops raised, artillery reserved to Europeans, and recruitment concentrated on \"martial races\"."
+     },
+     {
+      "id": "martial",
+      "parent": "army",
+      "tier": 3,
+      "label": "Martial race theory",
+      "kind": "concept",
+      "rel": "recruitment policy",
+      "note": "Sikhs, Gurkhas, Rajputs and Punjabi Muslims favoured after 1857 because their regiments had stayed loyal."
+     },
+     {
+      "id": "savarkar",
+      "parent": "root",
+      "tier": 3,
+      "label": "V.D. Savarkar",
+      "kind": "person",
+      "rel": "named it",
+      "note": "His 1909 book called the revolt \"The Indian War of Independence, 1857\". British writers called it a sepoy mutiny."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-congress",
+   "rank": 3,
+   "depth": "deep",
+   "importance": 5,
+   "title": "The Congress: founding, the sessions that matter, and the 1907 split",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Indian National Congress",
+    "Sessions",
+    "Moderates",
+    "Extremists"
+   ],
+   "hook": "Founded by a retired British civil servant in 1885, split at Surat in 1907, reunited at Lucknow in 1916, and led by a different person almost every year.",
+   "story": "The Indian National Congress was founded in **December 1885** at Gokuldas Tejpal Sanskrit College, **Bombay**, by **A.O. Hume**, a retired Scottish member of the Indian Civil Service. Its first session had 72 delegates and was presided over by **W.C. Bonnerjee**. The Viceroy at the time was **Lord Dufferin**. The \"safety valve\" theory, that Hume founded it with British approval to channel discontent, comes from Lala Lajpat Rai and is contested.\n\n**Moderates, 1885 to 1905.** Dadabhai Naoroji, Gopal Krishna Gokhale, Surendranath Banerjee, Pherozeshah Mehta, W.C. Bonnerjee. Their method was petition, prayer and protest; their achievement was the economic critique of empire. **Dadabhai Naoroji**, the Grand Old Man of India, developed the **drain of wealth** theory in *Poverty and Un-British Rule in India* (1901), and was the first Indian elected to the British House of Commons, in 1892, for Central Finsbury.\n\n**Extremists, 1905 to 1920.** Lal-Bal-Pal: **Lala Lajpat Rai**, **Bal Gangadhar Tilak** and **Bipin Chandra Pal**, with Aurobindo Ghosh. Tilak's line, \"Swaraj is my birthright and I shall have it\", is the most quoted sentence of the period. The trigger was the **Partition of Bengal**, announced by Curzon in July 1905 and effective 16 October 1905, which produced the **Swadeshi and Boycott** movement. The partition was annulled in 1911, when the capital also moved from Calcutta to Delhi.\n\n**Sessions worth memorising.** 1885 Bombay, W.C. Bonnerjee, the first. 1886 Calcutta, Dadabhai Naoroji. 1887 Madras, Badruddin Tyabji, the first Muslim president. 1907 **Surat**, the split between Moderates and Extremists. 1916 **Lucknow**, reunion of the two factions and the **Lucknow Pact** with the Muslim League, accepting separate electorates. 1917 Calcutta, **Annie Besant**, the first woman president. 1920 Nagpur, Non-Cooperation adopted. 1924 Belgaum, the only session Gandhi presided over. 1925 Kanpur, **Sarojini Naidu**, the first Indian woman president. 1929 **Lahore**, Jawaharlal Nehru, Purna Swaraj. 1938 Haripura and 1939 Tripuri, **Subhas Chandra Bose**, who won at Tripuri against Gandhi's candidate Pattabhi Sitaramayya and then resigned, founding the **Forward Bloc** in 1939.",
+   "facts": [
+    {
+     "k": "Founded",
+     "v": "December 1885, Bombay"
+    },
+    {
+     "k": "Founder",
+     "v": "A.O. Hume"
+    },
+    {
+     "k": "First president",
+     "v": "W.C. Bonnerjee"
+    },
+    {
+     "k": "Viceroy at the founding",
+     "v": "Lord Dufferin"
+    },
+    {
+     "k": "First Muslim president",
+     "v": "Badruddin Tyabji, 1887"
+    },
+    {
+     "k": "First woman president",
+     "v": "Annie Besant, 1917"
+    },
+    {
+     "k": "First Indian woman president",
+     "v": "Sarojini Naidu, 1925"
+    },
+    {
+     "k": "Split",
+     "v": "Surat session, 1907"
+    },
+    {
+     "k": "Reunion",
+     "v": "Lucknow session, 1916, with the Lucknow Pact"
+    },
+    {
+     "k": "Only session Gandhi presided over",
+     "v": "Belgaum, 1924"
+    }
+   ],
+   "timeline": [],
+   "why": "Session, year, place and president is a four-part matching question that appears constantly. Learn the ten listed here and you cover most of what is ever asked.",
+   "map": {
+    "nodes": [
+     {
+      "id": "hume",
+      "parent": "root",
+      "tier": 1,
+      "label": "A.O. Hume",
+      "kind": "person",
+      "rel": "founded it",
+      "note": "Retired Scottish ICS officer, ornithologist. General Secretary of the Congress for its first twenty-two years."
+     },
+     {
+      "id": "surat",
+      "parent": "root",
+      "tier": 1,
+      "label": "Surat split (1907)",
+      "kind": "event",
+      "rel": "the break",
+      "note": "Moderates and Extremists split over the presidency and the pace of agitation. They reunited only in 1916."
+     },
+     {
+      "id": "lucknow",
+      "parent": "root",
+      "tier": 1,
+      "label": "Lucknow session and Pact (1916)",
+      "kind": "event",
+      "rel": "the reunion",
+      "note": "Reunited the factions and produced the Congress-League pact, in which the Congress accepted separate electorates."
+     },
+     {
+      "id": "naoroji",
+      "parent": "root",
+      "tier": 1,
+      "label": "Dadabhai Naoroji",
+      "kind": "person",
+      "rel": "Grand Old Man",
+      "note": "Drain of wealth theory. First Indian in the British House of Commons, 1892. Congress president three times."
+     },
+     {
+      "id": "tilak",
+      "parent": "surat",
+      "tier": 1,
+      "label": "Bal Gangadhar Tilak",
+      "kind": "person",
+      "rel": "Extremist leader",
+      "note": "\"Swaraj is my birthright and I shall have it.\" Started Kesari and Maratha, and the Ganapati and Shivaji festivals."
+     },
+     {
+      "id": "bengal",
+      "parent": "tilak",
+      "tier": 2,
+      "label": "Partition of Bengal (1905)",
+      "kind": "event",
+      "rel": "the trigger",
+      "note": "Announced by Curzon in July 1905, effective 16 October. Annulled in 1911 along with the shift of the capital to Delhi."
+     },
+     {
+      "id": "swadeshi",
+      "parent": "bengal",
+      "tier": 2,
+      "label": "Swadeshi and Boycott",
+      "kind": "concept",
+      "rel": "the response",
+      "note": "Boycott of British goods, promotion of Indian industry, and national education. Rabindranath Tagore wrote Amar Sonar Bangla in this period."
+     },
+     {
+      "id": "gokhale",
+      "parent": "naoroji",
+      "tier": 2,
+      "label": "Gopal Krishna Gokhale",
+      "kind": "person",
+      "rel": "Moderate leader",
+      "note": "Founded the Servants of India Society in 1905. Gandhi called him his political guru."
+     },
+     {
+      "id": "besant",
+      "parent": "root",
+      "tier": 2,
+      "label": "Annie Besant",
+      "kind": "person",
+      "rel": "first woman president",
+      "note": "1917 Calcutta session. Founded the Home Rule League in 1916 alongside Tilak’s."
+     },
+     {
+      "id": "bose",
+      "parent": "root",
+      "tier": 2,
+      "label": "Subhas Chandra Bose",
+      "kind": "person",
+      "rel": "Tripuri crisis",
+      "note": "Won the 1939 presidency against Gandhi’s candidate Pattabhi Sitaramayya, then resigned and founded the Forward Bloc."
+     },
+     {
+      "id": "lajpat",
+      "parent": "tilak",
+      "tier": 2,
+      "label": "Lala Lajpat Rai",
+      "kind": "person",
+      "rel": "Punjab Kesari",
+      "note": "Injured in a lathi charge protesting the Simon Commission at Lahore in October 1928 and died weeks later."
+     },
+     {
+      "id": "bonnerjee",
+      "parent": "hume",
+      "tier": 3,
+      "label": "W.C. Bonnerjee",
+      "kind": "person",
+      "rel": "first president",
+      "note": "Presided over the first session of 72 delegates at Gokuldas Tejpal Sanskrit College, Bombay."
+     },
+     {
+      "id": "tyabji",
+      "parent": "bonnerjee",
+      "tier": 3,
+      "label": "Badruddin Tyabji",
+      "kind": "person",
+      "rel": "first Muslim president",
+      "note": "Presided at Madras in 1887. Later a judge of the Bombay High Court."
+     },
+     {
+      "id": "naidu",
+      "parent": "besant",
+      "tier": 3,
+      "label": "Sarojini Naidu",
+      "kind": "person",
+      "rel": "Nightingale of India",
+      "note": "First Indian woman Congress president, Kanpur 1925. Later the first woman Governor of an Indian province, United Provinces."
+     },
+     {
+      "id": "lahore",
+      "parent": "root",
+      "tier": 3,
+      "label": "Lahore session (1929)",
+      "kind": "event",
+      "rel": "Purna Swaraj",
+      "note": "Presided over by Jawaharlal Nehru. The tricolour was unfurled on the banks of the Ravi at midnight on 31 December 1929."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-independence",
+   "rank": 4,
+   "depth": "deep",
+   "importance": 5,
+   "title": "From Cripps to Partition: the missions, plans and the Act of 1947",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Partition",
+    "Mountbatten",
+    "Cabinet Mission",
+    "Indian Independence Act"
+   ],
+   "hook": "Four attempts to settle the constitutional question in five years, and the one that finally worked did it by dividing the country.",
+   "story": "**August Offer, 1940.** Made by Viceroy Linlithgow. Dominion status after the war and an expanded Executive Council. Rejected by both the Congress and the League.\n\n**Cripps Mission, March 1942.** Sir Stafford Cripps offered dominion status after the war and the right of provinces to opt out of the union. Gandhi's verdict, \"a post-dated cheque\", is the standard quotation. Its failure led directly to Quit India.\n\n**Wavell Plan and Simla Conference, June 1945.** Proposed an Executive Council with equal Hindu and Muslim representation. Collapsed when **Jinnah** insisted the League alone could nominate Muslim members.\n\n**Cabinet Mission, March 1946.** Three members: **Pethick-Lawrence** (Secretary of State), **Stafford Cripps** and **A.V. Alexander**. It rejected Pakistan and proposed a three-tier federation with provinces grouped into sections, a weak centre handling defence, foreign affairs and communications, and a Constituent Assembly. Both parties accepted it initially with different interpretations, then the League withdrew and called **Direct Action Day on 16 August 1946**, which set off the Great Calcutta Killings. The Constituent Assembly nevertheless met on 9 December 1946 under this plan.\n\n**Mountbatten Plan, 3 June 1947.** Louis Mountbatten arrived in March 1947 as the last Viceroy, replacing Wavell, with a mandate to transfer power by June 1948; he advanced the date to August 1947. The plan provided for partition, referendums in the North West Frontier Province and Sylhet, and the right of princely states to accede to either dominion.\n\n**Indian Independence Act 1947.** Received royal assent on **18 July 1947**. Created two independent dominions from **15 August 1947**, ended British paramountcy over the princely states, and made each dominion's Constituent Assembly its legislature. The **Radcliffe Line**, drawn by **Cyril Radcliffe** who had never visited India before, divided Punjab and Bengal; the awards were published on 17 August, two days after independence.\n\nIntegration of the princely states was managed by **Sardar Vallabhbhai Patel** with **V.P. Menon**. Three held out: **Junagadh**, settled by plebiscite in February 1948; **Hyderabad**, taken by Operation Polo in September 1948; and **Jammu and Kashmir**, which acceded on 26 October 1947 after a Pakistani tribal invasion.",
+   "facts": [
+    {
+     "k": "Cripps Mission",
+     "v": "March 1942"
+    },
+    {
+     "k": "Gandhi on Cripps",
+     "v": "\"A post-dated cheque\""
+    },
+    {
+     "k": "Cabinet Mission members",
+     "v": "Pethick-Lawrence, Stafford Cripps, A.V. Alexander"
+    },
+    {
+     "k": "Direct Action Day",
+     "v": "16 August 1946"
+    },
+    {
+     "k": "Mountbatten Plan",
+     "v": "3 June 1947"
+    },
+    {
+     "k": "Indian Independence Act",
+     "v": "Assent 18 July 1947, effective 15 August 1947"
+    },
+    {
+     "k": "Boundary Commission chairman",
+     "v": "Cyril Radcliffe"
+    },
+    {
+     "k": "Hyderabad",
+     "v": "Operation Polo, September 1948"
+    },
+    {
+     "k": "Jammu and Kashmir acceded",
+     "v": "26 October 1947"
+    },
+    {
+     "k": "Last Viceroy",
+     "v": "Louis Mountbatten; first Governor-General of independent India"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1940",
+     "what": "August Offer"
+    },
+    {
+     "when": "1942",
+     "what": "Cripps Mission and Quit India"
+    },
+    {
+     "when": "1945",
+     "what": "Wavell Plan and Simla Conference"
+    },
+    {
+     "when": "1946",
+     "what": "Cabinet Mission; Direct Action Day, 16 August"
+    },
+    {
+     "when": "1947",
+     "what": "Mountbatten Plan, 3 June; Independence, 15 August"
+    },
+    {
+     "when": "1948",
+     "what": "Junagadh plebiscite; Operation Polo in Hyderabad"
+    }
+   ],
+   "why": "Mission-to-year matching is a standard question, and so is who was in the Cabinet Mission. The trap is confusing the Cripps Mission with the Cabinet Mission, both of which included Stafford Cripps.",
+   "map": {
+    "nodes": [
+     {
+      "id": "cabmis",
+      "parent": "root",
+      "tier": 1,
+      "label": "Cabinet Mission (1946)",
+      "kind": "event",
+      "rel": "the last federal plan",
+      "note": "Rejected Pakistan, proposed grouping of provinces and a weak centre. The Constituent Assembly was elected under it."
+     },
+     {
+      "id": "mount",
+      "parent": "root",
+      "tier": 1,
+      "label": "Mountbatten Plan (3 June 1947)",
+      "kind": "event",
+      "rel": "partition",
+      "note": "Provided for two dominions, referendums in NWFP and Sylhet, and freedom for princely states to accede."
+     },
+     {
+      "id": "act1947",
+      "parent": "root",
+      "tier": 1,
+      "label": "Indian Independence Act, 1947",
+      "kind": "law",
+      "rel": "the statute",
+      "note": "Royal assent 18 July 1947. Two dominions from 15 August, end of paramountcy, Constituent Assemblies made sovereign legislatures."
+     },
+     {
+      "id": "radcliffe",
+      "parent": "root",
+      "tier": 1,
+      "label": "Radcliffe Line",
+      "kind": "concept",
+      "rel": "the border",
+      "note": "Drawn by Cyril Radcliffe in five weeks. Awards published on 17 August 1947, after independence."
+     },
+     {
+      "id": "cripps",
+      "parent": "root",
+      "tier": 1,
+      "label": "Cripps Mission (1942)",
+      "kind": "event",
+      "rel": "the failure",
+      "note": "Offered dominion status after the war with a provincial opt-out. Its rejection led directly to Quit India."
+     },
+     {
+      "id": "jinnah",
+      "parent": "cabmis",
+      "tier": 2,
+      "label": "Muhammad Ali Jinnah",
+      "kind": "person",
+      "rel": "League leader",
+      "note": "Called Direct Action Day on 16 August 1946. First Governor-General of Pakistan."
+     },
+     {
+      "id": "direct",
+      "parent": "cabmis",
+      "tier": 2,
+      "label": "Direct Action Day",
+      "kind": "event",
+      "rel": "16 August 1946",
+      "note": "Led to the Great Calcutta Killings and communal violence in Noakhali and Bihar."
+     },
+     {
+      "id": "patel",
+      "parent": "act1947",
+      "tier": 2,
+      "label": "Sardar Vallabhbhai Patel",
+      "kind": "person",
+      "rel": "integrated the states",
+      "note": "Deputy Prime Minister and Home Minister, working with V.P. Menon. 565 princely states integrated."
+     },
+     {
+      "id": "hyd",
+      "parent": "patel",
+      "tier": 2,
+      "label": "Hyderabad",
+      "kind": "place",
+      "rel": "Operation Polo",
+      "note": "Police action in September 1948 against the Nizam, whose Razakars had resisted accession."
+     },
+     {
+      "id": "jk",
+      "parent": "patel",
+      "tier": 2,
+      "label": "Jammu and Kashmir",
+      "kind": "place",
+      "rel": "Instrument of Accession",
+      "note": "Signed by Maharaja Hari Singh on 26 October 1947 after a tribal invasion from Pakistan. Led to Article 370."
+     },
+     {
+      "id": "wavell",
+      "parent": "cabmis",
+      "tier": 2,
+      "label": "Wavell Plan (1945)",
+      "kind": "event",
+      "rel": "the failed conference",
+      "note": "Simla Conference collapsed when Jinnah demanded the sole right to nominate Muslim members."
+     },
+     {
+      "id": "junagadh",
+      "parent": "patel",
+      "tier": 3,
+      "label": "Junagadh",
+      "kind": "place",
+      "rel": "plebiscite",
+      "note": "The Nawab acceded to Pakistan; a plebiscite in February 1948 overwhelmingly favoured India."
+     },
+     {
+      "id": "nehru",
+      "parent": "act1947",
+      "tier": 3,
+      "label": "Jawaharlal Nehru",
+      "kind": "person",
+      "rel": "first Prime Minister",
+      "note": "Delivered the \"tryst with destiny\" speech at midnight on 14 August 1947."
+     },
+     {
+      "id": "mountgg",
+      "parent": "mount",
+      "tier": 3,
+      "label": "Mountbatten as Governor-General",
+      "kind": "person",
+      "rel": "stayed on",
+      "note": "Continued as Governor-General of India until June 1948. C. Rajagopalachari succeeded him as the last Governor-General."
+     },
+     {
+      "id": "august",
+      "parent": "cripps",
+      "tier": 3,
+      "label": "August Offer (1940)",
+      "kind": "event",
+      "rel": "the first attempt",
+      "note": "Made by Linlithgow. Rejected by both Congress and the League."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-company",
+   "rank": 5,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Company rule: Plassey, Buxar, and how land revenue was settled",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Plassey",
+    "Buxar",
+    "Permanent Settlement",
+    "Charter Acts"
+   ],
+   "hook": "A battle won by bribery in 1757, a battle won properly in 1764, and three revenue systems that shaped rural India for two centuries.",
+   "story": "**Battle of Plassey, 23 June 1757.** **Robert Clive** defeated **Siraj-ud-Daulah**, Nawab of Bengal, after buying off his commander **Mir Jafar**, who was installed in his place. The fighting was slight; the consequence was that the Company became the effective power in Bengal.\n\n**Battle of Buxar, 22 October 1764.** Hector Munro defeated the combined forces of **Mir Qasim**, **Shuja-ud-Daulah** of Awadh and the Mughal emperor **Shah Alam II**. This was the decisive military victory. The **Treaty of Allahabad (1765)** gave the Company the **Diwani**, the right to collect revenue in Bengal, Bihar and Orissa, in exchange for an annual payment to the emperor. The result was the **dual government** in Bengal, revenue with the Company and administration with the Nawab, which Warren Hastings ended in 1772.\n\n**Regulating Act 1773.** The first parliamentary intervention. Made the Governor of Bengal the **Governor-General of Bengal**, the first being **Warren Hastings**, with a council of four, and set up a Supreme Court at Calcutta in 1774. **Pitt's India Act 1784** created the **Board of Control**, establishing dual control by the Company and the Crown.\n\n**Charter Acts.** 1813 ended the Company's monopoly of Indian trade except in tea and with China, and allowed missionaries in. 1833 ended commercial activity entirely, made the Governor-General of Bengal the **Governor-General of India**, the first being **William Bentinck**, and provided for a Law Commission, which produced Macaulay's penal code. 1853 introduced open competition for the civil service.\n\n**Land revenue systems.** The **Permanent Settlement**, introduced by **Cornwallis in 1793** in Bengal, Bihar and Orissa, fixed the revenue demand in perpetuity and made zamindars proprietors; covering about 19% of British India, it produced absentee landlordism. The **Ryotwari system**, associated with **Thomas Munro** in Madras and **Alexander Read**, settled revenue directly with the cultivator and covered about 51%. The **Mahalwari system**, introduced by **Holt Mackenzie** in 1822 in the North-Western Provinces and revised by **William Bentinck**, settled with the village or mahal collectively and covered about 30%.",
+   "facts": [
+    {
+     "k": "Battle of Plassey",
+     "v": "23 June 1757; Clive against Siraj-ud-Daulah"
+    },
+    {
+     "k": "Battle of Buxar",
+     "v": "22 October 1764"
+    },
+    {
+     "k": "Treaty of Allahabad",
+     "v": "1765; Diwani of Bengal, Bihar and Orissa"
+    },
+    {
+     "k": "First Governor-General of Bengal",
+     "v": "Warren Hastings, under the Regulating Act 1773"
+    },
+    {
+     "k": "First Governor-General of India",
+     "v": "William Bentinck, under the Charter Act 1833"
+    },
+    {
+     "k": "Permanent Settlement",
+     "v": "Cornwallis, 1793, Bengal"
+    },
+    {
+     "k": "Ryotwari system",
+     "v": "Thomas Munro, Madras and Bombay"
+    },
+    {
+     "k": "Mahalwari system",
+     "v": "Holt Mackenzie, 1822, North-Western Provinces"
+    },
+    {
+     "k": "Board of Control created by",
+     "v": "Pitt’s India Act, 1784"
+    }
+   ],
+   "timeline": [],
+   "why": "Plassey against Buxar is the classic trap: Plassey made the Company powerful, Buxar made it legitimate. Revenue systems are matched to their author and region.",
+   "map": {
+    "nodes": [
+     {
+      "id": "plassey",
+      "parent": "root",
+      "tier": 1,
+      "label": "Battle of Plassey (1757)",
+      "kind": "event",
+      "rel": "the beginning",
+      "note": "23 June 1757. Clive defeated Siraj-ud-Daulah after Mir Jafar defected. Mir Jafar became Nawab."
+     },
+     {
+      "id": "buxar",
+      "parent": "root",
+      "tier": 1,
+      "label": "Battle of Buxar (1764)",
+      "kind": "event",
+      "rel": "the decisive one",
+      "note": "22 October 1764. Defeated Mir Qasim, Shuja-ud-Daulah and Shah Alam II together."
+     },
+     {
+      "id": "allahabad",
+      "parent": "buxar",
+      "tier": 1,
+      "label": "Treaty of Allahabad (1765)",
+      "kind": "event",
+      "rel": "legal title",
+      "note": "Granted the Company the Diwani of Bengal, Bihar and Orissa in return for an annual tribute to Shah Alam II."
+     },
+     {
+      "id": "permanent",
+      "parent": "root",
+      "tier": 1,
+      "label": "Permanent Settlement (1793)",
+      "kind": "concept",
+      "rel": "revenue",
+      "note": "Cornwallis fixed the demand in perpetuity and made zamindars proprietors. About 19% of British India."
+     },
+     {
+      "id": "ryotwari",
+      "parent": "permanent",
+      "tier": 1,
+      "label": "Ryotwari system",
+      "kind": "concept",
+      "rel": "revenue",
+      "note": "Settlement directly with the cultivator, associated with Thomas Munro in Madras. About 51% of British India."
+     },
+     {
+      "id": "mahalwari",
+      "parent": "permanent",
+      "tier": 2,
+      "label": "Mahalwari system",
+      "kind": "concept",
+      "rel": "revenue",
+      "note": "Village-level settlement introduced by Holt Mackenzie in 1822 and revised under Bentinck. About 30%."
+     },
+     {
+      "id": "regulating",
+      "parent": "root",
+      "tier": 2,
+      "label": "Regulating Act, 1773",
+      "kind": "law",
+      "rel": "first intervention",
+      "note": "Created the Governor-General of Bengal and a Supreme Court at Calcutta. Warren Hastings was the first holder."
+     },
+     {
+      "id": "pitts",
+      "parent": "regulating",
+      "tier": 2,
+      "label": "Pitt’s India Act, 1784",
+      "kind": "law",
+      "rel": "dual control",
+      "note": "Created the Board of Control, giving the Crown authority over political matters while the Company kept commerce."
+     },
+     {
+      "id": "charter1833",
+      "parent": "regulating",
+      "tier": 2,
+      "label": "Charter Act, 1833",
+      "kind": "law",
+      "rel": "centralisation",
+      "note": "Made Bentinck Governor-General of India, ended the Company’s commercial functions, and provided for a Law Commission."
+     },
+     {
+      "id": "clive",
+      "parent": "plassey",
+      "tier": 2,
+      "label": "Robert Clive",
+      "kind": "person",
+      "rel": "won Plassey",
+      "note": "Twice Governor of Bengal. Introduced the dual government in 1765. Impeached in Britain and died in 1774."
+     },
+     {
+      "id": "hastings",
+      "parent": "regulating",
+      "tier": 2,
+      "label": "Warren Hastings",
+      "kind": "person",
+      "rel": "first Governor-General",
+      "note": "Ended dual government in 1772. Impeached in Britain in a trial that lasted from 1788 to 1795 and ended in acquittal."
+     },
+     {
+      "id": "macaulay",
+      "parent": "charter1833",
+      "tier": 2,
+      "label": "Macaulay’s Minute (1835)",
+      "kind": "event",
+      "rel": "education",
+      "note": "Argued for English education. Bentinck’s resolution made English the medium of instruction and the language of the higher courts."
+     },
+     {
+      "id": "dual",
+      "parent": "allahabad",
+      "tier": 3,
+      "label": "Dual government",
+      "kind": "concept",
+      "rel": "1765 to 1772",
+      "note": "Revenue with the Company, administration with the Nawab. Neither was accountable, and the Bengal famine of 1770 followed."
+     },
+     {
+      "id": "bentinck",
+      "parent": "charter1833",
+      "tier": 3,
+      "label": "William Bentinck",
+      "kind": "person",
+      "rel": "reformer",
+      "note": "Abolished sati in 1829 with Raja Ram Mohan Roy’s support, and suppressed thuggee."
+     },
+     {
+      "id": "cornwallis",
+      "parent": "permanent",
+      "tier": 3,
+      "label": "Lord Cornwallis",
+      "kind": "person",
+      "rel": "the settlement",
+      "note": "Also created the Cornwallis Code and separated revenue from judicial functions. Called the father of the Indian civil service."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-reform",
+   "rank": 6,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Social and religious reform movements and their founders",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Social Reform",
+    "Raja Ram Mohan Roy",
+    "Arya Samaj",
+    "Brahmo Samaj"
+   ],
+   "hook": "A matching question waiting to happen: nine movements, nine founders, nine years, and the reforms each of them pushed through.",
+   "story": "**Brahmo Samaj**, founded by **Raja Ram Mohan Roy** in **1828** in Calcutta, originally as the Brahmo Sabha. Monotheistic, against idolatry and caste. Roy campaigned successfully for the abolition of **sati**, which Bentinck banned by regulation in **1829**. Debendranath Tagore and later **Keshab Chandra Sen** led it; Sen's faction pushed the **Native Marriage Act 1872**, which set minimum marriage ages.\n\n**Prarthana Samaj**, Bombay, **1867**, founded by Atmaram Pandurang and led by **M.G. Ranade** and R.G. Bhandarkar. Focused on widow remarriage and women's education rather than doctrine.\n\n**Arya Samaj**, founded by **Swami Dayanand Saraswati** in **1875** in Bombay. Slogan: \"Back to the Vedas\". Rejected idol worship, child marriage and untouchability, and began **shuddhi**, reconversion. His book is *Satyarth Prakash*.\n\n**Ramakrishna Mission**, founded by **Swami Vivekananda** in **1897** at Belur, in memory of his teacher **Ramakrishna Paramahansa**. Vivekananda's address to the **Parliament of Religions in Chicago on 11 September 1893** is the standard reference.\n\n**Theosophical Society**, founded in New York in **1875** by **Madame H.P. Blavatsky** and **Colonel H.S. Olcott**, moved its headquarters to **Adyar, Madras, in 1882**. **Annie Besant** later led it and founded the Central Hindu College at Banaras in 1898, which grew into Banaras Hindu University under Madan Mohan Malaviya.\n\n**Aligarh Movement**, **Sir Syed Ahmad Khan**, who founded the Mohammedan Anglo-Oriental College at Aligarh in **1875**, later Aligarh Muslim University. Argued for modern education and against Muslim participation in the Congress.\n\n**Satyashodhak Samaj**, founded by **Jyotiba Phule** in **1873** in Pune, against Brahminical dominance. With **Savitribai Phule** he opened the first school for girls in Pune in 1848. His book is *Gulamgiri* (1873).\n\n**Self-Respect Movement**, **E.V. Ramasamy, Periyar**, Tamil Nadu, **1925**. **Sri Narayana Guru** led the Ezhava movement in Kerala with the slogan \"One caste, one religion, one God for man\"; the **Vaikom Satyagraha** of 1924-25 over temple-road access grew out of it.\n\nLegislation to remember: **Sati abolished 1829**; **Hindu Widows' Remarriage Act 1856**, pushed by **Ishwar Chandra Vidyasagar**; **Age of Consent Act 1891**; **Sharda Act 1929**, raising the marriage age to 14 for girls and 18 for boys.",
+   "facts": [
+    {
+     "k": "Brahmo Samaj",
+     "v": "Raja Ram Mohan Roy, 1828"
+    },
+    {
+     "k": "Sati abolished",
+     "v": "1829, under Lord William Bentinck"
+    },
+    {
+     "k": "Arya Samaj",
+     "v": "Swami Dayanand Saraswati, 1875, \"Back to the Vedas\""
+    },
+    {
+     "k": "Ramakrishna Mission",
+     "v": "Swami Vivekananda, 1897, Belur"
+    },
+    {
+     "k": "Vivekananda at Chicago",
+     "v": "11 September 1893, Parliament of Religions"
+    },
+    {
+     "k": "Theosophical Society",
+     "v": "1875 New York; Adyar headquarters from 1882"
+    },
+    {
+     "k": "Aligarh Movement",
+     "v": "Sir Syed Ahmad Khan, MAO College 1875"
+    },
+    {
+     "k": "Satyashodhak Samaj",
+     "v": "Jyotiba Phule, 1873, Pune"
+    },
+    {
+     "k": "Widow Remarriage Act",
+     "v": "1856, Ishwar Chandra Vidyasagar"
+    },
+    {
+     "k": "Sharda Act",
+     "v": "1929, marriage age 14 for girls and 18 for boys"
+    }
+   ],
+   "timeline": [],
+   "why": "Founder-movement-year matching is asked almost every year, often paired with one social legislation date. Learn Roy with 1828 and sati with 1829, and the rest follows.",
+   "map": {
+    "nodes": [
+     {
+      "id": "roy",
+      "parent": "root",
+      "tier": 1,
+      "label": "Raja Ram Mohan Roy",
+      "kind": "person",
+      "rel": "Brahmo Samaj",
+      "note": "Founded the Brahmo Sabha in 1828. Campaigned against sati. Called the father of the Indian Renaissance. Died at Bristol in 1833."
+     },
+     {
+      "id": "dayanand",
+      "parent": "root",
+      "tier": 1,
+      "label": "Swami Dayanand Saraswati",
+      "kind": "person",
+      "rel": "Arya Samaj",
+      "note": "Founded 1875. \"Back to the Vedas\". Wrote Satyarth Prakash and began the shuddhi reconversion movement."
+     },
+     {
+      "id": "vivek",
+      "parent": "root",
+      "tier": 1,
+      "label": "Swami Vivekananda",
+      "kind": "person",
+      "rel": "Ramakrishna Mission",
+      "note": "Founded 1897 at Belur. His Chicago address of 11 September 1893 opened with \"Sisters and brothers of America\"."
+     },
+     {
+      "id": "phule",
+      "parent": "root",
+      "tier": 1,
+      "label": "Jyotiba Phule",
+      "kind": "person",
+      "rel": "Satyashodhak Samaj",
+      "note": "Founded 1873. Opened the first school for girls in Pune in 1848 with Savitribai Phule. Wrote Gulamgiri."
+     },
+     {
+      "id": "sati",
+      "parent": "roy",
+      "tier": 1,
+      "label": "Abolition of sati (1829)",
+      "kind": "event",
+      "rel": "the first reform",
+      "note": "Bengal Sati Regulation, passed under Lord William Bentinck with Roy’s support."
+     },
+     {
+      "id": "syed",
+      "parent": "root",
+      "tier": 2,
+      "label": "Sir Syed Ahmad Khan",
+      "kind": "person",
+      "rel": "Aligarh Movement",
+      "note": "Founded the Mohammedan Anglo-Oriental College in 1875, which became Aligarh Muslim University in 1920."
+     },
+     {
+      "id": "vidyasagar",
+      "parent": "sati",
+      "tier": 2,
+      "label": "Ishwar Chandra Vidyasagar",
+      "kind": "person",
+      "rel": "widow remarriage",
+      "note": "Drove the Hindu Widows’ Remarriage Act 1856 and campaigned against child marriage and polygamy."
+     },
+     {
+      "id": "theo",
+      "parent": "root",
+      "tier": 2,
+      "label": "Theosophical Society",
+      "kind": "org",
+      "rel": "1875",
+      "note": "Founded in New York by Blavatsky and Olcott, headquarters at Adyar from 1882. Annie Besant later president."
+     },
+     {
+      "id": "periyar",
+      "parent": "phule",
+      "tier": 2,
+      "label": "E.V. Ramasamy Periyar",
+      "kind": "person",
+      "rel": "Self-Respect Movement",
+      "note": "Founded 1925 in Tamil Nadu. Anti-caste and rationalist; later founded the Dravidar Kazhagam."
+     },
+     {
+      "id": "narayana",
+      "parent": "phule",
+      "tier": 2,
+      "label": "Sri Narayana Guru",
+      "kind": "person",
+      "rel": "Ezhava movement",
+      "note": "\"One caste, one religion, one God for man.\" Founded the SNDP Yogam in Kerala in 1903."
+     },
+     {
+      "id": "vaikom",
+      "parent": "narayana",
+      "tier": 2,
+      "label": "Vaikom Satyagraha (1924-25)",
+      "kind": "event",
+      "rel": "temple roads",
+      "note": "Campaign for lower-caste access to roads around the Vaikom temple in Travancore. Gandhi visited in 1925."
+     },
+     {
+      "id": "prarthana",
+      "parent": "roy",
+      "tier": 2,
+      "label": "Prarthana Samaj",
+      "kind": "org",
+      "rel": "1867",
+      "note": "Bombay, founded by Atmaram Pandurang, led by M.G. Ranade and R.G. Bhandarkar."
+     },
+     {
+      "id": "sharda",
+      "parent": "vidyasagar",
+      "tier": 3,
+      "label": "Sharda Act (1929)",
+      "kind": "law",
+      "rel": "child marriage",
+      "note": "Child Marriage Restraint Act. Marriage age set at 14 for girls and 18 for boys, raised later."
+     },
+     {
+      "id": "besant",
+      "parent": "theo",
+      "tier": 3,
+      "label": "Annie Besant",
+      "kind": "person",
+      "rel": "Theosophist and Congress president",
+      "note": "Founded the Home Rule League in 1916 and the Central Hindu College at Banaras in 1898."
+     },
+     {
+      "id": "keshab",
+      "parent": "roy",
+      "tier": 3,
+      "label": "Keshab Chandra Sen",
+      "kind": "person",
+      "rel": "split the Brahmos",
+      "note": "His faction secured the Native Marriage Act 1872, setting minimum ages for marriage."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-ancient",
+   "rank": 7,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Ancient India: Harappa to the Guptas",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Indus Valley",
+    "Mauryas",
+    "Guptas",
+    "Ashoka"
+   ],
+   "hook": "A civilisation with drains and no temples, an emperor who gave up war after winning one, and a dynasty whose gold coins are the standard exam question.",
+   "story": "**Indus Valley Civilisation**, roughly 2600 to 1900 BCE, Bronze Age, discovered when **Daya Ram Sahni** excavated Harappa in 1921 and **R.D. Banerji** excavated Mohenjo-daro in 1922, both under **John Marshall**. Sites and their finds: **Harappa** (granaries, cemetery R-37) on the Ravi; **Mohenjo-daro** (Great Bath, Great Granary, the bronze Dancing Girl, the Pashupati seal) on the Indus; **Lothal** (Gujarat, dockyard) on the Bhogava; **Kalibangan** (Rajasthan, ploughed field, fire altars); **Dholavira** (Gujarat, water reservoirs, the signboard, a UNESCO site since 2021); **Rakhigarhi** (Haryana, the largest site); **Chanhudaro** (the only site without a citadel). Features: grid town planning, standardised baked bricks in a 4:2:1 ratio, an elaborate drainage system, a script that remains undeciphered, and no identified temples.\n\n**Vedic period**, roughly 1500 to 600 BCE. The **Rig Veda** is the oldest, with the Gayatri Mantra and the Purusha Sukta describing the four varnas. **Satyameva Jayate** on the national emblem comes from the **Mundaka Upanishad**. Four Vedas, four Upavedas, six Vedangas, six schools of philosophy.\n\n**Mahajanapadas**, sixteen of them by 600 BCE, with **Magadha** emerging supreme. Dynasties: Haryanka (Bimbisara, Ajatashatru), Shishunaga, Nanda, then **Maurya**.\n\n**Mauryas**, 322 to 185 BCE. **Chandragupta Maurya** with **Chanakya**, whose *Arthashastra* is the standard reference; Megasthenes was the Seleucid ambassador and wrote *Indica*. **Ashoka**, who ruled from about 268 BCE, fought the **Kalinga war in 261 BCE** and turned to Buddhism afterward. His edicts, deciphered by **James Prinsep** in 1837, are mostly in **Brahmi** and Prakrit, with Kharosthi in the northwest and Greek and Aramaic at Kandahar. The **Lion Capital at Sarnath** became the national emblem, adopted 26 January 1950; the **Ashoka Chakra** with 24 spokes sits on the flag. The last Mauryan, Brihadratha, was killed by **Pushyamitra Shunga** in 185 BCE.\n\n**Guptas**, roughly 320 to 550 CE, the classical age. **Chandragupta I**, **Samudragupta** (the Allahabad Pillar inscription by Harisena), **Chandragupta II Vikramaditya** (Fa-Hien visited). **Aryabhata** wrote the *Aryabhatiya* in 499 CE; **Kalidasa** wrote *Abhijnanashakuntalam*; **Varahamihira** and **Brahmagupta** followed. Nalanda flourished; the iron pillar at Mehrauli dates from this period.",
+   "facts": [
+    {
+     "k": "Indus Valley period",
+     "v": "Roughly 2600 to 1900 BCE, Bronze Age"
+    },
+    {
+     "k": "Harappa excavated by",
+     "v": "Daya Ram Sahni, 1921"
+    },
+    {
+     "k": "Mohenjo-daro excavated by",
+     "v": "R.D. Banerji, 1922"
+    },
+    {
+     "k": "Dockyard site",
+     "v": "Lothal, Gujarat"
+    },
+    {
+     "k": "Largest Harappan site",
+     "v": "Rakhigarhi, Haryana"
+    },
+    {
+     "k": "Kalinga war",
+     "v": "261 BCE"
+    },
+    {
+     "k": "Ashokan edicts deciphered by",
+     "v": "James Prinsep, 1837"
+    },
+    {
+     "k": "National emblem",
+     "v": "Lion Capital of Ashoka at Sarnath, adopted 26 January 1950"
+    },
+    {
+     "k": "Satyameva Jayate from",
+     "v": "Mundaka Upanishad"
+    },
+    {
+     "k": "Aryabhatiya written",
+     "v": "499 CE"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "2600 BCE",
+     "what": "Mature Harappan phase"
+    },
+    {
+     "when": "1500 BCE",
+     "what": "Early Vedic period"
+    },
+    {
+     "when": "322 BCE",
+     "what": "Chandragupta Maurya founds the empire"
+    },
+    {
+     "when": "261 BCE",
+     "what": "Kalinga war"
+    },
+    {
+     "when": "185 BCE",
+     "what": "End of the Mauryas"
+    },
+    {
+     "when": "320 CE",
+     "what": "Gupta period begins"
+    },
+    {
+     "when": "499 CE",
+     "what": "Aryabhatiya"
+    }
+   ],
+   "why": "Site-to-find matching for the Indus Valley, and Ashoka’s dates, are the two reliable questions. The national emblem and its source are asked in the polity section too.",
+   "map": {
+    "nodes": [
+     {
+      "id": "ivc",
+      "parent": "root",
+      "tier": 1,
+      "label": "Indus Valley Civilisation",
+      "kind": "event",
+      "rel": "2600-1900 BCE",
+      "note": "Bronze Age. Grid planning, standardised bricks, drainage, an undeciphered script and no identified temples."
+     },
+     {
+      "id": "ashoka",
+      "parent": "root",
+      "tier": 1,
+      "label": "Ashoka",
+      "kind": "person",
+      "rel": "Mauryan emperor",
+      "note": "Fought the Kalinga war in 261 BCE and adopted Buddhism. His edicts are the earliest deciphered Indian writing."
+     },
+     {
+      "id": "sarnath",
+      "parent": "ashoka",
+      "tier": 1,
+      "label": "Lion Capital at Sarnath",
+      "kind": "concept",
+      "rel": "national emblem",
+      "note": "Adopted 26 January 1950. The Ashoka Chakra with 24 spokes appears on the national flag."
+     },
+     {
+      "id": "chanakya",
+      "parent": "root",
+      "tier": 1,
+      "label": "Chanakya",
+      "kind": "person",
+      "rel": "Arthashastra",
+      "note": "Also called Kautilya or Vishnugupta. Adviser to Chandragupta Maurya and author of the treatise on statecraft."
+     },
+     {
+      "id": "gupta",
+      "parent": "root",
+      "tier": 1,
+      "label": "Gupta empire",
+      "kind": "event",
+      "rel": "320-550 CE",
+      "note": "Called the classical age. Samudragupta, Chandragupta II, and the flowering of mathematics, astronomy and Sanskrit drama."
+     },
+     {
+      "id": "lothal",
+      "parent": "ivc",
+      "tier": 2,
+      "label": "Lothal",
+      "kind": "place",
+      "rel": "the dockyard",
+      "note": "In Gujarat on the Bhogava. The only Harappan site with a dockyard, indicating maritime trade."
+     },
+     {
+      "id": "mohenjo",
+      "parent": "ivc",
+      "tier": 2,
+      "label": "Mohenjo-daro",
+      "kind": "place",
+      "rel": "Great Bath",
+      "note": "Sindh, on the Indus. Yielded the Great Bath, the bronze Dancing Girl and the Pashupati seal."
+     },
+     {
+      "id": "dholavira",
+      "parent": "ivc",
+      "tier": 2,
+      "label": "Dholavira",
+      "kind": "place",
+      "rel": "water systems",
+      "note": "In the Rann of Kutch. Known for its reservoirs and its signboard. UNESCO World Heritage Site since 2021."
+     },
+     {
+      "id": "prinsep",
+      "parent": "ashoka",
+      "tier": 2,
+      "label": "James Prinsep",
+      "kind": "person",
+      "rel": "deciphered Brahmi",
+      "note": "1837. His work made the Ashokan edicts readable and identified Devanampiya Piyadasi as Ashoka."
+     },
+     {
+      "id": "aryabhata",
+      "parent": "gupta",
+      "tier": 2,
+      "label": "Aryabhata",
+      "kind": "person",
+      "rel": "Aryabhatiya, 499 CE",
+      "note": "Stated that the earth rotates on its axis and gave an approximation of pi. India’s first satellite was named after him."
+     },
+     {
+      "id": "kalidasa",
+      "parent": "gupta",
+      "tier": 2,
+      "label": "Kalidasa",
+      "kind": "person",
+      "rel": "Abhijnanashakuntalam",
+      "note": "Also wrote Meghaduta and Raghuvamsha. Associated with the court of Chandragupta II Vikramaditya."
+     },
+     {
+      "id": "megasthenes",
+      "parent": "chanakya",
+      "tier": 2,
+      "label": "Megasthenes",
+      "kind": "person",
+      "rel": "Indica",
+      "note": "Seleucid ambassador at Chandragupta Maurya’s court. His account survives only in quotations by later writers."
+     },
+     {
+      "id": "magadha",
+      "parent": "root",
+      "tier": 3,
+      "label": "Magadha",
+      "kind": "place",
+      "rel": "the rise",
+      "note": "One of sixteen mahajanapadas, it absorbed the rest. Capitals at Rajgir and later Pataliputra."
+     },
+     {
+      "id": "rigveda",
+      "parent": "root",
+      "tier": 3,
+      "label": "Rig Veda",
+      "kind": "book",
+      "rel": "oldest text",
+      "note": "Contains the Gayatri Mantra and the Purusha Sukta. Satyameva Jayate comes from the Mundaka Upanishad, not the Rig Veda."
+     },
+     {
+      "id": "fahien",
+      "parent": "gupta",
+      "tier": 3,
+      "label": "Fa-Hien",
+      "kind": "person",
+      "rel": "Chinese traveller",
+      "note": "Visited during Chandragupta II’s reign. Hiuen Tsang came later, under Harshavardhana in the seventh century."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-postind",
+   "rank": 8,
+   "depth": "deep",
+   "importance": 4,
+   "title": "India after 1947: reorganisation, wars and the Emergency",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Post-Independence",
+    "States Reorganisation",
+    "Wars",
+    "Prime Ministers"
+   ],
+   "hook": "Linguistic states drawn after a hunger strike, four wars, one Emergency, and the sequence of Prime Ministers the paper expects in order.",
+   "story": "**States reorganisation.** The **Dhar Commission (1948)** and the **JVP Committee (1949)** both advised against linguistic states. **Potti Sriramulu** died after a 58-day fast in December 1952, and **Andhra State** was created in October 1953, the first on linguistic lines. The **States Reorganisation Commission** under **Fazl Ali**, with K.M. Panikkar and H.N. Kunzru, reported in 1955, and the **States Reorganisation Act 1956** with the **7th Amendment** redrew the map into 14 states and 6 union territories. Later: Bombay split into Maharashtra and Gujarat in 1960; Nagaland 1963; Punjab split with Haryana in 1966; Himachal 1971; the northeastern states in 1972; Sikkim became a state by the **36th Amendment in 1975**; Chhattisgarh, Uttarakhand and Jharkhand in 2000; **Telangana in 2014**, the 29th state; Jammu and Kashmir reorganised into two union territories in 2019, leaving 28 states.\n\n**Wars.** **1947-48** with Pakistan over Kashmir, ended by a UN-brokered ceasefire on 1 January 1949 and the Line of Control's predecessor, the Ceasefire Line. **1962** with China, a defeat, after which the Henderson Brooks report was never published. **1965** with Pakistan, ended by the **Tashkent Declaration** of January 1966, signed by **Lal Bahadur Shastri**, who died there the next day. **1971**, which created Bangladesh, ended by the **Simla Agreement of July 1972** between Indira Gandhi and Zulfikar Ali Bhutto, which converted the Ceasefire Line into the **Line of Control**. **Kargil, 1999**, Operation Vijay, after which the Kargil Review Committee under K. Subrahmanyam led to the creation of the National Security Council structure and eventually the Chief of Defence Staff post in 2019.\n\n**The Emergency.** The **Allahabad High Court** set aside Indira Gandhi's 1971 election on 12 June 1975 in the case brought by **Raj Narain**. Emergency was proclaimed on **25 June 1975** on grounds of internal disturbance and revoked on 21 March 1977. The **Janata Party** won the 1977 election and **Morarji Desai** became the first non-Congress Prime Minister.\n\n**Prime Ministers in order:** Nehru, Shastri, Indira Gandhi, Morarji Desai, Charan Singh, Indira Gandhi, Rajiv Gandhi, V.P. Singh, Chandra Shekhar, P.V. Narasimha Rao, Atal Bihari Vajpayee, H.D. Deve Gowda, I.K. Gujral, Vajpayee, Manmohan Singh, Narendra Modi. **Gulzarilal Nanda** served twice as acting Prime Minister.",
+   "facts": [
+    {
+     "k": "First linguistic state",
+     "v": "Andhra State, October 1953, after Potti Sriramulu’s fast"
+    },
+    {
+     "k": "States Reorganisation Commission",
+     "v": "Fazl Ali, reported 1955"
+    },
+    {
+     "k": "States Reorganisation Act",
+     "v": "1956, with the 7th Amendment"
+    },
+    {
+     "k": "Sikkim became a state",
+     "v": "36th Amendment, 1975"
+    },
+    {
+     "k": "Telangana created",
+     "v": "2014, the 29th state"
+    },
+    {
+     "k": "Tashkent Declaration",
+     "v": "January 1966, after the 1965 war"
+    },
+    {
+     "k": "Simla Agreement",
+     "v": "July 1972; created the Line of Control"
+    },
+    {
+     "k": "Kargil conflict",
+     "v": "1999, Operation Vijay"
+    },
+    {
+     "k": "Emergency",
+     "v": "25 June 1975 to 21 March 1977"
+    },
+    {
+     "k": "First non-Congress Prime Minister",
+     "v": "Morarji Desai, 1977"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1953",
+     "what": "Andhra State created"
+    },
+    {
+     "when": "1956",
+     "what": "States Reorganisation Act"
+    },
+    {
+     "when": "1962",
+     "what": "War with China"
+    },
+    {
+     "when": "1966",
+     "what": "Tashkent Declaration"
+    },
+    {
+     "when": "1971",
+     "what": "War with Pakistan; Bangladesh created"
+    },
+    {
+     "when": "1972",
+     "what": "Simla Agreement"
+    },
+    {
+     "when": "1975",
+     "what": "Emergency proclaimed"
+    },
+    {
+     "when": "1999",
+     "what": "Kargil"
+    },
+    {
+     "when": "2014",
+     "what": "Telangana created"
+    }
+   ],
+   "why": "The Prime Ministers in order and the war-to-treaty pairs are asked directly. The trap is Tashkent for 1965 against Simla for 1971.",
+   "map": {
+    "nodes": [
+     {
+      "id": "sriramulu",
+      "parent": "root",
+      "tier": 1,
+      "label": "Potti Sriramulu",
+      "kind": "person",
+      "rel": "the fast",
+      "note": "Died after a 58-day fast in December 1952, which forced the creation of Andhra State the following year."
+     },
+     {
+      "id": "src",
+      "parent": "root",
+      "tier": 1,
+      "label": "States Reorganisation Commission",
+      "kind": "org",
+      "rel": "1953-55",
+      "note": "Chaired by Fazl Ali with K.M. Panikkar and H.N. Kunzru. Its report produced the 1956 Act and the 7th Amendment."
+     },
+     {
+      "id": "simla",
+      "parent": "root",
+      "tier": 1,
+      "label": "Simla Agreement (1972)",
+      "kind": "event",
+      "rel": "after 1971",
+      "note": "Signed by Indira Gandhi and Zulfikar Ali Bhutto. Converted the Ceasefire Line into the Line of Control and committed both sides to bilateral resolution."
+     },
+     {
+      "id": "emergency",
+      "parent": "root",
+      "tier": 1,
+      "label": "The Emergency (1975-77)",
+      "kind": "event",
+      "rel": "the rupture",
+      "note": "Proclaimed 25 June 1975 after the Allahabad High Court set aside Indira Gandhi’s election. Revoked 21 March 1977."
+     },
+     {
+      "id": "tashkent",
+      "parent": "simla",
+      "tier": 1,
+      "label": "Tashkent Declaration (1966)",
+      "kind": "event",
+      "rel": "after 1965",
+      "note": "Signed by Lal Bahadur Shastri and Ayub Khan, mediated by the Soviet Union. Shastri died in Tashkent the next day."
+     },
+     {
+      "id": "telangana",
+      "parent": "src",
+      "tier": 2,
+      "label": "Telangana (2014)",
+      "kind": "event",
+      "rel": "the 29th state",
+      "note": "Carved out of Andhra Pradesh on 2 June 2014, with Hyderabad as joint capital for ten years."
+     },
+     {
+      "id": "sikkim",
+      "parent": "src",
+      "tier": 2,
+      "label": "Sikkim (1975)",
+      "kind": "event",
+      "rel": "36th Amendment",
+      "note": "Became the 22nd state after a referendum, having been an associate state under the 35th Amendment in 1974."
+     },
+     {
+      "id": "kargil",
+      "parent": "simla",
+      "tier": 2,
+      "label": "Kargil (1999)",
+      "kind": "event",
+      "rel": "Operation Vijay",
+      "note": "Led to the Kargil Review Committee under K. Subrahmanyam and eventually to the Chief of Defence Staff post in 2019."
+     },
+     {
+      "id": "1962",
+      "parent": "tashkent",
+      "tier": 2,
+      "label": "War with China (1962)",
+      "kind": "event",
+      "rel": "the defeat",
+      "note": "Fought over Aksai Chin and NEFA. The Henderson Brooks-Bhagat report on the failure has never been published."
+     },
+     {
+      "id": "rajnarain",
+      "parent": "emergency",
+      "tier": 2,
+      "label": "Raj Narain",
+      "kind": "person",
+      "rel": "the petitioner",
+      "note": "His election petition led to the Allahabad High Court verdict of 12 June 1975 against Indira Gandhi."
+     },
+     {
+      "id": "janata",
+      "parent": "emergency",
+      "tier": 2,
+      "label": "Janata Party (1977)",
+      "kind": "org",
+      "rel": "the first alternation",
+      "note": "Won the 1977 election. Morarji Desai became the first non-Congress Prime Minister; the 44th Amendment followed."
+     },
+     {
+      "id": "pms",
+      "parent": "root",
+      "tier": 2,
+      "label": "Prime Ministers in order",
+      "kind": "concept",
+      "rel": "the sequence",
+      "note": "Nehru, Shastri, Indira, Desai, Charan Singh, Indira, Rajiv, V.P. Singh, Chandra Shekhar, Rao, Vajpayee, Deve Gowda, Gujral, Vajpayee, Manmohan Singh, Modi."
+     },
+     {
+      "id": "nanda",
+      "parent": "pms",
+      "tier": 3,
+      "label": "Gulzarilal Nanda",
+      "kind": "person",
+      "rel": "acting twice",
+      "note": "Acting Prime Minister after the deaths of Nehru in 1964 and Shastri in 1966, for thirteen days each time."
+     },
+     {
+      "id": "7th",
+      "parent": "src",
+      "tier": 3,
+      "label": "7th Amendment (1956)",
+      "kind": "event",
+      "rel": "redrew the map",
+      "note": "Gave effect to the States Reorganisation Act, creating 14 states and 6 union territories."
+     },
+     {
+      "id": "1991",
+      "parent": "pms",
+      "tier": 3,
+      "label": "1991 reforms",
+      "kind": "event",
+      "rel": "the other turning point",
+      "note": "Under P.V. Narasimha Rao with Manmohan Singh as Finance Minister, following a balance of payments crisis."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-medieval",
+   "rank": 9,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Medieval India: five Sultanate dynasties and six Mughals",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Delhi Sultanate",
+    "Mughals",
+    "Medieval India"
+   ],
+   "hook": "A slave who became a king, a sultan who moved his capital twice and moved it back, and an emperor who could not read.",
+   "story": "The **Delhi Sultanate** ran from **1206 to 1526** through five dynasties. The **Slave or Mamluk dynasty** began with **Qutbuddin Aibak**, a general of Muhammad Ghori who had won at the **Second Battle of Tarain in 1192**; **Iltutmish** consolidated it and introduced the silver *tanka* and copper *jital*, and **Razia Sultan** briefly held the throne, the only woman to do so. **Balban** established the theory of kingship as a divine office. The **Khaljis** followed from 1290; **Alauddin Khalji** built a standing army, fixed market prices in Delhi, raised land revenue to half the produce, and repelled the Mongols. The **Tughlaqs** came in 1320; **Muhammad bin Tughlaq** shifted the capital to **Daulatabad** and back and issued a token currency that failed, and **Firoz Shah** built canals and a jizya-funded administration. The **Sayyids** and then the **Lodis** carried the Sultanate to **1526**, when **Ibrahim Lodi** lost the **First Battle of Panipat** to **Babur**.\n\nThe **Mughals** ruled in substance from 1526 to 1707 and in name to 1857. **Babur** won Panipat with artillery and the *tulughma* flanking tactic. **Humayun** lost the empire to **Sher Shah Suri**, whose brief rule produced the *rupiya*, the Grand Trunk Road as it is now known, and a land revenue survey that Akbar's officials later borrowed. **Akbar** returned after the **Second Battle of Panipat, 1556**, abolished the **jizya**, built the **mansabdari** ranking system and the **zabt** revenue settlement under Todar Mal, and founded the **Din-i-Ilahi**. **Jahangir** received the English envoy Thomas Roe. **Shah Jahan** built the Taj Mahal and lost Kandahar. **Aurangzeb** extended the empire to its greatest area, reimposed the jizya, and spent his last twenty-five years fighting the **Marathas** in the Deccan, which drained the treasury that his successors needed.\n\nTwo other powers matter. **Vijayanagara**, founded in 1336 by Harihara and Bukka, dominated the south until **Talikota in 1565**. The **Marathas** under **Shivaji**, crowned at Raigad in 1674, built a revenue system on *chauth* and *sardeshmukhi*, and their expansion ended at the **Third Battle of Panipat in 1761** against Ahmad Shah Abdali.",
+   "facts": [
+    {
+     "k": "Sultanate span",
+     "v": "1206 to 1526, through Slave, Khalji, Tughlaq, Sayyid and Lodi dynasties"
+    },
+    {
+     "k": "Second Tarain, 1192",
+     "v": "Muhammad Ghori defeats Prithviraj Chauhan, opening the way to Delhi"
+    },
+    {
+     "k": "Alauddin Khalji",
+     "v": "Standing army, market price control, revenue at half the produce"
+    },
+    {
+     "k": "Muhammad bin Tughlaq",
+     "v": "Capital shifted to Daulatabad and back; token currency failed"
+    },
+    {
+     "k": "First Panipat, 1526",
+     "v": "Babur defeats Ibrahim Lodi and founds the Mughal empire"
+    },
+    {
+     "k": "Sher Shah Suri",
+     "v": "The rupiya, the Grand Trunk Road, and the revenue survey Akbar's men reused"
+    },
+    {
+     "k": "Akbar",
+     "v": "Abolished jizya, created mansabdari and the zabt settlement under Todar Mal"
+    },
+    {
+     "k": "Third Panipat, 1761",
+     "v": "Ahmad Shah Abdali defeats the Marathas; the Sultanate of the north collapses"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1192",
+     "what": "Second Battle of Tarain"
+    },
+    {
+     "when": "1206",
+     "what": "Qutbuddin Aibak founds the Sultanate"
+    },
+    {
+     "when": "1336",
+     "what": "Vijayanagara founded"
+    },
+    {
+     "when": "1526",
+     "what": "First Battle of Panipat"
+    },
+    {
+     "when": "1556",
+     "what": "Second Battle of Panipat; Akbar's reign begins"
+    },
+    {
+     "when": "1565",
+     "what": "Talikota ends Vijayanagara's dominance"
+    },
+    {
+     "when": "1674",
+     "what": "Shivaji crowned at Raigad"
+    },
+    {
+     "when": "1707",
+     "what": "Aurangzeb dies"
+    },
+    {
+     "when": "1761",
+     "what": "Third Battle of Panipat"
+    }
+   ],
+   "why": "Panipat is asked three times over and the years are easy to swap: 1526 Babur against Lodi, 1556 Akbar's regent against Hemu, 1761 Abdali against the Marathas. The other reliable question is which ruler introduced which administrative device.",
+   "map": {
+    "nodes": [
+     {
+      "id": "hm-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Medieval India",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Three centuries of Sultanate and two of Mughal rule."
+     },
+     {
+      "id": "hm-sult",
+      "parent": "hm-root",
+      "tier": 1,
+      "label": "Delhi Sultanate",
+      "kind": "concept",
+      "rel": "period",
+      "note": "1206 to 1526, five dynasties."
+     },
+     {
+      "id": "hm-slave",
+      "parent": "hm-sult",
+      "tier": 2,
+      "label": "Slave dynasty",
+      "kind": "concept",
+      "rel": "dynasty",
+      "note": "Aibak, Iltutmish, Razia, Balban."
+     },
+     {
+      "id": "hm-razia",
+      "parent": "hm-slave",
+      "tier": 3,
+      "label": "Razia Sultan",
+      "kind": "person",
+      "rel": "ruler",
+      "note": "The only woman to sit on the Delhi throne."
+     },
+     {
+      "id": "hm-khalji",
+      "parent": "hm-sult",
+      "tier": 2,
+      "label": "Khaljis",
+      "kind": "concept",
+      "rel": "dynasty",
+      "note": "Alauddin's standing army and market controls."
+     },
+     {
+      "id": "hm-tughlaq",
+      "parent": "hm-sult",
+      "tier": 2,
+      "label": "Tughlaqs",
+      "kind": "concept",
+      "rel": "dynasty",
+      "note": "Daulatabad, the token currency, Firoz Shah's canals."
+     },
+     {
+      "id": "hm-lodi",
+      "parent": "hm-sult",
+      "tier": 2,
+      "label": "Sayyids and Lodis",
+      "kind": "concept",
+      "rel": "dynasty",
+      "note": "Ends at Panipat in 1526."
+     },
+     {
+      "id": "hm-mughal",
+      "parent": "hm-root",
+      "tier": 1,
+      "label": "Mughals",
+      "kind": "concept",
+      "rel": "period",
+      "note": "1526 to 1707 in substance, to 1857 in name."
+     },
+     {
+      "id": "hm-babur",
+      "parent": "hm-mughal",
+      "tier": 2,
+      "label": "Babur",
+      "kind": "person",
+      "rel": "founder",
+      "note": "Won Panipat with artillery and the tulughma tactic."
+     },
+     {
+      "id": "hm-sher",
+      "parent": "hm-mughal",
+      "tier": 2,
+      "label": "Sher Shah Suri",
+      "kind": "person",
+      "rel": "interruption",
+      "note": "The rupiya, the Grand Trunk Road, the revenue survey."
+     },
+     {
+      "id": "hm-akbar",
+      "parent": "hm-mughal",
+      "tier": 2,
+      "label": "Akbar",
+      "kind": "person",
+      "rel": "ruler",
+      "note": "Jizya abolished, mansabdari, zabt, Din-i-Ilahi."
+     },
+     {
+      "id": "hm-todar",
+      "parent": "hm-akbar",
+      "tier": 3,
+      "label": "Todar Mal",
+      "kind": "person",
+      "rel": "official",
+      "note": "Ran the zabt land revenue settlement."
+     },
+     {
+      "id": "hm-aurang",
+      "parent": "hm-mughal",
+      "tier": 2,
+      "label": "Aurangzeb",
+      "kind": "person",
+      "rel": "ruler",
+      "note": "Greatest extent, jizya restored, Deccan wars."
+     },
+     {
+      "id": "hm-vij",
+      "parent": "hm-root",
+      "tier": 1,
+      "label": "Vijayanagara",
+      "kind": "concept",
+      "rel": "power",
+      "note": "Founded 1336; broken at Talikota in 1565."
+     },
+     {
+      "id": "hm-maratha",
+      "parent": "hm-root",
+      "tier": 1,
+      "label": "Marathas",
+      "kind": "concept",
+      "rel": "power",
+      "note": "Shivaji crowned 1674; chauth and sardeshmukhi."
+     },
+     {
+      "id": "hm-panipat",
+      "parent": "hm-root",
+      "tier": 1,
+      "label": "Three battles of Panipat",
+      "kind": "event",
+      "rel": "pattern",
+      "note": "1526, 1556 and 1761."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-culture",
+   "rank": 11,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Art and culture: the eight dances, the schools of architecture and the lists",
+   "date": "",
+   "category": "Arts & Culture",
+   "tags": [
+    "Classical Dance",
+    "Architecture",
+    "UNESCO",
+    "Culture"
+   ],
+   "hook": "The Sangeet Natak Akademi recognises eight classical dances, and the argument about the ninth has been running for years.",
+   "story": "**Eight classical dance forms** are recognised: **Bharatanatyam** from Tamil Nadu, **Kathak** from the north, **Kathakali** and **Mohiniyattam** from Kerala, **Kuchipudi** from Andhra Pradesh, **Odissi** from Odisha, **Manipuri** from Manipur, and **Sattriya** from Assam, added in 2000. The Ministry of Culture has at times counted **Chhau** as a ninth. All trace their theory to the **Natya Shastra** of Bharata. Music divides into **Hindustani** in the north and **Carnatic** in the south, the latter shaped by the trinity of Tyagaraja, Muthuswami Dikshitar and Syama Sastri.\n\nTemple architecture divides into three styles. **Nagara** in the north has a curvilinear *shikhara* and no boundary walls, as at **Khajuraho** and **Konark**. **Dravida** in the south has a pyramidal *vimana* over the sanctum and towering **gopurams** at the gates, as at **Brihadeeswara** in Thanjavur, built by **Rajaraja Chola**. **Vesara** is the hybrid of the Deccan, as in the Hoysala temples at Belur and Halebidu. Rock-cut work runs from the Buddhist chaityas at **Ajanta** to the monolithic **Kailasa temple at Ellora**, cut top-down by the Rashtrakutas.\n\nPainting divides into the Ajanta murals, the **Mughal** miniature tradition under Akbar and Jahangir, the **Rajasthani** and **Pahari** schools including Kangra and Basohli, and the **Company** style painted for British patrons. Folk traditions with geographical indication protection include **Madhubani** from Bihar, **Warli** from Maharashtra, **Pattachitra** from Odisha and **Kalamkari** from Andhra Pradesh.\n\nTwo UNESCO lists matter. **World Heritage** covers sites; India has **44**. **Intangible Cultural Heritage** covers practices; India has **15** entries, including Vedic chanting, Kutiyattam, Ramlila, Chhau, Yoga, Kumbh Mela, Durga Puja in Kolkata and the Garba of Gujarat, inscribed in 2023.",
+   "facts": [
+    {
+     "k": "Classical dances",
+     "v": "Eight, with Sattriya added in 2000; Chhau sometimes counted a ninth"
+    },
+    {
+     "k": "Foundational text",
+     "v": "Natya Shastra of Bharata"
+    },
+    {
+     "k": "Nagara",
+     "v": "Northern style, curvilinear shikhara; Khajuraho and Konark"
+    },
+    {
+     "k": "Dravida",
+     "v": "Southern style, pyramidal vimana and gopurams; Brihadeeswara at Thanjavur"
+    },
+    {
+     "k": "Vesara",
+     "v": "Deccan hybrid; the Hoysala temples at Belur and Halebidu"
+    },
+    {
+     "k": "Kailasa, Ellora",
+     "v": "Monolithic rock-cut temple carved top-down by the Rashtrakutas"
+    },
+    {
+     "k": "World Heritage",
+     "v": "44 Indian sites"
+    },
+    {
+     "k": "Intangible Cultural Heritage",
+     "v": "15 Indian entries; Garba of Gujarat added in 2023"
+    }
+   ],
+   "timeline": [],
+   "why": "Dance-to-state and temple-to-style are the two mechanical questions, and the intangible heritage list is the current-affairs hook. Sattriya from Assam is the one most often mismatched.",
+   "map": {
+    "nodes": [
+     {
+      "id": "hc-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Art and culture",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Dance, music, architecture, painting and the UNESCO lists."
+     },
+     {
+      "id": "hc-dance",
+      "parent": "hc-root",
+      "tier": 1,
+      "label": "Eight classical dances",
+      "kind": "concept",
+      "rel": "category",
+      "note": "Recognised by the Sangeet Natak Akademi."
+     },
+     {
+      "id": "hc-bharat",
+      "parent": "hc-dance",
+      "tier": 2,
+      "label": "Bharatanatyam",
+      "kind": "concept",
+      "rel": "form",
+      "note": "Tamil Nadu; the oldest documented form."
+     },
+     {
+      "id": "hc-sattriya",
+      "parent": "hc-dance",
+      "tier": 2,
+      "label": "Sattriya",
+      "kind": "concept",
+      "rel": "form",
+      "note": "Assam, from the Vaishnava monasteries; recognised in 2000."
+     },
+     {
+      "id": "hc-natya",
+      "parent": "hc-dance",
+      "tier": 2,
+      "label": "Natya Shastra",
+      "kind": "concept",
+      "rel": "text",
+      "note": "Bharata's treatise underlying all eight."
+     },
+     {
+      "id": "hc-music",
+      "parent": "hc-root",
+      "tier": 1,
+      "label": "Hindustani and Carnatic",
+      "kind": "concept",
+      "rel": "division",
+      "note": "Northern and southern classical traditions."
+     },
+     {
+      "id": "hc-arch",
+      "parent": "hc-root",
+      "tier": 1,
+      "label": "Temple architecture",
+      "kind": "concept",
+      "rel": "category",
+      "note": "Three styles by region."
+     },
+     {
+      "id": "hc-nagara",
+      "parent": "hc-arch",
+      "tier": 2,
+      "label": "Nagara",
+      "kind": "concept",
+      "rel": "style",
+      "note": "Curvilinear shikhara; Khajuraho, Konark."
+     },
+     {
+      "id": "hc-dravida",
+      "parent": "hc-arch",
+      "tier": 2,
+      "label": "Dravida",
+      "kind": "concept",
+      "rel": "style",
+      "note": "Vimana and gopuram; Brihadeeswara at Thanjavur."
+     },
+     {
+      "id": "hc-vesara",
+      "parent": "hc-arch",
+      "tier": 2,
+      "label": "Vesara",
+      "kind": "concept",
+      "rel": "style",
+      "note": "Deccan hybrid; Hoysala temples."
+     },
+     {
+      "id": "hc-rock",
+      "parent": "hc-arch",
+      "tier": 2,
+      "label": "Rock-cut",
+      "kind": "concept",
+      "rel": "style",
+      "note": "Ajanta chaityas to the Kailasa temple at Ellora."
+     },
+     {
+      "id": "hc-paint",
+      "parent": "hc-root",
+      "tier": 1,
+      "label": "Painting schools",
+      "kind": "concept",
+      "rel": "category",
+      "note": "Mughal, Rajasthani, Pahari and Company styles."
+     },
+     {
+      "id": "hc-folk",
+      "parent": "hc-paint",
+      "tier": 2,
+      "label": "Folk traditions",
+      "kind": "concept",
+      "rel": "forms",
+      "note": "Madhubani, Warli, Pattachitra, Kalamkari."
+     },
+     {
+      "id": "hc-wh",
+      "parent": "hc-root",
+      "tier": 1,
+      "label": "World Heritage",
+      "kind": "concept",
+      "rel": "list",
+      "note": "44 Indian sites under the 1972 convention."
+     },
+     {
+      "id": "hc-ich",
+      "parent": "hc-root",
+      "tier": 1,
+      "label": "Intangible Cultural Heritage",
+      "kind": "concept",
+      "rel": "list",
+      "note": "15 Indian entries; Garba added in 2023."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-revolutions",
+   "rank": 12,
+   "depth": "deep",
+   "importance": 4,
+   "title": "Three revolutions and the vocabulary they left behind",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "French Revolution",
+    "American Revolution",
+    "Russian Revolution",
+    "World History"
+   ],
+   "hook": "Liberty, equality and fraternity reached the Preamble of the Indian Constitution by way of a Paris street in 1789.",
+   "story": "The **American Revolution** began over taxation without representation. The **Stamp Act of 1765** and the **Tea Act** produced the **Boston Tea Party of 1773**; fighting started at Lexington in 1775; the **Declaration of Independence**, drafted mainly by **Thomas Jefferson**, was adopted on **4 July 1776**. French intervention decided the war, which ended at Yorktown in 1781 and formally at the **Treaty of Paris, 1783**. The **Constitution of 1787** produced the first written constitution of a modern republic, with **separation of powers** taken from Montesquieu, judicial review established later by **Marbury v. Madison (1803)**, and a **Bill of Rights** added by the first ten amendments in 1791. India borrowed the fundamental rights, judicial review, the impeachment procedure and the office of Vice President from it.\n\nThe **French Revolution** began when the **Estates-General** met in **May 1789** for the first time since 1614, the Third Estate declared itself the National Assembly, and the **Bastille** fell on **14 July 1789**. The **Declaration of the Rights of Man and of the Citizen** followed in August. The monarchy was abolished in 1792, **Louis XVI** executed in 1793, and the **Reign of Terror** under **Robespierre** and the Committee of Public Safety ran until his own execution in 1794. **Napoleon** took power in 1799 and crowned himself emperor in 1804; his **Civil Code of 1804** carried the revolution's legal settlement across Europe, and his defeat at **Waterloo in 1815** was followed by the **Congress of Vienna**, which tried to restore what he had swept away. **Liberty, equality and fraternity** entered the Indian Preamble through this route.\n\nThe **Russian Revolution** came in two stages in **1917**. The **February Revolution** forced the abdication of **Tsar Nicholas II** and produced a provisional government under Kerensky that kept Russia in the war. The **October Revolution** put the **Bolsheviks** under **Lenin** in power on the promise of peace, land and bread; the **Treaty of Brest-Litovsk** took Russia out of the First World War in 1918 at heavy territorial cost. A civil war followed, the **New Economic Policy** of 1921 restored limited private trade, and the **USSR** was formed in **1922**. **Stalin** succeeded Lenin in 1924 and replaced the NEP with collectivisation and five-year plans, the model that shaped Indian planning from the Second Plan onwards.",
+   "facts": [
+    {
+     "k": "American Declaration",
+     "v": "4 July 1776, drafted mainly by Jefferson; war ended by the Treaty of Paris, 1783"
+    },
+    {
+     "k": "Borrowed from the United States",
+     "v": "Fundamental rights, judicial review, impeachment, the Vice President"
+    },
+    {
+     "k": "Bastille",
+     "v": "14 July 1789; the Estates-General had met in May for the first time since 1614"
+    },
+    {
+     "k": "Declaration of the Rights of Man",
+     "v": "August 1789; source of liberty, equality and fraternity"
+    },
+    {
+     "k": "Napoleonic Code",
+     "v": "1804; carried the revolution's legal settlement across Europe"
+    },
+    {
+     "k": "Two revolutions in 1917",
+     "v": "February forced the Tsar out; October brought the Bolsheviks in"
+    },
+    {
+     "k": "Brest-Litovsk",
+     "v": "1918; took Russia out of the First World War"
+    },
+    {
+     "k": "USSR formed",
+     "v": "1922; Stalin succeeded Lenin in 1924"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1776",
+     "what": "American Declaration of Independence"
+    },
+    {
+     "when": "1789",
+     "what": "Estates-General; fall of the Bastille"
+    },
+    {
+     "when": "1793",
+     "what": "Louis XVI executed; the Terror begins"
+    },
+    {
+     "when": "1804",
+     "what": "Napoleonic Code; Napoleon crowned emperor"
+    },
+    {
+     "when": "1815",
+     "what": "Waterloo; Congress of Vienna"
+    },
+    {
+     "when": "1917",
+     "what": "February and October revolutions in Russia"
+    },
+    {
+     "when": "1922",
+     "what": "USSR formed"
+    }
+   ],
+   "why": "Papers ask which idea India borrowed from where, so keep the American list and the French phrase separate. The 1917 trap is treating the two revolutions as one event.",
+   "map": {
+    "nodes": [
+     {
+      "id": "hr-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "Three revolutions",
+      "kind": "concept",
+      "rel": "core",
+      "note": "The events that gave modern politics its vocabulary."
+     },
+     {
+      "id": "hr-us",
+      "parent": "hr-root",
+      "tier": 1,
+      "label": "American Revolution",
+      "kind": "event",
+      "rel": "revolution",
+      "note": "Taxation without representation to a written constitution."
+     },
+     {
+      "id": "hr-decl",
+      "parent": "hr-us",
+      "tier": 2,
+      "label": "Declaration of Independence",
+      "kind": "concept",
+      "rel": "document",
+      "note": "4 July 1776, drafted mainly by Jefferson."
+     },
+     {
+      "id": "hr-const",
+      "parent": "hr-us",
+      "tier": 2,
+      "label": "Constitution of 1787",
+      "kind": "law",
+      "rel": "settlement",
+      "note": "Separation of powers, a Bill of Rights from 1791."
+     },
+     {
+      "id": "hr-marbury",
+      "parent": "hr-const",
+      "tier": 3,
+      "label": "Marbury v. Madison, 1803",
+      "kind": "case",
+      "rel": "doctrine",
+      "note": "Established judicial review."
+     },
+     {
+      "id": "hr-borrow",
+      "parent": "hr-us",
+      "tier": 2,
+      "label": "What India borrowed",
+      "kind": "concept",
+      "rel": "link",
+      "note": "Fundamental rights, judicial review, impeachment, Vice President."
+     },
+     {
+      "id": "hr-fr",
+      "parent": "hr-root",
+      "tier": 1,
+      "label": "French Revolution",
+      "kind": "event",
+      "rel": "revolution",
+      "note": "From the Estates-General to the Napoleonic Code."
+     },
+     {
+      "id": "hr-bastille",
+      "parent": "hr-fr",
+      "tier": 2,
+      "label": "Fall of the Bastille",
+      "kind": "event",
+      "rel": "symbol",
+      "note": "14 July 1789."
+     },
+     {
+      "id": "hr-rights",
+      "parent": "hr-fr",
+      "tier": 2,
+      "label": "Rights of Man, 1789",
+      "kind": "concept",
+      "rel": "document",
+      "note": "Liberty, equality and fraternity."
+     },
+     {
+      "id": "hr-terror",
+      "parent": "hr-fr",
+      "tier": 2,
+      "label": "The Terror",
+      "kind": "event",
+      "rel": "phase",
+      "note": "Robespierre and the Committee of Public Safety."
+     },
+     {
+      "id": "hr-nap",
+      "parent": "hr-fr",
+      "tier": 2,
+      "label": "Napoleon",
+      "kind": "person",
+      "rel": "outcome",
+      "note": "Emperor 1804; Civil Code the same year; Waterloo 1815."
+     },
+     {
+      "id": "hr-vienna",
+      "parent": "hr-nap",
+      "tier": 3,
+      "label": "Congress of Vienna",
+      "kind": "event",
+      "rel": "reaction",
+      "note": "Attempted restoration of the old order."
+     },
+     {
+      "id": "hr-ru",
+      "parent": "hr-root",
+      "tier": 1,
+      "label": "Russian Revolution",
+      "kind": "event",
+      "rel": "revolution",
+      "note": "Two stages in 1917."
+     },
+     {
+      "id": "hr-feb",
+      "parent": "hr-ru",
+      "tier": 2,
+      "label": "February Revolution",
+      "kind": "event",
+      "rel": "stage",
+      "note": "Tsar Nicholas II abdicates; provisional government."
+     },
+     {
+      "id": "hr-oct",
+      "parent": "hr-ru",
+      "tier": 2,
+      "label": "October Revolution",
+      "kind": "event",
+      "rel": "stage",
+      "note": "Lenin and the Bolsheviks; peace, land and bread."
+     },
+     {
+      "id": "hr-brest",
+      "parent": "hr-oct",
+      "tier": 3,
+      "label": "Brest-Litovsk, 1918",
+      "kind": "agreement",
+      "rel": "exit",
+      "note": "Russia leaves the First World War."
+     },
+     {
+      "id": "hr-ussr",
+      "parent": "hr-ru",
+      "tier": 2,
+      "label": "USSR, 1922",
+      "kind": "concept",
+      "rel": "state",
+      "note": "Stalin from 1924; the planning model India later borrowed."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-worldwars",
+   "rank": 14,
+   "depth": "deep",
+   "importance": 4,
+   "title": "The two world wars and the institutions built out of them",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "World War I",
+    "World War II",
+    "League of Nations",
+    "United Nations"
+   ],
+   "hook": "The treaty that ended the first war is widely blamed for causing the second, and the man who said so at the time was an economist nobody listened to.",
+   "story": "The **First World War** ran from **1914 to 1918**. The immediate trigger was the assassination of **Archduke Franz Ferdinand** at **Sarajevo on 28 June 1914**; the underlying causes were the alliance system, militarism, imperial rivalry and nationalism in the Balkans. The **Triple Alliance** of Germany, Austria-Hungary and Italy faced the **Triple Entente** of Britain, France and Russia, though Italy changed sides in 1915. The United States entered in 1917 after unrestricted submarine warfare and the **Zimmermann telegram**. About **1.3 million Indians** served, mostly in Mesopotamia and France. The **Armistice** came on **11 November 1918**.\n\nThe **Treaty of Versailles, 1919** imposed a war guilt clause, reparations, disarmament and territorial loss on Germany. **John Maynard Keynes** resigned from the British delegation and argued in *The Economic Consequences of the Peace* that the terms would wreck the German economy and the peace with it. The **League of Nations**, proposed in **Woodrow Wilson's Fourteen Points**, was created by the same treaty and seated at **Geneva**; the United States never joined because the Senate refused ratification, and the League had no armed force and required unanimity, which is why it failed over Manchuria in 1931 and Abyssinia in 1935.\n\nThe **Second World War** ran from the **German invasion of Poland on 1 September 1939** to the surrenders of **May and August 1945**. The **Axis** of Germany, Italy and Japan faced the **Allies**. Turning points were the **Battle of Britain**, the invasion of the Soviet Union in 1941, **Pearl Harbor** in December 1941, **Stalingrad** in 1942-43, and the **Normandy landings** of June 1944. The war ended in the Pacific after the atomic bombing of **Hiroshima on 6 August** and **Nagasaki on 9 August 1945**. Around 2.5 million Indians served, the largest volunteer army in history.\n\nThe institutions came out of the wreckage: the **United Nations Charter** signed at San Francisco in June 1945, the **Bretton Woods** institutions from 1944, the **Nuremberg** and **Tokyo** tribunals which established that individuals could be tried for crimes against humanity, the **Universal Declaration of Human Rights** in 1948, and the **Genocide Convention** the same year.",
+   "facts": [
+    {
+     "k": "Trigger of the first war",
+     "v": "Assassination of Archduke Franz Ferdinand at Sarajevo, 28 June 1914"
+    },
+    {
+     "k": "Armistice",
+     "v": "11 November 1918; about 1.3 million Indians served"
+    },
+    {
+     "k": "Versailles, 1919",
+     "v": "War guilt, reparations, disarmament; Keynes resigned and predicted disaster"
+    },
+    {
+     "k": "League of Nations",
+     "v": "From Wilson's Fourteen Points; seated at Geneva; the United States never joined"
+    },
+    {
+     "k": "Second war",
+     "v": "1 September 1939 to the surrenders of May and August 1945"
+    },
+    {
+     "k": "Atomic bombings",
+     "v": "Hiroshima 6 August and Nagasaki 9 August 1945"
+    },
+    {
+     "k": "Nuremberg and Tokyo",
+     "v": "Established individual criminal responsibility for crimes against humanity"
+    },
+    {
+     "k": "1948",
+     "v": "Universal Declaration of Human Rights and the Genocide Convention"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1914",
+     "what": "Sarajevo; war begins"
+    },
+    {
+     "when": "1917",
+     "what": "United States enters; Russia leaves after October"
+    },
+    {
+     "when": "1919",
+     "what": "Treaty of Versailles; League of Nations created"
+    },
+    {
+     "when": "1939",
+     "what": "Germany invades Poland"
+    },
+    {
+     "when": "1945",
+     "what": "Surrenders; UN Charter signed at San Francisco"
+    },
+    {
+     "when": "1948",
+     "what": "Universal Declaration and Genocide Convention"
+    }
+   ],
+   "why": "Versailles created the League, and the Charter created the UN — the pairing gets swapped constantly. The other reliable question is why the League failed: no United States, no force, and a unanimity rule.",
+   "map": {
+    "nodes": [
+     {
+      "id": "hw-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "The world wars",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Two wars and the institutional order built after them."
+     },
+     {
+      "id": "hw-ww1",
+      "parent": "hw-root",
+      "tier": 1,
+      "label": "First World War",
+      "kind": "event",
+      "rel": "war",
+      "note": "1914 to 1918."
+     },
+     {
+      "id": "hw-sara",
+      "parent": "hw-ww1",
+      "tier": 2,
+      "label": "Sarajevo, 1914",
+      "kind": "event",
+      "rel": "trigger",
+      "note": "Assassination of Archduke Franz Ferdinand."
+     },
+     {
+      "id": "hw-alliances",
+      "parent": "hw-ww1",
+      "tier": 2,
+      "label": "Alliance system",
+      "kind": "concept",
+      "rel": "cause",
+      "note": "Triple Alliance against Triple Entente."
+     },
+     {
+      "id": "hw-india1",
+      "parent": "hw-ww1",
+      "tier": 2,
+      "label": "Indian troops",
+      "kind": "concept",
+      "rel": "participation",
+      "note": "About 1.3 million served."
+     },
+     {
+      "id": "hw-versailles",
+      "parent": "hw-root",
+      "tier": 1,
+      "label": "Treaty of Versailles, 1919",
+      "kind": "agreement",
+      "rel": "settlement",
+      "note": "War guilt, reparations, disarmament."
+     },
+     {
+      "id": "hw-keynes",
+      "parent": "hw-versailles",
+      "tier": 2,
+      "label": "Keynes",
+      "kind": "person",
+      "rel": "critic",
+      "note": "Resigned and predicted the terms would fail."
+     },
+     {
+      "id": "hw-league",
+      "parent": "hw-versailles",
+      "tier": 2,
+      "label": "League of Nations",
+      "kind": "institution",
+      "rel": "body",
+      "note": "From Wilson's Fourteen Points; at Geneva."
+     },
+     {
+      "id": "hw-fail",
+      "parent": "hw-league",
+      "tier": 3,
+      "label": "Why it failed",
+      "kind": "concept",
+      "rel": "weakness",
+      "note": "No United States, no force, unanimity required."
+     },
+     {
+      "id": "hw-ww2",
+      "parent": "hw-root",
+      "tier": 1,
+      "label": "Second World War",
+      "kind": "event",
+      "rel": "war",
+      "note": "1939 to 1945."
+     },
+     {
+      "id": "hw-axis",
+      "parent": "hw-ww2",
+      "tier": 2,
+      "label": "Axis and Allies",
+      "kind": "concept",
+      "rel": "sides",
+      "note": "Germany, Italy and Japan against the Allies."
+     },
+     {
+      "id": "hw-turn",
+      "parent": "hw-ww2",
+      "tier": 2,
+      "label": "Turning points",
+      "kind": "concept",
+      "rel": "course",
+      "note": "Britain, Barbarossa, Pearl Harbor, Stalingrad, Normandy."
+     },
+     {
+      "id": "hw-bomb",
+      "parent": "hw-ww2",
+      "tier": 2,
+      "label": "Hiroshima and Nagasaki",
+      "kind": "event",
+      "rel": "end",
+      "note": "6 and 9 August 1945."
+     },
+     {
+      "id": "hw-un",
+      "parent": "hw-root",
+      "tier": 1,
+      "label": "United Nations",
+      "kind": "institution",
+      "rel": "successor",
+      "note": "Charter signed at San Francisco, June 1945."
+     },
+     {
+      "id": "hw-nuremberg",
+      "parent": "hw-root",
+      "tier": 1,
+      "label": "Nuremberg and Tokyo",
+      "kind": "institution",
+      "rel": "tribunals",
+      "note": "Individual responsibility for crimes against humanity."
+     },
+     {
+      "id": "hw-udhr",
+      "parent": "hw-root",
+      "tier": 2,
+      "label": "Universal Declaration, 1948",
+      "kind": "concept",
+      "rel": "document",
+      "note": "With the Genocide Convention the same year."
+     }
+    ]
+   },
+   "sources": []
+  },
+  {
+   "id": "his-coldwar",
+   "rank": 16,
+   "depth": "deep",
+   "importance": 4,
+   "title": "The Cold War, non-alignment and the end of empire",
+   "date": "",
+   "category": "History",
+   "tags": [
+    "Cold War",
+    "NAM",
+    "Decolonisation",
+    "Berlin Wall"
+   ],
+   "hook": "India refused to pick a side and then organised everyone else who refused too.",
+   "story": "The **Cold War** ran from roughly **1947 to 1991** between the United States and the Soviet Union, fought through proxies, alliances and an arms race rather than directly. Its opening moves were the **Truman Doctrine** and the **Marshall Plan** of 1947, the **Berlin Blockade** and airlift of 1948-49, the founding of **NATO** in **1949** and of the **Warsaw Pact** in **1955**. The flashpoints were **Korea (1950-53)**, the **Cuban Missile Crisis (1962)**, which came closest to nuclear war and produced the hotline and the Partial Test Ban Treaty, **Vietnam**, and **Afghanistan** from 1979. It ended with the fall of the **Berlin Wall** on **9 November 1989** and the dissolution of the **Soviet Union in December 1991**.\n\n**Non-alignment** was India's answer. The ground was laid at the **Bandung Conference of 1955**, where twenty-nine Asian and African states met and adopted principles built on the **Panchsheel** agreement India and China had signed in 1954: mutual respect for sovereignty, non-aggression, non-interference, equality and peaceful coexistence. The **Non-Aligned Movement** was founded at **Belgrade in 1961** by **Nehru**, **Tito** of Yugoslavia, **Nasser** of Egypt, **Sukarno** of Indonesia and **Nkrumah** of Ghana. It now has 120 members. India hosted the summit at New Delhi in 1983. Non-alignment was never neutrality: it claimed the right to judge each question on its merits, which is how India could criticise the invasion of Suez and stay quiet on Hungary in the same year.\n\n**Decolonisation** ran alongside. India and Pakistan in **1947**, Israel and the end of the Palestine mandate in 1948, Indonesia in 1949, Ghana in **1957** as the first sub-Saharan colony to gain independence, then seventeen African states in **1960** alone, the year the General Assembly adopted the **Declaration on the Granting of Independence to Colonial Countries and Peoples**. The last major cases were the Portuguese colonies in 1975, Zimbabwe in 1980, Namibia in 1990 and the end of **apartheid** in South Africa with **Nelson Mandela's** election in **1994**.",
+   "facts": [
+    {
+     "k": "Span",
+     "v": "About 1947 to 1991; ended with the Berlin Wall in 1989 and the USSR in 1991"
+    },
+    {
+     "k": "Alliances",
+     "v": "NATO 1949, Warsaw Pact 1955"
+    },
+    {
+     "k": "Closest call",
+     "v": "Cuban Missile Crisis, 1962; produced the hotline and the Partial Test Ban Treaty"
+    },
+    {
+     "k": "Bandung, 1955",
+     "v": "Twenty-nine Asian and African states; built on Panchsheel"
+    },
+    {
+     "k": "Panchsheel, 1954",
+     "v": "Five principles agreed between India and China"
+    },
+    {
+     "k": "NAM founded",
+     "v": "Belgrade, 1961, by Nehru, Tito, Nasser, Sukarno and Nkrumah; 120 members now"
+    },
+    {
+     "k": "Ghana, 1957",
+     "v": "First sub-Saharan colony to become independent"
+    },
+    {
+     "k": "1960",
+     "v": "Seventeen African states independent; UN declaration on decolonisation adopted"
+    }
+   ],
+   "timeline": [
+    {
+     "when": "1947",
+     "what": "Truman Doctrine and Marshall Plan; Indian independence"
+    },
+    {
+     "when": "1954",
+     "what": "Panchsheel agreement"
+    },
+    {
+     "when": "1955",
+     "what": "Bandung Conference; Warsaw Pact"
+    },
+    {
+     "when": "1961",
+     "what": "NAM founded at Belgrade"
+    },
+    {
+     "when": "1962",
+     "what": "Cuban Missile Crisis"
+    },
+    {
+     "when": "1989",
+     "what": "Berlin Wall falls"
+    },
+    {
+     "when": "1991",
+     "what": "Soviet Union dissolved"
+    },
+    {
+     "when": "1994",
+     "what": "Mandela elected in South Africa"
+    }
+   ],
+   "why": "Bandung is 1955 and NAM is 1961 — separate events, and the option set will offer both. Panchsheel is India and China in 1954, not a NAM document.",
+   "map": {
+    "nodes": [
+     {
+      "id": "hc2-root",
+      "parent": "root",
+      "tier": 1,
+      "label": "The Cold War",
+      "kind": "concept",
+      "rel": "core",
+      "note": "Two blocs, a long standoff, and the countries that refused both."
+     },
+     {
+      "id": "hc2-truman",
+      "parent": "hc2-root",
+      "tier": 1,
+      "label": "Truman Doctrine and Marshall Plan",
+      "kind": "concept",
+      "rel": "opening",
+      "note": "Containment and reconstruction aid, 1947."
+     },
+     {
+      "id": "hc2-nato",
+      "parent": "hc2-root",
+      "tier": 1,
+      "label": "NATO, 1949",
+      "kind": "institution",
+      "rel": "alliance",
+      "note": "Western military alliance."
+     },
+     {
+      "id": "hc2-warsaw",
+      "parent": "hc2-nato",
+      "tier": 2,
+      "label": "Warsaw Pact, 1955",
+      "kind": "institution",
+      "rel": "counter",
+      "note": "The Soviet bloc's answer."
+     },
+     {
+      "id": "hc2-cuba",
+      "parent": "hc2-root",
+      "tier": 1,
+      "label": "Cuban Missile Crisis, 1962",
+      "kind": "event",
+      "rel": "flashpoint",
+      "note": "Closest approach to nuclear war."
+     },
+     {
+      "id": "hc2-wall",
+      "parent": "hc2-root",
+      "tier": 1,
+      "label": "Berlin Wall, 1989",
+      "kind": "event",
+      "rel": "end",
+      "note": "Fell on 9 November; the USSR dissolved in 1991."
+     },
+     {
+      "id": "hc2-nam",
+      "parent": "hc2-root",
+      "tier": 1,
+      "label": "Non-Aligned Movement",
+      "kind": "institution",
+      "rel": "answer",
+      "note": "Founded at Belgrade in 1961."
+     },
+     {
+      "id": "hc2-bandung",
+      "parent": "hc2-nam",
+      "tier": 2,
+      "label": "Bandung, 1955",
+      "kind": "event",
+      "rel": "precursor",
+      "note": "Twenty-nine Asian and African states."
+     },
+     {
+      "id": "hc2-pancha",
+      "parent": "hc2-bandung",
+      "tier": 3,
+      "label": "Panchsheel, 1954",
+      "kind": "agreement",
+      "rel": "principles",
+      "note": "Five principles, India and China."
+     },
+     {
+      "id": "hc2-founders",
+      "parent": "hc2-nam",
+      "tier": 2,
+      "label": "The five founders",
+      "kind": "person",
+      "rel": "leaders",
+      "note": "Nehru, Tito, Nasser, Sukarno, Nkrumah."
+     },
+     {
+      "id": "hc2-1983",
+      "parent": "hc2-nam",
+      "tier": 3,
+      "label": "New Delhi summit, 1983",
+      "kind": "event",
+      "rel": "india",
+      "note": "India hosted and chaired."
+     },
+     {
+      "id": "hc2-decol",
+      "parent": "hc2-root",
+      "tier": 1,
+      "label": "Decolonisation",
+      "kind": "concept",
+      "rel": "process",
+      "note": "From 1947 to Namibia in 1990."
+     },
+     {
+      "id": "hc2-ghana",
+      "parent": "hc2-decol",
+      "tier": 2,
+      "label": "Ghana, 1957",
+      "kind": "place",
+      "rel": "first",
+      "note": "First sub-Saharan colony to become independent."
+     },
+     {
+      "id": "hc2-1960",
+      "parent": "hc2-decol",
+      "tier": 2,
+      "label": "The African year, 1960",
+      "kind": "event",
+      "rel": "wave",
+      "note": "Seventeen states independent; UN declaration adopted."
+     },
+     {
+      "id": "hc2-mandela",
+      "parent": "hc2-decol",
+      "tier": 2,
+      "label": "Mandela, 1994",
+      "kind": "person",
+      "rel": "end",
+      "note": "Apartheid ends in South Africa."
+     }
+    ]
+   },
+   "sources": []
+  }
+ ],
+ "passages": [
+  {
+   "id": "history-p1",
+   "kind": "static",
+   "month": "history",
+   "topicIds": [
+    "his-gandhi-movements"
+   ],
+   "category": "History",
+   "tags": [
+    "Non-Cooperation",
+    "Chauri Chaura"
+   ],
+   "difficulty": 2,
+   "title": "The movement called off",
+   "passage": "The movement launched at the end of 1920 was the first attempt to make Indian nationalism a mass affair rather than a conversation between lawyers. Its programme was withdrawal: students left government schools, lawyers gave up practice, voters boycotted the new councils, and foreign cloth was burned in public. Two grievances had brought an unusual coalition together. One was a wartime security law that permitted detention without trial, and the massacre at Amritsar that followed the protests against it. The other was the treatment of the Ottoman Caliph after the war, which mobilised Muslim opinion behind a leadership that had until then kept its distance from the Congress.\n\nFor about eighteen months the movement grew. Then, in February 1922, a procession in a small town in the United Provinces was fired upon by police, turned on the police station, and burned it with twenty-two policemen inside. Within a week the leader of the movement had suspended it entirely, arguing that a people not yet capable of discipline under provocation could not be trusted with a mass campaign. He was arrested the following month, tried for sedition, and sentenced to six years.\n\nThe suspension split the leadership. Two senior figures who had given up lucrative legal practices to join the campaign formed a new party to contest the very council elections the movement had boycotted, on the argument that obstruction from inside the councils was better than nothing at all. A younger leader from Bengal never forgave the decision and would spend the next two decades arguing that the struggle needed methods the leadership was unwilling to countenance.\n\nThe alliance that had made the movement possible did not survive either. The grievance that had brought it about was resolved not in India but in Turkey, where the Caliphate was abolished in 1924 by a government with no interest in Indian opinion.",
+   "questions": [
+    {
+     "q": "The town where the police station was burned in February 1922 is:",
+     "options": [
+      "Chauri Chaura",
+      "Champaran",
+      "Kheda",
+      "Bardoli"
+     ],
+     "answer": 0,
+     "explain": "Chauri Chaura in Gorakhpur district, on 5 February 1922. Champaran and Kheda were 1917-18 satyagrahas; Bardoli was the 1928 no-tax campaign led by Vallabhbhai Patel."
+    },
+    {
+     "q": "The wartime security law referred to in the first paragraph is the:",
+     "options": [
+      "Vernacular Press Act",
+      "Rowlatt Act",
+      "Government of India Act 1919",
+      "Defence of India Act 1962"
+     ],
+     "answer": 1,
+     "explain": "The Rowlatt Act of 1919, popularly summarised as \"no vakil, no appeal, no daleel\". The protests against it led to the Jallianwala Bagh massacre on 13 April 1919."
+    },
+    {
+     "q": "The new party formed by the two senior figures described in the third paragraph was the:",
+     "options": [
+      "Forward Bloc",
+      "Swaraj Party",
+      "Independence for India League",
+      "Congress Socialist Party"
+     ],
+     "answer": 1,
+     "explain": "The Swaraj Party, founded in 1923 by Motilal Nehru and C.R. Das to contest council elections. The Forward Bloc was founded by Subhas Chandra Bose in 1939."
+    },
+    {
+     "q": "The younger leader from Bengal referred to in the same paragraph is most likely:",
+     "options": [
+      "Bipin Chandra Pal",
+      "Rabindranath Tagore",
+      "Subhas Chandra Bose",
+      "Surendranath Banerjee"
+     ],
+     "answer": 2,
+     "explain": "Subhas Chandra Bose, who criticised the suspension and later broke with Gandhi over methods, eventually leading the Indian National Army."
+    },
+    {
+     "q": "Which statement about the alliance described in the passage is accurate?",
+     "options": [
+      "It ended when the Congress withdrew from it in 1922",
+      "It ended because the Caliphate was abolished in Turkey in 1924",
+      "It was never formally agreed to by Muslim leaders",
+      "It continued until the Lucknow Pact of 1916"
+     ],
+     "answer": 1,
+     "explain": "The Khilafat cause collapsed when Mustafa Kemal’s government abolished the Caliphate in 1924. The Lucknow Pact of 1916 predates this movement entirely."
+    }
+   ]
+  },
+  {
+   "id": "history-p2",
+   "kind": "static",
+   "month": "history",
+   "topicIds": [
+    "his-1857"
+   ],
+   "category": "History",
+   "tags": [
+    "1857",
+    "Company Rule"
+   ],
+   "difficulty": 2,
+   "title": "The end of Company rule",
+   "passage": "The immediate grievance was a cartridge. A new rifle issued to the army required its paper cartridge to be bitten open before loading, and the grease used on that paper was widely believed to contain the fat of animals sacred to one community and forbidden to another. In March 1857 a sepoy at a cantonment near Calcutta attacked his officers and was hanged within a fortnight. In May the garrison at a town north of Delhi mutinied over the same issue, marched on the old capital, and proclaimed the elderly Mughal pensioner living there as their sovereign.\n\nBeneath the cartridge lay a decade of dispossession. States without a natural heir had been annexed under a doctrine applied by the previous Governor-General; a large kingdom had been annexed the previous year on the ground of misgovernment, and a substantial share of the army's recruits came from it. Land settlements had displaced established rural families. A new enlistment rule had required soldiers to serve overseas, which many regarded as a violation of caste.\n\nThe revolt was crushed within eighteen months. It was confined largely to the north; the Punjab and the south remained quiet, and Sikh and Gurkha regiments fought for the British. The rebels had no shared programme beyond expelling the Company and no coordination between their centres.\n\nThe settlement that followed abolished the Company altogether. Its Court of Directors and the Board of Control were replaced by a single minister in the British cabinet with an advisory council, and the Governor-General acquired a second title as the sovereign's direct representative. A proclamation read at Allahabad that November promised no further annexations, non-interference in religious practice and the admission of Indians to public office without distinction of race or creed.",
+   "questions": [
+    {
+     "q": "The doctrine referred to in the second paragraph is the:",
+     "options": [
+      "Doctrine of Lapse",
+      "Subsidiary Alliance",
+      "Doctrine of Paramountcy",
+      "Ring Fence Policy"
+     ],
+     "answer": 0,
+     "explain": "The Doctrine of Lapse, applied by Lord Dalhousie, under which Satara, Jhansi and Nagpur were annexed. Subsidiary Alliance was Wellesley’s earlier system."
+    },
+    {
+     "q": "The kingdom annexed the previous year on the ground of misgovernment was:",
+     "options": [
+      "Jhansi",
+      "Awadh",
+      "Satara",
+      "Nagpur"
+     ],
+     "answer": 1,
+     "explain": "Awadh, annexed in 1856. A large proportion of the Bengal Army was recruited there, which spread the resentment through the ranks."
+    },
+    {
+     "q": "The statute that abolished the Company was the:",
+     "options": [
+      "Charter Act 1853",
+      "Government of India Act 1858",
+      "Indian Councils Act 1861",
+      "Government of India Act 1935"
+     ],
+     "answer": 1,
+     "explain": "The Government of India Act 1858, which created the Secretary of State for India with a council of fifteen and made the Governor-General a Viceroy."
+    },
+    {
+     "q": "The first holder of the second title mentioned in the final paragraph was:",
+     "options": [
+      "Lord Dalhousie",
+      "Lord Canning",
+      "Lord Curzon",
+      "Lord Ripon"
+     ],
+     "answer": 1,
+     "explain": "Lord Canning, Governor-General from 1856, became the first Viceroy in 1858. Dalhousie preceded him and left in 1856."
+    },
+    {
+     "q": "The proclamation read at Allahabad in November 1858 was issued in the name of:",
+     "options": [
+      "The Prime Minister",
+      "The Secretary of State",
+      "Queen Victoria",
+      "The Viceroy"
+     ],
+     "answer": 2,
+     "explain": "Queen Victoria’s Proclamation of 1 November 1858, sometimes called the Magna Carta of Indian liberties."
+    }
+   ]
+  },
+  {
+   "id": "history-p3",
+   "kind": "static",
+   "month": "history",
+   "topicIds": [
+    "his-medieval"
+   ],
+   "category": "History",
+   "tags": [
+    "Mughals",
+    "Sher Shah",
+    "Revenue"
+   ],
+   "difficulty": 3,
+   "title": "The interruption that lasted",
+   "passage": "He was born the son of a minor jagirdar, took service under an Afghan noble, and by 1540 had driven the second emperor of the new dynasty out of India entirely, into fifteen years of exile in Persia. He ruled for five years and died besieging a fort. His own successors lost everything within a decade. Judged by dynastic survival his reign was a failure, and judged by administration it was the foundation of everything that followed.\n\nHe measured land rather than estimating it, using a standard unit, and fixed the state's share at a third of the average produce of three categories of soil, payable in cash or kind at the cultivator's option. Each peasant received a written statement of holding and liability, and gave a written undertaking in return, so that the demand was known in advance instead of being invented at harvest. Remissions in bad years were built into the arrangement rather than begged for.\n\nHe issued a silver coin of a fixed weight and purity whose name survives as the name of the currency, and a copper coin alongside it, replacing a debased and chaotic circulation. He rebuilt and extended the road running from Bengal to the northwest frontier, planting trees and building rest houses along it at intervals, with a mounted postal relay using them. He divided the empire into administrative units with a civil and a military head whose functions checked each other, and moved officials regularly so that none took root.\n\nWhen the exiled emperor's son returned and rebuilt the empire, his revenue minister took the survey method, the classification of soils and the standard measure, and applied them across a far larger territory under a different name. The credit has gone mostly to the dynasty that borrowed them.",
+   "questions": [
+    {
+     "q": "The ruler described is:",
+     "options": [
+      "Ibrahim Lodi",
+      "Sher Shah Suri",
+      "Babur",
+      "Bahlul Lodi"
+     ],
+     "answer": 1,
+     "explain": "Sher Shah Suri, who drove Humayun out in 1540 and ruled until 1545."
+    },
+    {
+     "q": "The emperor he drove into exile was:",
+     "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Jahangir"
+     ],
+     "answer": 1,
+     "explain": "Humayun, who spent fifteen years in exile, largely in Safavid Persia."
+    },
+    {
+     "q": "The coin whose name survives as the currency is the:",
+     "options": [
+      "Tanka",
+      "Jital",
+      "Rupiya",
+      "Dam"
+     ],
+     "answer": 2,
+     "explain": "The silver rupiya of fixed weight and purity."
+    },
+    {
+     "q": "The road he rebuilt is now known as the:",
+     "options": [
+      "Silk Road",
+      "Grand Trunk Road",
+      "Deccan Road",
+      "Uttarapatha only"
+     ],
+     "answer": 1,
+     "explain": "The Grand Trunk Road, from Bengal to the northwest frontier."
+    },
+    {
+     "q": "The revenue minister who later applied his methods was:",
+     "options": [
+      "Todar Mal",
+      "Birbal",
+      "Abul Fazl",
+      "Man Singh"
+     ],
+     "answer": 0,
+     "explain": "Todar Mal, under Akbar, in the zabt settlement."
+    }
+   ]
+  },
+  {
+   "id": "history-p4",
+   "kind": "static",
+   "month": "history",
+   "topicIds": [
+    "his-worldwars"
+   ],
+   "category": "History",
+   "tags": [
+    "Versailles",
+    "League of Nations"
+   ],
+   "difficulty": 3,
+   "title": "The peace that failed",
+   "passage": "The delegations met in a Paris suburb in 1919 with three incompatible objects. The French wanted security, which meant a Germany permanently unable to fight. The Americans wanted a settlement founded on self-determination and a new international body to keep the peace, set out in a fourteen-point programme the president had announced the previous January. The British wanted German trade to recover, because Germany had been their second-largest market, and simultaneously wanted reparations large enough to satisfy an electorate that had just been promised them.\n\nWhat emerged satisfied nobody. A clause required Germany to accept responsibility for causing all the loss and damage of the war, a formula intended as the legal basis for a reparations bill but read in Germany as a moral verdict. The army was capped at a hundred thousand men, conscription forbidden, the air force abolished, the Rhineland demilitarised and occupied. Territory went to France, Belgium, Denmark, Poland and the new Czechoslovakia; the colonies were distributed as mandates. The reparations figure was left to a commission, which fixed it two years later at a sum the German economy could not generate without an export surplus the same treaty made impossible.\n\nA member of the British Treasury delegation resigned during the conference and published a book that winter arguing that the economic clauses were unworkable, that Europe's recovery depended on Germany's, and that a peace which impoverished a great people would not last a generation. He was thirty-six, and the book made him famous.\n\nThe new international body was written into the same treaty, which turned out to be its first weakness: states that objected to the treaty objected to the organisation. The American Senate refused ratification and the country that had proposed the body never joined it. It had no armed force of its own, its Council required unanimity for substantive decisions, and its two available sanctions were moral condemnation and economic pressure. When Japan seized Manchuria in 1931 the body commissioned a report, adopted it, and watched Japan leave. When Italy invaded Abyssinia in 1935 it imposed sanctions that excluded oil. Within four years of that, the second war had begun.",
+   "questions": [
+    {
+     "q": "The fourteen-point programme was announced by:",
+     "options": [
+      "Georges Clemenceau",
+      "Woodrow Wilson",
+      "David Lloyd George",
+      "John Maynard Keynes"
+     ],
+     "answer": 1,
+     "explain": "Wilson's Fourteen Points, announced in January 1918."
+    },
+    {
+     "q": "The clause requiring Germany to accept responsibility is known as the:",
+     "options": [
+      "Reparations clause",
+      "War guilt clause",
+      "Mandate clause",
+      "Rhineland clause"
+     ],
+     "answer": 1,
+     "explain": "Article 231, the war guilt clause, was the legal basis for reparations."
+    },
+    {
+     "q": "The Treasury official who resigned and published that winter was:",
+     "options": [
+      "Maynard Keynes",
+      "Harold Nicolson",
+      "Jan Smuts",
+      "Robert Cecil"
+     ],
+     "answer": 0,
+     "explain": "John Maynard Keynes, in The Economic Consequences of the Peace."
+    },
+    {
+     "q": "On the passage, one reason the new body was weakened from the start was that:",
+     "options": [
+      "It was headquartered in Paris",
+      "It was written into a treaty many states objected to",
+      "It admitted Germany immediately",
+      "It required a two-thirds majority"
+     ],
+     "answer": 1,
+     "explain": "States hostile to the treaty were hostile to the organisation embedded in it."
+    },
+    {
+     "q": "The sanctions imposed over Abyssinia in 1935:",
+     "options": [
+      "Included oil and were effective",
+      "Excluded oil",
+      "Were never adopted",
+      "Were vetoed by France"
+     ],
+     "answer": 1,
+     "explain": "The exclusion of oil is the standard illustration of the League's weakness."
+    }
+   ]
+  },
+  {
+   "id": "history-p5",
+   "kind": "static",
+   "month": "history",
+   "topicIds": [
+    "his-coldwar"
+   ],
+   "category": "History",
+   "tags": [
+    "NAM",
+    "Bandung",
+    "Cold War"
+   ],
+   "difficulty": 2,
+   "title": "Refusing both blocs",
+   "passage": "The doctrine was worked out before it had a movement. In 1954 India and China signed an agreement on trade with Tibet whose preamble set out five principles: mutual respect for territorial integrity and sovereignty, mutual non-aggression, non-interference in each other's internal affairs, equality and mutual benefit, and peaceful coexistence. The phrase given to those five principles came from a Buddhist term, and within a year they had been adopted by a much larger gathering.\n\nThat gathering met in an Indonesian hill town in 1955. Twenty-nine states attended, most of them independent for less than a decade and several still fighting for it. They were not a bloc and did not pretend to be one; the delegates included governments closely allied to Washington and others receiving Soviet arms. What they agreed on was narrower and more durable: opposition to colonialism in all its forms, including the kind exercised by one Asian state over another, and a refusal to accept that the world's quarrels had to be organised into two camps.\n\nThe movement itself was founded six years later in Belgrade, by five leaders from five continents, and the conditions of membership were specific. A member had to follow an independent policy based on coexistence, support movements for national independence, refuse membership of a multilateral military alliance concluded in the context of great power conflict, and refuse to grant military bases to a great power.\n\nThe persistent misunderstanding is that this meant neutrality. It did not. Neutrality is a legal status in war; what was claimed here was the right to judge each dispute on its merits, which in practice meant condemning the invasion of Egypt in 1956 while saying little about the suppression of Hungary in the same weeks, a selectivity critics have never let the movement forget. The movement now has 120 members and outlived the confrontation it was designed to sit outside.",
+   "questions": [
+    {
+     "q": "The five principles of the 1954 preamble are known as:",
+     "options": [
+      "Panchsheel",
+      "Panchayat",
+      "Ahimsa",
+      "Satyagraha"
+     ],
+     "answer": 0,
+     "explain": "Panchsheel, the five principles agreed between India and China in 1954."
+    },
+    {
+     "q": "The 1955 gathering in an Indonesian hill town is the:",
+     "options": [
+      "Belgrade Conference",
+      "Bandung Conference",
+      "Colombo Conference",
+      "Havana Summit"
+     ],
+     "answer": 1,
+     "explain": "The Bandung Conference, attended by twenty-nine Asian and African states."
+    },
+    {
+     "q": "The movement itself was founded in:",
+     "options": [
+      "Bandung in 1955",
+      "Belgrade in 1961",
+      "Cairo in 1964",
+      "Havana in 1979"
+     ],
+     "answer": 1,
+     "explain": "The first Non-Aligned Movement summit was held at Belgrade in 1961."
+    },
+    {
+     "q": "On the passage, membership required a state to:",
+     "options": [
+      "Remain neutral in all wars",
+      "Refuse membership of a great-power military alliance",
+      "Break relations with both superpowers",
+      "Adopt a socialist economy"
+     ],
+     "answer": 1,
+     "explain": "Refusing alliance membership and foreign bases were explicit conditions."
+    },
+    {
+     "q": "The passage says the movement is often wrongly equated with:",
+     "options": [
+      "Socialism",
+      "Neutrality",
+      "Pacifism",
+      "Isolationism"
+     ],
+     "answer": 1,
+     "explain": "It distinguishes non-alignment from neutrality, which is a legal status in war."
+    }
+   ]
+  }
+ ]
+}

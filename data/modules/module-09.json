@@ -1,0 +1,452 @@
+{
+  "id": "module-09",
+  "order": 9,
+  "label": "Tata Group and TCS",
+  "blurb": "A focused six-fact drill set for Tata Group and TCS.",
+  "topics": [
+    {
+      "id": "module-09-jamsetji-tata",
+      "rank": 1,
+      "title": "Jamsetji Tata",
+      "hook": "Jamsetji Tata founded the Tata Group and is regarded as a pioneer of Indian industry.",
+      "explainer": "Jamsetji Tata founded the Tata Group and is regarded as a pioneer of Indian industry. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Tata Group and TCS",
+      "tags": [
+        "Jamsetji Tata",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Jamsetji Tata encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Jamsetji_Tata"
+          },
+          {
+            "label": "Jamsetji Tata reference search",
+            "url": "https://www.britannica.com/search?query=Jamsetji%20Tata"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-09-tata-sons",
+            "relationship": "Founder and group holding company",
+            "fact": "Jamsetji Tata founded the business house whose major companies are now promoted through Tata Sons."
+          },
+          {
+            "topicId": "module-09-tata-trusts",
+            "relationship": "Industrial legacy linked to philanthropy",
+            "fact": "Jamsetji's endowments helped establish the philanthropic tradition represented by the Tata Trusts."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-09-tata-sons",
+      "rank": 2,
+      "title": "Tata Sons",
+      "hook": "Tata Sons is the principal investment holding company and promoter of major Tata companies.",
+      "explainer": "Tata Sons is the principal investment holding company and promoter of major Tata companies. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 5,
+      "category": "Tata Group and TCS",
+      "tags": [
+        "Tata Sons",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Tata Sons encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Tata_Sons"
+          },
+          {
+            "label": "Tata Sons reference search",
+            "url": "https://www.britannica.com/search?query=Tata%20Sons"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-09-tcs-founding",
+            "relationship": "Parent organisation at company origin",
+            "fact": "TCS began in 1968 as a division of Tata Sons before developing into a separately listed technology company."
+          },
+          {
+            "topicId": "module-09-tata-trusts",
+            "relationship": "Philanthropic ownership of the holding company",
+            "fact": "Tata Trusts collectively hold a controlling stake in Tata Sons, linking group ownership with charitable purposes."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-09-tcs",
+      "rank": 3,
+      "title": "TCS",
+      "hook": "Tata Consultancy Services is an Indian information-technology services and consulting company.",
+      "explainer": "Tata Consultancy Services is an Indian information-technology services and consulting company. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Tata Group and TCS",
+      "tags": [
+        "TCS",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "TCS encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/TCS"
+          },
+          {
+            "label": "TCS reference search",
+            "url": "https://www.britannica.com/search?query=TCS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-09-tcs-founding",
+            "relationship": "Present company and 1968 origin",
+            "fact": "The modern IT-services company traces its start to the Tata Computer Centre created within Tata Sons in 1968."
+          },
+          {
+            "topicId": "module-09-tata-sons",
+            "relationship": "Group company and promoter",
+            "fact": "TCS belongs to the Tata group, with Tata Sons serving as its promoter and major shareholder."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-09-tcs-founding",
+      "rank": 4,
+      "title": "TCS founding",
+      "hook": "TCS was established in 1968 as a division of Tata Sons.",
+      "explainer": "TCS was established in 1968 as a division of Tata Sons. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 4,
+      "category": "Tata Group and TCS",
+      "tags": [
+        "TCS founding",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "TCS founding encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/TCS_founding"
+          },
+          {
+            "label": "TCS founding reference search",
+            "url": "https://www.britannica.com/search?query=TCS%20founding"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-09-tata-sons",
+            "relationship": "Organisational birthplace",
+            "fact": "The 1968 TCS operation was established as a division of Tata Sons."
+          },
+          {
+            "topicId": "module-09-tcs",
+            "relationship": "Founding event and continuing enterprise",
+            "fact": "The founding date identifies the origin of the company now known globally as Tata Consultancy Services."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-09-ratan-tata",
+      "rank": 5,
+      "title": "Ratan Tata",
+      "hook": "Ratan Tata chaired Tata Sons from 1991 to 2012 and again as interim chairman in 2016–17.",
+      "explainer": "Ratan Tata chaired Tata Sons from 1991 to 2012 and again as interim chairman in 2016–17. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Tata Group and TCS",
+      "tags": [
+        "Ratan Tata",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Ratan Tata encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Ratan_Tata"
+          },
+          {
+            "label": "Ratan Tata reference search",
+            "url": "https://www.britannica.com/search?query=Ratan%20Tata"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-09-tata-sons",
+            "relationship": "Chairman and holding company",
+            "fact": "Ratan Tata led the group through his chairmanship of Tata Sons, not by serving as the founder of TCS."
+          },
+          {
+            "topicId": "module-09-tata-trusts",
+            "relationship": "Group leadership and philanthropy",
+            "fact": "After leading Tata Sons, Ratan Tata also chaired major Tata trusts that fund social programmes."
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-09-tata-trusts",
+      "rank": 6,
+      "title": "Tata Trusts",
+      "hook": "Tata Trusts are philanthropic trusts historically associated with Tata-group ownership and social initiatives.",
+      "explainer": "Tata Trusts are philanthropic trusts historically associated with Tata-group ownership and social initiatives. It is a useful TCS Quiz recall point because questions often test the term, person, date, or application together.",
+      "importance": 3,
+      "category": "Tata Group and TCS",
+      "tags": [
+        "Tata Trusts",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [
+          {
+            "label": "Tata Trusts encyclopedia entry",
+            "url": "https://en.wikipedia.org/wiki/Tata_Trusts"
+          },
+          {
+            "label": "Tata Trusts reference search",
+            "url": "https://www.britannica.com/search?query=Tata%20Trusts"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-09-tata-sons",
+            "relationship": "Charitable trusts with controlling ownership",
+            "fact": "The trusts are philanthropic bodies and collectively control Tata Sons through their shareholding."
+          },
+          {
+            "topicId": "module-09-jamsetji-tata",
+            "relationship": "Philanthropic tradition from the founder",
+            "fact": "Their institutional roots reflect Jamsetji Tata's belief that business wealth should support public welfare."
+          }
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "module-09-q-01",
+      "module": "module-09",
+      "topicId": "module-09-jamsetji-tata",
+      "difficulty": 1,
+      "q": "Who founded the Tata industrial group?",
+      "options": [
+        "Ratan Tata",
+        "Jamsetji Tata",
+        "J. R. D. Tata",
+        "F. C. Kohli"
+      ],
+      "answer": 1,
+      "explanation": "Jamsetji Nusserwanji Tata established the business house and became known as a pioneer of Indian industry.",
+      "optionFamily": "Tata group leaders",
+      "optionDomains": [
+        "Tata group leaders",
+        "Tata group leaders",
+        "Tata group leaders",
+        "Tata group leaders"
+      ]
+    },
+    {
+      "id": "module-09-q-02",
+      "module": "module-09",
+      "topicId": "module-09-tata-sons",
+      "difficulty": 2,
+      "q": "What is Tata Sons within the Tata group?",
+      "options": [
+        "Principal holding and promoting company",
+        "Listed IT-services operating company",
+        "Philanthropic trust network",
+        "Automotive manufacturing subsidiary"
+      ],
+      "answer": 0,
+      "explanation": "Tata Sons is the principal investment holding company and promoter of major Tata operating companies.",
+      "optionFamily": "Tata group entity roles",
+      "optionDomains": [
+        "Tata group entity roles",
+        "Tata group entity roles",
+        "Tata group entity roles",
+        "Tata group entity roles"
+      ]
+    },
+    {
+      "id": "module-09-q-03",
+      "module": "module-09",
+      "topicId": "module-09-tcs",
+      "difficulty": 3,
+      "q": "Which description belongs to TCS today?",
+      "options": [
+        "Indian IT services and consulting company",
+        "Indian steel manufacturing company",
+        "Indian automobile manufacturing company",
+        "Indian hotel and hospitality company"
+      ],
+      "answer": 0,
+      "explanation": "Tata Consultancy Services delivers information-technology services, consulting, and business solutions as a Tata-group company.",
+      "optionFamily": "Tata group company descriptions",
+      "optionDomains": [
+        "Tata group company descriptions",
+        "Tata group company descriptions",
+        "Tata group company descriptions",
+        "Tata group company descriptions"
+      ]
+    },
+    {
+      "id": "module-09-q-04",
+      "module": "module-09",
+      "topicId": "module-09-tcs-founding",
+      "difficulty": 1,
+      "q": "In what year was TCS established as a division of Tata Sons?",
+      "options": [
+        "1954",
+        "1968",
+        "1991",
+        "2004"
+      ],
+      "answer": 1,
+      "explanation": "TCS traces its origin to 1968, when the operation began within Tata Sons before its later corporate evolution.",
+      "optionFamily": "TCS milestone years",
+      "optionDomains": [
+        "TCS milestone years",
+        "TCS milestone years",
+        "TCS milestone years",
+        "TCS milestone years"
+      ]
+    },
+    {
+      "id": "module-09-q-05",
+      "module": "module-09",
+      "topicId": "module-09-ratan-tata",
+      "difficulty": 2,
+      "q": "Which leadership timeline is correctly associated with Ratan Tata?",
+      "options": [
+        "Tata Sons chair from 1991 to 2012, later interim chair",
+        "Tata Sons founder from 1868 to 1904",
+        "TCS chief executive from its 1968 founding",
+        "Tata Sons chair continuously from 1938 to 1991"
+      ],
+      "answer": 0,
+      "explanation": "Ratan Tata chaired Tata Sons during the group's major global expansion and briefly returned as interim chairman in 2016.",
+      "optionFamily": "Ratan Tata leadership timelines",
+      "optionDomains": [
+        "Ratan Tata leadership timelines",
+        "Ratan Tata leadership timelines",
+        "Ratan Tata leadership timelines",
+        "Ratan Tata leadership timelines"
+      ]
+    },
+    {
+      "id": "module-09-q-06",
+      "module": "module-09",
+      "topicId": "module-09-tata-trusts",
+      "difficulty": 3,
+      "q": "Which Tata institutions are philanthropic bodies rather than operating companies?",
+      "options": [
+        "Tata Trusts",
+        "Tata Consultancy Services",
+        "Tata Motors",
+        "Tata Steel"
+      ],
+      "answer": 0,
+      "explanation": "Tata Trusts fund social initiatives and also collectively hold a controlling interest in Tata Sons.",
+      "optionFamily": "Tata philanthropic and operating entities",
+      "optionDomains": [
+        "Tata philanthropic and operating entities",
+        "Tata philanthropic and operating entities",
+        "Tata philanthropic and operating entities",
+        "Tata philanthropic and operating entities"
+      ]
+    },
+    {
+      "id": "module-09-q-07",
+      "module": "module-09",
+      "topicId": "module-09-jamsetji-tata",
+      "difficulty": 1,
+      "q": "Which sequence is chronological?",
+      "options": [
+        "TCS founded, Jamsetji founds group, Ratan becomes chair",
+        "Jamsetji founds group, TCS founded, Ratan becomes chair",
+        "Ratan becomes chair, TCS founded, group founded",
+        "Tata Trusts begin after TCS listing only"
+      ],
+      "answer": 1,
+      "explanation": "The group's nineteenth-century origin preceded TCS in 1968, which in turn preceded Ratan Tata's 1991 chairmanship.",
+      "optionFamily": "Tata group milestone chronologies",
+      "optionDomains": [
+        "Tata group milestone chronologies",
+        "Tata group milestone chronologies",
+        "Tata group milestone chronologies",
+        "Tata group milestone chronologies"
+      ]
+    },
+    {
+      "id": "module-09-q-08",
+      "module": "module-09",
+      "topicId": "module-09-tata-sons",
+      "difficulty": 2,
+      "q": "Why is Tata Sons central to a TCS history question?",
+      "options": [
+        "TCS began as its division and it remains the promoter",
+        "TCS acquired Tata Sons before becoming a division",
+        "Tata Sons is the charitable trust that awards TCS grants",
+        "TCS and Tata Sons have never had an ownership relationship"
+      ],
+      "answer": 0,
+      "explanation": "The 1968 operation originated inside Tata Sons, and Tata Sons continues to be the principal Tata-group promoter of TCS.",
+      "optionFamily": "Tata Sons and TCS relationships",
+      "optionDomains": [
+        "Tata Sons and TCS relationships",
+        "Tata Sons and TCS relationships",
+        "Tata Sons and TCS relationships",
+        "Tata Sons and TCS relationships"
+      ]
+    },
+    {
+      "id": "module-09-q-09",
+      "module": "module-09",
+      "topicId": "module-09-ratan-tata",
+      "difficulty": 3,
+      "q": "Which statement is the trap?",
+      "options": [
+        "Ratan Tata chaired Tata Sons",
+        "Ratan Tata was the 1968 founder of TCS",
+        "Ratan Tata later chaired major trusts",
+        "Ratan Tata led group expansion"
+      ],
+      "answer": 1,
+      "explanation": "TCS was established within Tata Sons in 1968 under F. C. Kohli's early leadership; Ratan Tata did not found it.",
+      "optionFamily": "Ratan Tata biographical claims",
+      "optionDomains": [
+        "Ratan Tata biographical claims",
+        "Ratan Tata biographical claims",
+        "Ratan Tata biographical claims",
+        "Ratan Tata biographical claims"
+      ]
+    },
+    {
+      "id": "module-09-q-10",
+      "module": "module-09",
+      "topicId": "module-09-tata-trusts",
+      "difficulty": 1,
+      "q": "How are Tata Trusts and Tata Sons related?",
+      "options": [
+        "The trusts collectively control Tata Sons through shareholding",
+        "Tata Sons owns the trusts as operating subsidiaries",
+        "They are alternative legal names for TCS",
+        "The trusts and Tata Sons have no ownership connection"
+      ],
+      "answer": 0,
+      "explanation": "Philanthropic Tata trusts collectively hold the controlling stake in the group's principal holding company, Tata Sons.",
+      "optionFamily": "Tata Trusts and Tata Sons relationships",
+      "optionDomains": [
+        "Tata Trusts and Tata Sons relationships",
+        "Tata Trusts and Tata Sons relationships",
+        "Tata Trusts and Tata Sons relationships",
+        "Tata Trusts and Tata Sons relationships"
+      ]
+    }
+  ]
+}

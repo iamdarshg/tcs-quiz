@@ -19,19 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Extract site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate study corpus
+        run: node scripts/build-index.mjs
+      - name: Stage published site
         shell: bash
         run: |
-          mkdir -p _site
-          unzip -q tcs-quiz-2026.zip -d _site
-          shopt -s dotglob nullglob
-          entries=(_site/*)
-          if [ ${#entries[@]} -eq 1 ] && [ -d "${entries[0]}" ]; then
-            temp_dir="$(mktemp -d)"
-            mv "${entries[0]}"/* "$temp_dir"/ 2>/dev/null || true
-            rm -rf _site
-            mv "$temp_dir" _site
-          fi
+          mkdir _site
+          cp -R assets data index.html .nojekyll _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
