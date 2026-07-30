@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-02-lib-40",
+      "rank": 7,
+      "title": "* FORTRAN, COBOL, BASIC, C, C++, Java, Python, JavaScript, SQL and others",
+      "hook": "* FORTRAN, COBOL, BASIC, C, C++, Java, Python, JavaScript, SQL and others",
+      "explainer": "* FORTRAN, COBOL, BASIC, C, C++, Java, Python, JavaScript, SQL and others",
+      "importance": 3,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-42",
+      "rank": 8,
+      "title": "* Unix, GNU, Linux, Windows, macOS, Android and iOS",
+      "hook": "* Unix, GNU, Linux, Windows, macOS, Android and iOS",
+      "explainer": "* Unix, GNU, Linux, Windows, macOS, Android and iOS",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-14692",
+      "rank": 9,
+      "title": "SQL is a language and standard family, not one database product. MySQL, ...",
+      "hook": "SQL is a language and standard family, not one database product. MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server and SQLite are diffe...",
+      "explainer": "SQL is a language and standard family, not one database product. MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server and SQLite are different systems that support SQL dialects.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-16711",
+      "rank": 10,
+      "title": "Codd = relational model. SQL queries relational data. ACID = atomicity, ...",
+      "hook": "Codd = relational model. SQL queries relational data. ACID = atomicity, consistency, isolation, durability. NoSQL types = key–value, document,...",
+      "explainer": "Codd = relational model. SQL queries relational data. ACID = atomicity, consistency, isolation, durability. NoSQL types = key–value, document, wide-column, graph. Warehouse = curated analytics. Lake = raw diverse data. ETL transforms then loads; ELT loads then transforms. Big-data Vs = volume, velocity, variety, veracity and value. Descriptive, diagnostic, predictive, prescriptive.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23384",
+      "rank": 11,
+      "title": "• Data structure: organized way to store data, such as arrays, lists, st...",
+      "hook": "• Data structure: organized way to store data, such as arrays, lists, stacks, queues, trees, graphs, sets, and maps.",
+      "explainer": "• Data structure: organized way to store data, such as arrays, lists, stacks, queues, trees, graphs, sets, and maps.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-48",
+      "rank": 12,
+      "title": "* Relational databases, SQL and NoSQL",
+      "hook": "* Relational databases, SQL and NoSQL",
+      "explainer": "* Relational databases, SQL and NoSQL",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11360",
+      "rank": 13,
+      "title": "Edgar F. Codd of IBM proposed the relational model, but IBM moved cautio...",
+      "hook": "Edgar F. Codd of IBM proposed the relational model, but IBM moved cautiously in commercialising it. Oracle became one of the earliest companie...",
+      "explainer": "Edgar F. Codd of IBM proposed the relational model, but IBM moved cautiously in commercialising it. Oracle became one of the earliest companies to sell a commercial relational database using SQL.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-13325",
+      "rank": 14,
+      "title": "Sun Microsystems → Java, Solaris, SPARC and network computing → Sun acqu...",
+      "hook": "Sun Microsystems → Java, Solaris, SPARC and network computing → Sun acquires MySQL → Oracle acquires Sun → Oracle owns Java and MySQL brands.",
+      "explainer": "Sun Microsystems → Java, Solaris, SPARC and network computing → Sun acquires MySQL → Oracle acquires Sun → Oracle owns Java and MySQL brands.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-14711",
+      "rank": 15,
+      "title": "NoSQL broadly refers to non-relational database models, often designed f...",
+      "hook": "NoSQL broadly refers to non-relational database models, often designed for flexible schemas or distributed scale.",
+      "explainer": "NoSQL broadly refers to non-relational database models, often designed for flexible schemas or distributed scale.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-14897",
+      "rank": 16,
+      "title": "Cloud computing provides on-demand access to shared computing resources ...",
+      "hook": "Cloud computing provides on-demand access to shared computing resources such as servers, storage, databases, networking and software over a ne...",
+      "explainer": "Cloud computing provides on-demand access to shared computing resources such as servers, storage, databases, networking and software over a network, commonly with rapid provisioning and usage-based charging.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23171",
+      "rank": 17,
+      "title": "Desktop/server: Windows, macOS, Linux, Unix-like systems.",
+      "hook": "Desktop/server: Windows, macOS, Linux, Unix-like systems.",
+      "explainer": "Desktop/server: Windows, macOS, Linux, Unix-like systems.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23343",
+      "rank": 18,
+      "title": "• Containers usually share the host kernel; virtual machines usually con...",
+      "hook": "• Containers usually share the host kernel; virtual machines usually contain guest operating systems.",
+      "explainer": "• Containers usually share the host kernel; virtual machines usually contain guest operating systems.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23355",
+      "rank": 19,
+      "title": "• High-level language: more abstract and portable, such as Python, Java,...",
+      "hook": "• High-level language: more abstract and portable, such as Python, Java, C++, R, or JavaScript.",
+      "explainer": "• High-level language: more abstract and portable, such as Python, Java, C++, R, or JavaScript.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23583",
+      "rank": 20,
+      "title": "NoSQL describes non-relational database families.",
+      "hook": "NoSQL describes non-relational database families.",
+      "explainer": "NoSQL describes non-relational database families.",
+      "importance": 2,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-7",
+      "rank": 21,
+      "title": "2. Software, Operating Systems, Languages and Databases",
+      "hook": "2. Software, Operating Systems, Languages and Databases",
+      "explainer": "2. Software, Operating Systems, Languages and Databases",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-37",
+      "rank": 22,
+      "title": "2. Software, Operating Systems, Languages and Databases",
+      "hook": "2. Software, Operating Systems, Languages and Databases",
+      "explainer": "2. Software, Operating Systems, Languages and Databases",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11363",
+      "rank": 23,
+      "title": "Oracle’s great strategic skill was selling mission-critical software to ...",
+      "hook": "Oracle’s great strategic skill was selling mission-critical software to organisations that could not easily switch systems. Databases became d...",
+      "explainer": "Oracle’s great strategic skill was selling mission-critical software to organisations that could not easily switch systems. Databases became deeply embedded in:",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11404",
+      "rank": 24,
+      "title": "The acquisition led to disputes including Oracle versus Google over the ...",
+      "hook": "The acquisition led to disputes including Oracle versus Google over the use of Java APIs in Android. The United States Supreme Court ultimatel...",
+      "explainer": "The acquisition led to disputes including Oracle versus Google over the use of Java APIs in Android. The United States Supreme Court ultimately ruled Google’s copying constituted fair use in that context.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11422",
+      "rank": 25,
+      "title": "• MySQL’s name is linked to co-founder Michael Widenius’s daughter My; M...",
+      "hook": "• MySQL’s name is linked to co-founder Michael Widenius’s daughter My; MariaDB is named after another daughter, Maria.",
+      "explainer": "• MySQL’s name is linked to co-founder Michael Widenius’s daughter My; MariaDB is named after another daughter, Maria.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-12998",
+      "rank": 26,
+      "title": "63. KODAK — INVENTING DIGITAL PHOTOGRAPHY WITHOUT ESCAPING FILM",
+      "hook": "63. KODAK — INVENTING DIGITAL PHOTOGRAPHY WITHOUT ESCAPING FILM",
+      "explainer": "63. KODAK — INVENTING DIGITAL PHOTOGRAPHY WITHOUT ESCAPING FILM",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-13753",
+      "rank": 27,
+      "title": "62. Which company commercialised relational databases aggressively despi...",
+      "hook": "62. Which company commercialised relational databases aggressively despite the idea originating at IBM?",
+      "explainer": "62. Which company commercialised relational databases aggressively despite the idea originating at IBM?",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-14708",
+      "rank": 28,
+      "title": "44. NoSQL databases",
+      "hook": "44. NoSQL databases",
+      "explainer": "44. NoSQL databases",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-14914",
+      "rank": 29,
+      "title": "Infrastructure as a Service, or IaaS, supplies virtual machines, storage...",
+      "hook": "Infrastructure as a Service, or IaaS, supplies virtual machines, storage and networking. The customer manages more of the software stack.",
+      "explainer": "Infrastructure as a Service, or IaaS, supplies virtual machines, storage and networking. The customer manages more of the software stack.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-16149",
+      "rank": 30,
+      "title": "21. Containers usually share the host kernel; VMs normally include guest...",
+      "hook": "21. Containers usually share the host kernel; VMs normally include guest operating systems.",
+      "explainer": "21. Containers usually share the host kernel; VMs normally include guest operating systems.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-16719",
+      "rank": 31,
+      "title": "RPA = software bots. Attended works with a user; unattended runs indepen...",
+      "hook": "RPA = software bots. Attended works with a user; unattended runs independently. Process mining uses logs; task mining studies user actions. AP...",
+      "explainer": "RPA = software bots. Attended works with a user; unattended runs independently. Process mining uses logs; task mining studies user actions. APIs are preferable to fragile screen automation when available. Automate only after understanding the process.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-17950",
+      "rank": 32,
+      "title": "Peter Shor developed a quantum algorithm for integer factorisation and d...",
+      "hook": "Peter Shor developed a quantum algorithm for integer factorisation and discrete logarithms with major asymptotic speedup. A sufficiently large...",
+      "explainer": "Peter Shor developed a quantum algorithm for integer factorisation and discrete logarithms with major asymptotic speedup. A sufficiently large fault-tolerant quantum computer could threaten widely deployed public-key systems based on RSA and elliptic-curve cryptography.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-18647",
+      "rank": 33,
+      "title": "Malware is malicious software. A cyberattack is the broader hostile acti...",
+      "hook": "Malware is malicious software. A cyberattack is the broader hostile action. An attack may use malware, stolen credentials, social engineering,...",
+      "explainer": "Malware is malicious software. A cyberattack is the broader hostile action. An attack may use malware, stolen credentials, social engineering, denial of service or abuse of legitimate tools. Malware may also spread accidentally beyond its intended target.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-19212",
+      "rank": 34,
+      "title": "ECC uses algebraic structures based on elliptic curves over finite field...",
+      "hook": "ECC uses algebraic structures based on elliptic curves over finite fields. It can provide comparable security with shorter keys than tradition...",
+      "explainer": "ECC uses algebraic structures based on elliptic curves over finite fields. It can provide comparable security with shorter keys than traditional RSA systems. ECDH is elliptic-curve Diffie–Hellman; ECDSA is an elliptic-curve digital-signature algorithm.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-19230",
+      "rank": 35,
+      "title": "A sufficiently powerful fault-tolerant quantum computer running Shor’s a...",
+      "hook": "A sufficiently powerful fault-tolerant quantum computer running Shor’s algorithm could break widely used RSA and elliptic-curve systems. Symme...",
+      "explainer": "A sufficiently powerful fault-tolerant quantum computer running Shor’s algorithm could break widely used RSA and elliptic-curve systems. Symmetric cryptography is less dramatically affected, though Grover’s algorithm changes brute-force considerations. Post-quantum cryptography develops classical algorithms believed resistant to both classical and quantum attacks.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-20168",
+      "rank": 36,
+      "title": "It used multiple methods, including credential theft and Windows network...",
+      "hook": "It used multiple methods, including credential theft and Windows networking techniques, allowing rapid movement inside organisations.",
+      "explainer": "It used multiple methods, including credential theft and Windows networking techniques, allowing rapid movement inside organisations.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-20192",
+      "rank": 37,
+      "title": "WannaCry and NotPetya both spread rapidly in 2017 and used EternalBlue-r...",
+      "hook": "WannaCry and NotPetya both spread rapidly in 2017 and used EternalBlue-related techniques, but they were not the same incident. WannaCry was r...",
+      "explainer": "WannaCry and NotPetya both spread rapidly in 2017 and used EternalBlue-related techniques, but they were not the same incident. WannaCry was ransomware with worm behaviour; NotPetya was principally destructive and entered many organisations through a compromised software update.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23124",
+      "rank": 38,
+      "title": "• explain relational and non-relational databases, SQL operations, keys,...",
+      "hook": "• explain relational and non-relational databases, SQL operations, keys, joins, normalization, indexes, and transactions;",
+      "explainer": "• explain relational and non-relational databases, SQL operations, keys, joins, normalization, indexes, and transactions;",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23147",
+      "rank": 39,
+      "title": "• Middleware: software that connects applications, services, or database...",
+      "hook": "• Middleware: software that connects applications, services, or databases and allows them to communicate.",
+      "explainer": "• Middleware: software that connects applications, services, or databases and allows them to communicate.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23155",
+      "rank": 40,
+      "title": "An operating system, or OS, is the main system software that manages har...",
+      "hook": "An operating system, or OS, is the main system software that manages hardware resources and provides services to applications.",
+      "explainer": "An operating system, or OS, is the main system software that manages hardware resources and provides services to applications.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23424",
+      "rank": 41,
+      "title": "• JavaScript/TypeScript: web interfaces and server-side web development.",
+      "hook": "• JavaScript/TypeScript: web interfaces and server-side web development.",
+      "explainer": "• JavaScript/TypeScript: web interfaces and server-side web development.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-23582",
+      "rank": 42,
+      "title": "2.15 NoSQL databases",
+      "hook": "2.15 NoSQL databases",
+      "explainer": "2.15 NoSQL databases",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-24440",
+      "rank": 43,
+      "title": "34. A clinical API accepts a patient ID directly inside a concatenated S...",
+      "hook": "34. A clinical API accepts a patient ID directly inside a concatenated SQL string. Which pair of controls best addresses the immediate risk?",
+      "explainer": "34. A clinical API accepts a patient ID directly inside a concatenated SQL string. Which pair of controls best addresses the immediate risk?",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-24500",
+      "rank": 44,
+      "title": "7. B — Containers package applications while commonly sharing the host k...",
+      "hook": "7. B — Containers package applications while commonly sharing the host kernel, unlike full guest operating systems in VMs.",
+      "explainer": "7. B — Containers package applications while commonly sharing the host kernel, unlike full guest operating systems in VMs.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-24650",
+      "rank": 45,
+      "title": "Middleware — Software connecting applications, services, or databases.",
+      "hook": "Middleware — Software connecting applications, services, or databases.",
+      "explainer": "Middleware — Software connecting applications, services, or databases.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-24652",
+      "rank": 46,
+      "title": "Operating system — Software that manages hardware and provides applicati...",
+      "hook": "Operating system — Software that manages hardware and provides application services.",
+      "explainer": "Operating system — Software that manages hardware and provides application services.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-24665",
+      "rank": 47,
+      "title": "Virtual machine — Software-defined computer with a guest operating system.",
+      "hook": "Virtual machine — Software-defined computer with a guest operating system.",
+      "explainer": "Virtual machine — Software-defined computer with a guest operating system.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-24779",
+      "rank": 48,
+      "title": "India Stack is a commonly used umbrella expression for a set of interope...",
+      "hook": "India Stack is a commonly used umbrella expression for a set of interoperable digital public rails and APIs developed in India. It is not:",
+      "explainer": "India Stack is a commonly used umbrella expression for a set of interoperable digital public rails and APIs developed in India. It is not:",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-24974",
+      "rank": 49,
+      "title": "Aadhaar is a 12-digit random identification number issued to residents o...",
+      "hook": "Aadhaar is a 12-digit random identification number issued to residents of India after enrolment and biometric-demographic deduplication.",
+      "explainer": "Aadhaar is a 12-digit random identification number issued to residents of India after enrolment and biometric-demographic deduplication.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-144",
+      "rank": 50,
+      "title": "* Quantum algorithms and post-quantum cryptography",
+      "hook": "* Quantum algorithms and post-quantum cryptography",
+      "explainer": "* Quantum algorithms and post-quantum cryptography",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-2918",
+      "rank": 51,
+      "title": "PART XXXI — SOFTWARE AS AN IDEA",
+      "hook": "PART XXXI — SOFTWARE AS AN IDEA",
+      "explainer": "PART XXXI — SOFTWARE AS AN IDEA",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-2958",
+      "rank": 52,
+      "title": "A compiler or interpreter handles translation.",
+      "hook": "A compiler or interpreter handles translation.",
+      "explainer": "A compiler or interpreter handles translation.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-2972",
+      "rank": 53,
+      "title": "142. Compiler versus interpreter",
+      "hook": "142. Compiler versus interpreter",
+      "explainer": "142. Compiler versus interpreter",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-3177",
+      "rank": 54,
+      "title": "Software gets slower more rapidly than hardware gets faster.",
+      "hook": "Software gets slower more rapidly than hardware gets faster.",
+      "explainer": "Software gets slower more rapidly than hardware gets faster.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-3995",
+      "rank": 55,
+      "title": "The unit bit was suggested by John Tukey as a contraction of binary digi...",
+      "hook": "The unit bit was suggested by John Tukey as a contraction of binary digit. Shannon adopted the term in his paper. Ralph Hartley’s earlier work...",
+      "explainer": "The unit bit was suggested by John Tukey as a contraction of binary digit. Shannon adopted the term in his paper. Ralph Hartley’s earlier work connected information to logarithmic measures, and Harry Nyquist studied signalling rates and telegraph transmission.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-4194",
+      "rank": 56,
+      "title": "5. LAYERS: WHY NETWORKING IS DIVIDED INTO STACKS",
+      "hook": "5. LAYERS: WHY NETWORKING IS DIVIDED INTO STACKS",
+      "explainer": "5. LAYERS: WHY NETWORKING IS DIVIDED INTO STACKS",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-4526",
+      "rank": 57,
+      "title": "Message Queuing Telemetry Transport is a lightweight publish-subscribe p...",
+      "hook": "Message Queuing Telemetry Transport is a lightweight publish-subscribe protocol widely associated with Internet of Things systems. Despite the...",
+      "explainer": "Message Queuing Telemetry Transport is a lightweight publish-subscribe protocol widely associated with Internet of Things systems. Despite the expansion of its name, modern MQTT is not merely a conventional message queue.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-4675",
+      "rank": 58,
+      "title": "Email rapidly became one of ARPANET’s most popular uses, demonstrating a...",
+      "hook": "Email rapidly became one of ARPANET’s most popular uses, demonstrating a recurring lesson: users often decide what a network is for.",
+      "explainer": "Email rapidly became one of ARPANET’s most popular uses, demonstrating a recurring lesson: users often decide what a network is for.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-4857",
+      "rank": 59,
+      "title": "The Web did not appear from nowhere. It combined several older ideas: li...",
+      "hook": "The Web did not appear from nowhere. It combined several older ideas: linked documents, personal knowledge systems, networked computers, stand...",
+      "explainer": "The Web did not appear from nowhere. It combined several older ideas: linked documents, personal knowledge systems, networked computers, standard addressing and graphical interfaces.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-4866",
+      "rank": 60,
+      "title": "The Memex was never built as described, and it was based on microfilm ra...",
+      "hook": "The Memex was never built as described, and it was based on microfilm rather than digital networking. Its importance lies in the idea that hum...",
+      "explainer": "The Memex was never built as described, and it was based on microfilm rather than digital networking. Its importance lies in the idea that human thought proceeds through association rather than only through rigid indexes.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-4995",
+      "rank": 61,
+      "title": "• The first widely accessible cross-platform graphical browser was Mosai...",
+      "hook": "• The first widely accessible cross-platform graphical browser was Mosaic, not the first browser of any kind.",
+      "explainer": "• The first widely accessible cross-platform graphical browser was Mosaic, not the first browser of any kind.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5203",
+      "rank": 62,
+      "title": "18. HTML, CSS AND JAVASCRIPT",
+      "hook": "18. HTML, CSS AND JAVASCRIPT",
+      "explainer": "18. HTML, CSS AND JAVASCRIPT",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5209",
+      "rank": 63,
+      "title": "HTML marks the structure of content using elements such as headings, par...",
+      "hook": "HTML marks the structure of content using elements such as headings, paragraphs, links, images, lists, tables and forms. It is a markup langua...",
+      "explainer": "HTML marks the structure of content using elements such as headings, paragraphs, links, images, lists, tables and forms. It is a markup language, not conventionally a programming language.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5212",
+      "rank": 64,
+      "title": "Early HTML grew from Berners-Lee’s requirements and ideas influenced by ...",
+      "hook": "Early HTML grew from Berners-Lee’s requirements and ideas influenced by SGML. HTML5 later became the umbrella term for modern semantic element...",
+      "explainer": "Early HTML grew from Berners-Lee’s requirements and ideas influenced by SGML. HTML5 later became the umbrella term for modern semantic elements, multimedia, graphics and application capabilities.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5224",
+      "rank": 65,
+      "title": "JavaScript",
+      "hook": "JavaScript",
+      "explainer": "JavaScript",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5227",
+      "rank": 66,
+      "title": "Brendan Eich created JavaScript at Netscape in 1995 under intense time p...",
+      "hook": "Brendan Eich created JavaScript at Netscape in 1995 under intense time pressure, famously in about ten days. It was first called Mocha, then L...",
+      "explainer": "Brendan Eich created JavaScript at Netscape in 1995 under intense time pressure, famously in about ten days. It was first called Mocha, then LiveScript, and finally JavaScript as part of a marketing relationship with Sun Microsystems.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5230",
+      "rank": 67,
+      "title": "JavaScript is not a simplified version of Java. The languages differ in ...",
+      "hook": "JavaScript is not a simplified version of Java. The languages differ in design, type systems, runtime and history.",
+      "explainer": "JavaScript is not a simplified version of Java. The languages differ in design, type systems, runtime and history.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5236",
+      "rank": 68,
+      "title": "ECMAScript is the standardised language specification underlying JavaScr...",
+      "hook": "ECMAScript is the standardised language specification underlying JavaScript. ECMA International standardises it through Technical Committee 39...",
+      "explainer": "ECMAScript is the standardised language specification underlying JavaScript. ECMA International standardises it through Technical Committee 39, or TC39.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5254",
+      "rank": 69,
+      "title": "JavaScript Object Notation is a lightweight text format for structured d...",
+      "hook": "JavaScript Object Notation is a lightweight text format for structured data. Douglas Crockford helped popularise and specify it. JSON resemble...",
+      "explainer": "JavaScript Object Notation is a lightweight text format for structured data. Douglas Crockford helped popularise and specify it. JSON resembles JavaScript object syntax but is language-independent as a data interchange format.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5303",
+      "rank": 70,
+      "title": "Created by Pei-Yuan Wei. It was an influential graphical browser for Uni...",
+      "hook": "Created by Pei-Yuan Wei. It was an influential graphical browser for Unix and inspired features in later browsers.",
+      "explainer": "Created by Pei-Yuan Wei. It was an influential graphical browser for Unix and inspired features in later browsers.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5345",
+      "rank": 71,
+      "title": "Google launched Chrome in 2008. Chromium is the open-source browser proj...",
+      "hook": "Google launched Chrome in 2008. Chromium is the open-source browser project on which Chrome is based. Chrome introduced a strong multi-process...",
+      "explainer": "Google launched Chrome in 2008. Chromium is the open-source browser project on which Chrome is based. Chrome introduced a strong multi-process architecture and the V8 JavaScript engine.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5426",
+      "rank": 72,
+      "title": "Jerry Yang and David Filo created “Jerry and David’s Guide to the World ...",
+      "hook": "Jerry Yang and David Filo created “Jerry and David’s Guide to the World Wide Web”, a hand-organised directory. It became Yahoo. The official c...",
+      "explainer": "Jerry Yang and David Filo created “Jerry and David’s Guide to the World Wide Web”, a hand-organised directory. It became Yahoo. The official corporate expansion “Yet Another Hierarchically Organized Oracle” was a backronym or playful elaboration; the founders also liked the ordinary word yahoo.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5612",
+      "rank": 73,
+      "title": "A certificate authority signs a digital certificate binding a public key...",
+      "hook": "A certificate authority signs a digital certificate binding a public key to a domain or organisation under defined validation rules. Browsers ...",
+      "explainer": "A certificate authority signs a digital certificate binding a public key to a domain or organisation under defined validation rules. Browsers and operating systems maintain trusted root-certificate stores.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5807",
+      "rank": 74,
+      "title": "Integrated Services Digital Network carried digital voice and data over ...",
+      "hook": "Integrated Services Digital Network carried digital voice and data over telephone infrastructure. Basic Rate Interface commonly provided two 6...",
+      "explainer": "Integrated Services Digital Network carried digital voice and data over telephone infrastructure. Basic Rate Interface commonly provided two 64-kilobit-per-second bearer channels and one signalling channel, remembered as 2B+D.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-5825",
+      "rank": 75,
+      "title": "A Digital Subscriber Line Access Multiplexer aggregates customer DSL con...",
+      "hook": "A Digital Subscriber Line Access Multiplexer aggregates customer DSL connections at the provider.",
+      "explainer": "A Digital Subscriber Line Access Multiplexer aggregates customer DSL connections at the provider.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-7033",
+      "rank": 76,
+      "title": "The first lasting transatlantic telegraph cable entered service in 1866 ...",
+      "hook": "The first lasting transatlantic telegraph cable entered service in 1866 after an earlier 1858 cable failed quickly. Modern fibre cables contin...",
+      "explainer": "The first lasting transatlantic telegraph cable entered service in 1866 after an earlier 1858 cable failed quickly. Modern fibre cables continue the same strategic idea at vastly greater capacity.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-7220",
+      "rank": 77,
+      "title": "Cloud providers group data centres into geographic regions and separate ...",
+      "hook": "Cloud providers group data centres into geographic regions and separate availability zones to reduce correlated failure. Exact definitions dif...",
+      "explainer": "Cloud providers group data centres into geographic regions and separate availability zones to reduce correlated failure. Exact definitions differ by provider.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-7439",
+      "rank": 78,
+      "title": "50. NET NEUTRALITY AND THE DIGITAL DIVIDE",
+      "hook": "50. NET NEUTRALITY AND THE DIGITAL DIVIDE",
+      "explainer": "50. NET NEUTRALITY AND THE DIGITAL DIVIDE",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-7463",
+      "rank": 79,
+      "title": "Digital divide",
+      "hook": "Digital divide",
+      "explainer": "Digital divide",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-7500",
+      "rank": 80,
+      "title": "Following successful trials, a rapidly expanding system linked Calcutta,...",
+      "hook": "Following successful trials, a rapidly expanding system linked Calcutta, Agra, Bombay, Madras and Peshawar. Telegraphy became strategically im...",
+      "explainer": "Following successful trials, a rapidly expanding system linked Calcutta, Agra, Bombay, Madras and Peshawar. Telegraphy became strategically important to administration, commerce, railways and military control.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8241",
+      "rank": 81,
+      "title": "A biometric identity system operated by UIDAI. Authentication travels th...",
+      "hook": "A biometric identity system operated by UIDAI. Authentication travels through secure digital networks, but Aadhaar is not itself a communicati...",
+      "explainer": "A biometric identity system operated by UIDAI. Authentication travels through secure digital networks, but Aadhaar is not itself a communications network.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8253",
+      "rank": 82,
+      "title": "Provides authenticated digital documents and issuer–requester exchange.",
+      "hook": "Provides authenticated digital documents and issuer–requester exchange.",
+      "explainer": "Provides authenticated digital documents and issuer–requester exchange.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8265",
+      "rank": 83,
+      "title": "Open Network for Digital Commerce uses open specifications to connect bu...",
+      "hook": "Open Network for Digital Commerce uses open specifications to connect buyers, sellers, logistics and service providers across platforms.",
+      "explainer": "Open Network for Digital Commerce uses open specifications to connect buyers, sellers, logistics and service providers across platforms.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8271",
+      "rank": 84,
+      "title": "An umbrella expression for digital identity, payments, data exchange and...",
+      "hook": "An umbrella expression for digital identity, payments, data exchange and consent-based public infrastructure. The exact list evolves and shoul...",
+      "explainer": "An umbrella expression for digital identity, payments, data exchange and consent-based public infrastructure. The exact list evolves and should not be treated as one legally fixed product.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8340",
+      "rank": 85,
+      "title": "Industry representation for telecom infrastructure providers; naming cha...",
+      "hook": "Industry representation for telecom infrastructure providers; naming changed to Digital Infrastructure Providers Association.",
+      "explainer": "Industry representation for telecom infrastructure providers; naming changed to Digital Infrastructure Providers Association.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8428",
+      "rank": 86,
+      "title": "1995 — India’s first mobile call on July 31; public Internet on August 1...",
+      "hook": "1995 — India’s first mobile call on July 31; public Internet on August 15; JavaScript created.",
+      "explainer": "1995 — India’s first mobile call on July 31; public Internet on August 15; JavaScript created.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8588",
+      "rank": 87,
+      "title": "Brendan Eich — JavaScript, Mozilla and Brave.",
+      "hook": "Brendan Eich — JavaScript, Mozilla and Brave.",
+      "explainer": "Brendan Eich — JavaScript, Mozilla and Brave.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-8767",
+      "rank": 88,
+      "title": "Myth: Java and JavaScript are the same family in a simple sense.",
+      "hook": "Myth: Java and JavaScript are the same family in a simple sense.",
+      "explainer": "Myth: Java and JavaScript are the same family in a simple sense.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-9244",
+      "rank": 89,
+      "title": "69. Why is the statement “JavaScript is interpreted Java” wrong?",
+      "hook": "69. Why is the statement “JavaScript is interpreted Java” wrong?",
+      "explainer": "69. Why is the statement “JavaScript is interpreted Java” wrong?",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-9247",
+      "rank": 90,
+      "title": "70. What standardised specification underlies JavaScript?",
+      "hook": "70. What standardised specification underlies JavaScript?",
+      "explainer": "70. What standardised specification underlies JavaScript?",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-9250",
+      "rank": 91,
+      "title": "71. What data format associated with Douglas Crockford resembles JavaScr...",
+      "hook": "71. What data format associated with Douglas Crockford resembles JavaScript object syntax?",
+      "explainer": "71. What data format associated with Douglas Crockford resembles JavaScript object syntax?",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-9259",
+      "rank": 92,
+      "title": "74. Identify the first mass-popular graphical Web browser developed at N...",
+      "hook": "74. Identify the first mass-popular graphical Web browser developed at NCSA and its two best-known creators.",
+      "explainer": "74. Identify the first mass-popular graphical Web browser developed at NCSA and its two best-known creators.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-9277",
+      "rank": 93,
+      "title": "80. Google Chrome’s open-source base and JavaScript engine are called what?",
+      "hook": "80. Google Chrome’s open-source base and JavaScript engine are called what?",
+      "explainer": "80. Google Chrome’s open-source base and JavaScript engine are called what?",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-9812",
+      "rank": 94,
+      "title": "68. JavaScript; Mocha and LiveScript.",
+      "hook": "68. JavaScript; Mocha and LiveScript.",
+      "explainer": "68. JavaScript; Mocha and LiveScript.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-9823",
+      "rank": 95,
+      "title": "79. KHTML, with KJS also influencing JavaScript technology.",
+      "hook": "79. KHTML, with KJS also influencing JavaScript technology.",
+      "explainer": "79. KHTML, with KJS also influencing JavaScript technology.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-10063",
+      "rank": 96,
+      "title": "A company expands into adjacent products at the same broad layer. Adobe ...",
+      "hook": "A company expands into adjacent products at the same broad layer. Adobe moved from PostScript into creative applications, documents and digita...",
+      "explainer": "A company expands into adjacent products at the same broad layer. Adobe moved from PostScript into creative applications, documents and digital experience software.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-10105",
+      "rank": 97,
+      "title": "• Enterprise software and databases.",
+      "hook": "• Enterprise software and databases.",
+      "explainer": "• Enterprise software and databases.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-10195",
+      "rank": 98,
+      "title": "• Windows supplied the software platform.",
+      "hook": "• Windows supplied the software platform.",
+      "explainer": "• Windows supplied the software platform.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-10204",
+      "rank": 99,
+      "title": "• Early FORTRAN and COBOL products.",
+      "hook": "• Early FORTRAN and COBOL products.",
+      "explainer": "• Early FORTRAN and COBOL products.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-10245",
+      "rank": 100,
+      "title": "• Integration of AI across Azure, Windows, Microsoft 365, GitHub and dev...",
+      "hook": "• Integration of AI across Azure, Windows, Microsoft 365, GitHub and developer tools.",
+      "explainer": "• Integration of AI across Azure, Windows, Microsoft 365, GitHub and developer tools.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-10830",
+      "rank": 101,
+      "title": "IBM’s choice of the Intel 8088 linked Intel to the rapidly expanding PC-...",
+      "hook": "IBM’s choice of the Intel 8088 linked Intel to the rapidly expanding PC-compatible ecosystem. Backward compatibility became a formidable moat:...",
+      "explainer": "IBM’s choice of the Intel 8088 linked Intel to the rapidly expanding PC-compatible ecosystem. Backward compatibility became a formidable moat: customers could run old software on newer processors.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11232",
+      "rank": 102,
+      "title": "16. HP, HPE AND AGILENT — THE GARAGE FAMILY TREE",
+      "hook": "16. HP, HPE AND AGILENT — THE GARAGE FAMILY TREE",
+      "explainer": "16. HP, HPE AND AGILENT — THE GARAGE FAMILY TREE",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11344",
+      "rank": 103,
+      "title": "PART III — ENTERPRISE SOFTWARE, NETWORKING AND THE INVISIBLE CORPORATE S...",
+      "hook": "PART III — ENTERPRISE SOFTWARE, NETWORKING AND THE INVISIBLE CORPORATE STACK",
+      "explainer": "PART III — ENTERPRISE SOFTWARE, NETWORKING AND THE INVISIBLE CORPORATE STACK",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11347",
+      "rank": 104,
+      "title": "19. ORACLE — THE DATABASE COMPANY THAT BECAME A CLOUD AND APPLICATION GIANT",
+      "hook": "19. ORACLE — THE DATABASE COMPANY THAT BECAME A CLOUD AND APPLICATION GIANT",
+      "explainer": "19. ORACLE — THE DATABASE COMPANY THAT BECAME A CLOUD AND APPLICATION GIANT",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11354",
+      "rank": 105,
+      "title": "• Later name: Relational Software Inc.; eventually Oracle Systems Corpor...",
+      "hook": "• Later name: Relational Software Inc.; eventually Oracle Systems Corporation and Oracle Corporation.",
+      "explainer": "• Later name: Relational Software Inc.; eventually Oracle Systems Corporation and Oracle Corporation.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-02-lib-11375",
+      "rank": 106,
+      "title": "• Oracle Database.",
+      "hook": "• Oracle Database.",
+      "explainer": "• Oracle Database.",
+      "importance": 1,
+      "category": "Software, Operating Systems, Languages and Databases",
+      "tags": [
+        "Software, Operating Systems, Languages and Databases",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "database models"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }

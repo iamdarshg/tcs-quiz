@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-01-lib-36505",
+      "rank": 7,
+      "title": "Example — computer: Babbage designed a general mechanical analytical eng...",
+      "hook": "Example — computer: Babbage designed a general mechanical analytical engine; Ada Lovelace described algorithmic possibilities; Turing formaliz...",
+      "explainer": "Example — computer: Babbage designed a general mechanical analytical engine; Ada Lovelace described algorithmic possibilities; Turing formalized computation; wartime teams built electronic machines; von Neumann and others shaped stored-program architecture; semiconductor firms made computers scalable.",
+      "importance": 3,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-963",
+      "rank": 8,
+      "title": "Ada Lovelace is widely credited as the first computer programmer because...",
+      "hook": "Ada Lovelace is widely credited as the first computer programmer because her Notes contain the first published algorithm intended for a genera...",
+      "explainer": "Ada Lovelace is widely credited as the first computer programmer because her Notes contain the first published algorithm intended for a general-purpose computing machine.",
+      "importance": 3,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1565",
+      "rank": 9,
+      "title": "Alan Turing joined the Manchester computing effort and contributed to pr...",
+      "hook": "Alan Turing joined the Manchester computing effort and contributed to programming and machine-intelligence research.",
+      "explainer": "Alan Turing joined the Manchester computing effort and contributed to programming and machine-intelligence research.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3285",
+      "rank": 10,
+      "title": "Imported machine → indigenous digital computer → solid-state computer → ...",
+      "hook": "Imported machine → indigenous digital computer → solid-state computer → government networks → software services → indigenous supercomputing.",
+      "explainer": "Imported machine → indigenous digital computer → solid-state computer → government networks → software services → indigenous supercomputing.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-26832",
+      "rank": 11,
+      "title": "PARAM 8000 was not India’s first computer. Earlier machines included imp...",
+      "hook": "PARAM 8000 was not India’s first computer. Earlier machines included imported systems and indigenous machines such as TIFRAC. PARAM was a supe...",
+      "explainer": "PARAM 8000 was not India’s first computer. Earlier machines included imported systems and indigenous machines such as TIFRAC. PARAM was a supercomputing milestone.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-414",
+      "rank": 12,
+      "title": "Error-prone printed tables → Babbage’s Difference Engine → automatic cal...",
+      "hook": "Error-prone printed tables → Babbage’s Difference Engine → automatic calculation and printing → Analytical Engine → store, mill and punched-ca...",
+      "explainer": "Error-prone printed tables → Babbage’s Difference Engine → automatic calculation and printing → Analytical Engine → store, mill and punched-card control → conceptual ancestor of programmable computers.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1608",
+      "rank": 13,
+      "title": "It is widely regarded as the first computer built for routine business d...",
+      "hook": "It is widely regarded as the first computer built for routine business data processing. The extraordinary quiz hook is that a company associat...",
+      "explainer": "It is widely regarded as the first computer built for routine business data processing. The extraordinary quiz hook is that a company associated with tea shops, cakes and catering became a computing pioneer.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-4595",
+      "rank": 14,
+      "title": "Early computers were expensive machines used by one job at a time. Time-...",
+      "hook": "Early computers were expensive machines used by one job at a time. Time-sharing allowed multiple users to interact with a computer through ter...",
+      "explainer": "Early computers were expensive machines used by one job at a time. Time-sharing allowed multiple users to interact with a computer through terminals, making computing feel conversational rather than batch-based.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-10014",
+      "rank": 15,
+      "title": "Hollerith census machines → Tabulating Machine Company → Computing-Tabul...",
+      "hook": "Hollerith census machines → Tabulating Machine Company → Computing-Tabulating-Recording Company → IBM → System/360 → IBM PC → sale of PC divis...",
+      "explainer": "Hollerith census machines → Tabulating Machine Company → Computing-Tabulating-Recording Company → IBM → System/360 → IBM PC → sale of PC division to Lenovo → acquisition of Red Hat.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-10091",
+      "rank": 16,
+      "title": "IBM’s deepest root is Herman Hollerith’s punched-card tabulation system ...",
+      "hook": "IBM’s deepest root is Herman Hollerith’s punched-card tabulation system for the 1890 United States Census. Hollerith founded the Tabulating Ma...",
+      "explainer": "IBM’s deepest root is Herman Hollerith’s punched-card tabulation system for the 1890 United States Census. Hollerith founded the Tabulating Machine Company in 1896. Financier Charles Ranlett Flint combined that company with the International Time Recording Company and Computing Scale Company in 1911 to form the Computing-Tabulating-Recording Company, usually shortened to CTR.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-14077",
+      "rank": 17,
+      "title": "Alan Turing proposed the “imitation game” in his 1950 paper “Computing M...",
+      "hook": "Alan Turing proposed the “imitation game” in his 1950 paper “Computing Machinery and Intelligence.” A human evaluator communicates through tex...",
+      "explainer": "Alan Turing proposed the “imitation game” in his 1950 paper “Computing Machinery and Intelligence.” A human evaluator communicates through text with an unseen human and machine and tries to distinguish them.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-17418",
+      "rank": 18,
+      "title": "A GPU contains many arithmetic resources designed for high-throughput pa...",
+      "hook": "A GPU contains many arithmetic resources designed for high-throughput parallel work. It originated in graphics but became crucial for scientif...",
+      "explainer": "A GPU contains many arithmetic resources designed for high-throughput parallel work. It originated in graphics but became crucial for scientific computing, machine learning and AI.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-18185",
+      "rank": 19,
+      "title": "3. Busicom calculator → Intel 4004 → microprocessor → personal and embed...",
+      "hook": "3. Busicom calculator → Intel 4004 → microprocessor → personal and embedded computing.",
+      "explainer": "3. Busicom calculator → Intel 4004 → microprocessor → personal and embedded computing.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-36409",
+      "rank": 20,
+      "title": "Alan Turing formalized computation through the abstract Turing machine a...",
+      "hook": "Alan Turing formalized computation through the abstract Turing machine and helped define which problems are computable. Complexity theory asks...",
+      "explainer": "Alan Turing formalized computation through the abstract Turing machine and helped define which problems are computable. Complexity theory asks not only whether a problem can be solved, but how time and memory grow with input size.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-36479",
+      "rank": 21,
+      "title": "Key contributions: Turing machine, foundations of computability, cryptan...",
+      "hook": "Key contributions: Turing machine, foundations of computability, cryptanalysis at Bletchley Park, early computer design and the imitation game...",
+      "explainer": "Key contributions: Turing machine, foundations of computability, cryptanalysis at Bletchley Park, early computer design and the imitation game later called the Turing test.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-36543",
+      "rank": 22,
+      "title": "Boolean algebra, developed by George Boole in the nineteenth century, be...",
+      "hook": "Boolean algebra, developed by George Boole in the nineteenth century, became the logic of digital circuits. Turing’s abstract theory became a ...",
+      "explainer": "Boolean algebra, developed by George Boole in the nineteenth century, became the logic of digital circuits. Turing’s abstract theory became a foundation for computer science. Claude Shannon showed how Boolean algebra could model switching circuits. Quantum mechanics enabled transistors and semiconductors.",
+      "importance": 2,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-28",
+      "rank": 23,
+      "title": "* ENIAC, EDVAC, EDSAC and UNIVAC",
+      "hook": "* ENIAC, EDVAC, EDSAC and UNIVAC",
+      "explainer": "* ENIAC, EDVAC, EDSAC and UNIVAC",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-30",
+      "rank": 24,
+      "title": "* Transistors, integrated circuits and microprocessors",
+      "hook": "* Transistors, integrated circuits and microprocessors",
+      "explainer": "* Transistors, integrated circuits and microprocessors",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-31",
+      "rank": 25,
+      "title": "* Mainframes, PCs, mobile computing and cloud computing",
+      "hook": "* Mainframes, PCs, mobile computing and cloud computing",
+      "explainer": "* Mainframes, PCs, mobile computing and cloud computing",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-141",
+      "rank": 26,
+      "title": "* Moore’s Law and other computing laws",
+      "hook": "* Moore’s Law and other computing laws",
+      "explainer": "* Moore’s Law and other computing laws",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-400",
+      "rank": 27,
+      "title": "TCS describes InQuizitive as the successor to TCS IT Wiz, launched in 19...",
+      "hook": "TCS describes InQuizitive as the successor to TCS IT Wiz, launched in 1999, and says its purpose is to help students understand technological ...",
+      "explainer": "TCS describes InQuizitive as the successor to TCS IT Wiz, launched in 1999, and says its purpose is to help students understand technological developments across fields such as science, engineering, mathematics, sport and art. Computing history is therefore not merely background material: it supplies the inventions, personalities, machines, company origins, disputed firsts and visual clues from which a large proportion of technology-quiz questions can be constructed.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-430",
+      "rank": 28,
+      "title": "Women were disproportionately employed in many twentieth-century computi...",
+      "hook": "Women were disproportionately employed in many twentieth-century computing groups because institutions often treated repetitive mathematical w...",
+      "explainer": "Women were disproportionately employed in many twentieth-century computing groups because institutions often treated repetitive mathematical work as clerical labour. The modern machine inherited the occupational title of the people it replaced.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-433",
+      "rank": 29,
+      "title": "* Calculating machine: a device performing arithmetic.",
+      "hook": "* Calculating machine: a device performing arithmetic.",
+      "explainer": "* Calculating machine: a device performing arithmetic.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-475",
+      "rank": 30,
+      "title": "A pocket calculator may perform many arithmetic operations, but an ordin...",
+      "hook": "A pocket calculator may perform many arithmetic operations, but an ordinary calculator cannot generally be transformed into a word processor, ...",
+      "explainer": "A pocket calculator may perform many arithmetic operations, but an ordinary calculator cannot generally be transformed into a word processor, game machine, database system or weather simulator simply by loading different instructions.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-515",
+      "rank": 31,
+      "title": "First electronic digital computing device",
+      "hook": "First electronic digital computing device",
+      "explainer": "First electronic digital computing device",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-585",
+      "rank": 32,
+      "title": "The abacus does not automatically perform arithmetic. It is an aid that ...",
+      "hook": "The abacus does not automatically perform arithmetic. It is an aid that represents numbers while a trained person executes the algorithm. Skil...",
+      "explainer": "The abacus does not automatically perform arithmetic. It is an aid that represents numbers while a trained person executes the algorithm. Skilled users can perform addition, subtraction, multiplication, division and even roots with remarkable speed.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-587",
+      "rank": 33,
+      "title": "* The abacus is not necessarily “the first computer.”",
+      "hook": "* The abacus is not necessarily “the first computer.”",
+      "explainer": "* The abacus is not necessarily “the first computer.”",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-644",
+      "rank": 34,
+      "title": "Binary was not invented for electronic computers. Two-state reasoning an...",
+      "hook": "Binary was not invented for electronic computers. Two-state reasoning and binary-like representations appear in several earlier intellectual t...",
+      "explainer": "Binary was not invented for electronic computers. Two-state reasoning and binary-like representations appear in several earlier intellectual traditions. Gottfried Leibniz produced a systematic account of binary arithmetic and associated it with philosophical ideas of creation from unity and nothingness.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-645",
+      "rank": 35,
+      "title": "Computers use binary not because binary arithmetic is inherently more in...",
+      "hook": "Computers use binary not because binary arithmetic is inherently more intelligent, but because two clearly separated physical states are compa...",
+      "explainer": "Computers use binary not because binary arithmetic is inherently more intelligent, but because two clearly separated physical states are comparatively easy to construct, detect and reproduce.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-750",
+      "rank": 36,
+      "title": "Pascal produced multiple machines, making the Pascaline one of the earli...",
+      "hook": "Pascal produced multiple machines, making the Pascaline one of the earliest mechanical calculators constructed in more than isolated prototype...",
+      "explainer": "Pascal produced multiple machines, making the Pascaline one of the earliest mechanical calculators constructed in more than isolated prototype form. Mechanical-calculator history is generally traced through Schickard, Pascal and Leibniz.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-781",
+      "rank": 37,
+      "title": "Mechanical-calculator businesses later formed part of the ancestry of se...",
+      "hook": "Mechanical-calculator businesses later formed part of the ancestry of several computing companies.",
+      "explainer": "Mechanical-calculator businesses later formed part of the ancestry of several computing companies.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-821",
+      "rank": 38,
+      "title": "PART VII — CHARLES BABBAGE: FROM CALCULATOR TO COMPUTER",
+      "hook": "PART VII — CHARLES BABBAGE: FROM CALCULATOR TO COMPUTER",
+      "explainer": "PART VII — CHARLES BABBAGE: FROM CALCULATOR TO COMPUTER",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-955",
+      "rank": 39,
+      "title": "That is the essence of general digital computing:",
+      "hook": "That is the essence of general digital computing:",
+      "explainer": "That is the essence of general digital computing:",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1116",
+      "rank": 40,
+      "title": "Before and during early electronic computing, large teams performed calc...",
+      "hook": "Before and during early electronic computing, large teams performed calculations by hand or with desk calculators.",
+      "explainer": "Before and during early electronic computing, large teams performed calculations by hand or with desk calculators.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1149",
+      "rank": 41,
+      "title": "Six women selected from the human-computer workforce became ENIAC’s orig...",
+      "hook": "Six women selected from the human-computer workforce became ENIAC’s original programming team:",
+      "explainer": "Six women selected from the human-computer workforce became ENIAC’s original programming team:",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1160",
+      "rank": 42,
+      "title": "PART XII — ANALOG, DIGITAL AND HYBRID COMPUTING",
+      "hook": "PART XII — ANALOG, DIGITAL AND HYBRID COMPUTING",
+      "explainer": "PART XII — ANALOG, DIGITAL AND HYBRID COMPUTING",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1252",
+      "rank": 43,
+      "title": "Stibitz also demonstrated remote computer use by transmitting instructio...",
+      "hook": "Stibitz also demonstrated remote computer use by transmitting instructions through telephone lines—an early example of remote computing.",
+      "explainer": "Stibitz also demonstrated remote computer use by transmitting instructions through telephone lines—an early example of remote computing.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1253",
+      "rank": 44,
+      "title": "The Model K provided an important proof that Boolean-style binary arithm...",
+      "hook": "The Model K provided an important proof that Boolean-style binary arithmetic could be realised with relays.",
+      "explainer": "The Model K provided an important proof that Boolean-style binary arithmetic could be realised with relays.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1287",
+      "rank": 45,
+      "title": "The Harvard Mark I, also known as the IBM Automatic Sequence Controlled ...",
+      "hook": "The Harvard Mark I, also known as the IBM Automatic Sequence Controlled Calculator, was developed through a collaboration between:",
+      "explainer": "The Harvard Mark I, also known as the IBM Automatic Sequence Controlled Calculator, was developed through a collaboration between:",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1333",
+      "rank": 46,
+      "title": "Turing’s crucial insight was that one machine could simulate any other c...",
+      "hook": "Turing’s crucial insight was that one machine could simulate any other computing process if given:",
+      "explainer": "Turing’s crucial insight was that one machine could simulate any other computing process if given:",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1337",
+      "rank": 47,
+      "title": "Rather than constructing one machine for payroll, another for music and ...",
+      "hook": "Rather than constructing one machine for payroll, another for music and another for equations, one universal machine can become each of them b...",
+      "explainer": "Rather than constructing one machine for payroll, another for music and another for equations, one universal machine can become each of them by loading different instructions. The Science Museum identifies Turing’s 1936 universal-machine concept as a theoretical foundation of modern computing.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1406",
+      "rank": 48,
+      "title": "The existence of Colossus remained secret for decades, distorting early ...",
+      "hook": "The existence of Colossus remained secret for decades, distorting early histories of computing.",
+      "explainer": "The existence of Colossus remained secret for decades, distorting early histories of computing.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1579",
+      "rank": 49,
+      "title": "It is often described as the first practical stored-program computer to ...",
+      "hook": "It is often described as the first practical stored-program computer to provide regular computing service.",
+      "explainer": "It is often described as the first practical stored-program computer to provide regular computing service.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1906",
+      "rank": 50,
+      "title": "PART XXI — MAINFRAMES AND COMMERCIAL COMPUTING",
+      "hook": "PART XXI — MAINFRAMES AND COMMERCIAL COMPUTING",
+      "explainer": "PART XXI — MAINFRAMES AND COMMERCIAL COMPUTING",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-1927",
+      "rank": 51,
+      "title": "Introduced in 1959, the transistorised IBM 1401 became one of the most s...",
+      "hook": "Introduced in 1959, the transistorised IBM 1401 became one of the most successful business computers of its period.",
+      "explainer": "Introduced in 1959, the transistorised IBM 1401 became one of the most successful business computers of its period.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-2303",
+      "rank": 52,
+      "title": "IBM introduced the Model 5150 Personal Computer in 1981.",
+      "hook": "IBM introduced the Model 5150 Personal Computer in 1981.",
+      "explainer": "IBM introduced the Model 5150 Personal Computer in 1981.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3278",
+      "rank": 53,
+      "title": "The Centre for Development of Advanced Computing was established in 1988...",
+      "hook": "The Centre for Development of Advanced Computing was established in 1988 in the context of US denial of access to advanced supercomputers.",
+      "explainer": "The Centre for Development of Advanced Computing was established in 1988 in the context of US denial of access to advanced supercomputers.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3410",
+      "rank": 54,
+      "title": "176. “Babbage built the first computer”",
+      "hook": "176. “Babbage built the first computer”",
+      "explainer": "176. “Babbage built the first computer”",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3412",
+      "rank": 55,
+      "title": "Babbage designed the Analytical Engine, a mechanical general-purpose com...",
+      "hook": "Babbage designed the Analytical Engine, a mechanical general-purpose computer that was never completed.",
+      "explainer": "Babbage designed the Analytical Engine, a mechanical general-purpose computer that was never completed.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3415",
+      "rank": 56,
+      "title": "She published the first widely recognised algorithm intended for Babbage...",
+      "hook": "She published the first widely recognised algorithm intended for Babbage’s unbuilt Analytical Engine.",
+      "explainer": "She published the first widely recognised algorithm intended for Babbage’s unbuilt Analytical Engine.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3425",
+      "rank": 57,
+      "title": "181. “ENIAC was the first computer”",
+      "hook": "181. “ENIAC was the first computer”",
+      "explainer": "181. “ENIAC was the first computer”",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3427",
+      "rank": 58,
+      "title": "It was the first general-purpose electronic programmable digital compute...",
+      "hook": "It was the first general-purpose electronic programmable digital computer under a common definition, but earlier machines satisfy other defini...",
+      "explainer": "It was the first general-purpose electronic programmable digital computer under a common definition, but earlier machines satisfy other definitions.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3446",
+      "rank": 59,
+      "title": "188. “The Altair was the first personal computer”",
+      "hook": "188. “The Altair was the first personal computer”",
+      "explainer": "188. “The Altair was the first personal computer”",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3665",
+      "rank": 60,
+      "title": "8. Which textile machine directly influenced Babbage’s use of punched ca...",
+      "hook": "8. Which textile machine directly influenced Babbage’s use of punched cards?",
+      "explainer": "8. Which textile machine directly influenced Babbage’s use of punched cards?",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3672",
+      "rank": 61,
+      "title": "15. Which machine was the first program-controlled electromechanical dig...",
+      "hook": "15. Which machine was the first program-controlled electromechanical digital computer?",
+      "explainer": "15. Which machine was the first program-controlled electromechanical digital computer?",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-3727",
+      "rank": 62,
+      "title": "70. Which machine was the first computer installed in India?",
+      "hook": "70. Which machine was the first computer installed in India?",
+      "explainer": "70. Which machine was the first computer installed in India?",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-4598",
+      "rank": 63,
+      "title": "J. C. R. Licklider, a psychologist and computer scientist, envisioned in...",
+      "hook": "J. C. R. Licklider, a psychologist and computer scientist, envisioned interactive computing and a globally connected information environment. ...",
+      "explainer": "J. C. R. Licklider, a psychologist and computer scientist, envisioned interactive computing and a globally connected information environment. At ARPA’s Information Processing Techniques Office, he promoted networking among research computers. His phrase “Intergalactic Computer Network” became a favourite quiz clue.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-10122",
+      "rank": 64,
+      "title": "• IBM Quantum: one of the most visible corporate quantum-computing progr...",
+      "hook": "• IBM Quantum: one of the most visible corporate quantum-computing programmes.",
+      "explainer": "• IBM Quantum: one of the most visible corporate quantum-computing programmes.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-10158",
+      "rank": 65,
+      "title": "• IBM did not invent the personal computer, although its PC standard tra...",
+      "hook": "• IBM did not invent the personal computer, although its PC standard transformed the market.",
+      "explainer": "• IBM did not invent the personal computer, although its PC standard transformed the market.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-10189",
+      "rank": 66,
+      "title": "When IBM developed its personal computer, Microsoft obtained an operatin...",
+      "hook": "When IBM developed its personal computer, Microsoft obtained an operating system related to QDOS or 86-DOS, adapted it and licensed PC DOS to ...",
+      "explainer": "When IBM developed its personal computer, Microsoft obtained an operating system related to QDOS or 86-DOS, adapted it and licensed PC DOS to IBM. Crucially, Microsoft retained the ability to license MS-DOS to other manufacturers. As IBM-compatible clones spread, Microsoft’s software became the common layer across competing hardware.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-11465",
+      "rank": 67,
+      "title": "R/3 used a three-tier client-server model and helped move enterprise com...",
+      "hook": "R/3 used a three-tier client-server model and helped move enterprise computing beyond centralised mainframe systems.",
+      "explainer": "R/3 used a three-tier client-server model and helped move enterprise computing beyond centralised mainframe systems.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-15995",
+      "rank": 68,
+      "title": "• Mainframes and enterprise computing.",
+      "hook": "• Mainframes and enterprise computing.",
+      "explainer": "• Mainframes and enterprise computing.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-15997",
+      "rank": 69,
+      "title": "• IBM Research contributions to AI and quantum computing.",
+      "hook": "• IBM Research contributions to AI and quantum computing.",
+      "explainer": "• IBM Research contributions to AI and quantum computing.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-16009",
+      "rank": 70,
+      "title": "CUDA is Nvidia’s parallel-computing platform and programming model.",
+      "hook": "CUDA is Nvidia’s parallel-computing platform and programming model.",
+      "explainer": "CUDA is Nvidia’s parallel-computing platform and programming model.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-16185",
+      "rank": 71,
+      "title": "1. Alan Turing → imitation game → Turing Test → machine intelligence deb...",
+      "hook": "1. Alan Turing → imitation game → Turing Test → machine intelligence debate.",
+      "explainer": "1. Alan Turing → imitation game → Turing Test → machine intelligence debate.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-16835",
+      "rank": 72,
+      "title": "A field-effect transistor controls current through an electric field. Th...",
+      "hook": "A field-effect transistor controls current through an electric field. The metal-oxide-semiconductor field-effect transistor, MOSFET, is the fo...",
+      "explainer": "A field-effect transistor controls current through an electric field. The metal-oxide-semiconductor field-effect transistor, MOSFET, is the foundation of modern digital integrated circuits. Mohamed Atalla and Dawon Kahng demonstrated the first working MOSFET at Bell Labs in 1959.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-17436",
+      "rank": 73,
+      "title": "• CUDA: parallel-computing platform and programming model.",
+      "hook": "• CUDA: parallel-computing platform and programming model.",
+      "explainer": "• CUDA: parallel-computing platform and programming model.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-17702",
+      "rank": 74,
+      "title": "Modern computing performance is increasingly limited by data movement. M...",
+      "hook": "Modern computing performance is increasingly limited by data movement. Moving a value from distant memory can consume more time and energy tha...",
+      "explainer": "Modern computing performance is increasingly limited by data movement. Moving a value from distant memory can consume more time and energy than performing a simple arithmetic operation.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-17723",
+      "rank": 75,
+      "title": "Gordon Moore observed in 1965 that the number of components on an econom...",
+      "hook": "Gordon Moore observed in 1965 that the number of components on an economical integrated circuit was increasing rapidly; he later revised the c...",
+      "explainer": "Gordon Moore observed in 1965 that the number of components on an economical integrated circuit was increasing rapidly; he later revised the cadence. The popular modern shorthand is that transistor count on integrated circuits roughly doubles about every two years.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-17935",
+      "rank": 76,
+      "title": "Quantum advantage means a quantum computer performs a useful or well-def...",
+      "hook": "Quantum advantage means a quantum computer performs a useful or well-defined task better than a classical alternative under stated criteria. Q...",
+      "explainer": "Quantum advantage means a quantum computer performs a useful or well-defined task better than a classical alternative under stated criteria. Quantum supremacy was the earlier term for demonstrating a quantum computation infeasible for leading classical machines, even if the task lacked immediate practical value.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-18146",
+      "rank": 77,
+      "title": "• IBM Quantum System One: enclosed integrated quantum-computing system.",
+      "hook": "• IBM Quantum System One: enclosed integrated quantum-computing system.",
+      "explainer": "• IBM Quantum System One: enclosed integrated quantum-computing system.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-18537",
+      "rank": 78,
+      "title": "Quantum computing becomes useful only through error suppression and corr...",
+      "hook": "Quantum computing becomes useful only through error suppression and correction, while security systems prepare before large machines arrive.",
+      "explainer": "Quantum computing becomes useful only through error suppression and correction, while security systems prepare before large machines arrive.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-21503",
+      "rank": 79,
+      "title": "The Norton brand originated with Peter Norton Computing, famous for Nort...",
+      "hook": "The Norton brand originated with Peter Norton Computing, famous for Norton Utilities. Symantec acquired it. The consumer-security business lat...",
+      "explainer": "The Norton brand originated with Peter Norton Computing, famous for Norton Utilities. Symantec acquired it. The consumer-security business later became NortonLifeLock and then Gen Digital after combining with Avast. Symantec’s enterprise security business was acquired by Broadcom.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-21811",
+      "rank": 80,
+      "title": "• “First computer virus” depends on whether the question means theory, l...",
+      "hook": "• “First computer virus” depends on whether the question means theory, lab program, network worm, personal-computer virus or IBM PC virus.",
+      "explainer": "• “First computer virus” depends on whether the question means theory, lab program, network worm, personal-computer virus or IBM PC virus.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-26755",
+      "rank": 81,
+      "title": "• Supercomputers, language computing, high-performance systems and elect...",
+      "hook": "• Supercomputers, language computing, high-performance systems and electronics.",
+      "explainer": "• Supercomputers, language computing, high-performance systems and electronics.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-26924",
+      "rank": 82,
+      "title": "NSM is a mission deploying an ecosystem; PARAM is a supercomputer family...",
+      "hook": "NSM is a mission deploying an ecosystem; PARAM is a supercomputer family within India’s broader high-performance-computing story.",
+      "explainer": "NSM is a mission deploying an ecosystem; PARAM is a supercomputer family within India’s broader high-performance-computing story.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-26942",
+      "rank": 83,
+      "title": "• Intended to make parallel-computing access available without a full da...",
+      "hook": "• Intended to make parallel-computing access available without a full data-centre-scale machine.",
+      "explainer": "• Intended to make parallel-computing access available without a full data-centre-scale machine.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-27893",
+      "rank": 84,
+      "title": "PART XVII — INDIAN COMPUTING AND DIGITAL-MILESTONE TIMELINE",
+      "hook": "PART XVII — INDIAN COMPUTING AND DIGITAL-MILESTONE TIMELINE",
+      "explainer": "PART XVII — INDIAN COMPUTING AND DIGITAL-MILESTONE TIMELINE",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-28004",
+      "rank": 85,
+      "title": "The computerisation of passenger reservation became one of India’s most ...",
+      "hook": "The computerisation of passenger reservation became one of India’s most visible early public-computing projects.",
+      "explainer": "The computerisation of passenger reservation became one of India’s most visible early public-computing projects.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-28042",
+      "rank": 86,
+      "title": "• Part of India’s progression from isolated mainframes to networked comp...",
+      "hook": "• Part of India’s progression from isolated mainframes to networked computing.",
+      "explainer": "• Part of India’s progression from isolated mainframes to networked computing.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-29602",
+      "rank": 87,
+      "title": "80. To build indigenous advanced-computing capability after restrictions...",
+      "hook": "80. To build indigenous advanced-computing capability after restrictions on importing a powerful supercomputer.",
+      "explainer": "80. To build indigenous advanced-computing capability after restrictions on importing a powerful supercomputer.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-29701",
+      "rank": 88,
+      "title": "Supercomputer import restriction → C-DAC → PARAM → National Supercomputi...",
+      "hook": "Supercomputer import restriction → C-DAC → PARAM → National Supercomputing Mission.",
+      "explainer": "Supercomputer import restriction → C-DAC → PARAM → National Supercomputing Mission.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-36197",
+      "rank": 89,
+      "title": "• Integrated circuit — Jack Kilby and Robert Noyce independently. Impact...",
+      "hook": "• Integrated circuit — Jack Kilby and Robert Noyce independently. Impact: Placed multiple electronic components on one chip, enabling modern c...",
+      "explainer": "• Integrated circuit — Jack Kilby and Robert Noyce independently. Impact: Placed multiple electronic components on one chip, enabling modern computing.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-6",
+      "rank": 90,
+      "title": "1. Computing History and Foundations",
+      "hook": "1. Computing History and Foundations",
+      "explainer": "1. Computing History and Foundations",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-21",
+      "rank": 91,
+      "title": "1. Computing History and Foundations",
+      "hook": "1. Computing History and Foundations",
+      "explainer": "1. Computing History and Foundations",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-22",
+      "rank": 92,
+      "title": "Study the development of computing chronologically:",
+      "hook": "Study the development of computing chronologically:",
+      "explainer": "Study the development of computing chronologically:",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-23",
+      "rank": 93,
+      "title": "* Abacus and mechanical calculators",
+      "hook": "* Abacus and mechanical calculators",
+      "explainer": "* Abacus and mechanical calculators",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-25",
+      "rank": 94,
+      "title": "* Babbage and Ada Lovelace",
+      "hook": "* Babbage and Ada Lovelace",
+      "explainer": "* Babbage and Ada Lovelace",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-27",
+      "rank": 95,
+      "title": "* Turing and wartime computing",
+      "hook": "* Turing and wartime computing",
+      "explainer": "* Turing and wartime computing",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-32",
+      "rank": 96,
+      "title": "* Binary, memory, CPUs and generations of computers",
+      "hook": "* Binary, memory, CPUs and generations of computers",
+      "explainer": "* Binary, memory, CPUs and generations of computers",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-131",
+      "rank": 97,
+      "title": "* Transistors and integrated circuits",
+      "hook": "* Transistors and integrated circuits",
+      "explainer": "* Transistors and integrated circuits",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-294",
+      "rank": 98,
+      "title": "* Mathematics behind computing and cryptography",
+      "hook": "* Mathematics behind computing and cryptography",
+      "explainer": "* Mathematics behind computing and cryptography",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-397",
+      "rank": 99,
+      "title": "Module 1: Computing History and Foundations",
+      "hook": "Module 1: Computing History and Foundations",
+      "explainer": "Module 1: Computing History and Foundations",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-398",
+      "rank": 100,
+      "title": "MODULE 1 — COMPUTING HISTORY AND FOUNDATIONS",
+      "hook": "MODULE 1 — COMPUTING HISTORY AND FOUNDATIONS",
+      "explainer": "MODULE 1 — COMPUTING HISTORY AND FOUNDATIONS",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-401",
+      "rank": 101,
+      "title": "No finite guide can literally contain every fact ever connected with com...",
+      "hook": "No finite guide can literally contain every fact ever connected with computing. This module instead aims for practical exhaustiveness: after m...",
+      "explainer": "No finite guide can literally contain every fact ever connected with computing. This module instead aims for practical exhaustiveness: after mastering it, an ordinary school-level technology quiz should struggle to find a foundational-computing question for which you have no route to the answer.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-434",
+      "rank": 102,
+      "title": "* Automatic calculator: a machine able to continue through a sequence wi...",
+      "hook": "* Automatic calculator: a machine able to continue through a sequence without constant manual intervention.",
+      "explainer": "* Automatic calculator: a machine able to continue through a sequence without constant manual intervention.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-435",
+      "rank": 103,
+      "title": "* Computer: eventually a programmable electronic machine capable of mani...",
+      "hook": "* Computer: eventually a programmable electronic machine capable of manipulating symbols according to stored instructions.",
+      "explainer": "* Computer: eventually a programmable electronic machine capable of manipulating symbols according to stored instructions.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-474",
+      "rank": 104,
+      "title": "The crucial leap from calculator to computer is programmability.",
+      "hook": "The crucial leap from calculator to computer is programmability.",
+      "explainer": "The crucial leap from calculator to computer is programmability.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-484",
+      "rank": 105,
+      "title": "PART II — WHY “THE FIRST COMPUTER” HAS NO SINGLE ANSWER",
+      "hook": "PART II — WHY “THE FIRST COMPUTER” HAS NO SINGLE ANSWER",
+      "explainer": "PART II — WHY “THE FIRST COMPUTER” HAS NO SINGLE ANSWER",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-01-lib-485",
+      "rank": 106,
+      "title": "A quiz asking simply, “What was the first computer?” is incomplete unles...",
+      "hook": "A quiz asking simply, “What was the first computer?” is incomplete unless it specifies a category.",
+      "explainer": "A quiz asking simply, “What was the first computer?” is incomplete unless it specifies a category.",
+      "importance": 1,
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "transistor-density scaling claims"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }

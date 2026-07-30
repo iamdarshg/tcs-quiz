@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-07-lib-19473",
+      "rank": 7,
+      "title": "11. FIREWALLS, IDS, IPS, ANTIVIRUS AND EDR",
+      "hook": "11. FIREWALLS, IDS, IPS, ANTIVIRUS AND EDR",
+      "explainer": "11. FIREWALLS, IDS, IPS, ANTIVIRUS AND EDR",
+      "importance": 2,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-167",
+      "rank": 8,
+      "title": "Core question types: identify malware from clues, first virus, cause of ...",
+      "hook": "Core question types: identify malware from clues, first virus, cause of outage, vulnerability name and cybersecurity terminology.",
+      "explainer": "Core question types: identify malware from clues, first virus, cause of outage, vulnerability name and cybersecurity terminology.",
+      "importance": 2,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-4460",
+      "rank": 9,
+      "title": "TLS succeeded SSL. People often still say SSL certificate, but modern se...",
+      "hook": "TLS succeeded SSL. People often still say SSL certificate, but modern secure web connections use TLS. Certificates bind public keys to identit...",
+      "explainer": "TLS succeeded SSL. People often still say SSL certificate, but modern secure web connections use TLS. Certificates bind public keys to identities under a public-key infrastructure.",
+      "importance": 2,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18598",
+      "rank": 10,
+      "title": "3. Attackers learned to exploit software and human behaviour: malware, p...",
+      "hook": "3. Attackers learned to exploit software and human behaviour: malware, phishing and social engineering.",
+      "explainer": "3. Attackers learned to exploit software and human behaviour: malware, phishing and social engineering.",
+      "importance": 2,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20522",
+      "rank": 11,
+      "title": "An exploit for a Windows SMB vulnerability, publicly leaked in 2017 and ...",
+      "hook": "An exploit for a Windows SMB vulnerability, publicly leaked in 2017 and used by WannaCry and NotPetya. It is not itself ransomware.",
+      "explainer": "An exploit for a Windows SMB vulnerability, publicly leaked in 2017 and used by WannaCry and NotPetya. It is not itself ransomware.",
+      "importance": 2,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-12",
+      "rank": 12,
+      "title": "7. Cybersecurity, Malware, Privacy and Global Outages",
+      "hook": "7. Cybersecurity, Malware, Privacy and Global Outages",
+      "explainer": "7. Cybersecurity, Malware, Privacy and Global Outages",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-149",
+      "rank": 13,
+      "title": "7. Cybersecurity, Malware, Privacy and Global Outages",
+      "hook": "7. Cybersecurity, Malware, Privacy and Global Outages",
+      "explainer": "7. Cybersecurity, Malware, Privacy and Global Outages",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-154",
+      "rank": 14,
+      "title": "* Firewalls and antivirus software",
+      "hook": "* Firewalls and antivirus software",
+      "explainer": "* Firewalls and antivirus software",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-4454",
+      "rank": 15,
+      "title": "HTTPS is HTTP protected by Transport Layer Security. It helps provide en...",
+      "hook": "HTTPS is HTTP protected by Transport Layer Security. It helps provide encryption, integrity and server authentication. The padlock does not pr...",
+      "explainer": "HTTPS is HTTP protected by Transport Layer Security. It helps provide encryption, integrity and server authentication. The padlock does not prove that a site is honest; it indicates that the connection to the named site is protected under the certificate system.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18578",
+      "rank": 16,
+      "title": "MODULE 7 — CYBERSECURITY, MALWARE, PRIVACY AND GLOBAL OUTAGES",
+      "hook": "MODULE 7 — CYBERSECURITY, MALWARE, PRIVACY AND GLOBAL OUTAGES",
+      "explainer": "MODULE 7 — CYBERSECURITY, MALWARE, PRIVACY AND GLOBAL OUTAGES",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18599",
+      "rank": 17,
+      "title": "4. Defenders built layered controls: firewalls, antivirus, detection, re...",
+      "hook": "4. Defenders built layered controls: firewalls, antivirus, detection, response and recovery.",
+      "explainer": "4. Defenders built layered controls: firewalls, antivirus, detection, response and recovery.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18641",
+      "rank": 18,
+      "title": "A vulnerability is a weakness. An exploit is a technique or code that ta...",
+      "hook": "A vulnerability is a weakness. An exploit is a technique or code that takes advantage of a weakness. Malware may use an exploit, but the explo...",
+      "explainer": "A vulnerability is a weakness. An exploit is a technique or code that takes advantage of a weakness. Malware may use an exploit, but the exploit itself is not necessarily malware.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18788",
+      "rank": 19,
+      "title": "A zero-day vulnerability is unknown to the vendor or lacks an available ...",
+      "hook": "A zero-day vulnerability is unknown to the vendor or lacks an available fix when attackers can use it. The phrase may refer to the vulnerabili...",
+      "explainer": "A zero-day vulnerability is unknown to the vendor or lacks an available fix when attackers can use it. The phrase may refer to the vulnerability or to an exploit using it. “Zero-day” does not mean the attack lasts zero days.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19272",
+      "rank": 20,
+      "title": "Transport Layer Security protects network connections. It evolved from S...",
+      "hook": "Transport Layer Security protects network connections. It evolved from SSL, whose name remains common in phrases such as “SSL certificate”, al...",
+      "explainer": "Transport Layer Security protects network connections. It evolved from SSL, whose name remains common in phrases such as “SSL certificate”, although modern secure deployments use TLS.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19287",
+      "rank": 21,
+      "title": "HTTPS is HTTP carried through TLS. The padlock means the connection to t...",
+      "hook": "HTTPS is HTTP carried through TLS. The padlock means the connection to the named site is encrypted and the certificate chain validated. It doe...",
+      "explainer": "HTTPS is HTTP carried through TLS. The padlock means the connection to the named site is encrypted and the certificate chain validated. It does not prove the site is honest, that the product is genuine or that the organisation will use data responsibly.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20111",
+      "rank": 22,
+      "title": "18. WANNACRY — RANSOMWARE AS A WORM",
+      "hook": "18. WANNACRY — RANSOMWARE AS A WORM",
+      "explainer": "18. WANNACRY — RANSOMWARE AS A WORM",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20117",
+      "rank": 23,
+      "title": "WannaCry spread globally in May 2017. It combined ransomware with worm-l...",
+      "hook": "WannaCry spread globally in May 2017. It combined ransomware with worm-like propagation.",
+      "explainer": "WannaCry spread globally in May 2017. It combined ransomware with worm-like propagation.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20201",
+      "rank": 24,
+      "title": "The 1989 AIDS Trojan, also called the PC Cyborg Trojan, was distributed ...",
+      "hook": "The 1989 AIDS Trojan, also called the PC Cyborg Trojan, was distributed on floppy disks by Joseph Popp. It hid filenames and demanded payment ...",
+      "explainer": "The 1989 AIDS Trojan, also called the PC Cyborg Trojan, was distributed on floppy disks by Joseph Popp. It hid filenames and demanded payment after a number of boots. Its cryptography and recovery design were primitive.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20207",
+      "rank": 25,
+      "title": "Appeared in 2013 and popularised strong public-key cryptography in moder...",
+      "hook": "Appeared in 2013 and popularised strong public-key cryptography in modern ransomware. It spread through the Gameover ZeuS ecosystem and showed...",
+      "explainer": "Appeared in 2013 and popularised strong public-key cryptography in modern ransomware. It spread through the Gameover ZeuS ecosystem and showed how organised crime could combine malware, payments and infrastructure.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20638",
+      "rank": 26,
+      "title": "The credit-reporting company suffered a breach affecting highly sensitiv...",
+      "hook": "The credit-reporting company suffered a breach affecting highly sensitive identity data. Attackers exploited an unpatched Apache Struts vulner...",
+      "explainer": "The credit-reporting company suffered a breach affecting highly sensitive identity data. Attackers exploited an unpatched Apache Struts vulnerability. The incident became a symbol of patch-management failure and the unusual harm caused when people cannot simply choose to avoid a credit bureau.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20686",
+      "rank": 27,
+      "title": "Stolen passwords may be hashed rather than plaintext, but weak hashing a...",
+      "hook": "Stolen passwords may be hashed rather than plaintext, but weak hashing and password reuse still create danger. Email addresses and security qu...",
+      "explainer": "Stolen passwords may be hashed rather than plaintext, but weak hashing and password reuse still create danger. Email addresses and security questions can support future phishing and account takeover.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21669",
+      "rank": 28,
+      "title": "TCS provides cybersecurity consulting, identity, cloud security, managed...",
+      "hook": "TCS provides cybersecurity consulting, identity, cloud security, managed detection, resilience and industry-specific services. For quiz prepar...",
+      "explainer": "TCS provides cybersecurity consulting, identity, cloud security, managed detection, resilience and industry-specific services. For quiz preparation, connect TCS to enterprise-scale defence and critical business operations rather than assuming it is an antivirus-product company.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21797",
+      "rank": 29,
+      "title": "• Heartbleed affected OpenSSL’s heartbeat handling, not the mathematics ...",
+      "hook": "• Heartbleed affected OpenSSL’s heartbeat handling, not the mathematics of encryption.",
+      "explainer": "• Heartbleed affected OpenSSL’s heartbeat handling, not the mathematics of encryption.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21842",
+      "rank": 30,
+      "title": "1989 — AIDS Trojan became an early ransomware example.",
+      "hook": "1989 — AIDS Trojan became an early ransomware example.",
+      "explainer": "1989 — AIDS Trojan became an early ransomware example.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21884",
+      "rank": 31,
+      "title": "2018 — GDPR became applicable; Spectre and Meltdown were disclosed; Marr...",
+      "hook": "2018 — GDPR became applicable; Spectre and Meltdown were disclosed; Marriott disclosed the Starwood breach.",
+      "explainer": "2018 — GDPR became applicable; Spectre and Meltdown were disclosed; Marriott disclosed the Starwood breach.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-23725",
+      "rank": 32,
+      "title": "TLS protects data in transit by providing encryption and integrity and u...",
+      "hook": "TLS protects data in transit by providing encryption and integrity and usually authenticating the server through certificates.",
+      "explainer": "TLS protects data in transit by providing encryption and integrity and usually authenticating the server through certificates.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-24589",
+      "rank": 33,
+      "title": "• Hashing supports integrity and password-verification schemes; it is no...",
+      "hook": "• Hashing supports integrity and password-verification schemes; it is not reversible encryption.",
+      "explainer": "• Hashing supports integrity and password-verification schemes; it is not reversible encryption.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-151",
+      "rank": 34,
+      "title": "* Encryption and cryptography",
+      "hook": "* Encryption and cryptography",
+      "explainer": "* Encryption and cryptography",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-155",
+      "rank": 35,
+      "title": "* Phishing and social engineering",
+      "hook": "* Phishing and social engineering",
+      "explainer": "* Phishing and social engineering",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-158",
+      "rank": 36,
+      "title": "* ILOVEYOU, Stuxnet, WannaCry and NotPetya",
+      "hook": "* ILOVEYOU, Stuxnet, WannaCry and NotPetya",
+      "explainer": "* ILOVEYOU, Stuxnet, WannaCry and NotPetya",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-9789",
+      "rank": 37,
+      "title": "45. TLS encryption/integrity/authentication; it does not guarantee the s...",
+      "hook": "45. TLS encryption/integrity/authentication; it does not guarantee the site is honest.",
+      "explainer": "45. TLS encryption/integrity/authentication; it does not guarantee the site is honest.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-15861",
+      "rank": 38,
+      "title": "A hash designed for passwords cannot always be applied directly to noisy...",
+      "hook": "A hash designed for passwords cannot always be applied directly to noisy biometric measurements because two genuine captures are rarely bit-fo...",
+      "explainer": "A hash designed for passwords cannot always be applied directly to noisy biometric measurements because two genuine captures are rarely bit-for-bit identical.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-17253",
+      "rank": 39,
+      "title": "Speculation improves performance but created security concerns highlight...",
+      "hook": "Speculation improves performance but created security concerns highlighted by attacks such as Spectre and Meltdown. Those vulnerabilities belo...",
+      "explainer": "Speculation improves performance but created security concerns highlighted by attacks such as Spectre and Meltdown. Those vulnerabilities belong primarily to Module 7, but the architectural cause belongs here.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18597",
+      "rank": 40,
+      "title": "2. Computers learned to establish trust: passwords, authentication, cert...",
+      "hook": "2. Computers learned to establish trust: passwords, authentication, certificates and access control.",
+      "explainer": "2. Computers learned to establish trust: passwords, authentication, certificates and access control.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18602",
+      "rank": 41,
+      "title": "7. Cyber incidents became business and national-security events: ransomw...",
+      "hook": "7. Cyber incidents became business and national-security events: ransomware, supply-chain compromises, data breaches and worldwide outages.",
+      "explainer": "7. Cyber incidents became business and national-security events: ransomware, supply-chain compromises, data breaches and worldwide outages.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18638",
+      "rank": 42,
+      "title": "Vulnerability versus exploit",
+      "hook": "Vulnerability versus exploit",
+      "explainer": "Vulnerability versus exploit",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18764",
+      "rank": 43,
+      "title": "The possibility of loss arising from a threat exploiting a vulnerability...",
+      "hook": "The possibility of loss arising from a threat exploiting a vulnerability and producing impact. Risk is often discussed as a combination of lik...",
+      "explainer": "The possibility of loss arising from a threat exploiting a vulnerability and producing impact. Risk is often discussed as a combination of likelihood and consequence.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18782",
+      "rank": 44,
+      "title": "The route or method used to reach a target, such as phishing, a vulnerab...",
+      "hook": "The route or method used to reach a target, such as phishing, a vulnerable web application, a stolen password or an infected USB drive.",
+      "explainer": "The route or method used to reach a target, such as phishing, a vulnerable web application, a stolen password or an infected USB drive.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18845",
+      "rank": 45,
+      "title": "Examples include MFA, patching, secure configuration, network segmentati...",
+      "hook": "Examples include MFA, patching, secure configuration, network segmentation, encryption and application allow-listing.",
+      "explainer": "Examples include MFA, patching, secure configuration, network segmentation, encryption and application allow-listing.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-18857",
+      "rank": 46,
+      "title": "Examples include removing malware, resetting credentials, repairing conf...",
+      "hook": "Examples include removing malware, resetting credentials, repairing configuration and applying patches.",
+      "explainer": "Examples include removing malware, resetting credentials, repairing configuration and applying patches.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19015",
+      "rank": 47,
+      "title": "Symmetric cryptography uses the same secret key, or easily related keys,...",
+      "hook": "Symmetric cryptography uses the same secret key, or easily related keys, for encryption and decryption.",
+      "explainer": "Symmetric cryptography uses the same secret key, or easily related keys, for encryption and decryption.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19094",
+      "rank": 48,
+      "title": "6. HASHES, CHECKSUMS, MACS AND PASSWORD STORAGE",
+      "hook": "6. HASHES, CHECKSUMS, MACS AND PASSWORD STORAGE",
+      "explainer": "6. HASHES, CHECKSUMS, MACS AND PASSWORD STORAGE",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19133",
+      "rank": 49,
+      "title": "A salt is a unique random value stored with each password hash. It preve...",
+      "hook": "A salt is a unique random value stored with each password hash. It prevents identical passwords from producing identical stored values and def...",
+      "explainer": "A salt is a unique random value stored with each password hash. It prevents identical passwords from producing identical stored values and defeats precomputed rainbow tables at scale. A salt need not be secret.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19142",
+      "rank": 50,
+      "title": "Password hashing",
+      "hook": "Password hashing",
+      "explainer": "Password hashing",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19145",
+      "rank": 51,
+      "title": "Passwords should not be stored with fast general-purpose hashes alone. P...",
+      "hook": "Passwords should not be stored with fast general-purpose hashes alone. Purpose-built password-hashing or key-derivation functions such as Argo...",
+      "explainer": "Passwords should not be stored with fast general-purpose hashes alone. Purpose-built password-hashing or key-derivation functions such as Argon2, scrypt, bcrypt and PBKDF2 deliberately consume time and/or memory to make large-scale guessing more expensive.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19160",
+      "rank": 52,
+      "title": "A digital signature uses a private key to sign and a public key to verif...",
+      "hook": "A digital signature uses a private key to sign and a public key to verify, allowing broader verification and stronger non-repudiation properties.",
+      "explainer": "A digital signature uses a private key to sign and a public key to verify, allowing broader verification and stronger non-repudiation properties.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19218",
+      "rank": 53,
+      "title": "TLS and encrypted messaging usually do not encrypt every byte with RSA. ...",
+      "hook": "TLS and encrypted messaging usually do not encrypt every byte with RSA. Public-key methods authenticate parties and establish a session key; e...",
+      "explainer": "TLS and encrypted messaging usually do not encrypt every byte with RSA. Public-key methods authenticate parties and establish a session key; efficient symmetric encryption then protects the data.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19233",
+      "rank": 54,
+      "title": "8. DIGITAL SIGNATURES, CERTIFICATES AND TLS",
+      "hook": "8. DIGITAL SIGNATURES, CERTIFICATES AND TLS",
+      "explainer": "8. DIGITAL SIGNATURES, CERTIFICATES AND TLS",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19266",
+      "rank": 55,
+      "title": "Public Key Infrastructure includes certificates, authorities, registrati...",
+      "hook": "Public Key Infrastructure includes certificates, authorities, registration processes, revocation systems, policies and technical standards.",
+      "explainer": "Public Key Infrastructure includes certificates, authorities, registration processes, revocation systems, policies and technical standards.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19383",
+      "rank": 56,
+      "title": "One-Time Password. HOTP is counter-based; TOTP is time-based. Authentica...",
+      "hook": "One-Time Password. HOTP is counter-based; TOTP is time-based. Authenticator-app codes are generally stronger than SMS against SIM-swap attacks...",
+      "explainer": "One-Time Password. HOTP is counter-based; TOTP is time-based. Authenticator-app codes are generally stronger than SMS against SIM-swap attacks, but phishing can still relay many OTPs in real time.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19401",
+      "rank": 57,
+      "title": "Passkeys use public-key credentials based on FIDO standards. The device ...",
+      "hook": "Passkeys use public-key credentials based on FIDO standards. The device creates a key pair for a service; the private key stays protected on t...",
+      "explainer": "Passkeys use public-key credentials based on FIDO standards. The device creates a key pair for a service; the private key stays protected on the user’s device or synchronised credential ecosystem. Passkeys resist ordinary phishing because credentials are bound to the legitimate site.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19530",
+      "rank": 58,
+      "title": "Antivirus",
+      "hook": "Antivirus",
+      "explainer": "Antivirus",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19533",
+      "rank": 59,
+      "title": "Traditional antivirus focused on known malicious files and signatures. M...",
+      "hook": "Traditional antivirus focused on known malicious files and signatures. Modern products use reputation, behaviour, machine learning, cloud anal...",
+      "explainer": "Traditional antivirus focused on known malicious files and signatures. Modern products use reputation, behaviour, machine learning, cloud analysis and other signals.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19626",
+      "rank": 60,
+      "title": "Rapid patching reduces exposure, but organisations must prioritise based...",
+      "hook": "Rapid patching reduces exposure, but organisations must prioritise based on exploitability, asset criticality and operational risk. Legacy and...",
+      "explainer": "Rapid patching reduces exposure, but organisations must prioritise based on exploitability, asset criticality and operational risk. Legacy and industrial systems may be difficult to update.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19671",
+      "rank": 61,
+      "title": "13. PHISHING AND SOCIAL ENGINEERING",
+      "hook": "13. PHISHING AND SOCIAL ENGINEERING",
+      "explainer": "13. PHISHING AND SOCIAL ENGINEERING",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19965",
+      "rank": 62,
+      "title": "Ray Tomlinson wrote Reaper to move through the network and remove Creepe...",
+      "hook": "Ray Tomlinson wrote Reaper to move through the network and remove Creeper. It is often called the first antivirus program, but it was an exper...",
+      "explainer": "Ray Tomlinson wrote Reaper to move through the network and remove Creeper. It is often called the first antivirus program, but it was an experimental counter-program rather than a commercial antivirus product.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-19989",
+      "rank": 63,
+      "title": "Released in November 1988 by Robert Tappan Morris, then a graduate stude...",
+      "hook": "Released in November 1988 by Robert Tappan Morris, then a graduate student. It exploited weaknesses and poor password practices across Unix sy...",
+      "explainer": "Released in November 1988 by Robert Tappan Morris, then a graduate student. It exploited weaknesses and poor password practices across Unix systems. A flaw in its reinfection logic caused severe resource consumption.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20000",
+      "rank": 64,
+      "title": "16. EMAIL WORMS AND MASS-MARKET MALWARE",
+      "hook": "16. EMAIL WORMS AND MASS-MARKET MALWARE",
+      "explainer": "16. EMAIL WORMS AND MASS-MARKET MALWARE",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20055",
+      "rank": 65,
+      "title": "Discovered in 2008, Conficker exploited a Windows vulnerability and buil...",
+      "hook": "Discovered in 2008, Conficker exploited a Windows vulnerability and built a large botnet. It used sophisticated updating and domain-generation...",
+      "explainer": "Discovered in 2008, Conficker exploited a Windows vulnerability and built a large botnet. It used sophisticated updating and domain-generation techniques, provoking an international coordinated response.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20058",
+      "rank": 66,
+      "title": "17. STUXNET — MALWARE ENTERS THE PHYSICAL WORLD",
+      "hook": "17. STUXNET — MALWARE ENTERS THE PHYSICAL WORLD",
+      "explainer": "17. STUXNET — MALWARE ENTERS THE PHYSICAL WORLD",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20108",
+      "rank": 67,
+      "title": "Stuxnet was not ordinary ransomware and did not primarily steal credit-c...",
+      "hook": "Stuxnet was not ordinary ransomware and did not primarily steal credit-card data. Its significance was precise cyber-physical sabotage.",
+      "explainer": "Stuxnet was not ordinary ransomware and did not primarily steal credit-card data. Its significance was precise cyber-physical sabotage.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20147",
+      "rank": 68,
+      "title": "Paying did not guarantee reliable recovery. WannaCry’s payment and victi...",
+      "hook": "Paying did not guarantee reliable recovery. WannaCry’s payment and victim-tracking design was poor compared with organised ransomware operations.",
+      "explainer": "Paying did not guarantee reliable recovery. WannaCry’s payment and victim-tracking design was poor compared with organised ransomware operations.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20338",
+      "rank": 69,
+      "title": "Common Vulnerability Scoring System estimates technical severity through...",
+      "hook": "Common Vulnerability Scoring System estimates technical severity through standard metrics. A high CVSS score does not automatically equal high...",
+      "explainer": "Common Vulnerability Scoring System estimates technical severity through standard metrics. A high CVSS score does not automatically equal highest business risk; asset importance, exposure and active exploitation also matter.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20401",
+      "rank": 70,
+      "title": "An attacker could read portions of process memory, potentially exposing ...",
+      "hook": "An attacker could read portions of process memory, potentially exposing keys, credentials, cookies and other sensitive data. The attack did no...",
+      "explainer": "An attacker could read portions of process memory, potentially exposing keys, credentials, cookies and other sensitive data. The attack did not require “breaking” TLS mathematics; it exploited an implementation bug around TLS.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20413",
+      "rank": 71,
+      "title": "• Patch OpenSSL.",
+      "hook": "• Patch OpenSSL.",
+      "explainer": "• Patch OpenSSL.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20422",
+      "rank": 72,
+      "title": "Changing a password before the vulnerable server was patched could expos...",
+      "hook": "Changing a password before the vulnerable server was patched could expose the new password as well.",
+      "explainer": "Changing a password before the vulnerable server was patched could expose the new password as well.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20465",
+      "rank": 73,
+      "title": "“Log4Shell” combines Log4j with shell, suggesting command execution. The...",
+      "hook": "“Log4Shell” combines Log4j with shell, suggesting command execution. The vulnerability’s public logo showed a stylised flame.",
+      "explainer": "“Log4Shell” combines Log4j with shell, suggesting command execution. The vulnerability’s public logo showed a stylised flame.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20486",
+      "rank": 74,
+      "title": "A 2014 attack against SSL 3.0’s CBC padding behaviour. The name expands ...",
+      "hook": "A 2014 attack against SSL 3.0’s CBC padding behaviour. The name expands to Padding Oracle On Downgraded Legacy Encryption.",
+      "explainer": "A 2014 attack against SSL 3.0’s CBC padding behaviour. The name expands to Padding Oracle On Downgraded Legacy Encryption.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20492",
+      "rank": 75,
+      "title": "Factoring RSA Export Keys. It exploited support for deliberately weakene...",
+      "hook": "Factoring RSA Export Keys. It exploited support for deliberately weakened export-grade cryptography left from historical policy restrictions.",
+      "explainer": "Factoring RSA Export Keys. It exploited support for deliberately weakened export-grade cryptography left from historical policy restrictions.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20501",
+      "rank": 76,
+      "title": "Spectre and Meltdown",
+      "hook": "Spectre and Meltdown",
+      "explainer": "Spectre and Meltdown",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20605",
+      "rank": 77,
+      "title": "Cybersecurity company FireEye disclosed in December 2020 that it had bee...",
+      "hook": "Cybersecurity company FireEye disclosed in December 2020 that it had been breached and that offensive security tools were stolen. Its investig...",
+      "explainer": "Cybersecurity company FireEye disclosed in December 2020 that it had been breached and that offensive security tools were stolen. Its investigation helped expose the wider SolarWinds campaign. FireEye’s threat-intelligence and consulting businesses later became associated with the Mandiant name.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-20872",
+      "rank": 78,
+      "title": "A Mirai botnet DDoS attack against Dyn’s DNS infrastructure made many se...",
+      "hook": "A Mirai botnet DDoS attack against Dyn’s DNS infrastructure made many services difficult to reach.",
+      "explainer": "A Mirai botnet DDoS attack against Dyn’s DNS infrastructure made many services difficult to reach.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21347",
+      "rank": 79,
+      "title": "Commercial spyware developed by Israel’s NSO Group. It is designed for t...",
+      "hook": "Commercial spyware developed by Israel’s NSO Group. It is designed for targeted surveillance of smartphones and has been linked by investigati...",
+      "explainer": "Commercial spyware developed by Israel’s NSO Group. It is designed for targeted surveillance of smartphones and has been linked by investigations to attacks on journalists, activists, officials and others. “Zero-click” exploitation means the target may not need to tap a malicious link.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21437",
+      "rank": 80,
+      "title": "United States Cybersecurity and Infrastructure Security Agency. It maint...",
+      "hook": "United States Cybersecurity and Infrastructure Security Agency. It maintains alerts, guidance and the Known Exploited Vulnerabilities Catalog.",
+      "explainer": "United States Cybersecurity and Infrastructure Security Agency. It maintains alerts, guidance and the Known Exploited Vulnerabilities Catalog.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21449",
+      "rank": 81,
+      "title": "United States National Institute of Standards and Technology. It publish...",
+      "hook": "United States National Institute of Standards and Technology. It publishes widely used standards and frameworks, including AES, password guida...",
+      "explainer": "United States National Institute of Standards and Technology. It publishes widely used standards and frameworks, including AES, password guidance and the Cybersecurity Framework.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21497",
+      "rank": 82,
+      "title": "Founded by John McAfee in 1987 as McAfee Associates. It became one of th...",
+      "hook": "Founded by John McAfee in 1987 as McAfee Associates. It became one of the best-known antivirus brands. Intel acquired the company and temporar...",
+      "explainer": "Founded by John McAfee in 1987 as McAfee Associates. It became one of the best-known antivirus brands. Intel acquired the company and temporarily used the name Intel Security before restoring McAfee branding. The consumer business later changed ownership and corporate form.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21509",
+      "rank": 83,
+      "title": "Founded by Eugene Kaspersky and colleagues in Russia. Known for antiviru...",
+      "hook": "Founded by Eugene Kaspersky and colleagues in Russia. Known for antivirus and threat research. It has faced government restrictions and geopol...",
+      "explainer": "Founded by Eugene Kaspersky and colleagues in Russia. Known for antivirus and threat research. It has faced government restrictions and geopolitical controversy in several countries.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21575",
+      "rank": 84,
+      "title": "A service that scans files, hashes and URLs using many security engines ...",
+      "hook": "A service that scans files, hashes and URLs using many security engines and data sources. Founded by Hispasec and acquired by Google. A clean ...",
+      "explainer": "A service that scans files, hashes and URLs using many security engines and data sources. Founded by Hispasec and acquired by Google. A clean VirusTotal result does not prove a file is safe.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21581",
+      "rank": 85,
+      "title": "Service created by Troy Hunt that lets users check whether email address...",
+      "hook": "Service created by Troy Hunt that lets users check whether email addresses appear in known data breaches. “Pwned” is gaming and hacker slang d...",
+      "explainer": "Service created by Troy Hunt that lets users check whether email addresses appear in known data breaches. “Pwned” is gaming and hacker slang derived from a common mistyping of “owned”.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21678",
+      "rank": 86,
+      "title": "Virus versus worm",
+      "hook": "Virus versus worm",
+      "explainer": "Virus versus worm",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21681",
+      "rank": 87,
+      "title": "A virus attaches to a host and usually requires execution; a worm self-p...",
+      "hook": "A virus attaches to a host and usually requires execution; a worm self-propagates across systems or networks.",
+      "explainer": "A virus attaches to a host and usually requires execution; a worm self-propagates across systems or networks.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21696",
+      "rank": 88,
+      "title": "Encryption versus hashing",
+      "hook": "Encryption versus hashing",
+      "explainer": "Encryption versus hashing",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21699",
+      "rank": 89,
+      "title": "Encryption is reversible with a key; cryptographic hashing is designed a...",
+      "hook": "Encryption is reversible with a key; cryptographic hashing is designed as a one-way transformation.",
+      "explainer": "Encryption is reversible with a key; cryptographic hashing is designed as a one-way transformation.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21726",
+      "rank": 90,
+      "title": "IDS versus IPS",
+      "hook": "IDS versus IPS",
+      "explainer": "IDS versus IPS",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21729",
+      "rank": 91,
+      "title": "IDS alerts; IPS can block inline.",
+      "hook": "IDS alerts; IPS can block inline.",
+      "explainer": "IDS alerts; IPS can block inline.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21750",
+      "rank": 92,
+      "title": "Red team versus blue team",
+      "hook": "Red team versus blue team",
+      "explainer": "Red team versus blue team",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21753",
+      "rank": 93,
+      "title": "Red team simulates attackers; blue team defends. Purple teaming improves...",
+      "hook": "Red team simulates attackers; blue team defends. Purple teaming improves collaboration and learning between them.",
+      "explainer": "Red team simulates attackers; blue team defends. Purple teaming improves collaboration and learning between them.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21756",
+      "rank": 94,
+      "title": "Penetration test versus vulnerability scan",
+      "hook": "Penetration test versus vulnerability scan",
+      "explainer": "Penetration test versus vulnerability scan",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21759",
+      "rank": 95,
+      "title": "A scan identifies possible weaknesses automatically; a penetration test ...",
+      "hook": "A scan identifies possible weaknesses automatically; a penetration test validates exploitability and impact within authorised scope.",
+      "explainer": "A scan identifies possible weaknesses automatically; a penetration test validates exploitability and impact within authorised scope.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21785",
+      "rank": 96,
+      "title": "• Hashing is not encryption.",
+      "hook": "• Hashing is not encryption.",
+      "explainer": "• Hashing is not encryption.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21788",
+      "rank": 97,
+      "title": "• Two passwords are not two factors.",
+      "hook": "• Two passwords are not two factors.",
+      "explainer": "• Two passwords are not two factors.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21793",
+      "rank": 98,
+      "title": "• Antivirus is not a complete security strategy.",
+      "hook": "• Antivirus is not a complete security strategy.",
+      "explainer": "• Antivirus is not a complete security strategy.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21794",
+      "rank": 99,
+      "title": "• A virus and a worm are not synonyms.",
+      "hook": "• A virus and a worm are not synonyms.",
+      "explainer": "• A virus and a worm are not synonyms.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21796",
+      "rank": 100,
+      "title": "• EternalBlue is an exploit, not ransomware.",
+      "hook": "• EternalBlue is an exploit, not ransomware.",
+      "explainer": "• EternalBlue is an exploit, not ransomware.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21878",
+      "rank": 101,
+      "title": "2016 — Mirai and the Dyn attack showed IoT botnet power; GDPR was adopted.",
+      "hook": "2016 — Mirai and the Dyn attack showed IoT botnet power; GDPR was adopted.",
+      "explainer": "2016 — Mirai and the Dyn attack showed IoT botnet power; GDPR was adopted.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21941",
+      "rank": 102,
+      "title": "DDoS — Distributed Denial of Service.",
+      "hook": "DDoS — Distributed Denial of Service.",
+      "explainer": "DDoS — Distributed Denial of Service.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-21968",
+      "rank": 103,
+      "title": "IDS — Intrusion Detection System.",
+      "hook": "IDS — Intrusion Detection System.",
+      "explainer": "IDS — Intrusion Detection System.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-22307",
+      "rank": 104,
+      "title": "46. What is a unique random value stored with each password hash?",
+      "hook": "46. What is a unique random value stored with each password hash?",
+      "explainer": "46. What is a unique random value stored with each password hash?",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-22316",
+      "rank": 105,
+      "title": "49. Name one password-hashing function designed to be slow or memory-hard.",
+      "hook": "49. Name one password-hashing function designed to be slow or memory-hard.",
+      "explainer": "49. Name one password-hashing function designed to be slow or memory-hard.",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-07-lib-22391",
+      "rank": 106,
+      "title": "74. What is a certificate signed by its own private key called?",
+      "hook": "74. What is a certificate signed by its own private key called?",
+      "explainer": "74. What is a certificate signed by its own private key called?",
+      "importance": 1,
+      "category": "Cybersecurity, Malware, Privacy and Global Outages",
+      "tags": [
+        "Cybersecurity, Malware, Privacy and Global Outages",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "information-security properties"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }

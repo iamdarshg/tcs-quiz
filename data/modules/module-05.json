@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-05-lib-13976",
+      "rank": 7,
+      "title": "This module follows the roadmap’s complete Module 5 scope: artificial in...",
+      "hook": "This module follows the roadmap’s complete Module 5 scope: artificial intelligence and machine learning; data, databases and analytics; cloud ...",
+      "explainer": "This module follows the roadmap’s complete Module 5 scope: artificial intelligence and machine learning; data, databases and analytics; cloud computing; automation and robotic process automation; physical robotics; biometrics; responsible technology; major inventions, people, companies, products and Indian initiatives.",
+      "importance": 3,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16707",
+      "rank": 8,
+      "title": "AI > ML > deep learning. Supervised uses labels; unsupervised finds stru...",
+      "hook": "AI > ML > deep learning. Supervised uses labels; unsupervised finds structure; reinforcement learning uses rewards. Classification predicts cl...",
+      "explainer": "AI > ML > deep learning. Supervised uses labels; unsupervised finds structure; reinforcement learning uses rewards. Classification predicts classes; regression predicts values. Overfitting means poor generalisation. Precision concerns predicted positives; recall concerns actual positives. Transformer = attention. GPT = Generative Pre-trained Transformer. RAG retrieves. Fine-tuning changes weights. Hallucination means unsupported generation.",
+      "importance": 2,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-10",
+      "rank": 9,
+      "title": "5. Artificial Intelligence, Data, Cloud, Automation, Robotics and Biomet...",
+      "hook": "5. Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "explainer": "5. Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "importance": 2,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-103",
+      "rank": 10,
+      "title": "5. Artificial Intelligence, Data, Cloud, Automation, Robotics and Biomet...",
+      "hook": "5. Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "explainer": "5. Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "importance": 2,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-13972",
+      "rank": 11,
+      "title": "MODULE 5 — ARTIFICIAL INTELLIGENCE, DATA, CLOUD, AUTOMATION, ROBOTICS AN...",
+      "hook": "MODULE 5 — ARTIFICIAL INTELLIGENCE, DATA, CLOUD, AUTOMATION, ROBOTICS AND BIOMETRICS",
+      "explainer": "MODULE 5 — ARTIFICIAL INTELLIGENCE, DATA, CLOUD, AUTOMATION, ROBOTICS AND BIOMETRICS",
+      "importance": 2,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-13996",
+      "rank": 12,
+      "title": "Large language model → transformer neural network → predicts tokens from...",
+      "hook": "Large language model → transformer neural network → predicts tokens from context → powers chatbots and assistants → may hallucinate → trap: fl...",
+      "explainer": "Large language model → transformer neural network → predicts tokens from context → powers chatbots and assistants → may hallucinate → trap: fluent output is not proof that the answer is true.",
+      "importance": 2,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14041",
+      "rank": 13,
+      "title": "A spreadsheet rule that flags every payment above a fixed amount is auto...",
+      "hook": "A spreadsheet rule that flags every payment above a fixed amount is automation or rule-based logic. A fraud model trained on past transactions...",
+      "explainer": "A spreadsheet rule that flags every payment above a fixed amount is automation or rule-based logic. A fraud model trained on past transactions is machine learning. A neural network trained on millions of images is deep learning.",
+      "importance": 2,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-119",
+      "rank": 14,
+      "title": "* AWS, Azure and Google Cloud",
+      "hook": "* AWS, Azure and Google Cloud",
+      "explainer": "* AWS, Azure and Google Cloud",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-122",
+      "rank": 15,
+      "title": "* Robotics and automation",
+      "hook": "* Robotics and automation",
+      "explainer": "* Robotics and automation",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-10675",
+      "rank": 16,
+      "title": "• AWS versus Microsoft Azure and Google Cloud.",
+      "hook": "• AWS versus Microsoft Azure and Google Cloud.",
+      "explainer": "• AWS versus Microsoft Azure and Google Cloud.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14034",
+      "rank": 17,
+      "title": "Deep learning is a subset of machine learning based on neural networks w...",
+      "hook": "Deep learning is a subset of machine learning based on neural networks with many processing layers.",
+      "explainer": "Deep learning is a subset of machine learning based on neural networks with many processing layers.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14038",
+      "rank": 18,
+      "title": "Artificial intelligence → machine learning → deep learning.",
+      "hook": "Artificial intelligence → machine learning → deep learning.",
+      "explainer": "Artificial intelligence → machine learning → deep learning.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14453",
+      "rank": 19,
+      "title": "A large language model, or LLM, is trained on large text or multimodal d...",
+      "hook": "A large language model, or LLM, is trained on large text or multimodal datasets to model token sequences.",
+      "explainer": "A large language model, or LLM, is trained on large text or multimodal datasets to model token sequences.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14994",
+      "rank": 20,
+      "title": "Function as a Service examples include AWS Lambda, Azure Functions and G...",
+      "hook": "Function as a Service examples include AWS Lambda, Azure Functions and Google Cloud Functions.",
+      "explainer": "Function as a Service examples include AWS Lambda, Azure Functions and Google Cloud Functions.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15474",
+      "rank": 21,
+      "title": "87. Computer vision in robotics",
+      "hook": "87. Computer vision in robotics",
+      "explainer": "87. Computer vision in robotics",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15543",
+      "rank": 22,
+      "title": "Isaac Asimov popularised the term “robotics” and formulated the Three La...",
+      "hook": "Isaac Asimov popularised the term “robotics” and formulated the Three Laws of Robotics in science fiction.",
+      "explainer": "Isaac Asimov popularised the term “robotics” and formulated the Three Laws of Robotics in science fiction.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16055",
+      "rank": 23,
+      "title": "• ISRO uses robotics and autonomous systems in space missions and research.",
+      "hook": "• ISRO uses robotics and autonomous systems in space missions and research.",
+      "explainer": "• ISRO uses robotics and autonomous systems in space missions and research.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16098",
+      "rank": 24,
+      "title": "124. Automation and robotics clues",
+      "hook": "124. Automation and robotics clues",
+      "explainer": "124. Automation and robotics clues",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16175",
+      "rank": 25,
+      "title": "47. AWS, Azure and Google Cloud are providers; cloud is the computing mo...",
+      "hook": "47. AWS, Azure and Google Cloud are providers; cloud is the computing model.",
+      "explainer": "47. AWS, Azure and Google Cloud are providers; cloud is the computing model.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16191",
+      "rank": 26,
+      "title": "7. Attention Is All You Need → Transformer → BERT and GPT → modern LLMs.",
+      "hook": "7. Attention Is All You Need → Transformer → BERT and GPT → modern LLMs.",
+      "explainer": "7. Attention Is All You Need → Transformer → BERT and GPT → modern LLMs.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16193",
+      "rank": 27,
+      "title": "9. Labelled data → supervised learning → classification and regression.",
+      "hook": "9. Labelled data → supervised learning → classification and regression.",
+      "explainer": "9. Labelled data → supervised learning → classification and regression.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16205",
+      "rank": 28,
+      "title": "21. Karel Čapek → word “robot”; Isaac Asimov → “robotics” and Three Laws.",
+      "hook": "21. Karel Čapek → word “robot”; Isaac Asimov → “robotics” and Three Laws.",
+      "explainer": "21. Karel Čapek → word “robot”; Isaac Asimov → “robotics” and Three Laws.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16661",
+      "rank": 29,
+      "title": "17. A, B, C — These are software-automation tasks; physical welding is i...",
+      "hook": "17. A, B, C — These are software-automation tasks; physical welding is industrial robotics.",
+      "explainer": "17. A, B, C — These are software-automation tasks; physical welding is industrial robotics.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-23109",
+      "rank": 30,
+      "title": "4. Big data, artificial intelligence, and machine learning in healthcare",
+      "hook": "4. Big data, artificial intelligence, and machine learning in healthcare",
+      "explainer": "4. Big data, artificial intelligence, and machine learning in healthcare",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-23964",
+      "rank": 31,
+      "title": "Deep learning is a subset of machine learning using multilayer neural ne...",
+      "hook": "Deep learning is a subset of machine learning using multilayer neural networks.",
+      "explainer": "Deep learning is a subset of machine learning using multilayer neural networks.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-24601",
+      "rank": 32,
+      "title": "• Classification = category; regression = continuous value; clustering =...",
+      "hook": "• Classification = category; regression = continuous value; clustering = unlabeled groups.",
+      "explainer": "• Classification = category; regression = continuous value; clustering = unlabeled groups.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-36755",
+      "rank": 33,
+      "title": "AI systems perform tasks such as recognition, prediction, planning and l...",
+      "hook": "AI systems perform tasks such as recognition, prediction, planning and language generation. Machine learning learns patterns from data; deep l...",
+      "explainer": "AI systems perform tasks such as recognition, prediction, planning and language generation. Machine learning learns patterns from data; deep learning uses multilayer neural networks.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-109",
+      "rank": 34,
+      "title": "* Machine learning and deep learning",
+      "hook": "* Machine learning and deep learning",
+      "explainer": "* Machine learning and deep learning",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-13105",
+      "rank": 35,
+      "title": "• Corporate path involved US Robotics, 3Com, spin-offs, Handspring reuni...",
+      "hook": "• Corporate path involved US Robotics, 3Com, spin-offs, Handspring reunion and eventual HP acquisition.",
+      "explainer": "• Corporate path involved US Robotics, 3Com, spin-offs, Handspring reunion and eventual HP acquisition.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-13720",
+      "rank": 36,
+      "title": "29. Which Amazon acquisition brought warehouse robotics?",
+      "hook": "29. Which Amazon acquisition brought warehouse robotics?",
+      "explainer": "29. Which Amazon acquisition brought warehouse robotics?",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14025",
+      "rank": 37,
+      "title": "2. AI, machine learning and deep learning",
+      "hook": "2. AI, machine learning and deep learning",
+      "explainer": "2. AI, machine learning and deep learning",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14150",
+      "rank": 38,
+      "title": "10. Unsupervised learning",
+      "hook": "10. Unsupervised learning",
+      "explainer": "10. Unsupervised learning",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14153",
+      "rank": 39,
+      "title": "Unsupervised learning works with data that has no target label and seeks...",
+      "hook": "Unsupervised learning works with data that has no target label and seeks structure.",
+      "explainer": "Unsupervised learning works with data that has no target label and seeks structure.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14169",
+      "rank": 40,
+      "title": "Semi-supervised learning combines a small labelled dataset with a larger...",
+      "hook": "Semi-supervised learning combines a small labelled dataset with a larger unlabelled dataset.",
+      "explainer": "Semi-supervised learning combines a small labelled dataset with a larger unlabelled dataset.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14193",
+      "rank": 41,
+      "title": "Reinforcement learning differs from supervised learning because the corr...",
+      "hook": "Reinforcement learning differs from supervised learning because the correct action is not always provided directly. Rewards may be delayed, an...",
+      "explainer": "Reinforcement learning differs from supervised learning because the correct action is not always provided directly. Rewards may be delayed, and exploration can be necessary.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14427",
+      "rank": 42,
+      "title": "BERT is an encoder-focused transformer family. GPT models are decoder-st...",
+      "hook": "BERT is an encoder-focused transformer family. GPT models are decoder-style autoregressive transformers. The original Transformer used both en...",
+      "explainer": "BERT is an encoder-focused transformer family. GPT models are decoder-style autoregressive transformers. The original Transformer used both encoder and decoder.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-14776",
+      "rank": 43,
+      "title": "Big data refers to datasets or data flows that challenge conventional pr...",
+      "hook": "Big data refers to datasets or data flows that challenge conventional processing methods.",
+      "explainer": "Big data refers to datasets or data flows that challenge conventional processing methods.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15194",
+      "rank": 44,
+      "title": "• Robotic process automation.",
+      "hook": "• Robotic process automation.",
+      "explainer": "• Robotic process automation.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15213",
+      "rank": 45,
+      "title": "73. Robotic process automation",
+      "hook": "73. Robotic process automation",
+      "explainer": "73. Robotic process automation",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15216",
+      "rank": 46,
+      "title": "Robotic process automation, or RPA, uses software bots to imitate repeti...",
+      "hook": "Robotic process automation, or RPA, uses software bots to imitate repetitive user actions across applications.",
+      "explainer": "Robotic process automation, or RPA, uses software bots to imitate repetitive user actions across applications.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15246",
+      "rank": 47,
+      "title": "Intelligent automation combines workflow or RPA with AI technologies suc...",
+      "hook": "Intelligent automation combines workflow or RPA with AI technologies such as document recognition, language models, prediction and computer vi...",
+      "explainer": "Intelligent automation combines workflow or RPA with AI technologies such as document recognition, language models, prediction and computer vision.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15334",
+      "rank": 48,
+      "title": "PART VII — ROBOTICS",
+      "hook": "PART VII — ROBOTICS",
+      "explainer": "PART VII — ROBOTICS",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15422",
+      "rank": 49,
+      "title": "84. Mobile robots and autonomous vehicles",
+      "hook": "84. Mobile robots and autonomous vehicles",
+      "explainer": "84. Mobile robots and autonomous vehicles",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15428",
+      "rank": 50,
+      "title": "An autonomous mobile robot, or AMR, builds or uses a map and plans route...",
+      "hook": "An autonomous mobile robot, or AMR, builds or uses a map and plans routes dynamically around obstacles.",
+      "explainer": "An autonomous mobile robot, or AMR, builds or uses a map and plans routes dynamically around obstacles.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15440",
+      "rank": 51,
+      "title": "A common robotics loop:",
+      "hook": "A common robotics loop:",
+      "explainer": "A common robotics loop:",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15519",
+      "rank": 52,
+      "title": "Service robots perform useful tasks outside traditional industrial autom...",
+      "hook": "Service robots perform useful tasks outside traditional industrial automation. Examples include hospital delivery, warehouse transport, cleani...",
+      "explainer": "Service robots perform useful tasks outside traditional industrial automation. Examples include hospital delivery, warehouse transport, cleaning, inspection and hospitality.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15522",
+      "rank": 53,
+      "title": "Boston Dynamics is known for robots including Spot and Atlas. SoftBank R...",
+      "hook": "Boston Dynamics is known for robots including Spot and Atlas. SoftBank Robotics is associated with Pepper and NAO. Hanson Robotics created Sop...",
+      "explainer": "Boston Dynamics is known for robots including Spot and Atlas. SoftBank Robotics is associated with Pepper and NAO. Hanson Robotics created Sophia. These systems differ greatly in autonomy and purpose.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15537",
+      "rank": 54,
+      "title": "91. Robotics landmarks",
+      "hook": "91. Robotics landmarks",
+      "explainer": "91. Robotics landmarks",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15549",
+      "rank": 55,
+      "title": "Joseph Engelberger is often called the father of industrial robotics.",
+      "hook": "Joseph Engelberger is often called the father of industrial robotics.",
+      "explainer": "Joseph Engelberger is often called the father of industrial robotics.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15569",
+      "rank": 56,
+      "title": "93. Swarm robotics",
+      "hook": "93. Swarm robotics",
+      "explainer": "93. Swarm robotics",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15572",
+      "rank": 57,
+      "title": "Swarm robotics coordinates many relatively simple robots using local rul...",
+      "hook": "Swarm robotics coordinates many relatively simple robots using local rules and distributed interaction.",
+      "explainer": "Swarm robotics coordinates many relatively simple robots using local rules and distributed interaction.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15593",
+      "rank": 58,
+      "title": "94. Robotics safety and ethics",
+      "hook": "94. Robotics safety and ethics",
+      "explainer": "94. Robotics safety and ethics",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15732",
+      "rank": 59,
+      "title": "Sir Francis Galton studied fingerprint individuality and classification....",
+      "hook": "Sir Francis Galton studied fingerprint individuality and classification. Edward Henry developed the Henry Classification System used in polici...",
+      "explainer": "Sir Francis Galton studied fingerprint individuality and classification. Edward Henry developed the Henry Classification System used in policing. Juan Vucetich developed an early practical fingerprint classification system and was involved in a landmark criminal identification in Argentina.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15825",
+      "rank": 60,
+      "title": "Multimodal biometrics combines more than one biometric source, such as f...",
+      "hook": "Multimodal biometrics combines more than one biometric source, such as face plus voice or fingerprint plus iris.",
+      "explainer": "Multimodal biometrics combines more than one biometric source, such as face plus voice or fingerprint plus iris.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15847",
+      "rank": 61,
+      "title": "Biometrics are difficult to replace after compromise. A person can reset...",
+      "hook": "Biometrics are difficult to replace after compromise. A person can reset a password but cannot easily reset a face or fingerprint.",
+      "explainer": "Biometrics are difficult to replace after compromise. A person can reset a password but cannot easily reset a face or fingerprint.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15886",
+      "rank": 62,
+      "title": "Modern phones commonly use face or fingerprint verification. Secure desi...",
+      "hook": "Modern phones commonly use face or fingerprint verification. Secure designs may store protected templates in isolated hardware rather than sen...",
+      "explainer": "Modern phones commonly use face or fingerprint verification. Secure designs may store protected templates in isolated hardware rather than sending raw biometrics to a remote server for every unlock.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15938",
+      "rank": 63,
+      "title": "Google is also associated with the Transformer paper, TensorFlow, TPUs a...",
+      "hook": "Google is also associated with the Transformer paper, TensorFlow, TPUs and the Gemini model family.",
+      "explainer": "Google is also associated with the Transformer paper, TensorFlow, TPUs and the Gemini model family.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15947",
+      "rank": 64,
+      "title": "It is associated with GPT language models, ChatGPT, DALL·E image generat...",
+      "hook": "It is associated with GPT language models, ChatGPT, DALL·E image generation and reinforcement learning from human feedback in deployed convers...",
+      "explainer": "It is associated with GPT language models, ChatGPT, DALL·E image generation and reinforcement learning from human feedback in deployed conversational systems.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15950",
+      "rank": 65,
+      "title": "GPT stands for Generative Pre-trained Transformer.",
+      "hook": "GPT stands for Generative Pre-trained Transformer.",
+      "explainer": "GPT stands for Generative Pre-trained Transformer.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15965",
+      "rank": 66,
+      "title": "Microsoft’s cloud platform is Azure. Azure AI services and Azure Machine...",
+      "hook": "Microsoft’s cloud platform is Azure. Azure AI services and Azure Machine Learning support AI development and deployment.",
+      "explainer": "Microsoft’s cloud platform is Azure. Azure AI services and Azure Machine Learning support AI development and deployment.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-15986",
+      "rank": 67,
+      "title": "Amazon Robotics grew partly from Amazon’s acquisition of Kiva Systems in...",
+      "hook": "Amazon Robotics grew partly from Amazon’s acquisition of Kiva Systems in 2012.",
+      "explainer": "Amazon Robotics grew partly from Amazon’s acquisition of Kiva Systems in 2012.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16051",
+      "rank": 68,
+      "title": "121. Indian robotics and digital initiatives",
+      "hook": "121. Indian robotics and digital initiatives",
+      "explainer": "121. Indian robotics and digital initiatives",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16056",
+      "rank": 69,
+      "title": "• DRDO works on unmanned systems, defence robotics and autonomy.",
+      "hook": "• DRDO works on unmanned systems, defence robotics and autonomy.",
+      "explainer": "• DRDO works on unmanned systems, defence robotics and autonomy.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16105",
+      "rank": 70,
+      "title": "• Large industrial arm welding a car: industrial robotics.",
+      "hook": "• Large industrial arm welding a car: industrial robotics.",
+      "explainer": "• Large industrial arm welding a car: industrial robotics.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16107",
+      "rank": 71,
+      "title": "• Flat warehouse robot carrying shelves: Kiva/Amazon Robotics style.",
+      "hook": "• Flat warehouse robot carrying shelves: Kiva/Amazon Robotics style.",
+      "explainer": "• Flat warehouse robot carrying shelves: Kiva/Amazon Robotics style.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16122",
+      "rank": 72,
+      "title": "• Eye plus fingerprint plus face icons: multimodal biometrics.",
+      "hook": "• Eye plus fingerprint plus face icons: multimodal biometrics.",
+      "explainer": "• Eye plus fingerprint plus face icons: multimodal biometrics.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16130",
+      "rank": 73,
+      "title": "2. Deep learning is a subset of machine learning.",
+      "hook": "2. Deep learning is a subset of machine learning.",
+      "explainer": "2. Deep learning is a subset of machine learning.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16131",
+      "rank": 74,
+      "title": "3. Classification predicts categories; regression predicts continuous va...",
+      "hook": "3. Classification predicts categories; regression predicts continuous values.",
+      "explainer": "3. Classification predicts categories; regression predicts continuous values.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16137",
+      "rank": 75,
+      "title": "9. A transformer is not the same thing as a chatbot.",
+      "hook": "9. A transformer is not the same thing as a chatbot.",
+      "explainer": "9. A transformer is not the same thing as a chatbot.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16161",
+      "rank": 76,
+      "title": "33. Robot-assisted surgery is not autonomous surgery.",
+      "hook": "33. Robot-assisted surgery is not autonomous surgery.",
+      "explainer": "33. Robot-assisted surgery is not autonomous surgery.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16194",
+      "rank": 77,
+      "title": "10. Unlabelled data → clustering and representation learning → unsupervi...",
+      "hook": "10. Unlabelled data → clustering and representation learning → unsupervised or self-supervised learning.",
+      "explainer": "10. Unlabelled data → clustering and representation learning → unsupervised or self-supervised learning.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16204",
+      "rank": 78,
+      "title": "20. George Devol plus Joseph Engelberger → Unimate → General Motors 1961...",
+      "hook": "20. George Devol plus Joseph Engelberger → Unimate → General Motors 1961 → industrial robotics.",
+      "explainer": "20. George Devol plus Joseph Engelberger → Unimate → General Motors 1961 → industrial robotics.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16442",
+      "rank": 79,
+      "title": "D. Every transformer is a chatbot.",
+      "hook": "D. Every transformer is a chatbot.",
+      "explainer": "D. Every transformer is a chatbot.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16543",
+      "rank": 80,
+      "title": "21. Which are parts of the robotics autonomy loop?",
+      "hook": "21. Which are parts of the robotics autonomy loop?",
+      "explainer": "21. Which are parts of the robotics autonomy loop?",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16646",
+      "rank": 81,
+      "title": "2. A, B, D — Classification, regression and labelled spam detection are ...",
+      "hook": "2. A, B, D — Classification, regression and labelled spam detection are supervised; K-means is unsupervised.",
+      "explainer": "2. A, B, D — Classification, regression and labelled spam detection are supervised; K-means is unsupervised.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16650",
+      "rank": 82,
+      "title": "6. A, B, C — These describe transformers; not every transformer applicat...",
+      "hook": "6. A, B, C — These describe transformers; not every transformer application is a chatbot.",
+      "explainer": "6. A, B, C — These describe transformers; not every transformer application is a chatbot.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-16722",
+      "rank": 83,
+      "title": "Robotics:",
+      "hook": "Robotics:",
+      "explainer": "Robotics:",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-23902",
+      "rank": 84,
+      "title": "PART 4 — BIG DATA, AI, AND MACHINE LEARNING IN HEALTHCARE",
+      "hook": "PART 4 — BIG DATA, AI, AND MACHINE LEARNING IN HEALTHCARE",
+      "explainer": "PART 4 — BIG DATA, AI, AND MACHINE LEARNING IN HEALTHCARE",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-23907",
+      "rank": 85,
+      "title": "Big data refers to datasets whose scale, speed, diversity, or complexity...",
+      "hook": "Big data refers to datasets whose scale, speed, diversity, or complexity exceeds what traditional approaches can handle conveniently.",
+      "explainer": "Big data refers to datasets whose scale, speed, diversity, or complexity exceeds what traditional approaches can handle conveniently.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-23957",
+      "rank": 86,
+      "title": "4.5 Artificial intelligence and machine learning",
+      "hook": "4.5 Artificial intelligence and machine learning",
+      "explainer": "4.5 Artificial intelligence and machine learning",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-23969",
+      "rank": 87,
+      "title": "• Unsupervised learning: finds structure without target labels.",
+      "hook": "• Unsupervised learning: finds structure without target labels.",
+      "explainer": "• Unsupervised learning: finds structure without target labels.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-24179",
+      "rank": 88,
+      "title": "• AI is broader than machine learning; deep learning is a subset of mach...",
+      "hook": "• AI is broader than machine learning; deep learning is a subset of machine learning.",
+      "explainer": "• AI is broader than machine learning; deep learning is a subset of machine learning.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-24371",
+      "rank": 89,
+      "title": "SECTION D — BIG DATA, AI, AND MACHINE LEARNING",
+      "hook": "SECTION D — BIG DATA, AI, AND MACHINE LEARNING",
+      "explainer": "SECTION D — BIG DATA, AI, AND MACHINE LEARNING",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-29697",
+      "rank": 90,
+      "title": "BhashaDaan datasets → BHASHINI → speech recognition, translation, OCR an...",
+      "hook": "BhashaDaan datasets → BHASHINI → speech recognition, translation, OCR and text-to-speech.",
+      "explainer": "BhashaDaan datasets → BHASHINI → speech recognition, translation, OCR and text-to-speech.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-32735",
+      "rank": 91,
+      "title": "“MasterCraft” points to engineering automation, not banking, education o...",
+      "hook": "“MasterCraft” points to engineering automation, not banking, education or blockchain.",
+      "explainer": "“MasterCraft” points to engineering automation, not banking, education or blockchain.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-32758",
+      "rank": 92,
+      "title": "ignio is not a chatbot brand. Its central identity is cognitive and auto...",
+      "hook": "ignio is not a chatbot brand. Its central identity is cognitive and autonomous enterprise operations.",
+      "explainer": "ignio is not a chatbot brand. Its central identity is cognitive and autonomous enterprise operations.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-32947",
+      "rank": 93,
+      "title": "• Robotics.",
+      "hook": "• Robotics.",
+      "explainer": "• Robotics.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-36285",
+      "rank": 94,
+      "title": "• Laparoscopic surgery uses small incisions and cameras; robotic systems...",
+      "hook": "• Laparoscopic surgery uses small incisions and cameras; robotic systems extend instrument control but do not operate autonomously in the ordi...",
+      "explainer": "• Laparoscopic surgery uses small incisions and cameras; robotic systems extend instrument control but do not operate autonomously in the ordinary sense.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-108",
+      "rank": 95,
+      "title": "* Expert systems",
+      "hook": "* Expert systems",
+      "explainer": "* Expert systems",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-112",
+      "rank": 96,
+      "title": "* Transformers",
+      "hook": "* Transformers",
+      "explainer": "* Transformers",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-121",
+      "rank": 97,
+      "title": "* Big data",
+      "hook": "* Big data",
+      "explainer": "* Big data",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-123",
+      "rank": 98,
+      "title": "* Facial, fingerprint and iris recognition",
+      "hook": "* Facial, fingerprint and iris recognition",
+      "explainer": "* Facial, fingerprint and iris recognition",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-152",
+      "rank": 99,
+      "title": "* RSA and Diffie–Hellman",
+      "hook": "* RSA and Diffie–Hellman",
+      "explainer": "* RSA and Diffie–Hellman",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-166",
+      "rank": 100,
+      "title": "* Privacy laws and surveillance debates",
+      "hook": "* Privacy laws and surveillance debates",
+      "explainer": "* Privacy laws and surveillance debates",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-247",
+      "rank": 101,
+      "title": "* MRI and robotic surgery",
+      "hook": "* MRI and robotic surgery",
+      "explainer": "* MRI and robotic surgery",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-250",
+      "rank": 102,
+      "title": "* Electric and autonomous vehicles",
+      "hook": "* Electric and autonomous vehicles",
+      "explainer": "* Electric and autonomous vehicles",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-350",
+      "rank": 103,
+      "title": "* Drones",
+      "hook": "* Drones",
+      "explainer": "* Drones",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-469",
+      "rank": 104,
+      "title": "* Movement of a robot.",
+      "hook": "* Movement of a robot.",
+      "explainer": "* Movement of a robot.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-588",
+      "rank": 105,
+      "title": "* It stores a number’s state physically but does not execute instruction...",
+      "hook": "* It stores a number’s state physically but does not execute instructions autonomously.",
+      "explainer": "* It stores a number’s state physically but does not execute instructions autonomously.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-05-lib-806",
+      "rank": 106,
+      "title": "* Automation.",
+      "hook": "* Automation.",
+      "explainer": "* Automation.",
+      "importance": 1,
+      "category": "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+      "tags": [
+        "Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "cloud support for AI models"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }

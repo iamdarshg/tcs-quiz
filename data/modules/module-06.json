@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-06-lib-16749",
+      "rank": 7,
+      "title": "This module follows the roadmap’s complete Module 6 scope: transistors a...",
+      "hook": "This module follows the roadmap’s complete Module 6 scope: transistors and integrated circuits; semiconductor fabrication; foundries and fable...",
+      "explainer": "This module follows the roadmap’s complete Module 6 scope: transistors and integrated circuits; semiconductor fabrication; foundries and fabless firms; TSMC, Intel, Samsung and ASML; Nvidia, AMD, Qualcomm and Arm; CPUs, GPUs, TPUs and NPUs; x86, Arm and RISC-V; memory and storage; packaging and testing; Moore’s Law and related laws; chip supply chains; qubits, superposition, entanglement, quantum algorithms and post-quantum cryptography.",
+      "importance": 5,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18447",
+      "rank": 8,
+      "title": "Study pipelines, hazards, branch prediction, superscalar and out-of-orde...",
+      "hook": "Study pipelines, hazards, branch prediction, superscalar and out-of-order execution, caches, virtual memory, multicore, SMT, CPUs, GPUs, TPUs,...",
+      "explainer": "Study pipelines, hazards, branch prediction, superscalar and out-of-order execution, caches, virtual memory, multicore, SMT, CPUs, GPUs, TPUs, NPUs, DSPs, FPGAs, ASICs, SoCs and chiplets. Answer 30 questions.",
+      "importance": 3,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17202",
+      "rank": 9,
+      "title": "A microarchitecture is a particular internal implementation of an ISA. T...",
+      "hook": "A microarchitecture is a particular internal implementation of an ISA. Two processors can execute the same x86 or Arm program while using diff...",
+      "explainer": "A microarchitecture is a particular internal implementation of an ISA. Two processors can execute the same x86 or Arm program while using different pipelines, caches and execution units.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18563",
+      "rank": 10,
+      "title": "If you can reconstruct the semiconductor chain from silicon purification...",
+      "hook": "If you can reconstruct the semiconductor chain from silicon purification to packaged system, compare x86, Arm and RISC-V without slogans, dist...",
+      "explainer": "If you can reconstruct the semiconductor chain from silicon purification to packaged system, compare x86, Arm and RISC-V without slogans, distinguish every major memory type, and explain how quantum algorithms gain speed without claiming magical parallel readout, Module 6 has become a connected system rather than a list of facts.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17062",
+      "rank": 11,
+      "title": "OSAT means outsourced semiconductor assembly and test. Companies such as...",
+      "hook": "OSAT means outsourced semiconductor assembly and test. Companies such as ASE and Amkor package and test chips after wafer fabrication.",
+      "explainer": "OSAT means outsourced semiconductor assembly and test. Companies such as ASE and Amkor package and test chips after wafer fabrication.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17205",
+      "rank": 12,
+      "title": "Quiz trap: x86, Arm and RISC-V are instruction-set families. Zen, Core, ...",
+      "hook": "Quiz trap: x86, Arm and RISC-V are instruction-set families. Zen, Core, Cortex, Neoverse and specific Apple CPU designs are microarchitectures...",
+      "explainer": "Quiz trap: x86, Arm and RISC-V are instruction-set families. Zen, Core, Cortex, Neoverse and specific Apple CPU designs are microarchitectures or core families.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17551",
+      "rank": 13,
+      "title": "Static random-access memory stores a bit using a bistable circuit, often...",
+      "hook": "Static random-access memory stores a bit using a bistable circuit, often a six-transistor cell. It does not require periodic refresh while pow...",
+      "explainer": "Static random-access memory stores a bit using a bistable circuit, often a six-transistor cell. It does not require periodic refresh while powered, but occupies more area than DRAM. CPU caches commonly use SRAM because latency matters more than maximum density.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17574",
+      "rank": 14,
+      "title": "HBM supply links memory makers, foundries, packaging capacity and accele...",
+      "hook": "HBM supply links memory makers, foundries, packaging capacity and accelerator designers. This is why an AI-chip shortage may actually involve ...",
+      "explainer": "HBM supply links memory makers, foundries, packaging capacity and accelerator designers. This is why an AI-chip shortage may actually involve packaging or memory rather than only logic-wafer fabrication.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17768",
+      "rank": 15,
+      "title": "Rock’s Law, associated with Arthur Rock, observes that semiconductor-fab...",
+      "hook": "Rock’s Law, associated with Arthur Rock, observes that semiconductor-fabrication plant costs rise dramatically over time. It helps explain ind...",
+      "explainer": "Rock’s Law, associated with Arthur Rock, observes that semiconductor-fabrication plant costs rise dramatically over time. It helps explain industry consolidation and the difficulty of competing at the leading edge.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17780",
+      "rank": 16,
+      "title": "A finished processor may depend on architecture IP from one country, des...",
+      "hook": "A finished processor may depend on architecture IP from one country, design teams distributed worldwide, EDA software from a few firms, EUV eq...",
+      "explainer": "A finished processor may depend on architecture IP from one country, design teams distributed worldwide, EDA software from a few firms, EUV equipment assembled in the Netherlands, optics from Germany, chemicals and wafers from Japan and elsewhere, fabrication in Taiwan, South Korea or the United States, and packaging through an Asian manufacturing network.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18443",
+      "rank": 17,
+      "title": "Study ISA versus microarchitecture, x86 history, AMD64, Arm licensing, R...",
+      "hook": "Study ISA versus microarchitecture, x86 history, AMD64, Arm licensing, RISC-V, RISC and CISC. Compare the three ISA families in one table and ...",
+      "explainer": "Study ISA versus microarchitecture, x86 history, AMD64, Arm licensing, RISC-V, RISC and CISC. Compare the three ISA families in one table and answer 30 questions.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-1665",
+      "rank": 18,
+      "title": "NIST defines a transistor as a semiconductor switch and an integrated ci...",
+      "hook": "NIST defines a transistor as a semiconductor switch and an integrated circuit as many transistors and other components combined into a circuit...",
+      "explainer": "NIST defines a transistor as a semiconductor switch and an integrated circuit as many transistors and other components combined into a circuit on a chip.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10805",
+      "rank": 19,
+      "title": "Noyce and Moore left Fairchild Semiconductor to establish Intel. The com...",
+      "hook": "Noyce and Moore left Fairchild Semiconductor to establish Intel. The company’s first major business was semiconductor memory. Its 1103 DRAM be...",
+      "explainer": "Noyce and Moore left Fairchild Semiconductor to establish Intel. The company’s first major business was semiconductor memory. Its 1103 DRAM became commercially important before microprocessors defined Intel’s public identity.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10954",
+      "rank": 20,
+      "title": "Nvidia proposed acquiring Arm from SoftBank, but regulatory opposition c...",
+      "hook": "Nvidia proposed acquiring Arm from SoftBank, but regulatory opposition caused the deal to collapse. The story is useful for questions about se...",
+      "explainer": "Nvidia proposed acquiring Arm from SoftBank, but regulatory opposition caused the deal to collapse. The story is useful for questions about semiconductor neutrality and architecture licensing.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16912",
+      "rank": 21,
+      "title": "Quiz trap: Intel 4004 was not the first CPU design, first electronic com...",
+      "hook": "Quiz trap: Intel 4004 was not the first CPU design, first electronic computer or first programmable machine. Its claim is the first commercial...",
+      "explainer": "Quiz trap: Intel 4004 was not the first CPU design, first electronic computer or first programmable machine. Its claim is the first commercially available single-chip microprocessor.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17070",
+      "rank": 22,
+      "title": "• Architecture and intellectual property: Arm, the RISC-V ecosystem, int...",
+      "hook": "• Architecture and intellectual property: Arm, the RISC-V ecosystem, interface and memory-IP suppliers.",
+      "explainer": "• Architecture and intellectual property: Arm, the RISC-V ecosystem, interface and memory-IP suppliers.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17085",
+      "rank": 23,
+      "title": "Morris Chang founded Taiwan Semiconductor Manufacturing Company with sup...",
+      "hook": "Morris Chang founded Taiwan Semiconductor Manufacturing Company with support from Taiwan’s government and industrial institutions. TSMC’s key ...",
+      "explainer": "Morris Chang founded Taiwan Semiconductor Manufacturing Company with support from Taiwan’s government and industrial institutions. TSMC’s key strategic idea was neutrality: manufacture designs for customers without competing against them through a broad branded-chip business.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17333",
+      "rank": 24,
+      "title": "CISC means complex instruction set computer, but modern x86 processors o...",
+      "hook": "CISC means complex instruction set computer, but modern x86 processors often translate complex instructions into simpler internal micro-operat...",
+      "explainer": "CISC means complex instruction set computer, but modern x86 processors often translate complex instructions into simpler internal micro-operations. Therefore, “CISC versus RISC” is not a complete description of modern implementation.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17602",
+      "rank": 25,
+      "title": "NVMe is a storage protocol designed for non-volatile memory over interfa...",
+      "hook": "NVMe is a storage protocol designed for non-volatile memory over interfaces such as PCI Express. SATA is an older interface/protocol family or...",
+      "explainer": "NVMe is a storage protocol designed for non-volatile memory over interfaces such as PCI Express. SATA is an older interface/protocol family originally designed around disks. An NVMe SSD is not simply a faster version of the same protocol as SATA.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18431",
+      "rank": 26,
+      "title": "Study Bell Labs, Kilby, Noyce, Hoerni, Shockley Semiconductor, the trait...",
+      "hook": "Study Bell Labs, Kilby, Noyce, Hoerni, Shockley Semiconductor, the traitorous eight, Fairchild and early microprocessors. Build the complete f...",
+      "explainer": "Study Bell Labs, Kilby, Noyce, Hoerni, Shockley Semiconductor, the traitorous eight, Fairchild and early microprocessors. Build the complete family tree from the transistor to Intel and AMD. Finish with 25 questions.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-23251",
+      "rank": 27,
+      "title": "CPU registers → cache → RAM → solid-state or magnetic storage → archival...",
+      "hook": "CPU registers → cache → RAM → solid-state or magnetic storage → archival storage",
+      "explainer": "CPU registers → cache → RAM → solid-state or magnetic storage → archival storage",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-23274",
+      "rank": 28,
+      "title": "A page fault occurs when a referenced page is not currently in RAM. The ...",
+      "hook": "A page fault occurs when a referenced page is not currently in RAM. The OS may load it from storage. A page fault is not necessarily an error;...",
+      "explainer": "A page fault occurs when a referenced page is not currently in RAM. The OS may load it from storage. A page fault is not necessarily an error; it is part of normal virtual-memory operation. Excessive page faults can cause thrashing, in which the system spends more time moving pages than doing useful work.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27405",
+      "rank": 29,
+      "title": "These facilities perform back-end semiconductor operations after wafer f...",
+      "hook": "These facilities perform back-end semiconductor operations after wafer fabrication.",
+      "explainer": "These facilities perform back-end semiconductor operations after wafer fabrication.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-36547",
+      "rank": 30,
+      "title": "The integrated circuit emerged independently through Jack Kilby at Texas...",
+      "hook": "The integrated circuit emerged independently through Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. Photolithogr...",
+      "explainer": "The integrated circuit emerged independently through Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor. Photolithography, silicon processing, cleanrooms, design tools, packaging and global supply chains made chips scalable.",
+      "importance": 2,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-11",
+      "rank": 31,
+      "title": "6. Hardware, Semiconductors, Architectures and Quantum Computing",
+      "hook": "6. Hardware, Semiconductors, Architectures and Quantum Computing",
+      "explainer": "6. Hardware, Semiconductors, Architectures and Quantum Computing",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-129",
+      "rank": 32,
+      "title": "6. Hardware, Semiconductors, Architectures and Quantum Computing",
+      "hook": "6. Hardware, Semiconductors, Architectures and Quantum Computing",
+      "explainer": "6. Hardware, Semiconductors, Architectures and Quantum Computing",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-132",
+      "rank": 33,
+      "title": "* Semiconductor fabrication",
+      "hook": "* Semiconductor fabrication",
+      "explainer": "* Semiconductor fabrication",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-138",
+      "rank": 34,
+      "title": "* x86, ARM and RISC-V",
+      "hook": "* x86, ARM and RISC-V",
+      "explainer": "* x86, ARM and RISC-V",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-143",
+      "rank": 35,
+      "title": "* Qubits, superposition and entanglement",
+      "hook": "* Qubits, superposition and entanglement",
+      "explainer": "* Qubits, superposition and entanglement",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-524",
+      "rank": 36,
+      "title": "First program run from electronic memory",
+      "hook": "First program run from electronic memory",
+      "explainer": "First program run from electronic memory",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-1552",
+      "rank": 37,
+      "title": "This makes it the first machine to run a stored program from electronic ...",
+      "hook": "This makes it the first machine to run a stored program from electronic memory.",
+      "explainer": "This makes it the first machine to run a stored program from electronic memory.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-1684",
+      "rank": 38,
+      "title": "His design showed that multiple circuit elements could be fabricated fro...",
+      "hook": "His design showed that multiple circuit elements could be fabricated from semiconductor material as a single unit.",
+      "explainer": "His design showed that multiple circuit elements could be fabricated from semiconductor material as a single unit.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-1882",
+      "rank": 39,
+      "title": "Intel’s 1103 helped semiconductor DRAM replace magnetic core memory.",
+      "hook": "Intel’s 1103 helped semiconductor DRAM replace magnetic core memory.",
+      "explainer": "Intel’s 1103 helped semiconductor DRAM replace magnetic core memory.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-2094",
+      "rank": 40,
+      "title": "A microprocessor places the central processing unit’s major logic on one...",
+      "hook": "A microprocessor places the central processing unit’s major logic on one or a small number of integrated circuits, eventually one chip.",
+      "explainer": "A microprocessor places the central processing unit’s major logic on one or a small number of integrated circuits, eventually one chip.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-2698",
+      "rank": 41,
+      "title": "2. CPU fetches instruction from memory.",
+      "hook": "2. CPU fetches instruction from memory.",
+      "explainer": "2. CPU fetches instruction from memory.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-3805",
+      "rank": 42,
+      "title": "69. RAM is fast working memory, generally volatile; storage is normally ...",
+      "hook": "69. RAM is fast working memory, generally volatile; storage is normally larger and persistent.",
+      "explainer": "69. RAM is fast working memory, generally volatile; storage is normally larger and persistent.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10129",
+      "rank": 43,
+      "title": "• Dynamic random-access memory, or DRAM, associated with Robert Dennard.",
+      "hook": "• Dynamic random-access memory, or DRAM, associated with Robert Dennard.",
+      "explainer": "• Dynamic random-access memory, or DRAM, associated with Robert Dennard.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10859",
+      "rank": 44,
+      "title": "• Core businesses: CPUs, GPUs, adaptive computing and data-centre chips.",
+      "hook": "• Core businesses: CPUs, GPUs, adaptive computing and data-centre chips.",
+      "explainer": "• Core businesses: CPUs, GPUs, adaptive computing and data-centre chips.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10863",
+      "rank": 45,
+      "title": "Jerry Sanders famously said real men have fabs, reflecting the period’s ...",
+      "hook": "Jerry Sanders famously said real men have fabs, reflecting the period’s belief that serious semiconductor companies owned manufacturing plants...",
+      "explainer": "Jerry Sanders famously said real men have fabs, reflecting the period’s belief that serious semiconductor companies owned manufacturing plants. AMD initially produced logic chips and became a second-source supplier, manufacturing compatible processors so customers were not dependent on one supplier.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10962",
+      "rank": 46,
+      "title": "• Nvidia does not fabricate most of its leading chips itself; it relies ...",
+      "hook": "• Nvidia does not fabricate most of its leading chips itself; it relies on foundries such as TSMC.",
+      "explainer": "• Nvidia does not fabricate most of its leading chips itself; it relies on foundries such as TSMC.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10963",
+      "rank": 47,
+      "title": "• A GPU is not simply a faster CPU. Its architecture is optimised for hi...",
+      "hook": "• A GPU is not simply a faster CPU. Its architecture is optimised for highly parallel workloads.",
+      "explainer": "• A GPU is not simply a faster CPU. Its architecture is optimised for highly parallel workloads.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-10978",
+      "rank": 48,
+      "title": "Acorn needed a processor for new computers and developed a reduced-instr...",
+      "hook": "Acorn needed a processor for new computers and developed a reduced-instruction-set architecture. The first ARM chips were notable for efficien...",
+      "explainer": "Acorn needed a processor for new computers and developed a reduced-instruction-set architecture. The first ARM chips were notable for efficiency and simplicity.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-11004",
+      "rank": 49,
+      "title": "• Arm is an architecture and intellectual-property company, not mainly a...",
+      "hook": "• Arm is an architecture and intellectual-property company, not mainly a chip foundry.",
+      "explainer": "• Arm is an architecture and intellectual-property company, not mainly a chip foundry.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-11066",
+      "rank": 50,
+      "title": "Traditional semiconductor companies both designed and manufactured chips...",
+      "hook": "Traditional semiconductor companies both designed and manufactured chips. TSMC focused on manufacturing chips designed by customers without co...",
+      "explainer": "Traditional semiconductor companies both designed and manufactured chips. TSMC focused on manufacturing chips designed by customers without competing with them in branded end products.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16015",
+      "rank": 51,
+      "title": "Nvidia designs chips and systems but generally relies on external foundr...",
+      "hook": "Nvidia designs chips and systems but generally relies on external foundries for leading-edge fabrication.",
+      "explainer": "Nvidia designs chips and systems but generally relies on external foundries for leading-edge fabrication.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16393",
+      "rank": 52,
+      "title": "A. Semiconductor fabrication",
+      "hook": "A. Semiconductor fabrication",
+      "explainer": "A. Semiconductor fabrication",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16745",
+      "rank": 53,
+      "title": "MODULE 6 — HARDWARE, SEMICONDUCTORS, ARCHITECTURES AND QUANTUM COMPUTING",
+      "hook": "MODULE 6 — HARDWARE, SEMICONDUCTORS, ARCHITECTURES AND QUANTUM COMPUTING",
+      "explainer": "MODULE 6 — HARDWARE, SEMICONDUCTORS, ARCHITECTURES AND QUANTUM COMPUTING",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16869",
+      "rank": 54,
+      "title": "An integrated circuit fabricates multiple electronic components and thei...",
+      "hook": "An integrated circuit fabricates multiple electronic components and their connections on one piece of semiconductor material.",
+      "explainer": "An integrated circuit fabricates multiple electronic components and their connections on one piece of semiconductor material.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16897",
+      "rank": 55,
+      "title": "A microprocessor places the central processing unit’s core functions on ...",
+      "hook": "A microprocessor places the central processing unit’s core functions on one integrated circuit or a small chip set.",
+      "explainer": "A microprocessor places the central processing unit’s core functions on one integrated circuit or a small chip set.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16938",
+      "rank": 56,
+      "title": "A wafer is the circular slice on which many dies are fabricated. A die i...",
+      "hook": "A wafer is the circular slice on which many dies are fabricated. A die is one rectangular chip before packaging. A packaged chip combines one ...",
+      "explainer": "A wafer is the circular slice on which many dies are fabricated. A die is one rectangular chip before packaging. A packaged chip combines one or more dies with mechanical protection and electrical connections.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16944",
+      "rank": 57,
+      "title": "Modern chip fabrication is not a single printing operation. Hundreds or ...",
+      "hook": "Modern chip fabrication is not a single printing operation. Hundreds or thousands of process steps build structures layer by layer.",
+      "explainer": "Modern chip fabrication is not a single printing operation. Hundreds or thousands of process steps build structures layer by layer.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-16968",
+      "rank": 58,
+      "title": "A fab means semiconductor fabrication plant. A modern leading-edge fab c...",
+      "hook": "A fab means semiconductor fabrication plant. A modern leading-edge fab can cost tens of billions of dollars because it requires specialised bu...",
+      "explainer": "A fab means semiconductor fabrication plant. A modern leading-edge fab can cost tens of billions of dollars because it requires specialised buildings, ultrapure water, enormous power infrastructure, gas and chemical systems, and fleets of precision tools.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17059",
+      "rank": 59,
+      "title": "A design-house licence supplier may create architectures or processor co...",
+      "hook": "A design-house licence supplier may create architectures or processor cores for others. Arm is the most famous example: it licenses instructio...",
+      "explainer": "A design-house licence supplier may create architectures or processor cores for others. Arm is the most famous example: it licenses instruction-set architectures and core designs rather than primarily selling its own mass-produced general-purpose chips.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17072",
+      "rank": 60,
+      "title": "• Wafer-fabrication equipment: ASML, Applied Materials, Lam Research, To...",
+      "hook": "• Wafer-fabrication equipment: ASML, Applied Materials, Lam Research, Tokyo Electron and KLA.",
+      "explainer": "• Wafer-fabrication equipment: ASML, Applied Materials, Lam Research, Tokyo Electron and KLA.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17170",
+      "rank": 61,
+      "title": "Traditional chips route both signals and power through interconnect laye...",
+      "hook": "Traditional chips route both signals and power through interconnect layers above the transistors. Backside power delivery separates much of th...",
+      "explainer": "Traditional chips route both signals and power through interconnect layers above the transistors. Backside power delivery separates much of the power network to the rear side of the wafer, potentially improving voltage delivery and freeing front-side routing resources.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17199",
+      "rank": 62,
+      "title": "An instruction-set architecture, ISA, defines the programmer-visible int...",
+      "hook": "An instruction-set architecture, ISA, defines the programmer-visible interface: instructions, registers, data types, memory model, privilege l...",
+      "explainer": "An instruction-set architecture, ISA, defines the programmer-visible interface: instructions, registers, data types, memory model, privilege levels and related behaviour.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17212",
+      "rank": 63,
+      "title": "1. Fetch an instruction from memory or cache.",
+      "hook": "1. Fetch an instruction from memory or cache.",
+      "explainer": "1. Fetch an instruction from memory or cache.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17268",
+      "rank": 64,
+      "title": "CPU speed greatly exceeds main-memory access speed. Caches store recentl...",
+      "hook": "CPU speed greatly exceeds main-memory access speed. Caches store recently or frequently used data closer to execution units.",
+      "explainer": "CPU speed greatly exceeds main-memory access speed. Caches store recently or frequently used data closer to execution units.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17315",
+      "rank": 65,
+      "title": "PART VIII — x86, ARM AND RISC-V",
+      "hook": "PART VIII — x86, ARM AND RISC-V",
+      "explainer": "PART VIII — x86, ARM AND RISC-V",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17354",
+      "rank": 66,
+      "title": "Arm grew from Acorn Computers’ search for an efficient processor for its...",
+      "hook": "Arm grew from Acorn Computers’ search for an efficient processor for its computers. ARM originally meant Acorn RISC Machine and later Advanced...",
+      "explainer": "Arm grew from Acorn Computers’ search for an efficient processor for its computers. ARM originally meant Acorn RISC Machine and later Advanced RISC Machines. The company is now styled Arm.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17378",
+      "rank": 67,
+      "title": "RISC-V is an open standard instruction-set architecture originating from...",
+      "hook": "RISC-V is an open standard instruction-set architecture originating from research at the University of California, Berkeley. The name follows ...",
+      "explainer": "RISC-V is an open standard instruction-set architecture originating from research at the University of California, Berkeley. The name follows earlier Berkeley RISC projects and is pronounced “risk-five.”",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17388",
+      "rank": 68,
+      "title": "The RISC-V ISA being open does not mean every RISC-V chip design is open...",
+      "hook": "The RISC-V ISA being open does not mean every RISC-V chip design is open source, free of patents, or fabricated without cost.",
+      "explainer": "The RISC-V ISA being open does not mean every RISC-V chip design is open source, free of patents, or fabricated without cost.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17394",
+      "rank": 69,
+      "title": "RISC traditionally emphasises simple, regular instructions, many registe...",
+      "hook": "RISC traditionally emphasises simple, regular instructions, many registers, load/store organisation and pipeline-friendly encoding. CISC tradi...",
+      "explainer": "RISC traditionally emphasises simple, regular instructions, many registers, load/store organisation and pipeline-friendly encoding. CISC traditionally includes richer, more variable instructions.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17596",
+      "rank": 70,
+      "title": "An HDD stores data magnetically on spinning platters and uses moving hea...",
+      "hook": "An HDD stores data magnetically on spinning platters and uses moving heads. An SSD uses flash memory and has no moving read/write head.",
+      "explainer": "An HDD stores data magnetically on spinning platters and uses moving heads. An SSD uses flash memory and has no moving read/write head.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17599",
+      "rank": 71,
+      "title": "SSDs usually offer lower latency, greater shock resistance and higher ra...",
+      "hook": "SSDs usually offer lower latency, greater shock resistance and higher random-access performance. HDDs can remain cost-effective for high-capac...",
+      "explainer": "SSDs usually offer lower latency, greater shock resistance and higher random-access performance. HDDs can remain cost-effective for high-capacity bulk storage.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17628",
+      "rank": 72,
+      "title": "Package types evolved from dual in-line packages to pin-grid arrays, bal...",
+      "hook": "Package types evolved from dual in-line packages to pin-grid arrays, ball-grid arrays, land-grid arrays, flip-chip arrangements, wafer-level p...",
+      "explainer": "Package types evolved from dual in-line packages to pin-grid arrays, ball-grid arrays, land-grid arrays, flip-chip arrangements, wafer-level packages and sophisticated 2.5D/3D systems.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17690",
+      "rank": 73,
+      "title": "PCI Express is a high-speed serial interconnect used for GPUs, SSDs, net...",
+      "hook": "PCI Express is a high-speed serial interconnect used for GPUs, SSDs, networking and accelerators. It uses lanes; a device may have x1, x4, x8 ...",
+      "explainer": "PCI Express is a high-speed serial interconnect used for GPUs, SSDs, networking and accelerators. It uses lanes; a device may have x1, x4, x8 or x16 connections. Each generation broadly increases per-lane transfer capability. Actual application throughput is lower than raw signalling rate because of encoding and protocol overhead.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-17807",
+      "rank": 74,
+      "title": "India has long had strength in semiconductor design, embedded software a...",
+      "hook": "India has long had strength in semiconductor design, embedded software and engineering services. Current policy aims to expand fabrication, as...",
+      "explainer": "India has long had strength in semiconductor design, embedded software and engineering services. Current policy aims to expand fabrication, assembly, testing, compound semiconductors and supply-chain capacity.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18131",
+      "rank": 75,
+      "title": "• AMD: x86 CPUs, Radeon GPUs and Instinct accelerators.",
+      "hook": "• AMD: x86 CPUs, Radeon GPUs and Instinct accelerators.",
+      "explainer": "• AMD: x86 CPUs, Radeon GPUs and Instinct accelerators.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18157",
+      "rank": 76,
+      "title": "3. Arm licenses architectures and cores; it is not primarily a mass-mark...",
+      "hook": "3. Arm licenses architectures and cores; it is not primarily a mass-market chip foundry.",
+      "explainer": "3. Arm licenses architectures and cores; it is not primarily a mass-market chip foundry.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18189",
+      "rank": 77,
+      "title": "7. Graphics pipeline → programmable shaders → CUDA → GPU computing → mod...",
+      "hook": "7. Graphics pipeline → programmable shaders → CUDA → GPU computing → modern AI accelerators.",
+      "explainer": "7. Graphics pipeline → programmable shaders → CUDA → GPU computing → modern AI accelerators.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18216",
+      "rank": 78,
+      "title": "10. Which material dominates mainstream chip fabrication?",
+      "hook": "10. Which material dominates mainstream chip fabrication?",
+      "explainer": "10. Which material dominates mainstream chip fabrication?",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18288",
+      "rank": 79,
+      "title": "82. Which volatile memory is commonly used for CPU caches?",
+      "hook": "82. Which volatile memory is commonly used for CPU caches?",
+      "explainer": "82. Which volatile memory is commonly used for CPU caches?",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18354",
+      "rank": 80,
+      "title": "40. A company that designs chips and contracts fabrication to a foundry.",
+      "hook": "40. A company that designs chips and contracts fabrication to a foundry.",
+      "explainer": "40. A company that designs chips and contracts fabrication to a foundry.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18435",
+      "rank": 81,
+      "title": "Learn the sequence from purified silicon to ingot, wafer, deposition, li...",
+      "hook": "Learn the sequence from purified silicon to ingot, wafer, deposition, lithography, etching, implantation, annealing, planarisation, metallisat...",
+      "explainer": "Learn the sequence from purified silicon to ingot, wafer, deposition, lithography, etching, implantation, annealing, planarisation, metallisation, inspection, yield, dicing and testing. Draw the flow from memory and answer 30 questions.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18451",
+      "rank": 82,
+      "title": "Study SRAM, DRAM, DDR families, HBM, NAND, SSDs, HDDs, NVMe, PCIe, CXL, ...",
+      "hook": "Study SRAM, DRAM, DDR families, HBM, NAND, SSDs, HDDs, NVMe, PCIe, CXL, thermal management, 2.5D/3D packaging and testing. Complete a mixed 50...",
+      "explainer": "Study SRAM, DRAM, DDR families, HBM, NAND, SSDs, HDDs, NVMe, PCIe, CXL, thermal management, 2.5D/3D packaging and testing. Complete a mixed 50-question weekly review.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-18517",
+      "rank": 83,
+      "title": "The industry divides architecture, design, equipment, fabrication, packa...",
+      "hook": "The industry divides architecture, design, equipment, fabrication, packaging and system integration among specialised firms.",
+      "explainer": "The industry divides architecture, design, equipment, fabrication, packaging and system integration among specialised firms.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-23167",
+      "rank": 84,
+      "title": "• Resource accounting: tracks CPU time, memory, storage, and other resou...",
+      "hook": "• Resource accounting: tracks CPU time, memory, storage, and other resources.",
+      "explainer": "• Resource accounting: tracks CPU time, memory, storage, and other resources.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-24211",
+      "rank": 85,
+      "title": "3. A system is spending most of its time moving memory pages between RAM...",
+      "hook": "3. A system is spending most of its time moving memory pages between RAM and storage. What is this condition called?",
+      "explainer": "3. A system is spending most of its time moving memory pages between RAM and storage. What is this condition called?",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-24556",
+      "rank": 86,
+      "title": "• Cache is faster and smaller than RAM; RAM is volatile; storage is pers...",
+      "hook": "• Cache is faster and smaller than RAM; RAM is volatile; storage is persistent.",
+      "explainer": "• Cache is faster and smaller than RAM; RAM is volatile; storage is persistent.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27201",
+      "rank": 87,
+      "title": "• Identity: indigenous processor and system-on-chip effort, with domesti...",
+      "hook": "• Identity: indigenous processor and system-on-chip effort, with domestic fabrication milestone.",
+      "explainer": "• Identity: indigenous processor and system-on-chip effort, with domestic fabrication milestone.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27228",
+      "rank": 88,
+      "title": "System on Chip, or SoC",
+      "hook": "System on Chip, or SoC",
+      "explainer": "System on Chip, or SoC",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27245",
+      "rank": 89,
+      "title": "• Designs chips but outsources fabrication.",
+      "hook": "• Designs chips but outsources fabrication.",
+      "explainer": "• Designs chips but outsources fabrication.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27270",
+      "rank": 90,
+      "title": "• Attract semiconductor fabrication.",
+      "hook": "• Attract semiconductor fabrication.",
+      "explainer": "• Attract semiconductor fabrication.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27355",
+      "rank": 91,
+      "title": "A country can be strong in chip design while weak in leading-edge fabric...",
+      "hook": "A country can be strong in chip design while weak in leading-edge fabrication, or strong in packaging without owning the full chain.",
+      "explainer": "A country can be strong in chip design while weak in leading-edge fabrication, or strong in packaging without owning the full chain.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27367",
+      "rank": 92,
+      "title": "• Semiconductor fabrication plant.",
+      "hook": "• Semiconductor fabrication plant.",
+      "explainer": "• Semiconductor fabrication plant.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-27386",
+      "rank": 93,
+      "title": "“Fabless” does not mean a company makes software only. It creates semico...",
+      "hook": "“Fabless” does not mean a company makes software only. It creates semiconductor designs but outsources wafer manufacturing.",
+      "explainer": "“Fabless” does not mean a company makes software only. It creates semiconductor designs but outsources wafer manufacturing.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-29133",
+      "rank": 94,
+      "title": "→ design, fabrication, packaging and skills programmes.",
+      "hook": "→ design, fabrication, packaging and skills programmes.",
+      "explainer": "→ design, fabrication, packaging and skills programmes.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-31828",
+      "rank": 95,
+      "title": "• Semiconductor fabrication plans in Gujarat.",
+      "hook": "• Semiconductor fabrication plans in Gujarat.",
+      "explainer": "• Semiconductor fabrication plans in Gujarat.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-33836",
+      "rank": 96,
+      "title": "99. Which state hosts Tata’s announced semiconductor fabrication project?",
+      "hook": "99. Which state hosts Tata’s announced semiconductor fabrication project?",
+      "explainer": "99. Which state hosts Tata’s announced semiconductor fabrication project?",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-36773",
+      "rank": 97,
+      "title": "Quantum computing uses quantum bits, or qubits, which can exist in super...",
+      "hook": "Quantum computing uses quantum bits, or qubits, which can exist in superpositions and become entangled.",
+      "explainer": "Quantum computing uses quantum bits, or qubits, which can exist in superpositions and become entangled.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-137",
+      "rank": 98,
+      "title": "* CPUs, GPUs, TPUs and NPUs",
+      "hook": "* CPUs, GPUs, TPUs and NPUs",
+      "explainer": "* CPUs, GPUs, TPUs and NPUs",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-139",
+      "rank": 99,
+      "title": "* Memory and storage technologies",
+      "hook": "* Memory and storage technologies",
+      "explainer": "* Memory and storage technologies",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-145",
+      "rank": 100,
+      "title": "Core question types: match company to supply-chain role, architecture co...",
+      "hook": "Core question types: match company to supply-chain role, architecture comparison, law or acronym, current chip development.",
+      "explainer": "Core question types: match company to supply-chain role, architecture comparison, law or acronym, current chip development.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-480",
+      "rank": 101,
+      "title": "This ability to branch according to a condition distinguishes a programm...",
+      "hook": "This ability to branch according to a condition distinguishes a programmable computer from a mechanism that merely follows one fixed sequence.",
+      "explainer": "This ability to branch according to a condition distinguishes a programmable computer from a mechanism that merely follows one fixed sequence.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-545",
+      "rank": 102,
+      "title": "First commercially available single-chip microprocessor",
+      "hook": "First commercially available single-chip microprocessor",
+      "explainer": "First commercially available single-chip microprocessor",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-578",
+      "rank": 103,
+      "title": "The abacus is not a single invention from one identifiable place or pers...",
+      "hook": "The abacus is not a single invention from one identifiable place or person. Multiple civilisations developed counting-board or bead-frame syst...",
+      "explainer": "The abacus is not a single invention from one identifiable place or person. Multiple civilisations developed counting-board or bead-frame systems.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-929",
+      "rank": 104,
+      "title": "Her mother encouraged mathematical education, partly hoping to counter w...",
+      "hook": "Her mother encouraged mathematical education, partly hoping to counter what she saw as Byron’s unstable romantic temperament.",
+      "explainer": "Her mother encouraged mathematical education, partly hoping to counter what she saw as Byron’s unstable romantic temperament.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-956",
+      "rank": 105,
+      "title": "A computer does not inherently know whether a bit pattern represents a n...",
+      "hook": "A computer does not inherently know whether a bit pattern represents a number, word, colour, sound or instruction. Meaning comes from the inte...",
+      "explainer": "A computer does not inherently know whether a bit pattern represents a number, word, colour, sound or instruction. Meaning comes from the interpretation imposed by the program.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-06-lib-1405",
+      "rank": 106,
+      "title": "* Did not store its program in memory.",
+      "hook": "* Did not store its program in memory.",
+      "explainer": "* Did not store its program in memory.",
+      "importance": 1,
+      "category": "Hardware, Semiconductors, Architectures and Quantum Computing",
+      "tags": [
+        "Hardware, Semiconductors, Architectures and Quantum Computing",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "classical and emerging processor models"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }

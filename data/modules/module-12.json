@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-12-lib-34237",
+      "rank": 7,
+      "title": "The module follows the roadmap through structural engineering, landmark ...",
+      "hook": "The module follows the roadmap through structural engineering, landmark infrastructure, major engineers, power generation, electricity grids, ...",
+      "explainer": "The module follows the roadmap through structural engineering, landmark infrastructure, major engineers, power generation, electricity grids, batteries, hydrogen, carbon capture, desalination, waste management and the circular economy. It includes India-specific material wherever quiz relevance is high.",
+      "importance": 3,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-17",
+      "rank": 8,
+      "title": "12. Engineering, Architecture, Infrastructure, Energy and Climate Techno...",
+      "hook": "12. Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "explainer": "12. Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "importance": 2,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-299",
+      "rank": 9,
+      "title": "12. Engineering, Architecture, Infrastructure, Energy and Climate Techno...",
+      "hook": "12. Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "explainer": "12. Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "importance": 2,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36025",
+      "rank": 10,
+      "title": "□ Distinguish hydro, nuclear, solar, wind, geothermal and biomass techno...",
+      "hook": "□ Distinguish hydro, nuclear, solar, wind, geothermal and biomass technologies.",
+      "explainer": "□ Distinguish hydro, nuclear, solar, wind, geothermal and biomass technologies.",
+      "importance": 2,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-312",
+      "rank": 11,
+      "title": "* Nuclear, solar, wind and hydropower",
+      "hook": "* Nuclear, solar, wind and hydropower",
+      "explainer": "* Nuclear, solar, wind and hydropower",
+      "importance": 2,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34934",
+      "rank": 12,
+      "title": "Coal, gas, oil, nuclear heat or concentrated solar heat can produce stea...",
+      "hook": "Coal, gas, oil, nuclear heat or concentrated solar heat can produce steam that drives a turbine connected to a generator.",
+      "explainer": "Coal, gas, oil, nuclear heat or concentrated solar heat can produce steam that drives a turbine connected to a generator.",
+      "importance": 2,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36732",
+      "rank": 13,
+      "title": "Quiz trap: nuclear power plants use fission today. The Sun uses fusion. ...",
+      "hook": "Quiz trap: nuclear power plants use fission today. The Sun uses fusion. ‘Cold fusion’ claims are not accepted as established practical energy ...",
+      "explainer": "Quiz trap: nuclear power plants use fission today. The Sun uses fusion. ‘Cold fusion’ claims are not accepted as established practical energy technology.",
+      "importance": 2,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-315",
+      "rank": 14,
+      "title": "* Carbon capture and smart grids",
+      "hook": "* Carbon capture and smart grids",
+      "explainer": "* Carbon capture and smart grids",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-31493",
+      "rank": 15,
+      "title": "• Expansion into thermal, solar, wind, distribution, electric-vehicle ch...",
+      "hook": "• Expansion into thermal, solar, wind, distribution, electric-vehicle charging and energy services.",
+      "explainer": "• Expansion into thermal, solar, wind, distribution, electric-vehicle charging and energy services.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34227",
+      "rank": 16,
+      "title": "MODULE 12 — ENGINEERING MARVELS, ENERGY SYSTEMS & SUSTAINABLE TECHNOLOGY",
+      "hook": "MODULE 12 — ENGINEERING MARVELS, ENERGY SYSTEMS & SUSTAINABLE TECHNOLOGY",
+      "explainer": "MODULE 12 — ENGINEERING MARVELS, ENERGY SYSTEMS & SUSTAINABLE TECHNOLOGY",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34748",
+      "rank": 17,
+      "title": "British engineer associated with the Great Western Railway, steamships G...",
+      "hook": "British engineer associated with the Great Western Railway, steamships Great Western and Great Britain, and the Great Eastern. Worked on the T...",
+      "explainer": "British engineer associated with the Great Western Railway, steamships Great Western and Great Britain, and the Great Eastern. Worked on the Thames Tunnel project begun by his father, Marc Isambard Brunel. Known for ambitious Victorian engineering.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34905",
+      "rank": 18,
+      "title": "Smart grids combine sensors, digital communications, automated controls ...",
+      "hook": "Smart grids combine sensors, digital communications, automated controls and advanced metering. They can integrate distributed renewables, elec...",
+      "explainer": "Smart grids combine sensors, digital communications, automated controls and advanced metering. They can integrate distributed renewables, electric vehicles, storage and demand response.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34960",
+      "rank": 19,
+      "title": "Gas turbines can start and ramp faster than traditional coal or nuclear ...",
+      "hook": "Gas turbines can start and ramp faster than traditional coal or nuclear plants. Methane leakage is a major climate concern because methane is ...",
+      "explainer": "Gas turbines can start and ramp faster than traditional coal or nuclear plants. Methane leakage is a major climate concern because methane is a potent greenhouse gas.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35011",
+      "rank": 20,
+      "title": "Fusion combines light nuclei, such as isotopes of hydrogen, releasing en...",
+      "hook": "Fusion combines light nuclei, such as isotopes of hydrogen, releasing energy. Deuterium–tritium fusion is a major research focus. The reaction...",
+      "explainer": "Fusion combines light nuclei, such as isotopes of hydrogen, releasing energy. Deuterium–tritium fusion is a major research focus. The reaction requires extremely high temperature and confinement.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35210",
+      "rank": 21,
+      "title": "• Grey hydrogen: Usually natural gas without carbon capture.",
+      "hook": "• Grey hydrogen: Usually natural gas without carbon capture.",
+      "explainer": "• Grey hydrogen: Usually natural gas without carbon capture.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35214",
+      "rank": 22,
+      "title": "• Pink hydrogen: Electrolysis powered by nuclear energy.",
+      "hook": "• Pink hydrogen: Electrolysis powered by nuclear energy.",
+      "explainer": "• Pink hydrogen: Electrolysis powered by nuclear energy.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35255",
+      "rank": 23,
+      "title": "12. CARBON CAPTURE, CLIMATE ENGINEERING AND INDUSTRIAL DECARBONISATION",
+      "hook": "12. CARBON CAPTURE, CLIMATE ENGINEERING AND INDUSTRIAL DECARBONISATION",
+      "explainer": "12. CARBON CAPTURE, CLIMATE ENGINEERING AND INDUSTRIAL DECARBONISATION",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35265",
+      "rank": 24,
+      "title": "Bioenergy with carbon capture and storage: Biomass absorbs CO₂, is used ...",
+      "hook": "Bioenergy with carbon capture and storage: Biomass absorbs CO₂, is used for energy, and resulting emissions are captured; potentially net-nega...",
+      "explainer": "Bioenergy with carbon capture and storage: Biomass absorbs CO₂, is used for energy, and resulting emissions are captured; potentially net-negative under strict conditions.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35474",
+      "rank": 25,
+      "title": "Incineration can reduce waste volume and generate energy but requires em...",
+      "hook": "Incineration can reduce waste volume and generate energy but requires emissions control and still produces ash. Gasification uses limited oxyg...",
+      "explainer": "Incineration can reduce waste volume and generate energy but requires emissions control and still produces ash. Gasification uses limited oxygen or steam to make synthesis gas. Waste-to-energy does not eliminate the need for waste reduction and recycling.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35583",
+      "rank": 26,
+      "title": "• Solar Energy Corporation of India — renewable project implementation a...",
+      "hook": "• Solar Energy Corporation of India — renewable project implementation and tenders",
+      "explainer": "• Solar Energy Corporation of India — renewable project implementation and tenders",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35886",
+      "rank": 27,
+      "title": "29. What is hydrogen produced from natural gas without carbon capture co...",
+      "hook": "29. What is hydrogen produced from natural gas without carbon capture commonly called?",
+      "explainer": "29. What is hydrogen produced from natural gas without carbon capture commonly called?",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36727",
+      "rank": 28,
+      "title": "Fission splits a heavy nucleus such as uranium-235, releasing energy and...",
+      "hook": "Fission splits a heavy nucleus such as uranium-235, releasing energy and neutrons that can sustain a chain reaction. Nuclear reactors control ...",
+      "explainer": "Fission splits a heavy nucleus such as uranium-235, releasing energy and neutrons that can sustain a chain reaction. Nuclear reactors control the chain reaction; atomic bombs release energy rapidly and uncontrolled.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36728",
+      "rank": 29,
+      "title": "Fusion combines light nuclei, as in the Sun. Deuterium-tritium fusion is...",
+      "hook": "Fusion combines light nuclei, as in the Sun. Deuterium-tritium fusion is a major research target. Fusion can release large energy with no carb...",
+      "explainer": "Fusion combines light nuclei, as in the Sun. Deuterium-tritium fusion is a major research target. Fusion can release large energy with no carbon dioxide during operation, but sustained net-electricity production remains an engineering challenge involving extreme temperature, plasma control, materials and tritium.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36733",
+      "rank": 30,
+      "title": "7.5 Solar, wind and hydro",
+      "hook": "7.5 Solar, wind and hydro",
+      "explainer": "7.5 Solar, wind and hydro",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36738",
+      "rank": 31,
+      "title": "Variable renewables require grid balancing through transmission, storage...",
+      "hook": "Variable renewables require grid balancing through transmission, storage, flexible demand, forecasting and complementary generation. Capacity ...",
+      "explainer": "Variable renewables require grid balancing through transmission, storage, flexible demand, forecasting and complementary generation. Capacity factor is actual output divided by maximum possible output over time; it is not the same as efficiency.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36751",
+      "rank": 32,
+      "title": "• Blue hydrogen: fossil-based production with carbon capture, whose clim...",
+      "hook": "• Blue hydrogen: fossil-based production with carbon capture, whose climate value depends on capture rates and methane leakage.",
+      "explainer": "• Blue hydrogen: fossil-based production with carbon capture, whose climate value depends on capture rates and methane leakage.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-37293",
+      "rank": 33,
+      "title": "• Hydrogen is an energy carrier; green hydrogen uses renewable electroly...",
+      "hook": "• Hydrogen is an energy carrier; green hydrogen uses renewable electrolysis.",
+      "explainer": "• Hydrogen is an energy carrier; green hydrogen uses renewable electrolysis.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-162",
+      "rank": 34,
+      "title": "* SolarWinds",
+      "hook": "* SolarWinds",
+      "explainer": "* SolarWinds",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-306",
+      "rank": 35,
+      "title": "* Dams, canals and tunnels",
+      "hook": "* Dams, canals and tunnels",
+      "explainer": "* Dams, canals and tunnels",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-316",
+      "rank": 36,
+      "title": "* Desalination and recycling technology",
+      "hook": "* Desalination and recycling technology",
+      "explainer": "* Desalination and recycling technology",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-317",
+      "rank": 37,
+      "title": "Core question types: structure-engineer matching, identify construction ...",
+      "hook": "Core question types: structure-engineer matching, identify construction principle, landmark first and energy-technology connection.",
+      "explainer": "Core question types: structure-engineer matching, identify construction principle, landmark first and energy-technology connection.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-684",
+      "rank": 38,
+      "title": "* Chinese mechanical engineering.",
+      "hook": "* Chinese mechanical engineering.",
+      "explainer": "* Chinese mechanical engineering.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-16074",
+      "rank": 39,
+      "title": "• Grid of labelled predicted versus actual values: confusion matrix.",
+      "hook": "• Grid of labelled predicted versus actual values: confusion matrix.",
+      "explainer": "• Grid of labelled predicted versus actual values: confusion matrix.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-20577",
+      "rank": 40,
+      "title": "27. SOLARWINDS",
+      "hook": "27. SOLARWINDS",
+      "explainer": "27. SOLARWINDS",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-20583",
+      "rank": 41,
+      "title": "SolarWinds is a software company. Orion is a network-management platform...",
+      "hook": "SolarWinds is a software company. Orion is a network-management platform used by many enterprises and government agencies.",
+      "explainer": "SolarWinds is a software company. Orion is a network-management platform used by many enterprises and government agencies.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-20939",
+      "rank": 42,
+      "title": "Airlines, airports, banks, broadcasters, hospitals, retailers and public...",
+      "hook": "Airlines, airports, banks, broadcasters, hospitals, retailers and public services around the world experienced disruption. Some flight informa...",
+      "explainer": "Airlines, airports, banks, broadcasters, hospitals, retailers and public services around the world experienced disruption. Some flight information displays showed Windows recovery screens, creating iconic visual clues.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-21802",
+      "rank": 43,
+      "title": "• SolarWinds is the company; Orion is the product; SUNBURST is the backd...",
+      "hook": "• SolarWinds is the company; Orion is the product; SUNBURST is the backdoor.",
+      "explainer": "• SolarWinds is the company; Orion is the product; SUNBURST is the backdoor.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-21890",
+      "rank": 44,
+      "title": "2020 — SolarWinds campaign was publicly exposed; Schrems II invalidated ...",
+      "hook": "2020 — SolarWinds campaign was publicly exposed; Schrems II invalidated Privacy Shield.",
+      "explainer": "2020 — SolarWinds campaign was publicly exposed; Schrems II invalidated Privacy Shield.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-22106",
+      "rank": 45,
+      "title": "SolarWinds Orion.",
+      "hook": "SolarWinds Orion.",
+      "explainer": "SolarWinds Orion.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-22832",
+      "rank": 46,
+      "title": "221. Which network-management platform was compromised in the SolarWinds...",
+      "hook": "221. Which network-management platform was compromised in the SolarWinds campaign?",
+      "explainer": "221. Which network-management platform was compromised in the SolarWinds campaign?",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-22835",
+      "rank": 47,
+      "title": "222. What was the widely used name of the SolarWinds backdoor?",
+      "hook": "222. What was the widely used name of the SolarWinds backdoor?",
+      "explainer": "222. What was the widely used name of the SolarWinds backdoor?",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-22838",
+      "rank": 48,
+      "title": "223. Which security company’s investigation helped expose SolarWinds?",
+      "hook": "223. Which security company’s investigation helped expose SolarWinds?",
+      "explainer": "223. Which security company’s investigation helped expose SolarWinds?",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-27296",
+      "rank": 49,
+      "title": "• Renewable energy.",
+      "hook": "• Renewable energy.",
+      "explainer": "• Renewable energy.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-28476",
+      "rank": 50,
+      "title": "• Studied electrical engineering in India before graduate study in the U...",
+      "hook": "• Studied electrical engineering in India before graduate study in the United States.",
+      "explainer": "• Studied electrical engineering in India before graduate study in the United States.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-32909",
+      "rank": 51,
+      "title": "TCS Clever Energy uses data, IoT and AI to manage energy and carbon perf...",
+      "hook": "TCS Clever Energy uses data, IoT and AI to manage energy and carbon performance in buildings and enterprises.",
+      "explainer": "TCS Clever Energy uses data, IoT and AI to manage energy and carbon performance in buildings and enterprises.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34379",
+      "rank": 52,
+      "title": "A tuned mass damper is a large auxiliary mass designed to oscillate out ...",
+      "hook": "A tuned mass damper is a large auxiliary mass designed to oscillate out of phase with a building and reduce motion. Taipei 101 is famous for i...",
+      "explainer": "A tuned mass damper is a large auxiliary mass designed to oscillate out of phase with a building and reduce motion. Taipei 101 is famous for its visible tuned mass damper.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34532",
+      "rank": 53,
+      "title": "• Atal Setu, Mumbai Trans Harbour Link: A major sea bridge linking Mumba...",
+      "hook": "• Atal Setu, Mumbai Trans Harbour Link: A major sea bridge linking Mumbai and Navi Mumbai; not principally known as a cable-stayed landmark, b...",
+      "explainer": "• Atal Setu, Mumbai Trans Harbour Link: A major sea bridge linking Mumbai and Navi Mumbai; not principally known as a cable-stayed landmark, but highly quiz-relevant as infrastructure.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34549",
+      "rank": 54,
+      "title": "Tacoma Narrows Bridge, 1940: Nicknamed “Galloping Gertie.” Its dramatic ...",
+      "hook": "Tacoma Narrows Bridge, 1940: Nicknamed “Galloping Gertie.” Its dramatic collapse involved wind-induced aeroelastic flutter. It transformed und...",
+      "explainer": "Tacoma Narrows Bridge, 1940: Nicknamed “Galloping Gertie.” Its dramatic collapse involved wind-induced aeroelastic flutter. It transformed understanding of bridge aerodynamics.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34555",
+      "rank": 55,
+      "title": "I-35W Mississippi River Bridge, 2007: Collapse in Minneapolis focused at...",
+      "hook": "I-35W Mississippi River Bridge, 2007: Collapse in Minneapolis focused attention on gusset-plate design and infrastructure inspection.",
+      "explainer": "I-35W Mississippi River Bridge, 2007: Collapse in Minneapolis focused attention on gusset-plate design and infrastructure inspection.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34558",
+      "rank": 56,
+      "title": "Morandi Bridge, 2018: Collapse in Genoa intensified scrutiny of ageing p...",
+      "hook": "Morandi Bridge, 2018: Collapse in Genoa intensified scrutiny of ageing prestressed-concrete infrastructure and maintenance.",
+      "explainer": "Morandi Bridge, 2018: Collapse in Genoa intensified scrutiny of ageing prestressed-concrete infrastructure and maintenance.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34568",
+      "rank": 57,
+      "title": "5. TUNNELS, CANALS, DAMS AND TRANSPORT MEGAPROJECTS",
+      "hook": "5. TUNNELS, CANALS, DAMS AND TRANSPORT MEGAPROJECTS",
+      "explainer": "5. TUNNELS, CANALS, DAMS AND TRANSPORT MEGAPROJECTS",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34589",
+      "rank": 58,
+      "title": "Atal Tunnel: Highway tunnel beneath Rohtang Pass in Himachal Pradesh, im...",
+      "hook": "Atal Tunnel: Highway tunnel beneath Rohtang Pass in Himachal Pradesh, improving all-weather connectivity to Lahaul-Spiti.",
+      "explainer": "Atal Tunnel: Highway tunnel beneath Rohtang Pass in Himachal Pradesh, improving all-weather connectivity to Lahaul-Spiti.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34625",
+      "rank": 59,
+      "title": "• Three Gorges Dam: Massive hydroelectric project on the Yangtze River i...",
+      "hook": "• Three Gorges Dam: Massive hydroelectric project on the Yangtze River in China.",
+      "explainer": "• Three Gorges Dam: Massive hydroelectric project on the Yangtze River in China.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34626",
+      "rank": 60,
+      "title": "• Itaipu Dam: Hydroelectric project on the Paraná River between Brazil a...",
+      "hook": "• Itaipu Dam: Hydroelectric project on the Paraná River between Brazil and Paraguay.",
+      "explainer": "• Itaipu Dam: Hydroelectric project on the Paraná River between Brazil and Paraguay.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34633",
+      "rank": 61,
+      "title": "5.5 Railways and metros",
+      "hook": "5.5 Railways and metros",
+      "explainer": "5.5 Railways and metros",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34650",
+      "rank": 62,
+      "title": "• First metro railway in India: Kolkata Metro.",
+      "hook": "• First metro railway in India: Kolkata Metro.",
+      "explainer": "• First metro railway in India: Kolkata Metro.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34652",
+      "rank": 63,
+      "title": "• Konkan Railway: Major engineering achievement across difficult Western...",
+      "hook": "• Konkan Railway: Major engineering achievement across difficult Western Ghats terrain.",
+      "explainer": "• Konkan Railway: Major engineering achievement across difficult Western Ghats terrain.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34653",
+      "rank": 64,
+      "title": "• Chenab Rail Bridge: Steel arch railway bridge over the Chenab River in...",
+      "hook": "• Chenab Rail Bridge: Steel arch railway bridge over the Chenab River in Jammu and Kashmir, notable for its exceptional height.",
+      "explainer": "• Chenab Rail Bridge: Steel arch railway bridge over the Chenab River in Jammu and Kashmir, notable for its exceptional height.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34673",
+      "rank": 65,
+      "title": "As buildings rise, wind effects become more important. Engineers must co...",
+      "hook": "As buildings rise, wind effects become more important. Engineers must control:",
+      "explainer": "As buildings rise, wind effects become more important. Engineers must control:",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34756",
+      "rank": 66,
+      "title": "Often called the father of civil engineering. Designed the third Eddysto...",
+      "hook": "Often called the father of civil engineering. Designed the third Eddystone Lighthouse and helped establish civil engineering as a profession.",
+      "explainer": "Often called the father of civil engineering. Designed the third Eddystone Lighthouse and helped establish civil engineering as a profession.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34764",
+      "rank": 67,
+      "title": "Railway and civil engineer, son of George Stephenson. Associated with th...",
+      "hook": "Railway and civil engineer, son of George Stephenson. Associated with the Rocket locomotive and major railway bridges.",
+      "explainer": "Railway and civil engineer, son of George Stephenson. Associated with the Rocket locomotive and major railway bridges.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34825",
+      "rank": 68,
+      "title": "• Father of civil engineering → John Smeaton",
+      "hook": "• Father of civil engineering → John Smeaton",
+      "explainer": "• Father of civil engineering → John Smeaton",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34902",
+      "rank": 69,
+      "title": "8.6 Smart grids",
+      "hook": "8.6 Smart grids",
+      "explainer": "8.6 Smart grids",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34914",
+      "rank": 70,
+      "title": "Virtual power plant: Aggregates distributed resources such as batteries,...",
+      "hook": "Virtual power plant: Aggregates distributed resources such as batteries, rooftop solar and controllable loads so they can be coordinated like ...",
+      "explainer": "Virtual power plant: Aggregates distributed resources such as batteries, rooftop solar and controllable loads so they can be coordinated like a power plant.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34920",
+      "rank": 71,
+      "title": "High-voltage direct current transmission is useful for very long distanc...",
+      "hook": "High-voltage direct current transmission is useful for very long distances, undersea cables and connecting asynchronous grids. Converter stati...",
+      "explainer": "High-voltage direct current transmission is useful for very long distances, undersea cables and connecting asynchronous grids. Converter stations change AC to DC and back.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-34975",
+      "rank": 72,
+      "title": "Pumped-storage hydropower moves water uphill when electricity is abundan...",
+      "hook": "Pumped-storage hydropower moves water uphill when electricity is abundant and releases it through turbines when needed. It is an energy-storag...",
+      "explainer": "Pumped-storage hydropower moves water uphill when electricity is abundant and releases it through turbines when needed. It is an energy-storage system, not a net energy source.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35008",
+      "rank": 73,
+      "title": "9.6 Nuclear fusion",
+      "hook": "9.6 Nuclear fusion",
+      "explainer": "9.6 Nuclear fusion",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35033",
+      "rank": 74,
+      "title": "An inverter converts solar-panel DC into AC suitable for the grid or app...",
+      "hook": "An inverter converts solar-panel DC into AC suitable for the grid or appliances.",
+      "explainer": "An inverter converts solar-panel DC into AC suitable for the grid or appliances.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35055",
+      "rank": 75,
+      "title": "Betz’s law states that no ideal wind turbine can capture more than 59.3%...",
+      "hook": "Betz’s law states that no ideal wind turbine can capture more than 59.3% of the kinetic energy in wind passing through its swept area.",
+      "explainer": "Betz’s law states that no ideal wind turbine can capture more than 59.3% of the kinetic energy in wind passing through its swept area.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35076",
+      "rank": 76,
+      "title": "Biomass energy uses organic material. Anaerobic digestion produces bioga...",
+      "hook": "Biomass energy uses organic material. Anaerobic digestion produces biogas rich in methane. Ethanol is commonly produced by fermenting sugars o...",
+      "explainer": "Biomass energy uses organic material. Anaerobic digestion produces biogas rich in methane. Ethanol is commonly produced by fermenting sugars or starches. Biodiesel can be made from oils and fats through transesterification.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35206",
+      "rank": 77,
+      "title": "Hydrogen is an energy carrier, not a primary energy source. Energy must ...",
+      "hook": "Hydrogen is an energy carrier, not a primary energy source. Energy must be used to produce it.",
+      "explainer": "Hydrogen is an energy carrier, not a primary energy source. Energy must be used to produce it.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35211",
+      "rank": 78,
+      "title": "• Blue hydrogen: Fossil-based production with carbon capture.",
+      "hook": "• Blue hydrogen: Fossil-based production with carbon capture.",
+      "explainer": "• Blue hydrogen: Fossil-based production with carbon capture.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35212",
+      "rank": 79,
+      "title": "• Green hydrogen: Electrolysis powered by renewable electricity.",
+      "hook": "• Green hydrogen: Electrolysis powered by renewable electricity.",
+      "explainer": "• Green hydrogen: Electrolysis powered by renewable electricity.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35213",
+      "rank": 80,
+      "title": "• Brown or black hydrogen: Coal-based production.",
+      "hook": "• Brown or black hydrogen: Coal-based production.",
+      "explainer": "• Brown or black hydrogen: Coal-based production.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35299",
+      "rank": 81,
+      "title": "Carbon capture: Can reduce emissions from some conventional routes.",
+      "hook": "Carbon capture: Can reduce emissions from some conventional routes.",
+      "explainer": "Carbon capture: Can reduce emissions from some conventional routes.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35308",
+      "rank": 82,
+      "title": "Examples studied under solar radiation modification include stratospheri...",
+      "hook": "Examples studied under solar radiation modification include stratospheric aerosol injection and marine cloud brightening. These remain controv...",
+      "explainer": "Examples studied under solar radiation modification include stratospheric aerosol injection and marine cloud brightening. These remain controversial and are not substitutes for emissions reduction.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35312",
+      "rank": 83,
+      "title": "13. WATER ENGINEERING AND DESALINATION",
+      "hook": "13. WATER ENGINEERING AND DESALINATION",
+      "explainer": "13. WATER ENGINEERING AND DESALINATION",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35421",
+      "rank": 84,
+      "title": "Aluminium recycling uses far less energy than producing primary aluminiu...",
+      "hook": "Aluminium recycling uses far less energy than producing primary aluminium from bauxite.",
+      "explainer": "Aluminium recycling uses far less energy than producing primary aluminium from bauxite.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35439",
+      "rank": 85,
+      "title": "Mechanical recycling sorts, cleans, melts and reforms plastic. Chemical ...",
+      "hook": "Mechanical recycling sorts, cleans, melts and reforms plastic. Chemical recycling breaks polymers into smaller molecules or feedstocks. Pyroly...",
+      "explainer": "Mechanical recycling sorts, cleans, melts and reforms plastic. Chemical recycling breaks polymers into smaller molecules or feedstocks. Pyrolysis heats material without oxygen to produce oils and gases, though economics and environmental performance vary.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35542",
+      "rank": 86,
+      "title": "16. INDIA ENGINEERING AND ENERGY MASTER LIST",
+      "hook": "16. INDIA ENGINEERING AND ENERGY MASTER LIST",
+      "explainer": "16. INDIA ENGINEERING AND ENERGY MASTER LIST",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35572",
+      "rank": 87,
+      "title": "• Kolkata Metro — India’s first metro railway",
+      "hook": "• Kolkata Metro — India’s first metro railway",
+      "explainer": "• Kolkata Metro — India’s first metro railway",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35579",
+      "rank": 88,
+      "title": "• Power Grid Corporation of India — interstate transmission",
+      "hook": "• Power Grid Corporation of India — interstate transmission",
+      "explainer": "• Power Grid Corporation of India — interstate transmission",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35581",
+      "rank": 89,
+      "title": "• NPCIL — nuclear power plant operation",
+      "hook": "• NPCIL — nuclear power plant operation",
+      "explainer": "• NPCIL — nuclear power plant operation",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35686",
+      "rank": 90,
+      "title": "Both are energy carriers. Electricity moves through conductors; hydrogen...",
+      "hook": "Both are energy carriers. Electricity moves through conductors; hydrogen is a molecule that can be stored, compressed, liquefied or converted ...",
+      "explainer": "Both are energy carriers. Electricity moves through conductors; hydrogen is a molecule that can be stored, compressed, liquefied or converted into derivatives.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35690",
+      "rank": 91,
+      "title": "Reuse preserves more of the existing product and often saves more energy...",
+      "hook": "Reuse preserves more of the existing product and often saves more energy. Recycling breaks material down for remanufacture.",
+      "explainer": "Reuse preserves more of the existing product and often saves more energy. Recycling breaks material down for remanufacture.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35744",
+      "rank": 92,
+      "title": "27. Pumped hydro stores energy by moving water uphill.",
+      "hook": "27. Pumped hydro stores energy by moving water uphill.",
+      "explainer": "27. Pumped hydro stores energy by moving water uphill.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35745",
+      "rank": 93,
+      "title": "28. A tokamak is a toroidal magnetic-confinement fusion device.",
+      "hook": "28. A tokamak is a toroidal magnetic-confinement fusion device.",
+      "explainer": "28. A tokamak is a toroidal magnetic-confinement fusion device.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35754",
+      "rank": 94,
+      "title": "37. Green hydrogen is produced by renewable-powered electrolysis.",
+      "hook": "37. Green hydrogen is produced by renewable-powered electrolysis.",
+      "explainer": "37. Green hydrogen is produced by renewable-powered electrolysis.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35755",
+      "rank": 95,
+      "title": "38. Grey hydrogen is usually fossil-derived without carbon capture.",
+      "hook": "38. Grey hydrogen is usually fossil-derived without carbon capture.",
+      "explainer": "38. Grey hydrogen is usually fossil-derived without carbon capture.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35836",
+      "rank": 96,
+      "title": "“Metro Man” → “Konkan Railway” → “Delhi Metro”",
+      "hook": "“Metro Man” → “Konkan Railway” → “Delhi Metro”",
+      "explainer": "“Metro Man” → “Konkan Railway” → “Delhi Metro”",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35868",
+      "rank": 97,
+      "title": "11. Who is known as the father of civil engineering?",
+      "hook": "11. Who is known as the father of civil engineering?",
+      "explainer": "11. Who is known as the father of civil engineering?",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35877",
+      "rank": 98,
+      "title": "20. What is the theoretical maximum fraction of wind energy an ideal tur...",
+      "hook": "20. What is the theoretical maximum fraction of wind energy an ideal turbine can capture?",
+      "explainer": "20. What is the theoretical maximum fraction of wind energy an ideal turbine can capture?",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35885",
+      "rank": 99,
+      "title": "28. What colour label is normally used for renewable-powered electrolyti...",
+      "hook": "28. What colour label is normally used for renewable-powered electrolytic hydrogen?",
+      "explainer": "28. What colour label is normally used for renewable-powered electrolytic hydrogen?",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35921",
+      "rank": 100,
+      "title": "5. Father of civil engineering",
+      "hook": "5. Father of civil engineering",
+      "explainer": "5. Father of civil engineering",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35926",
+      "rank": 101,
+      "title": "10. Delhi Metro and Konkan Railway",
+      "hook": "10. Delhi Metro and Konkan Railway",
+      "explainer": "10. Delhi Metro and Konkan Railway",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35955",
+      "rank": 102,
+      "title": "3. Assertion: High-voltage transmission reduces energy loss.",
+      "hook": "3. Assertion: High-voltage transmission reduces energy loss.",
+      "explainer": "3. Assertion: High-voltage transmission reduces energy loss.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35959",
+      "rank": 103,
+      "title": "4. Assertion: Pumped-storage hydropower is a net source of primary energy.",
+      "hook": "4. Assertion: Pumped-storage hydropower is a net source of primary energy.",
+      "explainer": "4. Assertion: Pumped-storage hydropower is a net source of primary energy.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35976",
+      "rank": 104,
+      "title": "Reason: Recycling often requires reprocessing energy and may degrade mat...",
+      "hook": "Reason: Recycling often requires reprocessing energy and may degrade material quality.",
+      "explainer": "Reason: Recycling often requires reprocessing energy and may degrade material quality.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-35986",
+      "rank": 105,
+      "title": "5. Connect E. Sreedharan, the Konkan Railway and Delhi Metro.",
+      "hook": "5. Connect E. Sreedharan, the Konkan Railway and Delhi Metro.",
+      "explainer": "5. Connect E. Sreedharan, the Konkan Railway and Delhi Metro.",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-12-lib-36004",
+      "rank": 106,
+      "title": "8. Pyrometallurgy, hydrometallurgy, direct recycling, electrostatic prec...",
+      "hook": "8. Pyrometallurgy, hydrometallurgy, direct recycling, electrostatic precipitator",
+      "explainer": "8. Pyrometallurgy, hydrometallurgy, direct recycling, electrostatic precipitator",
+      "importance": 1,
+      "category": "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+      "tags": [
+        "Engineering, Architecture, Infrastructure, Energy and Climate Technology",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "LEED building-rating claims"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }

@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-04-lib-95",
+      "rank": 7,
+      "title": "* Intel, AMD, Nvidia, Cisco, Adobe, Oracle and SAP",
+      "hook": "* Intel, AMD, Nvidia, Cisco, Adobe, Oracle and SAP",
+      "explainer": "* Intel, AMD, Nvidia, Cisco, Adobe, Oracle and SAP",
+      "importance": 3,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-94",
+      "rank": 8,
+      "title": "* Apple, Microsoft, IBM, Google, Amazon and Meta",
+      "hook": "* Apple, Microsoft, IBM, Google, Amazon and Meta",
+      "explainer": "* Apple, Microsoft, IBM, Google, Amazon and Meta",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10035",
+      "rank": 9,
+      "title": "A subsidiary is legally controlled by another company. A division is an ...",
+      "hook": "A subsidiary is legally controlled by another company. A division is an internal business unit rather than a separate ownership relationship. ...",
+      "explainer": "A subsidiary is legally controlled by another company. A division is an internal business unit rather than a separate ownership relationship. YouTube is a Google subsidiary or business; AWS is a division of Amazon; Instagram and WhatsApp belong to Meta.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-18478",
+      "rank": 10,
+      "title": "Revise TSMC N2 and A14, Intel 18A, Nvidia Rubin, AMD MI350, Snapdragon X...",
+      "hook": "Revise TSMC N2 and A14, Intel 18A, Nvidia Rubin, AMD MI350, Snapdragon X2, Google Willow, Microsoft Majorana 1, IBM’s roadmap, India Semicondu...",
+      "explainer": "Revise TSMC N2 and A14, Intel 18A, Nvidia Rubin, AMD MI350, Snapdragon X2, Google Willow, Microsoft Majorana 1, IBM’s roadmap, India Semiconductor Mission, SHAKTI, VEGA and AJIT. Complete 30 connection-style questions.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-5562",
+      "rank": 11,
+      "title": "Streaming plays media as data arrives rather than requiring a complete d...",
+      "hook": "Streaming plays media as data arrives rather than requiring a complete download first. RealNetworks, Microsoft, Apple, YouTube, Netflix, Spoti...",
+      "explainer": "Streaming plays media as data arrives rather than requiring a complete download first. RealNetworks, Microsoft, Apple, YouTube, Netflix, Spotify and others shaped different stages of internet media.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-21657",
+      "rank": 12,
+      "title": "Tata Consultancy Services, Infosys, Wipro and HCLTech operate large cybe...",
+      "hook": "Tata Consultancy Services, Infosys, Wipro and HCLTech operate large cybersecurity practices. Indian specialist firms and startups include Seqr...",
+      "explainer": "Tata Consultancy Services, Infosys, Wipro and HCLTech operate large cybersecurity practices. Indian specialist firms and startups include Seqrite/Quick Heal, TAC Security, Safe Security and others. Company leadership and ownership can change, so learn stable products and origins separately from current titles.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-97",
+      "rank": 13,
+      "title": "* Netflix, Spotify, Salesforce and Uber",
+      "hook": "* Netflix, Spotify, Salesforce and Uber",
+      "explainer": "* Netflix, Spotify, Salesforce and Uber",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-6865",
+      "rank": 14,
+      "title": "An application-layer smart-home interoperability standard developed thro...",
+      "hook": "An application-layer smart-home interoperability standard developed through the Connectivity Standards Alliance, formerly the Zigbee Alliance....",
+      "explainer": "An application-layer smart-home interoperability standard developed through the Connectivity Standards Alliance, formerly the Zigbee Alliance. Major participants include Apple, Google, Amazon, Samsung and many device makers.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13319",
+      "rank": 15,
+      "title": "IBM PC → Intel 8088 and x86 → Microsoft DOS → clone makers such as Compa...",
+      "hook": "IBM PC → Intel 8088 and x86 → Microsoft DOS → clone makers such as Compaq → Windows ecosystem → Wintel standard → Lenovo acquisition of IBM PC...",
+      "explainer": "IBM PC → Intel 8088 and x86 → Microsoft DOS → clone makers such as Compaq → Windows ecosystem → Wintel standard → Lenovo acquisition of IBM PC division.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13930",
+      "rank": 16,
+      "title": "TheFacebook → News Feed → Instagram and WhatsApp → Meta.",
+      "hook": "TheFacebook → News Feed → Instagram and WhatsApp → Meta.",
+      "explainer": "TheFacebook → News Feed → Instagram and WhatsApp → Meta.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13938",
+      "rank": 17,
+      "title": "TCS, Infosys, Wipro and HCL → global delivery → SaaS, fintech, commerce ...",
+      "hook": "TCS, Infosys, Wipro and HCL → global delivery → SaaS, fintech, commerce and digital public infrastructure.",
+      "explainer": "TCS, Infosys, Wipro and HCL → global delivery → SaaS, fintech, commerce and digital public infrastructure.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-17071",
+      "rank": 18,
+      "title": "• Chip design: Nvidia, AMD, Qualcomm, Apple, Broadcom and others.",
+      "hook": "• Chip design: Nvidia, AMD, Qualcomm, Apple, Broadcom and others.",
+      "explainer": "• Chip design: Nvidia, AMD, Qualcomm, Apple, Broadcom and others.",
+      "importance": 2,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-136",
+      "rank": 19,
+      "title": "* Nvidia, AMD, Qualcomm and ARM",
+      "hook": "* Nvidia, AMD, Qualcomm and ARM",
+      "explainer": "* Nvidia, AMD, Qualcomm and ARM",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-6453",
+      "rank": 20,
+      "title": "Motorola pioneered radios, semiconductors and mobile phones. The company...",
+      "hook": "Motorola pioneered radios, semiconductors and mobile phones. The company split into Motorola Mobility and Motorola Solutions. Google acquired ...",
+      "explainer": "Motorola pioneered radios, semiconductors and mobile phones. The company split into Motorola Mobility and Motorola Solutions. Google acquired Motorola Mobility and later sold it to Lenovo while retaining significant patents.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-6702",
+      "rank": 21,
+      "title": "Bluetooth began as a short-range radio project at Ericsson in Sweden. Ja...",
+      "hook": "Bluetooth began as a short-range radio project at Ericsson in Sweden. Jaap Haartsen and Sven Mattisson are important engineering figures. Eric...",
+      "explainer": "Bluetooth began as a short-range radio project at Ericsson in Sweden. Jaap Haartsen and Sven Mattisson are important engineering figures. Ericsson, IBM, Intel, Nokia and Toshiba formed the original Bluetooth Special Interest Group in 1998.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-8596",
+      "rank": 22,
+      "title": "Larry Page and Sergey Brin — Google and PageRank.",
+      "hook": "Larry Page and Sergey Brin — Google and PageRank.",
+      "explainer": "Larry Page and Sergey Brin — Google and PageRank.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10017",
+      "rank": 23,
+      "title": "Fairchild Semiconductor → Robert Noyce and Gordon Moore → Intel → x86 pr...",
+      "hook": "Fairchild Semiconductor → Robert Noyce and Gordon Moore → Intel → x86 processors → IBM PC ecosystem → Microsoft DOS and Windows → Wintel.",
+      "explainer": "Fairchild Semiconductor → Robert Noyce and Gordon Moore → Intel → x86 processors → IBM PC ecosystem → Microsoft DOS and Windows → Wintel.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10031",
+      "rank": 24,
+      "title": "Alphabet is the parent company; Google is its largest operating company;...",
+      "hook": "Alphabet is the parent company; Google is its largest operating company; Google Search is a product. Meta is the company; Facebook is an app. ...",
+      "explainer": "Alphabet is the parent company; Google is its largest operating company; Google Search is a product. Meta is the company; Facebook is an app. One 97 Communications is the listed company; Paytm is the consumer brand. Alphabet, Google and Google Search are therefore not interchangeable answers.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10059",
+      "rank": 25,
+      "title": "A vertically integrated company controls several layers of the supply ch...",
+      "hook": "A vertically integrated company controls several layers of the supply chain. Apple designs operating systems, chips, devices, services and sto...",
+      "explainer": "A vertically integrated company controls several layers of the supply chain. Apple designs operating systems, chips, devices, services and stores. Samsung spans components and consumer products. Amazon combines marketplace, fulfilment, cloud infrastructure, devices, advertising and media.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10146",
+      "rank": 26,
+      "title": "Competitors reverse-engineered the BIOS using clean-room methods, produc...",
+      "hook": "Competitors reverse-engineered the BIOS using clean-room methods, producing IBM-compatible clones. The standard became larger than IBM itself....",
+      "explainer": "Competitors reverse-engineered the BIOS using clean-room methods, producing IBM-compatible clones. The standard became larger than IBM itself. Microsoft and Intel captured much of the ecosystem’s long-term strategic power.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10284",
+      "rank": 27,
+      "title": "• Microsoft versus Google and Amazon in cloud, search, productivity and AI.",
+      "hook": "• Microsoft versus Google and Amazon in cloud, search, productivity and AI.",
+      "explainer": "• Microsoft versus Google and Amazon in cloud, search, productivity and AI.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10300",
+      "rank": 28,
+      "title": "• GitHub is owned by Microsoft; Git itself was created by Linus Torvalds...",
+      "hook": "• GitHub is owned by Microsoft; Git itself was created by Linus Torvalds and is not a Microsoft invention.",
+      "explainer": "• GitHub is owned by Microsoft; Git itself was created by Linus Torvalds and is not a Microsoft invention.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10527",
+      "rank": 29,
+      "title": "• Motorola Mobility, later largely sold to Lenovo while Google retained ...",
+      "hook": "• Motorola Mobility, later largely sold to Lenovo while Google retained significant patent interests.",
+      "explainer": "• Motorola Mobility, later largely sold to Lenovo while Google retained significant patent interests.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10781",
+      "rank": 30,
+      "title": "• Facebook did not create Instagram, WhatsApp or Oculus.",
+      "hook": "• Facebook did not create Instagram, WhatsApp or Oculus.",
+      "explainer": "• Facebook did not create Instagram, WhatsApp or Oculus.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10867",
+      "rank": 31,
+      "title": "IBM wanted more than one source for PC processors. Intel licensed AMD to...",
+      "hook": "IBM wanted more than one source for PC processors. Intel licensed AMD to manufacture compatible chips, but the relationship later deteriorated...",
+      "explainer": "IBM wanted more than one source for PC processors. Intel licensed AMD to manufacture compatible chips, but the relationship later deteriorated into years of legal disputes.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10991",
+      "rank": 32,
+      "title": "Companies including Apple, Qualcomm, Samsung and MediaTek developed chip...",
+      "hook": "Companies including Apple, Qualcomm, Samsung and MediaTek developed chips based on Arm architecture or instruction-set licences.",
+      "explainer": "Companies including Apple, Qualcomm, Samsung and MediaTek developed chips based on Arm architecture or instruction-set licences.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11072",
+      "rank": 33,
+      "title": "• Nvidia, AMD, Qualcomm and many startups could focus on design.",
+      "hook": "• Nvidia, AMD, Qualcomm and many startups could focus on design.",
+      "explainer": "• Nvidia, AMD, Qualcomm and many startups could focus on design.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11093",
+      "rank": 34,
+      "title": "TSMC does not usually create the consumer brands printed on the device. ...",
+      "hook": "TSMC does not usually create the consumer brands printed on the device. An Apple, Nvidia or AMD chip may be designed by that company and manuf...",
+      "explainer": "TSMC does not usually create the consumer brands printed on the device. An Apple, Nvidia or AMD chip may be designed by that company and manufactured by TSMC.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11412",
+      "rank": 35,
+      "title": "• Competitive attacks on IBM, Microsoft and SAP.",
+      "hook": "• Competitive attacks on IBM, Microsoft and SAP.",
+      "explainer": "• Competitive attacks on IBM, Microsoft and SAP.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13117",
+      "rank": 36,
+      "title": "• Google acquired Motorola Mobility, then sold most of it to Lenovo whil...",
+      "hook": "• Google acquired Motorola Mobility, then sold most of it to Lenovo while retaining significant patent value.",
+      "explainer": "• Google acquired Motorola Mobility, then sold most of it to Lenovo while retaining significant patent value.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13212",
+      "rank": 37,
+      "title": "• Larry Page and Sergey Brin — Google.",
+      "hook": "• Larry Page and Sergey Brin — Google.",
+      "explainer": "• Larry Page and Sergey Brin — Google.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13302",
+      "rank": 38,
+      "title": "• Elon Musk — Tesla, SpaceX, X and xAI.",
+      "hook": "• Elon Musk — Tesla, SpaceX, X and xAI.",
+      "explainer": "• Elon Musk — Tesla, SpaceX, X and xAI.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13437",
+      "rank": 39,
+      "title": "• TCS — Tata Consultancy Services.",
+      "hook": "• TCS — Tata Consultancy Services.",
+      "explainer": "• TCS — Tata Consultancy Services.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13914",
+      "rank": 40,
+      "title": "IBM PC → Microsoft DOS and Intel x86 → Wintel.",
+      "hook": "IBM PC → Microsoft DOS and Intel x86 → Wintel.",
+      "explainer": "IBM PC → Microsoft DOS and Intel x86 → Wintel.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13934",
+      "rank": 41,
+      "title": "Adobe boxes → Creative Cloud; Office boxes → Microsoft 365; enterprise i...",
+      "hook": "Adobe boxes → Creative Cloud; Office boxes → Microsoft 365; enterprise installation → Salesforce SaaS.",
+      "explainer": "Adobe boxes → Creative Cloud; Office boxes → Microsoft 365; enterprise installation → Salesforce SaaS.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-17056",
+      "rank": 42,
+      "title": "A fabless company designs chips but contracts manufacturing to a foundry...",
+      "hook": "A fabless company designs chips but contracts manufacturing to a foundry. Nvidia, AMD, Qualcomm, Broadcom and many startups use this model.",
+      "explainer": "A fabless company designs chips but contracts manufacturing to a foundry. Nvidia, AMD, Qualcomm, Broadcom and many startups use this model.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-18186",
+      "rank": 43,
+      "title": "4. IBM PC → Intel 8088 → x86 ecosystem → AMD64 → modern x86 compatibility.",
+      "hook": "4. IBM PC → Intel 8088 → x86 ecosystem → AMD64 → modern x86 compatibility.",
+      "explainer": "4. IBM PC → Intel 8088 → x86 ecosystem → AMD64 → modern x86 compatibility.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-28485",
+      "rank": 44,
+      "title": "Nadella did not found Microsoft. Bill Gates and Paul Allen did.",
+      "hook": "Nadella did not found Microsoft. Bill Gates and Paul Allen did.",
+      "explainer": "Nadella did not found Microsoft. Bill Gates and Paul Allen did.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-31297",
+      "rank": 45,
+      "title": "Sir Ratan Tata, the son of Jamsetji, must not be confused with Ratan Nav...",
+      "hook": "Sir Ratan Tata, the son of Jamsetji, must not be confused with Ratan Naval Tata, the late twentieth- and early twenty-first-century group chai...",
+      "explainer": "Sir Ratan Tata, the son of Jamsetji, must not be confused with Ratan Naval Tata, the late twentieth- and early twenty-first-century group chairman.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-33447",
+      "rank": 46,
+      "title": "130. TCS VERSUS “TATA CONSULTANCY”",
+      "hook": "130. TCS VERSUS “TATA CONSULTANCY”",
+      "explainer": "130. TCS VERSUS “TATA CONSULTANCY”",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-33450",
+      "rank": 47,
+      "title": "The legal company is Tata Consultancy Services Limited, usually TCS. “Ta...",
+      "hook": "The legal company is Tata Consultancy Services Limited, usually TCS. “Tata Consultancy” alone is an incomplete informal shortening.",
+      "explainer": "The legal company is Tata Consultancy Services Limited, usually TCS. “Tata Consultancy” alone is an incomplete informal shortening.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-33602",
+      "rank": 48,
+      "title": "• TCS — Tata Consultancy Services.",
+      "hook": "• TCS — Tata Consultancy Services.",
+      "explainer": "• TCS — Tata Consultancy Services.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-33647",
+      "rank": 49,
+      "title": "• 2012 — TCS CodeVita; Ratan Tata retires.",
+      "hook": "• 2012 — TCS CodeVita; Ratan Tata retires.",
+      "explainer": "• 2012 — TCS CodeVita; Ratan Tata retires.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-36407",
+      "rank": 50,
+      "title": "• PageRank, associated with Google founders Larry Page and Sergey Brin, ...",
+      "hook": "• PageRank, associated with Google founders Larry Page and Sergey Brin, ranks web pages using link structure.",
+      "explainer": "• PageRank, associated with Google founders Larry Page and Sergey Brin, ranks web pages using link structure.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-96",
+      "rank": 51,
+      "title": "* Samsung, Sony and Nintendo",
+      "hook": "* Samsung, Sony and Nintendo",
+      "explainer": "* Samsung, Sony and Nintendo",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-134",
+      "rank": 52,
+      "title": "* TSMC, Intel and Samsung",
+      "hook": "* TSMC, Intel and Samsung",
+      "explainer": "* TSMC, Intel and Samsung",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-198",
+      "rank": 53,
+      "title": "* Jamsetji Tata",
+      "hook": "* Jamsetji Tata",
+      "explainer": "* Jamsetji Tata",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-201",
+      "rank": 54,
+      "title": "* Ratan Tata",
+      "hook": "* Ratan Tata",
+      "explainer": "* Ratan Tata",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-377",
+      "rank": 55,
+      "title": "* TCS and Tata developments",
+      "hook": "* TCS and Tata developments",
+      "explainer": "* TCS and Tata developments",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-2320",
+      "rank": 56,
+      "title": "104. Microsoft, IBM and DOS",
+      "hook": "104. Microsoft, IBM and DOS",
+      "explainer": "104. Microsoft, IBM and DOS",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-2322",
+      "rank": 57,
+      "title": "Microsoft acquired rights to a system related to QDOS/86-DOS and adapted...",
+      "hook": "Microsoft acquired rights to a system related to QDOS/86-DOS and adapted it for IBM.",
+      "explainer": "Microsoft acquired rights to a system related to QDOS/86-DOS and adapted it for IBM.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-2324",
+      "rank": 58,
+      "title": "This helped Microsoft become enormously influential as IBM-compatible PC...",
+      "hook": "This helped Microsoft become enormously influential as IBM-compatible PCs spread.",
+      "explainer": "This helped Microsoft become enormously influential as IBM-compatible PCs spread.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-2374",
+      "rank": 59,
+      "title": "* Apple arranged visits through a business relationship involving access...",
+      "hook": "* Apple arranged visits through a business relationship involving access and investment opportunities.",
+      "explainer": "* Apple arranged visits through a business relationship involving access and investment opportunities.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-5456",
+      "rank": 60,
+      "title": "Larry Page and Sergey Brin’s Stanford project was initially called BackR...",
+      "hook": "Larry Page and Sergey Brin’s Stanford project was initially called BackRub because it analysed backlinks. PageRank evaluated the Web’s link st...",
+      "explainer": "Larry Page and Sergey Brin’s Stanford project was initially called BackRub because it analysed backlinks. PageRank evaluated the Web’s link structure, treating links partly like academic citations.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-6322",
+      "rank": 61,
+      "title": "The Nokia tune derives from Gran Vals by Spanish composer and guitarist ...",
+      "hook": "The Nokia tune derives from Gran Vals by Spanish composer and guitarist Francisco Tárrega.",
+      "explainer": "The Nokia tune derives from Gran Vals by Spanish composer and guitarist Francisco Tárrega.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-6408",
+      "rank": 62,
+      "title": "Rich Communication Services is a carrier-oriented messaging standard des...",
+      "hook": "Rich Communication Services is a carrier-oriented messaging standard designed to add group chat, media, read receipts and typing indicators be...",
+      "explainer": "Rich Communication Services is a carrier-oriented messaging standard designed to add group chat, media, read receipts and typing indicators beyond SMS. Google strongly promoted RCS through Android messaging. Apple added RCS support alongside iMessage rather than replacing iMessage.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-6465",
+      "rank": 63,
+      "title": "Named after the Finnish town and river area associated with its nineteen...",
+      "hook": "Named after the Finnish town and river area associated with its nineteenth-century industrial operations. After selling its phone business to ...",
+      "explainer": "Named after the Finnish town and river area associated with its nineteenth-century industrial operations. After selling its phone business to Microsoft, Nokia focused on network infrastructure and later acquired Alcatel-Lucent.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-6762",
+      "rank": 64,
+      "title": "Small transmitters broadcast identifiers that nearby devices can detect....",
+      "hook": "Small transmitters broadcast identifiers that nearby devices can detect. Apple’s iBeacon and Google’s Eddystone were prominent beacon approaches.",
+      "explainer": "Small transmitters broadcast identifiers that nearby devices can detect. Apple’s iBeacon and Google’s Eddystone were prominent beacon approaches.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-7041",
+      "rank": 65,
+      "title": "• MAREA across the Atlantic, backed by Microsoft and Meta.",
+      "hook": "• MAREA across the Atlantic, backed by Microsoft and Meta.",
+      "explainer": "• MAREA across the Atlantic, backed by Microsoft and Meta.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10043",
+      "rank": 66,
+      "title": "A spin-off creates an independent company from an existing business. Exa...",
+      "hook": "A spin-off creates an independent company from an existing business. Examples include PayPal’s separation from eBay and IBM’s spin-off of Kynd...",
+      "explainer": "A spin-off creates an independent company from an existing business. Examples include PayPal’s separation from eBay and IBM’s spin-off of Kyndryl. A split may produce two successor companies, as Hewlett-Packard did with HP Inc. and Hewlett Packard Enterprise.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10159",
+      "rank": 67,
+      "title": "• IBM’s OS/2 lost the desktop operating-system war to Microsoft Windows ...",
+      "hook": "• IBM’s OS/2 lost the desktop operating-system war to Microsoft Windows despite beginning as a Microsoft–IBM partnership.",
+      "explainer": "• IBM’s OS/2 lost the desktop operating-system war to Microsoft Windows despite beginning as a Microsoft–IBM partnership.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10165",
+      "rank": 68,
+      "title": "Paul Rand designed the famous striped IBM logo. The stripes suggest spee...",
+      "hook": "Paul Rand designed the famous striped IBM logo. The stripes suggest speed and dynamism while retaining the block-letter identity. THINK predat...",
+      "explainer": "Paul Rand designed the famous striped IBM logo. The stripes suggest speed and dynamism while retaining the block-letter identity. THINK predates the ThinkPad laptop brand, which originated at IBM and later passed to Lenovo with the PC division.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10252",
+      "rank": 69,
+      "title": "• Satya Nadella: joined Microsoft in 1992; became CEO in 2014; shifted e...",
+      "hook": "• Satya Nadella: joined Microsoft in 1992; became CEO in 2014; shifted emphasis toward cloud, subscriptions, openness and AI.",
+      "explainer": "• Satya Nadella: joined Microsoft in 1992; became CEO in 2014; shifted emphasis toward cloud, subscriptions, openness and AI.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10279",
+      "rank": 70,
+      "title": "• Microsoft versus Apple over graphical-interface elements.",
+      "hook": "• Microsoft versus Apple over graphical-interface elements.",
+      "explainer": "• Microsoft versus Apple over graphical-interface elements.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10280",
+      "rank": 71,
+      "title": "• Microsoft versus IBM in the OS/2 and Windows divergence.",
+      "hook": "• Microsoft versus IBM in the OS/2 and Windows divergence.",
+      "explainer": "• Microsoft versus IBM in the OS/2 and Windows divergence.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10283",
+      "rank": 72,
+      "title": "• Microsoft versus Sony and Nintendo in consoles.",
+      "hook": "• Microsoft versus Sony and Nintendo in consoles.",
+      "explainer": "• Microsoft versus Sony and Nintendo in consoles.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10297",
+      "rank": 73,
+      "title": "• MS-DOS was not written entirely from nothing for IBM; Microsoft acquir...",
+      "hook": "• MS-DOS was not written entirely from nothing for IBM; Microsoft acquired and adapted an existing system.",
+      "explainer": "• MS-DOS was not written entirely from nothing for IBM; Microsoft acquired and adapted an existing system.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10318",
+      "rank": 74,
+      "title": "Steve Wozniak designed the Apple I after participating in the Homebrew C...",
+      "hook": "Steve Wozniak designed the Apple I after participating in the Homebrew Computer Club. Steve Jobs recognised its commercial potential. Ronald W...",
+      "explainer": "Steve Wozniak designed the Apple I after participating in the Homebrew Computer Club. Steve Jobs recognised its commercial potential. Ronald Wayne helped formalise the partnership and designed an early company logo but sold his stake shortly afterwards.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10414",
+      "rank": 75,
+      "title": "• Apple versus Microsoft over GUI similarities.",
+      "hook": "• Apple versus Microsoft over GUI similarities.",
+      "explainer": "• Apple versus Microsoft over GUI similarities.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10415",
+      "rank": 76,
+      "title": "• Apple versus IBM in the early PC era.",
+      "hook": "• Apple versus IBM in the early PC era.",
+      "explainer": "• Apple versus IBM in the early PC era.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10416",
+      "rank": 77,
+      "title": "• Apple versus Samsung in smartphone-design and patent litigation.",
+      "hook": "• Apple versus Samsung in smartphone-design and patent litigation.",
+      "explainer": "• Apple versus Samsung in smartphone-design and patent litigation.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10417",
+      "rank": 78,
+      "title": "• Apple versus Google over mobile platforms.",
+      "hook": "• Apple versus Google over mobile platforms.",
+      "explainer": "• Apple versus Google over mobile platforms.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10452",
+      "rank": 79,
+      "title": "• Founders: Larry Page and Sergey Brin.",
+      "hook": "• Founders: Larry Page and Sergey Brin.",
+      "explainer": "• Founders: Larry Page and Sergey Brin.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10550",
+      "rank": 80,
+      "title": "• Google versus Microsoft in browsers, productivity, cloud and AI.",
+      "hook": "• Google versus Microsoft in browsers, productivity, cloud and AI.",
+      "explainer": "• Google versus Microsoft in browsers, productivity, cloud and AI.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10566",
+      "rank": 81,
+      "title": "• Google did not create YouTube, Android, Waze or DeepMind; it acquired ...",
+      "hook": "• Google did not create YouTube, Android, Waze or DeepMind; it acquired them.",
+      "explainer": "• Google did not create YouTube, Android, Waze or DeepMind; it acquired them.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10678",
+      "rank": 82,
+      "title": "• Alexa versus Apple Siri and Google Assistant.",
+      "hook": "• Alexa versus Apple Siri and Google Assistant.",
+      "explainer": "• Alexa versus Apple Siri and Google Assistant.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10688",
+      "rank": 83,
+      "title": "6. FACEBOOK AND META — THE SOCIAL GRAPH BECOMES A FAMILY OF APPS",
+      "hook": "6. FACEBOOK AND META — THE SOCIAL GRAPH BECOMES A FAMILY OF APPS",
+      "explainer": "6. FACEBOOK AND META — THE SOCIAL GRAPH BECOMES A FAMILY OF APPS",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10693",
+      "rank": 84,
+      "title": "• Founding figures commonly listed by Meta: Mark Zuckerberg, Dustin Mosk...",
+      "hook": "• Founding figures commonly listed by Meta: Mark Zuckerberg, Dustin Moskovitz, Chris Hughes and Eduardo Saverin; Andrew McCollum is also frequ...",
+      "explainer": "• Founding figures commonly listed by Meta: Mark Zuckerberg, Dustin Moskovitz, Chris Hughes and Eduardo Saverin; Andrew McCollum is also frequently included in broader historical accounts.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10738",
+      "rank": 85,
+      "title": "The corporate rename separated the company from the Facebook app and sig...",
+      "hook": "The corporate rename separated the company from the Facebook app and signalled a strategic bet on the metaverse, virtual and augmented reality...",
+      "explainer": "The corporate rename separated the company from the Facebook app and signalled a strategic bet on the metaverse, virtual and augmented reality, and future social platforms. Zuckerberg linked meta to the Greek idea of beyond.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10757",
+      "rank": 86,
+      "title": "• Antitrust scrutiny of Instagram and WhatsApp acquisitions.",
+      "hook": "• Antitrust scrutiny of Instagram and WhatsApp acquisitions.",
+      "explainer": "• Antitrust scrutiny of Instagram and WhatsApp acquisitions.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10774",
+      "rank": 87,
+      "title": "• The company introduced an all-capital FACEBOOK corporate wordmark befo...",
+      "hook": "• The company introduced an all-capital FACEBOOK corporate wordmark before the Meta rename to distinguish the parent from the app.",
+      "explainer": "• The company introduced an all-capital FACEBOOK corporate wordmark before the Meta rename to distinguish the parent from the app.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10780",
+      "rank": 88,
+      "title": "• Meta is the company; Facebook remains a product.",
+      "hook": "• Meta is the company; Facebook remains a product.",
+      "explainer": "• Meta is the company; Facebook remains a product.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-10842",
+      "rank": 89,
+      "title": "• Apple moved Macs from Intel processors to Apple silicon.",
+      "hook": "• Apple moved Macs from Intel processors to Apple silicon.",
+      "explainer": "• Apple moved Macs from Intel processors to Apple silicon.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11330",
+      "rank": 90,
+      "title": "• Motorola Mobility from Google in 2014.",
+      "hook": "• Motorola Mobility from Google in 2014.",
+      "explainer": "• Motorola Mobility from Google in 2014.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11338",
+      "rank": 91,
+      "title": "Lenovo did not invent ThinkPad or Motorola. It acquired both businesses ...",
+      "hook": "Lenovo did not invent ThinkPad or Motorola. It acquired both businesses through major cross-border deals.",
+      "explainer": "Lenovo did not invent ThinkPad or Motorola. It acquired both businesses through major cross-border deals.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11419",
+      "rank": 92,
+      "title": "• Oracle did not invent the relational model; Codd did at IBM.",
+      "hook": "• Oracle did not invent the relational model; Codd did at IBM.",
+      "explainer": "• Oracle did not invent the relational model; Codd did at IBM.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11545",
+      "rank": 93,
+      "title": "• Headquarters identity: Salesforce Tower, San Francisco.",
+      "hook": "• Headquarters identity: Salesforce Tower, San Francisco.",
+      "explainer": "• Headquarters identity: Salesforce Tower, San Francisco.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-11926",
+      "rank": 94,
+      "title": "• Blockbuster declined an opportunity associated with acquiring or partn...",
+      "hook": "• Blockbuster declined an opportunity associated with acquiring or partnering with Netflix, although retellings vary in detail.",
+      "explainer": "• Blockbuster declined an opportunity associated with acquiring or partnering with Netflix, although retellings vary in detail.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-12085",
+      "rank": 95,
+      "title": "36. ALIBABA, TENCENT, BAIDU, HUAWEI AND XIAOMI — THE CHINESE TECHNOLOGY ...",
+      "hook": "36. ALIBABA, TENCENT, BAIDU, HUAWEI AND XIAOMI — THE CHINESE TECHNOLOGY CONSTELLATION",
+      "explainer": "36. ALIBABA, TENCENT, BAIDU, HUAWEI AND XIAOMI — THE CHINESE TECHNOLOGY CONSTELLATION",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-12282",
+      "rank": 96,
+      "title": "• Epic’s legal battles with Apple and Google challenge app-store commiss...",
+      "hook": "• Epic’s legal battles with Apple and Google challenge app-store commissions and rules.",
+      "explainer": "• Epic’s legal battles with Apple and Google challenge app-store commissions and rules.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-12285",
+      "rank": 97,
+      "title": "41. SONY PLAYSTATION, MICROSOFT XBOX AND THE CONSOLE PLATFORM WAR",
+      "hook": "41. SONY PLAYSTATION, MICROSOFT XBOX AND THE CONSOLE PLATFORM WAR",
+      "explainer": "41. SONY PLAYSTATION, MICROSOFT XBOX AND THE CONSOLE PLATFORM WAR",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-12402",
+      "rank": 98,
+      "title": "• HCL Infosystems: hardware and distribution lineage.",
+      "hook": "• HCL Infosystems: hardware and distribution lineage.",
+      "explainer": "• HCL Infosystems: hardware and distribution lineage.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-12807",
+      "rank": 99,
+      "title": "• Microsoft has generally preserved LinkedIn as a distinct brand and net...",
+      "hook": "• Microsoft has generally preserved LinkedIn as a distinct brand and network.",
+      "explainer": "• Microsoft has generally preserved LinkedIn as a distinct brand and network.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-12811",
+      "rank": 100,
+      "title": "LinkedIn is owned by Microsoft, but it predates Microsoft’s acquisition ...",
+      "hook": "LinkedIn is owned by Microsoft, but it predates Microsoft’s acquisition by more than a decade.",
+      "explainer": "LinkedIn is owned by Microsoft, but it predates Microsoft’s acquisition by more than a decade.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-12924",
+      "rank": 101,
+      "title": "• Google did not create YouTube.",
+      "hook": "• Google did not create YouTube.",
+      "explainer": "• Google did not create YouTube.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13053",
+      "rank": 102,
+      "title": "Nokia adopted Windows Phone under CEO Stephen Elop. Microsoft later acqu...",
+      "hook": "Nokia adopted Windows Phone under CEO Stephen Elop. Microsoft later acquired Nokia’s devices and services business, but the effort failed to e...",
+      "explainer": "Nokia adopted Windows Phone under CEO Stephen Elop. Microsoft later acquired Nokia’s devices and services business, but the effort failed to establish a major third smartphone ecosystem.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13062",
+      "rank": 103,
+      "title": "• Microsoft did not acquire every part of Nokia.",
+      "hook": "• Microsoft did not acquire every part of Nokia.",
+      "explainer": "• Microsoft did not acquire every part of Nokia.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13121",
+      "rank": 104,
+      "title": "The current Motorola consumer-phone brand is in Lenovo’s corporate famil...",
+      "hook": "The current Motorola consumer-phone brand is in Lenovo’s corporate family; Motorola Solutions is a separate company focused on communications ...",
+      "explainer": "The current Motorola consumer-phone brand is in Lenovo’s corporate family; Motorola Solutions is a separate company focused on communications and public-safety technology.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13201",
+      "rank": 105,
+      "title": "• Bill Gates and Paul Allen — Microsoft.",
+      "hook": "• Bill Gates and Paul Allen — Microsoft.",
+      "explainer": "• Bill Gates and Paul Allen — Microsoft.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-04-lib-13211",
+      "rank": 106,
+      "title": "• Steve Jobs, Steve Wozniak and Ronald Wayne — Apple.",
+      "hook": "• Steve Jobs, Steve Wozniak and Ronald Wayne — Apple.",
+      "explainer": "• Steve Jobs, Steve Wozniak and Ronald Wayne — Apple.",
+      "importance": 1,
+      "category": "Technology Companies, Personalities, Brands and Products",
+      "tags": [
+        "Technology Companies, Personalities, Brands and Products",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "technology-company cloud expansions"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }

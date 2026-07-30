@@ -40,7 +40,11 @@ jobs:
       - name: Build index manifest
         run: node scripts/build-index.mjs
 
-      # Step 3: Generate Jekyll module pages (from curated module-XX.json + prep-library cross-refs)
+      # Step 3: Enrich curated modules with prep library content (target: 1200+ topics)
+      - name: Enrich modules from library
+        run: node scripts/enrich-modules-from-library.mjs
+
+      # Step 4: Generate Jekyll module pages (from enriched module-XX.json + library cross-refs)
       - name: Generate module pages
         run: node scripts/generate-module-pages.mjs
 

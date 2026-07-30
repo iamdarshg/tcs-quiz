@@ -225,6 +225,1706 @@
           }
         ]
       }
+    },
+    {
+      "id": "module-03-lib-4161",
+      "rank": 7,
+      "title": "Connects wireless devices to a wired network. A domestic “Wi-Fi router” ...",
+      "hook": "Connects wireless devices to a wired network. A domestic “Wi-Fi router” usually combines a router, Ethernet switch, access point, firewall, DH...",
+      "explainer": "Connects wireless devices to a wired network. A domestic “Wi-Fi router” usually combines a router, Ethernet switch, access point, firewall, DHCP server and sometimes a modem in one box.",
+      "importance": 3,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8992",
+      "rank": 8,
+      "title": "• Put telegraph, telephone, radio, packet switching, ARPANET, TCP/IP and...",
+      "hook": "• Put telegraph, telephone, radio, packet switching, ARPANET, TCP/IP and Web in order.",
+      "explainer": "• Put telegraph, telephone, radio, packet switching, ARPANET, TCP/IP and Web in order.",
+      "importance": 3,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4733",
+      "rank": 9,
+      "title": "ARPANET’s hosts were required to switch from NCP to TCP/IP on January 1,...",
+      "hook": "ARPANET’s hosts were required to switch from NCP to TCP/IP on January 1, 1983. This coordinated migration is often treated as a defining birth...",
+      "explainer": "ARPANET’s hosts were required to switch from NCP to TCP/IP on January 1, 1983. This coordinated migration is often treated as a defining birthday of the modern Internet.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8",
+      "rank": 10,
+      "title": "3. Internet, Web, Networking, Telecom and Mobile",
+      "hook": "3. Internet, Web, Networking, Telecom and Mobile",
+      "explainer": "3. Internet, Web, Networking, Telecom and Mobile",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-54",
+      "rank": 11,
+      "title": "3. Internet, Web, Networking, Telecom and Mobile",
+      "hook": "3. Internet, Web, Networking, Telecom and Mobile",
+      "explainer": "3. Internet, Web, Networking, Telecom and Mobile",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3868",
+      "rank": 12,
+      "title": "MODULE 3 — INTERNET, WEB, NETWORKING, TELECOM AND MOBILE",
+      "hook": "MODULE 3 — INTERNET, WEB, NETWORKING, TELECOM AND MOBILE",
+      "explainer": "MODULE 3 — INTERNET, WEB, NETWORKING, TELECOM AND MOBILE",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3887",
+      "rank": 13,
+      "title": "2. Computers learned to communicate: time-sharing, packet switching, ARP...",
+      "hook": "2. Computers learned to communicate: time-sharing, packet switching, ARPANET and TCP/IP.",
+      "explainer": "2. Computers learned to communicate: time-sharing, packet switching, ARPANET and TCP/IP.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4169",
+      "rank": 14,
+      "title": "Acts as an intermediary. A forward proxy represents clients; a reverse p...",
+      "hook": "Acts as an intermediary. A forward proxy represents clients; a reverse proxy represents servers. Proxies may filter, cache, secure, balance or...",
+      "explainer": "Acts as an intermediary. A forward proxy represents clients; a reverse proxy represents servers. Proxies may filter, cache, secure, balance or conceal network relationships.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8423",
+      "rank": 15,
+      "title": "1990 — First Web server and browser; ARPANET decommissioned.",
+      "hook": "1990 — First Web server and browser; ARPANET decommissioned.",
+      "explainer": "1990 — First Web server and browser; ARPANET decommissioned.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8827",
+      "rank": 16,
+      "title": "Paul Baran + Donald Davies → packet switching → ARPANET/NPL → Cerf and K...",
+      "hook": "Paul Baran + Donald Davies → packet switching → ARPANET/NPL → Cerf and Kahn → TCP/IP.",
+      "explainer": "Paul Baran + Donald Davies → packet switching → ARPANET/NPL → Cerf and Kahn → TCP/IP.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-9085",
+      "rank": 17,
+      "title": "18. Match the institution to its role: IETF, ICANN, W3C, ITU. Roles: Web...",
+      "hook": "18. Match the institution to its role: IETF, ICANN, W3C, ITU. Roles: Web standards; Internet protocol engineering; unique identifiers and DNS ...",
+      "explainer": "18. Match the institution to its role: IETF, ICANN, W3C, ITU. Roles: Web standards; Internet protocol engineering; unique identifiers and DNS coordination; global telecom/spectrum standards.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-19503",
+      "rank": 18,
+      "title": "A Web Application Firewall filters HTTP/HTTPS traffic to protect web app...",
+      "hook": "A Web Application Firewall filters HTTP/HTTPS traffic to protect web applications. It is not the same as a general network firewall and cannot...",
+      "explainer": "A Web Application Firewall filters HTTP/HTTPS traffic to protect web applications. It is not the same as a general network firewall and cannot repair vulnerable application code.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-20902",
+      "rank": 19,
+      "title": "A maintenance update in the core network caused a nationwide telecom out...",
+      "hook": "A maintenance update in the core network caused a nationwide telecom outage, affecting mobile, internet and some payment and emergency service...",
+      "explainer": "A maintenance update in the core network caused a nationwide telecom outage, affecting mobile, internet and some payment and emergency services. It demonstrated the societal impact of concentrated network dependencies.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-23689",
+      "rank": 20,
+      "title": "• DHCP automatically supplies network configuration such as IP address, ...",
+      "hook": "• DHCP automatically supplies network configuration such as IP address, gateway, and DNS server.",
+      "explainer": "• DHCP automatically supplies network configuration such as IP address, gateway, and DNS server.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3889",
+      "rank": 21,
+      "title": "4. Connectivity became personal and wireless: cellular networks, Wi-Fi, ...",
+      "hook": "4. Connectivity became personal and wireless: cellular networks, Wi-Fi, Bluetooth and smartphones.",
+      "explainer": "4. Connectivity became personal and wireless: cellular networks, Wi-Fi, Bluetooth and smartphones.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3915",
+      "rank": 22,
+      "title": "The Internet is the global network of networks that moves data using the...",
+      "hook": "The Internet is the global network of networks that moves data using the Internet Protocol suite. The Web is one service that runs on the Inte...",
+      "explainer": "The Internet is the global network of networks that moves data using the Internet Protocol suite. The Web is one service that runs on the Internet, primarily using HTTP or HTTPS to retrieve linked resources. Email, file transfer, internet telephony, multiplayer gaming and many messaging systems can use the Internet without being part of the Web.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4427",
+      "rank": 23,
+      "title": "DHCP automatically supplies devices with configuration such as IP addres...",
+      "hook": "DHCP automatically supplies devices with configuration such as IP address, subnet information, default gateway and DNS server.",
+      "explainer": "DHCP automatically supplies devices with configuration such as IP address, subnet information, default gateway and DNS server.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4520",
+      "rank": 24,
+      "title": "WebSocket establishes persistent, two-way communication between a client...",
+      "hook": "WebSocket establishes persistent, two-way communication between a client and server, useful for live chat, games, dashboards and collaboration.",
+      "explainer": "WebSocket establishes persistent, two-way communication between a client and server, useful for live chat, games, dashboards and collaboration.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4663",
+      "rank": 25,
+      "title": "ARPANET initially used the Network Control Protocol, or NCP, for host co...",
+      "hook": "ARPANET initially used the Network Control Protocol, or NCP, for host communication. NCP was later replaced by TCP/IP.",
+      "explainer": "ARPANET initially used the Network Control Protocol, or NCP, for host communication. NCP was later replaced by TCP/IP.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4727",
+      "rank": 26,
+      "title": "In 1977, a celebrated demonstration linked packet radio, ARPANET and a s...",
+      "hook": "In 1977, a celebrated demonstration linked packet radio, ARPANET and a satellite network using TCP, showing that heterogeneous networks could ...",
+      "explainer": "In 1977, a celebrated demonstration linked packet radio, ARPANET and a satellite network using TCP, showing that heterogeneous networks could function as an internet.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4745",
+      "rank": 27,
+      "title": "The United States National Science Foundation funded supercomputing cent...",
+      "hook": "The United States National Science Foundation funded supercomputing centres and the NSFNET backbone to connect researchers and institutions. N...",
+      "explainer": "The United States National Science Foundation funded supercomputing centres and the NSFNET backbone to connect researchers and institutions. NSFNET became a major successor backbone and helped spread TCP/IP beyond ARPANET.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4821",
+      "rank": 28,
+      "title": "Founded by Tim Berners-Lee in 1994 to develop open Web standards. It is ...",
+      "hook": "Founded by Tim Berners-Lee in 1994 to develop open Web standards. It is associated with HTML, CSS, accessibility and many Web technologies. Th...",
+      "explainer": "Founded by Tim Berners-Lee in 1994 to develop open Web standards. It is associated with HTML, CSS, accessibility and many Web technologies. The W3C and WHATWG have both played important roles in modern HTML development.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4945",
+      "rank": 29,
+      "title": "The first Web server and browser",
+      "hook": "The first Web server and browser",
+      "explainer": "The first Web server and browser",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4948",
+      "rank": 30,
+      "title": "Berners-Lee developed the first server, called httpd, and the first brow...",
+      "hook": "Berners-Lee developed the first server, called httpd, and the first browser-editor on a NeXT computer. The browser was initially called WorldW...",
+      "explainer": "Berners-Lee developed the first server, called httpd, and the first browser-editor on a NeXT computer. The browser was initially called WorldWideWeb and was later renamed Nexus to avoid confusion with the Web itself.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4957",
+      "rank": 31,
+      "title": "The first site was hosted at CERN and explained what the World Wide Web ...",
+      "hook": "The first site was hosted at CERN and explained what the World Wide Web was, how to obtain a browser and how to set up a server. Its famous ad...",
+      "explainer": "The first site was hosted at CERN and explained what the World Wide Web was, how to obtain a browser and how to set up a server. Its famous address began with info.cern.ch.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5260",
+      "rank": 32,
+      "title": "AJAX means Asynchronous JavaScript and XML. Jesse James Garrett populari...",
+      "hook": "AJAX means Asynchronous JavaScript and XML. Jesse James Garrett popularised the term in 2005. It describes Web applications that exchange data...",
+      "explainer": "AJAX means Asynchronous JavaScript and XML. Jesse James Garrett popularised the term in 2005. It describes Web applications that exchange data in the background and update part of a page without reloading the whole document. Modern AJAX often uses JSON rather than XML.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5363",
+      "rank": 33,
+      "title": "Opera originated at Norwegian telecom company Telenor before becoming an...",
+      "hook": "Opera originated at Norwegian telecom company Telenor before becoming an independent browser company. It was known for early innovations inclu...",
+      "explainer": "Opera originated at Norwegian telecom company Telenor before becoming an independent browser company. It was known for early innovations including tabs, speed dial and mobile compression. Opera moved from its Presto engine to Chromium/Blink.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6152",
+      "rank": 34,
+      "title": "Long Term Evolution was developed through 3GPP as an all-IP broadband mo...",
+      "hook": "Long Term Evolution was developed through 3GPP as an all-IP broadband mobile system. Early LTE did not initially satisfy every original ITU IM...",
+      "explainer": "Long Term Evolution was developed through 3GPP as an all-IP broadband mobile system. Early LTE did not initially satisfy every original ITU IMT-Advanced performance target, but market usage established LTE as 4G.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6343",
+      "rank": 35,
+      "title": "Symbian OS grew from Psion’s EPOC and became the leading smartphone oper...",
+      "hook": "Symbian OS grew from Psion’s EPOC and became the leading smartphone operating system before Android and iOS. Nokia, Ericsson, Motorola and Psi...",
+      "explainer": "Symbian OS grew from Psion’s EPOC and became the leading smartphone operating system before Android and iOS. Nokia, Ericsson, Motorola and Psion helped create Symbian Ltd.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-7194",
+      "rank": 36,
+      "title": "The same IP address is announced from multiple locations. Routing direct...",
+      "hook": "The same IP address is announced from multiple locations. Routing directs users toward a nearby or topologically favourable instance. DNS root...",
+      "explainer": "The same IP address is announced from multiple locations. Routing directs users toward a nearby or topologically favourable instance. DNS root servers and content-delivery networks commonly use anycast.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-7284",
+      "rank": 37,
+      "title": "A cache stores frequently needed data closer to where it will be used. B...",
+      "hook": "A cache stores frequently needed data closer to where it will be used. Browser cache, DNS cache, proxy cache and CDN edge cache operate at dif...",
+      "explainer": "A cache stores frequently needed data closer to where it will be used. Browser cache, DNS cache, proxy cache and CDN edge cache operate at different layers.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8418",
+      "rank": 38,
+      "title": "1983 — ARPANET changes to TCP/IP on January 1; commercial DynaTAC era be...",
+      "hook": "1983 — ARPANET changes to TCP/IP on January 1; commercial DynaTAC era begins.",
+      "explainer": "1983 — ARPANET changes to TCP/IP on January 1; commercial DynaTAC era begins.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8819",
+      "rank": 39,
+      "title": "Sputnik → ARPA → Licklider → ARPANET → TCP/IP → Internet.",
+      "hook": "Sputnik → ARPA → Licklider → ARPANET → TCP/IP → Internet.",
+      "explainer": "Sputnik → ARPA → Licklider → ARPANET → TCP/IP → Internet.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8996",
+      "rank": 40,
+      "title": "• Distinguish a hub, switch, router, modem, gateway, access point and fi...",
+      "hook": "• Distinguish a hub, switch, router, modem, gateway, access point and firewall.",
+      "explainer": "• Distinguish a hub, switch, router, modem, gateway, access point and firewall.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-9002",
+      "rank": 41,
+      "title": "• Explain cookies, AJAX, JSON, HTML, CSS and JavaScript.",
+      "hook": "• Explain cookies, AJAX, JSON, HTML, CSS and JavaScript.",
+      "explainer": "• Explain cookies, AJAX, JSON, HTML, CSS and JavaScript.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-9055",
+      "rank": 42,
+      "title": "8. Put these in chronological order: the Web proposal, the first ARPANET...",
+      "hook": "8. Put these in chronological order: the Web proposal, the first ARPANET message, Shannon’s information-theory paper, ARPANET’s TCP/IP Flag Day.",
+      "explainer": "8. Put these in chronological order: the Web proposal, the first ARPANET message, Shannon’s information-theory paper, ARPANET’s TCP/IP Flag Day.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-9508",
+      "rank": 43,
+      "title": "155. Which operating system grew from Psion’s EPOC and dominated smartph...",
+      "hook": "155. Which operating system grew from Psion’s EPOC and dominated smartphones before iOS and Android?",
+      "explainer": "155. Which operating system grew from Psion’s EPOC and dominated smartphones before iOS and Android?",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-9752",
+      "rank": 44,
+      "title": "8. Shannon paper 1948 → first ARPANET message 1969 → TCP/IP Flag Day 198...",
+      "hook": "8. Shannon paper 1948 → first ARPANET message 1969 → TCP/IP Flag Day 1983 → Web proposal 1989.",
+      "explainer": "8. Shannon paper 1948 → first ARPANET message 1969 → TCP/IP Flag Day 1983 → Web proposal 1989.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-16715",
+      "rank": 45,
+      "title": "IaaS gives infrastructure; PaaS gives a platform; SaaS gives a complete ...",
+      "hook": "IaaS gives infrastructure; PaaS gives a platform; SaaS gives a complete application. Public, private, hybrid and multi-cloud are distinct. VM ...",
+      "explainer": "IaaS gives infrastructure; PaaS gives a platform; SaaS gives a complete application. Public, private, hybrid and multi-cloud are distinct. VM includes guest OS; container shares kernel. Docker = containers; Kubernetes = orchestration. Serverless still has servers. RPO = data-loss window; RTO = recovery time. Object, block and file storage serve different needs.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-20037",
+      "rank": 46,
+      "title": "A fast-spreading 2001 worm whose name is “admin” reversed. It used multi...",
+      "hook": "A fast-spreading 2001 worm whose name is “admin” reversed. It used multiple propagation methods, including email, web servers and network shares.",
+      "explainer": "A fast-spreading 2001 worm whose name is “admin” reversed. It used multiple propagation methods, including email, web servers and network shares.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-24582",
+      "rank": 47,
+      "title": "• DNS resolves names; DHCP supplies network configuration; NAT translate...",
+      "hook": "• DNS resolves names; DHCP supplies network configuration; NAT translates addresses.",
+      "explainer": "• DNS resolves names; DHCP supplies network configuration; NAT translates addresses.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-26653",
+      "rank": 48,
+      "title": "Current-affairs questions may connect C-DOT with indigenous 4G/5G stacks...",
+      "hook": "Current-affairs questions may connect C-DOT with indigenous 4G/5G stacks, telecom standards or trusted-network initiatives.",
+      "explainer": "Current-affairs questions may connect C-DOT with indigenous 4G/5G stacks, telecom standards or trusted-network initiatives.",
+      "importance": 2,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-62",
+      "rank": 49,
+      "title": "* Tim Berners-Lee and the World Wide Web",
+      "hook": "* Tim Berners-Lee and the World Wide Web",
+      "explainer": "* Tim Berners-Lee and the World Wide Web",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-63",
+      "rank": 50,
+      "title": "* HTML, HTTP and URLs",
+      "hook": "* HTML, HTTP and URLs",
+      "explainer": "* HTML, HTTP and URLs",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-120",
+      "rank": 51,
+      "title": "* SaaS, PaaS and IaaS",
+      "hook": "* SaaS, PaaS and IaaS",
+      "explainer": "* SaaS, PaaS and IaaS",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3091",
+      "rank": 52,
+      "title": "* Web server.",
+      "hook": "* Web server.",
+      "explainer": "* Web server.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3646",
+      "rank": 53,
+      "title": "* Networking and the World Wide Web expand.",
+      "hook": "* Networking and the World Wide Web expand.",
+      "explainer": "* Networking and the World Wide Web expand.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3888",
+      "rank": 54,
+      "title": "3. Information became browsable: hypertext, the World Wide Web, browsers...",
+      "hook": "3. Information became browsable: hypertext, the World Wide Web, browsers, search and online services.",
+      "explainer": "3. Information became browsable: hypertext, the World Wide Web, browsers, search and online services.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-3912",
+      "rank": 55,
+      "title": "The Internet and the World Wide Web are not synonyms.",
+      "hook": "The Internet and the World Wide Web are not synonyms.",
+      "explainer": "The Internet and the World Wide Web are not synonyms.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4049",
+      "rank": 56,
+      "title": "Donald Davies at Britain’s National Physical Laboratory independently de...",
+      "hook": "Donald Davies at Britain’s National Physical Laboratory independently developed packet-switching concepts and coined the term packet. His NPL ...",
+      "explainer": "Donald Davies at Britain’s National Physical Laboratory independently developed packet-switching concepts and coined the term packet. His NPL network became an important early packet-switched network.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4075",
+      "rank": 57,
+      "title": "A network within a room, building, school, laboratory or campus segment....",
+      "hook": "A network within a room, building, school, laboratory or campus segment. Ethernet and Wi-Fi are dominant LAN technologies.",
+      "explainer": "A network within a room, building, school, laboratory or campus segment. Ethernet and Wi-Fi are dominant LAN technologies.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4141",
+      "rank": 58,
+      "title": "Connects network segments and filters frames using hardware addresses. A...",
+      "hook": "Connects network segments and filters frames using hardware addresses. A switch can be understood as a high-speed multiport bridge.",
+      "explainer": "Connects network segments and filters frames using hardware addresses. A switch can be understood as a high-speed multiport bridge.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4149",
+      "rank": 59,
+      "title": "Forwards packets between IP networks using routing tables. Routers separ...",
+      "hook": "Forwards packets between IP networks using routing tables. Routers separate broadcast domains and choose paths toward destination networks.",
+      "explainer": "Forwards packets between IP networks using routing tables. Routers separate broadcast domains and choose paths toward destination networks.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4357",
+      "rank": 60,
+      "title": "67/68 — DHCP server and client.",
+      "hook": "67/68 — DHCP server and client.",
+      "explainer": "67/68 — DHCP server and client.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4442",
+      "rank": 61,
+      "title": "DNS maps names to data such as IP addresses. It is a distributed hierarc...",
+      "hook": "DNS maps names to data such as IP addresses. It is a distributed hierarchical database, not simply one giant phone book on one server.",
+      "explainer": "DNS maps names to data such as IP addresses. It is a distributed hierarchical database, not simply one giant phone book on one server.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4532",
+      "rank": 62,
+      "title": "QUIC was originally developed at Google and standardised through the IET...",
+      "hook": "QUIC was originally developed at Google and standardised through the IETF. It runs over UDP, integrates modern security and reduces some delay...",
+      "explainer": "QUIC was originally developed at Google and standardised through the IETF. It runs over UDP, integrates modern security and reduces some delays associated with establishing and recovering connections. HTTP/3 maps HTTP semantics over QUIC rather than TCP.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4553",
+      "rank": 63,
+      "title": "Modern switched full-duplex Ethernet largely eliminates collisions, but ...",
+      "hook": "Modern switched full-duplex Ethernet largely eliminates collisions, but CSMA/CD remains a classic quiz association.",
+      "explainer": "Modern switched full-duplex Ethernet largely eliminates collisions, but CSMA/CD remains a classic quiz association.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4669",
+      "rank": 64,
+      "title": "Ray Tomlinson of BBN implemented network email across ARPANET in 1971. H...",
+      "hook": "Ray Tomlinson of BBN implemented network email across ARPANET in 1971. He selected the @ symbol to separate a user name from the host machine ...",
+      "explainer": "Ray Tomlinson of BBN implemented network email across ARPANET in 1971. He selected the @ symbol to separate a user name from the host machine because it was uncommon in names and naturally meant “at”.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4681",
+      "rank": 65,
+      "title": "A major ARPANET demonstration occurred at the International Conference o...",
+      "hook": "A major ARPANET demonstration occurred at the International Conference on Computer Communications in 1972. Robert Kahn organised it. The event...",
+      "explainer": "A major ARPANET demonstration occurred at the International Conference on Computer Communications in 1972. Robert Kahn organised it. The event exposed many computer professionals to packet networking.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4709",
+      "rank": 66,
+      "title": "This separation allowed applications needing speed rather than reliabili...",
+      "hook": "This separation allowed applications needing speed rather than reliability to use alternatives such as UDP.",
+      "explainer": "This separation allowed applications needing speed rather than reliability to use alternatives such as UDP.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4796",
+      "rank": 67,
+      "title": "Coordinates global protocol parameters, IP address allocation at the hig...",
+      "hook": "Coordinates global protocol parameters, IP address allocation at the highest level and the DNS root zone. Jon Postel performed foundational IA...",
+      "explainer": "Coordinates global protocol parameters, IP address allocation at the highest level and the DNS root zone. Jon Postel performed foundational IANA and RFC editorial work for many years.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-4924",
+      "rank": 68,
+      "title": "Belgian informatics engineer Robert Cailliau became a major collaborator...",
+      "hook": "Belgian informatics engineer Robert Cailliau became a major collaborator and advocate. He co-authored a revised proposal, helped secure instit...",
+      "explainer": "Belgian informatics engineer Robert Cailliau became a major collaborator and advocate. He co-authored a revised proposal, helped secure institutional support and later organised the first International World Wide Web Conference.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5001",
+      "rank": 69,
+      "title": "16. URLS, URIS AND THE ANATOMY OF A WEB ADDRESS",
+      "hook": "16. URLS, URIS AND THE ANATOMY OF A WEB ADDRESS",
+      "explainer": "16. URLS, URIS AND THE ANATOMY OF A WEB ADDRESS",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5031",
+      "rank": 70,
+      "title": "Points to a section within the retrieved resource. It is normally interp...",
+      "hook": "Points to a section within the retrieved resource. It is normally interpreted by the client and is not sent as part of the basic HTTP request ...",
+      "explainer": "Points to a section within the retrieved resource. It is normally interpreted by the client and is not sent as part of the basic HTTP request to the server.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5058",
+      "rank": 71,
+      "title": "Computers route using numerical IP addresses, but humans remember names ...",
+      "hook": "Computers route using numerical IP addresses, but humans remember names more easily. DNS translates hierarchical names into records such as IP...",
+      "explainer": "Computers route using numerical IP addresses, but humans remember names more easily. DNS translates hierarchical names into records such as IP addresses and mail-server locations.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5282",
+      "rank": 72,
+      "title": "Web Storage provides browser-side key-value storage. Unlike cookies, dat...",
+      "hook": "Web Storage provides browser-side key-value storage. Unlike cookies, data is not automatically attached to every HTTP request.",
+      "explainer": "Web Storage provides browser-side key-value storage. Unlike cookies, data is not automatically attached to every HTTP request.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5390",
+      "rank": 73,
+      "title": "Created by Alan Emtage at McGill University. Archie indexed filenames on...",
+      "hook": "Created by Alan Emtage at McGill University. Archie indexed filenames on public FTP servers and is often described as the first Internet searc...",
+      "explainer": "Created by Alan Emtage at McGill University. Archie indexed filenames on public FTP servers and is often described as the first Internet search engine. Its name came from archive without the letter v.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5532",
+      "rank": 74,
+      "title": "Web 2.0 was not a formal new version of HTTP or HTML.",
+      "hook": "Web 2.0 was not a formal new version of HTTP or HTML.",
+      "explainer": "Web 2.0 was not a formal new version of HTTP or HTML.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5580",
+      "rank": 75,
+      "title": "Software as a Service delivers applications through networks, often by s...",
+      "hook": "Software as a Service delivers applications through networks, often by subscription. Salesforce helped popularise enterprise SaaS; Google Work...",
+      "explainer": "Software as a Service delivers applications through networks, often by subscription. Salesforce helped popularise enterprise SaaS; Google Workspace and Microsoft 365 brought browser and cloud collaboration to mass audiences.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5601",
+      "rank": 76,
+      "title": "HTTPS uses TLS to protect traffic between a client and server. It provides:",
+      "hook": "HTTPS uses TLS to protect traffic between a client and server. It provides:",
+      "explainer": "HTTPS uses TLS to protect traffic between a client and server. It provides:",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5630",
+      "rank": 77,
+      "title": "A fraudulent website may still use HTTPS. The certificate shows that the...",
+      "hook": "A fraudulent website may still use HTTPS. The certificate shows that the browser has an encrypted connection to the displayed domain, not that...",
+      "explainer": "A fraudulent website may still use HTTPS. The certificate shows that the browser has an encrypted connection to the displayed domain, not that the business behind the domain is ethical.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5666",
+      "rank": 78,
+      "title": "Cross-Origin Resource Sharing lets a server explicitly permit certain cr...",
+      "hook": "Cross-Origin Resource Sharing lets a server explicitly permit certain cross-origin browser requests through HTTP headers.",
+      "explainer": "Cross-Origin Resource Sharing lets a server explicitly permit certain cross-origin browser requests through HTTP headers.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5696",
+      "rank": 79,
+      "title": "W3C historically published HTML and many Web standards. The Web Hypertex...",
+      "hook": "W3C historically published HTML and many Web standards. The Web Hypertext Application Technology Working Group, or WHATWG, developed a continu...",
+      "explainer": "W3C historically published HTML and many Web standards. The Web Hypertext Application Technology Working Group, or WHATWG, developed a continuously updated HTML Living Standard after browser vendors sought a more implementation-driven approach. Modern Web standardisation reflects cooperation and occasional tension between these communities.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5715",
+      "rank": 80,
+      "title": "Reduces local history and cookie persistence after a session. It does no...",
+      "hook": "Reduces local history and cookie persistence after a session. It does not make the user invisible to websites, employers, internet providers o...",
+      "explainer": "Reduces local history and cookie persistence after a session. It does not make the user invisible to websites, employers, internet providers or network administrators.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5729",
+      "rank": 81,
+      "title": "PART IV — TELECOMMUNICATIONS AND MOBILE NETWORKS",
+      "hook": "PART IV — TELECOMMUNICATIONS AND MOBILE NETWORKS",
+      "explainer": "PART IV — TELECOMMUNICATIONS AND MOBILE NETWORKS",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5735",
+      "rank": 82,
+      "title": "The public switched telephone network",
+      "hook": "The public switched telephone network",
+      "explainer": "The public switched telephone network",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5738",
+      "rank": 83,
+      "title": "The PSTN is the global collection of interconnected telephone networks. ...",
+      "hook": "The PSTN is the global collection of interconnected telephone networks. Historically it was circuit-switched and analogue at the edge, althoug...",
+      "explainer": "The PSTN is the global collection of interconnected telephone networks. Historically it was circuit-switched and analogue at the edge, although core transmission became digital and modern voice increasingly uses packet technologies.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5789",
+      "rank": 84,
+      "title": "A dial-up modem converted computer data into audible signals compatible ...",
+      "hook": "A dial-up modem converted computer data into audible signals compatible with ordinary voice circuits. It called an internet service provider a...",
+      "explainer": "A dial-up modem converted computer data into audible signals compatible with ordinary voice circuits. It called an internet service provider and occupied the telephone line.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-5912",
+      "rank": 85,
+      "title": "International Mobile Subscriber Identity. Identifies the subscriber with...",
+      "hook": "International Mobile Subscriber Identity. Identifies the subscriber within mobile-network systems. It includes country and network information...",
+      "explainer": "International Mobile Subscriber Identity. Identifies the subscriber within mobile-network systems. It includes country and network information plus a subscriber identifier.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6008",
+      "rank": 86,
+      "title": "A retrospective label for pre-cellular mobile radio telephone systems. C...",
+      "hook": "A retrospective label for pre-cellular mobile radio telephone systems. Car-phone services relied on a small number of high-power channels and ...",
+      "explainer": "A retrospective label for pre-cellular mobile radio telephone systems. Car-phone services relied on a small number of high-power channels and manual or automatic connection to the telephone network.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6172",
+      "rank": 87,
+      "title": "Voice over LTE carries calls through the IP Multimedia Subsystem rather ...",
+      "hook": "Voice over LTE carries calls through the IP Multimedia Subsystem rather than falling back to an older circuit-switched network. Benefits can i...",
+      "explainer": "Voice over LTE carries calls through the IP Multimedia Subsystem rather than falling back to an older circuit-switched network. Benefits can include faster call setup, high-definition voice and simultaneous LTE data.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6223",
+      "rank": 88,
+      "title": "NSA deployments use 5G radio alongside a 4G LTE core and control anchor....",
+      "hook": "NSA deployments use 5G radio alongside a 4G LTE core and control anchor. They allowed operators to launch 5G faster.",
+      "explainer": "NSA deployments use 5G radio alongside a 4G LTE core and control anchor. They allowed operators to launch 5G faster.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6229",
+      "rank": 89,
+      "title": "SA uses a 5G core and enables fuller support for capabilities such as ne...",
+      "hook": "SA uses a 5G core and enables fuller support for capabilities such as network slicing and lower-latency service architecture.",
+      "explainer": "SA uses a 5G core and enables fuller support for capabilities such as network slicing and lower-latency service architecture.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6402",
+      "rank": 90,
+      "title": "A carrier service that routes ordinary mobile calls and messages through...",
+      "hook": "A carrier service that routes ordinary mobile calls and messages through a Wi-Fi access network when cellular coverage is weak. It remains int...",
+      "explainer": "A carrier service that routes ordinary mobile calls and messages through a Wi-Fi access network when cellular coverage is weak. It remains integrated with the operator’s number and service.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6420",
+      "rank": 91,
+      "title": "A phone shares its mobile-data connection with other devices through Wi-...",
+      "hook": "A phone shares its mobile-data connection with other devices through Wi-Fi, USB or Bluetooth.",
+      "explainer": "A phone shares its mobile-data connection with other devices through Wi-Fi, USB or Bluetooth.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6426",
+      "rank": 92,
+      "title": "Lets users retain a telephone number when changing operators, subject to...",
+      "hook": "Lets users retain a telephone number when changing operators, subject to national rules. It reduces switching costs and intensifies competition.",
+      "explainer": "Lets users retain a telephone number when changing operators, subject to national rules. It reduces switching costs and intensifies competition.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6459",
+      "rank": 93,
+      "title": "Founded by Lars Magnus Ericsson in Sweden. A major telecom-equipment and...",
+      "hook": "Founded by Lars Magnus Ericsson in Sweden. A major telecom-equipment and network company. Sony Ericsson was a handset joint venture; Sony late...",
+      "explainer": "Founded by Lars Magnus Ericsson in Sweden. A major telecom-equipment and network company. Sony Ericsson was a handset joint venture; Sony later bought Ericsson’s share.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6477",
+      "rank": 94,
+      "title": "Chinese telecom-equipment and consumer-electronics company founded by Re...",
+      "hook": "Chinese telecom-equipment and consumer-electronics company founded by Ren Zhengfei. Its name is difficult to translate exactly but is often as...",
+      "explainer": "Chinese telecom-equipment and consumer-electronics company founded by Ren Zhengfei. Its name is difficult to translate exactly but is often associated with Chinese achievement. It became a major network supplier and smartphone maker while facing security restrictions and sanctions in several countries.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6489",
+      "rank": 95,
+      "title": "Taiwanese company originally known as High Tech Computer. It manufacture...",
+      "hook": "Taiwanese company originally known as High Tech Computer. It manufactured devices for other brands before creating its own smartphones and pla...",
+      "explainer": "Taiwanese company originally known as High Tech Computer. It manufactured devices for other brands before creating its own smartphones and played a major role in early Windows Mobile and Android hardware.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6522",
+      "rank": 96,
+      "title": "Wi-Fi is not the Internet. A Wi-Fi network may provide Internet access, ...",
+      "hook": "Wi-Fi is not the Internet. A Wi-Fi network may provide Internet access, local-only communication or no external connection at all.",
+      "explainer": "Wi-Fi is not the Internet. A Wi-Fi network may provide Internet access, local-only communication or no external connection at all.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6747",
+      "rank": 97,
+      "title": "A small Bluetooth network with a central device coordinating connected p...",
+      "hook": "A small Bluetooth network with a central device coordinating connected peripherals. Older terminology used master and slave; modern specificat...",
+      "explainer": "A small Bluetooth network with a central device coordinating connected peripherals. Older terminology used master and slave; modern specifications favour central and peripheral.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-6868",
+      "rank": 98,
+      "title": "Matter can run over Ethernet, Wi-Fi and Thread, using Bluetooth Low Ener...",
+      "hook": "Matter can run over Ethernet, Wi-Fi and Thread, using Bluetooth Low Energy for commissioning. Matter is not a replacement radio frequency.",
+      "explainer": "Matter can run over Ethernet, Wi-Fi and Thread, using Bluetooth Low Energy for commissioning. Matter is not a replacement radio frequency.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-7406",
+      "rank": 99,
+      "title": "A famous botnet that exploited insecure Internet of Things devices. In 2...",
+      "hook": "A famous botnet that exploited insecure Internet of Things devices. In 2016 it generated massive attacks, including one against DNS provider D...",
+      "explainer": "A famous botnet that exploited insecure Internet of Things devices. In 2016 it generated massive attacks, including one against DNS provider Dyn that disrupted access to major websites.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-7518",
+      "rank": 100,
+      "title": "BSNL ended its public telegram service in India in July 2013 after deman...",
+      "hook": "BSNL ended its public telegram service in India in July 2013 after demand collapsed under telephones, mobile messaging and the Internet. The f...",
+      "explainer": "BSNL ended its public telegram service in India in July 2013 after demand collapsed under telephones, mobile messaging and the Internet. The final day became a nostalgia-driven news event.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-7586",
+      "rank": 101,
+      "title": "Videsh Sanchar Nigam Limited was created in 1986 for international telec...",
+      "hook": "Videsh Sanchar Nigam Limited was created in 1986 for international telecommunications. Videsh means foreign or overseas communication. It laun...",
+      "explainer": "Videsh Sanchar Nigam Limited was created in 1986 for international telecommunications. Videsh means foreign or overseas communication. It launched public Internet service in India in 1995.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-7704",
+      "rank": 102,
+      "title": "VSNL’s service was marketed as Gateway Internet Access Service, commonly...",
+      "hook": "VSNL’s service was marketed as Gateway Internet Access Service, commonly GIAS. Shell accounts and TCP/IP accounts offered different levels of ...",
+      "explainer": "VSNL’s service was marketed as Gateway Internet Access Service, commonly GIAS. Shell accounts and TCP/IP accounts offered different levels of connectivity.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-7983",
+      "rank": 103,
+      "title": "A flagship rural-broadband infrastructure project intended to provide mi...",
+      "hook": "A flagship rural-broadband infrastructure project intended to provide middle-mile connectivity to gram panchayats. Service delivery to homes a...",
+      "explainer": "A flagship rural-broadband infrastructure project intended to provide middle-mile connectivity to gram panchayats. Service delivery to homes and institutions still requires last-mile operators, Wi-Fi, fibre or other access networks.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8046",
+      "rank": 104,
+      "title": "Bharti Airtel launched India’s first commercial 4G service in Kolkata in...",
+      "hook": "Bharti Airtel launched India’s first commercial 4G service in Kolkata in 2012 using TD-LTE. Jio’s 2016 national launch drove mass 4G adoption.",
+      "explainer": "Bharti Airtel launched India’s first commercial 4G service in Kolkata in 2012 using TD-LTE. Jio’s 2016 national launch drove mass 4G adoption.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8058",
+      "rank": 105,
+      "title": "Airtel initially emphasised non-standalone 5G layered on its 4G network....",
+      "hook": "Airtel initially emphasised non-standalone 5G layered on its 4G network. Jio emphasised standalone 5G with a new 5G core.",
+      "explainer": "Airtel initially emphasised non-standalone 5G layered on its 4G network. Jio emphasised standalone 5G with a new 5G core.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
+    },
+    {
+      "id": "module-03-lib-8324",
+      "rank": 106,
+      "title": "Indigenous telecom research and switching/core-network organisation.",
+      "hook": "Indigenous telecom research and switching/core-network organisation.",
+      "explainer": "Indigenous telecom research and switching/core-network organisation.",
+      "importance": 1,
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ],
+      "map": {
+        "links": [],
+        "connections": []
+      }
     }
   ],
   "questions": [
@@ -448,5 +2148,6 @@
         "wireless technology use matches"
       ]
     }
-  ]
+  ],
+  "topicCount": 106
 }
