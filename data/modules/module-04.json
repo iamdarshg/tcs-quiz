@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Intel%2C%20AMD%2C%20Nvidia%2C%20Cisco%2C%20Adobe%2C%20Oracle%20and%20SAP"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Intel%2C%20AMD%2C%20Nvidia%2C%20Cisco%2C%20Adobe%2C%20Oracle%20and%20SAP"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-94",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10035",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Apple%2C%20Microsoft%2C%20IBM%2C%20Google%2C%20Amazon%20and%20Meta"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Apple%2C%20Microsoft%2C%20IBM%2C%20Google%2C%20Amazon%20and%20Meta"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10035",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-18478",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20subsidiary%20is%20legally%20controlled%20by%20another%20company.%20A%20div"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20subsidiary%20is%20legally%20controlled%20by%20another%20company.%20A%20div"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-18478",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-5562",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Revise%20TSMC%20N2%20and%20A14%2C%20Intel%2018A%2C%20Nvidia%20Rubin%2C%20AMD%20MI350%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Revise%20TSMC%20N2%20and%20A14%2C%20Intel%2018A%2C%20Nvidia%20Rubin%2C%20AMD%20MI350%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-5562",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-21657",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Streaming%20plays%20media%20as%20data%20arrives%20rather%20than%20requiring%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Streaming%20plays%20media%20as%20data%20arrives%20rather%20than%20requiring%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-21657",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-97",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Tata%20Consultancy%20Services%2C%20Infosys%2C%20Wipro%20and%20HCLTech%20operat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Tata%20Consultancy%20Services%2C%20Infosys%2C%20Wipro%20and%20HCLTech%20operat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-97",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-6865",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Netflix%2C%20Spotify%2C%20Salesforce%20and%20Uber"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Netflix%2C%20Spotify%2C%20Salesforce%20and%20Uber"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-6865",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13319",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20application-layer%20smart-home%20interoperability%20standard%20de"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20application-layer%20smart-home%20interoperability%20standard%20de"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13319",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13930",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IBM%20PC%20%E2%86%92%20Intel%208088%20and%20x86%20%E2%86%92%20Microsoft%20DOS%20%E2%86%92%20clone%20makers%20s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IBM%20PC%20%E2%86%92%20Intel%208088%20and%20x86%20%E2%86%92%20Microsoft%20DOS%20%E2%86%92%20clone%20makers%20s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13930",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13938",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TheFacebook%20%E2%86%92%20News%20Feed%20%E2%86%92%20Instagram%20and%20WhatsApp%20%E2%86%92%20Meta."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TheFacebook%20%E2%86%92%20News%20Feed%20%E2%86%92%20Instagram%20and%20WhatsApp%20%E2%86%92%20Meta."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13938",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-17071",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%2C%20Infosys%2C%20Wipro%20and%20HCL%20%E2%86%92%20global%20delivery%20%E2%86%92%20SaaS%2C%20fintec"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%2C%20Infosys%2C%20Wipro%20and%20HCL%20%E2%86%92%20global%20delivery%20%E2%86%92%20SaaS%2C%20fintec"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-17071",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-136",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Chip%20design%3A%20Nvidia%2C%20AMD%2C%20Qualcomm%2C%20Apple%2C%20Broadcom%20and%20ot"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Chip%20design%3A%20Nvidia%2C%20AMD%2C%20Qualcomm%2C%20Apple%2C%20Broadcom%20and%20ot"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-136",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-6453",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Nvidia%2C%20AMD%2C%20Qualcomm%20and%20ARM"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Nvidia%2C%20AMD%2C%20Qualcomm%20and%20ARM"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-6453",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-6702",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Motorola%20pioneered%20radios%2C%20semiconductors%20and%20mobile%20phones."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Motorola%20pioneered%20radios%2C%20semiconductors%20and%20mobile%20phones."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-6702",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-8596",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Bluetooth%20began%20as%20a%20short-range%20radio%20project%20at%20Ericsson%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Bluetooth%20began%20as%20a%20short-range%20radio%20project%20at%20Ericsson%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-8596",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10017",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Larry%20Page%20and%20Sergey%20Brin%20%E2%80%94%20Google%20and%20PageRank."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Larry%20Page%20and%20Sergey%20Brin%20%E2%80%94%20Google%20and%20PageRank."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10017",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10031",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Fairchild%20Semiconductor%20%E2%86%92%20Robert%20Noyce%20and%20Gordon%20Moore%20%E2%86%92%20In"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Fairchild%20Semiconductor%20%E2%86%92%20Robert%20Noyce%20and%20Gordon%20Moore%20%E2%86%92%20In"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10031",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10059",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Alphabet%20is%20the%20parent%20company%3B%20Google%20is%20its%20largest%20operat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Alphabet%20is%20the%20parent%20company%3B%20Google%20is%20its%20largest%20operat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10059",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10146",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20vertically%20integrated%20company%20controls%20several%20layers%20of%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20vertically%20integrated%20company%20controls%20several%20layers%20of%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10146",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10284",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Competitors%20reverse-engineered%20the%20BIOS%20using%20clean-room%20met"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Competitors%20reverse-engineered%20the%20BIOS%20using%20clean-room%20met"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10284",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10300",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Microsoft%20versus%20Google%20and%20Amazon%20in%20cloud%2C%20search%2C%20produ"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Microsoft%20versus%20Google%20and%20Amazon%20in%20cloud%2C%20search%2C%20produ"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10300",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10527",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20GitHub%20is%20owned%20by%20Microsoft%3B%20Git%20itself%20was%20created%20by%20Li"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20GitHub%20is%20owned%20by%20Microsoft%3B%20Git%20itself%20was%20created%20by%20Li"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10527",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10781",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Motorola%20Mobility%2C%20later%20largely%20sold%20to%20Lenovo%20while%20Goog"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Motorola%20Mobility%2C%20later%20largely%20sold%20to%20Lenovo%20while%20Goog"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10781",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10867",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Facebook%20did%20not%20create%20Instagram%2C%20WhatsApp%20or%20Oculus."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Facebook%20did%20not%20create%20Instagram%2C%20WhatsApp%20or%20Oculus."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10867",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10991",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IBM%20wanted%20more%20than%20one%20source%20for%20PC%20processors.%20Intel%20lic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IBM%20wanted%20more%20than%20one%20source%20for%20PC%20processors.%20Intel%20lic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10991",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11072",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Companies%20including%20Apple%2C%20Qualcomm%2C%20Samsung%20and%20MediaTek%20de"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Companies%20including%20Apple%2C%20Qualcomm%2C%20Samsung%20and%20MediaTek%20de"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11072",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11093",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Nvidia%2C%20AMD%2C%20Qualcomm%20and%20many%20startups%20could%20focus%20on%20des"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Nvidia%2C%20AMD%2C%20Qualcomm%20and%20many%20startups%20could%20focus%20on%20des"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11093",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11412",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TSMC%20does%20not%20usually%20create%20the%20consumer%20brands%20printed%20on%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TSMC%20does%20not%20usually%20create%20the%20consumer%20brands%20printed%20on%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11412",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13117",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Competitive%20attacks%20on%20IBM%2C%20Microsoft%20and%20SAP."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Competitive%20attacks%20on%20IBM%2C%20Microsoft%20and%20SAP."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13117",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13212",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Google%20acquired%20Motorola%20Mobility%2C%20then%20sold%20most%20of%20it%20to"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Google%20acquired%20Motorola%20Mobility%2C%20then%20sold%20most%20of%20it%20to"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13212",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13302",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Larry%20Page%20and%20Sergey%20Brin%20%E2%80%94%20Google."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Larry%20Page%20and%20Sergey%20Brin%20%E2%80%94%20Google."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13302",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13437",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Elon%20Musk%20%E2%80%94%20Tesla%2C%20SpaceX%2C%20X%20and%20xAI."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Elon%20Musk%20%E2%80%94%20Tesla%2C%20SpaceX%2C%20X%20and%20xAI."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13437",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13914",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20TCS%20%E2%80%94%20Tata%20Consultancy%20Services."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20TCS%20%E2%80%94%20Tata%20Consultancy%20Services."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13914",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13934",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IBM%20PC%20%E2%86%92%20Microsoft%20DOS%20and%20Intel%20x86%20%E2%86%92%20Wintel."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IBM%20PC%20%E2%86%92%20Microsoft%20DOS%20and%20Intel%20x86%20%E2%86%92%20Wintel."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13934",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-17056",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Adobe%20boxes%20%E2%86%92%20Creative%20Cloud%3B%20Office%20boxes%20%E2%86%92%20Microsoft%20365%3B%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Adobe%20boxes%20%E2%86%92%20Creative%20Cloud%3B%20Office%20boxes%20%E2%86%92%20Microsoft%20365%3B%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-17056",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-18186",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20fabless%20company%20designs%20chips%20but%20contracts%20manufacturing%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20fabless%20company%20designs%20chips%20but%20contracts%20manufacturing%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-18186",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-28485",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20IBM%20PC%20%E2%86%92%20Intel%208088%20%E2%86%92%20x86%20ecosystem%20%E2%86%92%20AMD64%20%E2%86%92%20modern%20x86%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20IBM%20PC%20%E2%86%92%20Intel%208088%20%E2%86%92%20x86%20ecosystem%20%E2%86%92%20AMD64%20%E2%86%92%20modern%20x86%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-28485",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-31297",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Nadella%20did%20not%20found%20Microsoft.%20Bill%20Gates%20and%20Paul%20Allen%20d"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Nadella%20did%20not%20found%20Microsoft.%20Bill%20Gates%20and%20Paul%20Allen%20d"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-31297",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-33447",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Sir%20Ratan%20Tata%2C%20the%20son%20of%20Jamsetji%2C%20must%20not%20be%20confused%20wi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Sir%20Ratan%20Tata%2C%20the%20son%20of%20Jamsetji%2C%20must%20not%20be%20confused%20wi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-33447",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-33450",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=130.%20TCS%20VERSUS%20%E2%80%9CTATA%20CONSULTANCY%E2%80%9D"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=130.%20TCS%20VERSUS%20%E2%80%9CTATA%20CONSULTANCY%E2%80%9D"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-33450",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-33602",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20legal%20company%20is%20Tata%20Consultancy%20Services%20Limited%2C%20usua"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20legal%20company%20is%20Tata%20Consultancy%20Services%20Limited%2C%20usua"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-33602",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-33647",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20TCS%20%E2%80%94%20Tata%20Consultancy%20Services."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20TCS%20%E2%80%94%20Tata%20Consultancy%20Services."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-33647",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-36407",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202012%20%E2%80%94%20TCS%20CodeVita%3B%20Ratan%20Tata%20retires."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202012%20%E2%80%94%20TCS%20CodeVita%3B%20Ratan%20Tata%20retires."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-36407",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-96",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20PageRank%2C%20associated%20with%20Google%20founders%20Larry%20Page%20and%20S"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20PageRank%2C%20associated%20with%20Google%20founders%20Larry%20Page%20and%20S"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-96",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-134",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Samsung%2C%20Sony%20and%20Nintendo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Samsung%2C%20Sony%20and%20Nintendo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-134",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-198",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20TSMC%2C%20Intel%20and%20Samsung"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20TSMC%2C%20Intel%20and%20Samsung"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-198",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-201",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Jamsetji%20Tata"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Jamsetji%20Tata"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-201",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-377",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Ratan%20Tata"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Ratan%20Tata"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-377",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-2320",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20TCS%20and%20Tata%20developments"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20TCS%20and%20Tata%20developments"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-2320",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-2322",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=104.%20Microsoft%2C%20IBM%20and%20DOS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=104.%20Microsoft%2C%20IBM%20and%20DOS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-2322",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-2324",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Microsoft%20acquired%20rights%20to%20a%20system%20related%20to%20QDOS%2F86-DOS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Microsoft%20acquired%20rights%20to%20a%20system%20related%20to%20QDOS%2F86-DOS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-2324",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-2374",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20helped%20Microsoft%20become%20enormously%20influential%20as%20IBM-c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20helped%20Microsoft%20become%20enormously%20influential%20as%20IBM-c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-2374",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-5456",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Apple%20arranged%20visits%20through%20a%20business%20relationship%20invo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Apple%20arranged%20visits%20through%20a%20business%20relationship%20invo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-5456",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-6322",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Larry%20Page%20and%20Sergey%20Brin%E2%80%99s%20Stanford%20project%20was%20initially%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Larry%20Page%20and%20Sergey%20Brin%E2%80%99s%20Stanford%20project%20was%20initially%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-6322",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-6408",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Nokia%20tune%20derives%20from%20Gran%20Vals%20by%20Spanish%20composer%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Nokia%20tune%20derives%20from%20Gran%20Vals%20by%20Spanish%20composer%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-6408",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-6465",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Rich%20Communication%20Services%20is%20a%20carrier-oriented%20messaging%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Rich%20Communication%20Services%20is%20a%20carrier-oriented%20messaging%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-6465",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-6762",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Named%20after%20the%20Finnish%20town%20and%20river%20area%20associated%20with%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Named%20after%20the%20Finnish%20town%20and%20river%20area%20associated%20with%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-6762",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-7041",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Small%20transmitters%20broadcast%20identifiers%20that%20nearby%20devices"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Small%20transmitters%20broadcast%20identifiers%20that%20nearby%20devices"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-7041",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10043",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20MAREA%20across%20the%20Atlantic%2C%20backed%20by%20Microsoft%20and%20Meta."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20MAREA%20across%20the%20Atlantic%2C%20backed%20by%20Microsoft%20and%20Meta."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10043",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10159",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20spin-off%20creates%20an%20independent%20company%20from%20an%20existing%20b"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20spin-off%20creates%20an%20independent%20company%20from%20an%20existing%20b"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10159",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10165",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20IBM%E2%80%99s%20OS%2F2%20lost%20the%20desktop%20operating-system%20war%20to%20Micros"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20IBM%E2%80%99s%20OS%2F2%20lost%20the%20desktop%20operating-system%20war%20to%20Micros"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10165",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10252",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Paul%20Rand%20designed%20the%20famous%20striped%20IBM%20logo.%20The%20stripes%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Paul%20Rand%20designed%20the%20famous%20striped%20IBM%20logo.%20The%20stripes%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10252",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10279",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Satya%20Nadella%3A%20joined%20Microsoft%20in%201992%3B%20became%20CEO%20in%20201"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Satya%20Nadella%3A%20joined%20Microsoft%20in%201992%3B%20became%20CEO%20in%20201"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10279",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10280",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Microsoft%20versus%20Apple%20over%20graphical-interface%20elements."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Microsoft%20versus%20Apple%20over%20graphical-interface%20elements."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10280",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10283",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Microsoft%20versus%20IBM%20in%20the%20OS%2F2%20and%20Windows%20divergence."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Microsoft%20versus%20IBM%20in%20the%20OS%2F2%20and%20Windows%20divergence."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10283",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10297",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Microsoft%20versus%20Sony%20and%20Nintendo%20in%20consoles."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Microsoft%20versus%20Sony%20and%20Nintendo%20in%20consoles."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10297",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10318",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20MS-DOS%20was%20not%20written%20entirely%20from%20nothing%20for%20IBM%3B%20Micr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20MS-DOS%20was%20not%20written%20entirely%20from%20nothing%20for%20IBM%3B%20Micr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10318",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10414",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Steve%20Wozniak%20designed%20the%20Apple%20I%20after%20participating%20in%20th"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Steve%20Wozniak%20designed%20the%20Apple%20I%20after%20participating%20in%20th"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10414",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10415",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Apple%20versus%20Microsoft%20over%20GUI%20similarities."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Apple%20versus%20Microsoft%20over%20GUI%20similarities."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10415",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10416",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Apple%20versus%20IBM%20in%20the%20early%20PC%20era."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Apple%20versus%20IBM%20in%20the%20early%20PC%20era."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10416",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10417",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Apple%20versus%20Samsung%20in%20smartphone-design%20and%20patent%20litig"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Apple%20versus%20Samsung%20in%20smartphone-design%20and%20patent%20litig"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10417",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10452",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Apple%20versus%20Google%20over%20mobile%20platforms."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Apple%20versus%20Google%20over%20mobile%20platforms."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10452",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10550",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Founders%3A%20Larry%20Page%20and%20Sergey%20Brin."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Founders%3A%20Larry%20Page%20and%20Sergey%20Brin."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10550",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10566",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Google%20versus%20Microsoft%20in%20browsers%2C%20productivity%2C%20cloud%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Google%20versus%20Microsoft%20in%20browsers%2C%20productivity%2C%20cloud%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10566",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10678",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Google%20did%20not%20create%20YouTube%2C%20Android%2C%20Waze%20or%20DeepMind%3B%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Google%20did%20not%20create%20YouTube%2C%20Android%2C%20Waze%20or%20DeepMind%3B%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10678",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10688",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Alexa%20versus%20Apple%20Siri%20and%20Google%20Assistant."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Alexa%20versus%20Apple%20Siri%20and%20Google%20Assistant."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10688",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10693",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=6.%20FACEBOOK%20AND%20META%20%E2%80%94%20THE%20SOCIAL%20GRAPH%20BECOMES%20A%20FAMILY%20OF%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=6.%20FACEBOOK%20AND%20META%20%E2%80%94%20THE%20SOCIAL%20GRAPH%20BECOMES%20A%20FAMILY%20OF%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10693",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10738",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Founding%20figures%20commonly%20listed%20by%20Meta%3A%20Mark%20Zuckerberg%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Founding%20figures%20commonly%20listed%20by%20Meta%3A%20Mark%20Zuckerberg%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10738",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10757",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20corporate%20rename%20separated%20the%20company%20from%20the%20Facebook"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20corporate%20rename%20separated%20the%20company%20from%20the%20Facebook"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10757",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10774",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Antitrust%20scrutiny%20of%20Instagram%20and%20WhatsApp%20acquisitions."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Antitrust%20scrutiny%20of%20Instagram%20and%20WhatsApp%20acquisitions."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10774",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10780",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20The%20company%20introduced%20an%20all-capital%20FACEBOOK%20corporate%20w"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20The%20company%20introduced%20an%20all-capital%20FACEBOOK%20corporate%20w"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10780",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-10842",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Meta%20is%20the%20company%3B%20Facebook%20remains%20a%20product."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Meta%20is%20the%20company%3B%20Facebook%20remains%20a%20product."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-10842",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11330",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Apple%20moved%20Macs%20from%20Intel%20processors%20to%20Apple%20silicon."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Apple%20moved%20Macs%20from%20Intel%20processors%20to%20Apple%20silicon."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11330",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11338",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Motorola%20Mobility%20from%20Google%20in%202014."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Motorola%20Mobility%20from%20Google%20in%202014."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11338",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11419",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Lenovo%20did%20not%20invent%20ThinkPad%20or%20Motorola.%20It%20acquired%20both"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Lenovo%20did%20not%20invent%20ThinkPad%20or%20Motorola.%20It%20acquired%20both"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11419",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11545",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Oracle%20did%20not%20invent%20the%20relational%20model%3B%20Codd%20did%20at%20IB"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Oracle%20did%20not%20invent%20the%20relational%20model%3B%20Codd%20did%20at%20IB"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11545",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-11926",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Headquarters%20identity%3A%20Salesforce%20Tower%2C%20San%20Francisco."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Headquarters%20identity%3A%20Salesforce%20Tower%2C%20San%20Francisco."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-11926",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-12085",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Blockbuster%20declined%20an%20opportunity%20associated%20with%20acquir"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Blockbuster%20declined%20an%20opportunity%20associated%20with%20acquir"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-12085",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-12282",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=36.%20ALIBABA%2C%20TENCENT%2C%20BAIDU%2C%20HUAWEI%20AND%20XIAOMI%20%E2%80%94%20THE%20CHINESE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=36.%20ALIBABA%2C%20TENCENT%2C%20BAIDU%2C%20HUAWEI%20AND%20XIAOMI%20%E2%80%94%20THE%20CHINESE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-12282",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-12285",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Epic%E2%80%99s%20legal%20battles%20with%20Apple%20and%20Google%20challenge%20app-s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Epic%E2%80%99s%20legal%20battles%20with%20Apple%20and%20Google%20challenge%20app-s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-12285",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-12402",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=41.%20SONY%20PLAYSTATION%2C%20MICROSOFT%20XBOX%20AND%20THE%20CONSOLE%20PLATFOR"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=41.%20SONY%20PLAYSTATION%2C%20MICROSOFT%20XBOX%20AND%20THE%20CONSOLE%20PLATFOR"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-12402",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-12807",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20HCL%20Infosystems%3A%20hardware%20and%20distribution%20lineage."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20HCL%20Infosystems%3A%20hardware%20and%20distribution%20lineage."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-12807",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-12811",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Microsoft%20has%20generally%20preserved%20LinkedIn%20as%20a%20distinct%20b"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Microsoft%20has%20generally%20preserved%20LinkedIn%20as%20a%20distinct%20b"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-12811",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-12924",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=LinkedIn%20is%20owned%20by%20Microsoft%2C%20but%20it%20predates%20Microsoft%E2%80%99s%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=LinkedIn%20is%20owned%20by%20Microsoft%2C%20but%20it%20predates%20Microsoft%E2%80%99s%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-12924",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13053",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Google%20did%20not%20create%20YouTube."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Google%20did%20not%20create%20YouTube."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13053",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13062",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Nokia%20adopted%20Windows%20Phone%20under%20CEO%20Stephen%20Elop.%20Microsof"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Nokia%20adopted%20Windows%20Phone%20under%20CEO%20Stephen%20Elop.%20Microsof"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13062",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13121",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Microsoft%20did%20not%20acquire%20every%20part%20of%20Nokia."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Microsoft%20did%20not%20acquire%20every%20part%20of%20Nokia."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13121",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13201",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20current%20Motorola%20consumer-phone%20brand%20is%20in%20Lenovo%E2%80%99s%20cor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20current%20Motorola%20consumer-phone%20brand%20is%20in%20Lenovo%E2%80%99s%20cor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13201",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-13211",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Bill%20Gates%20and%20Paul%20Allen%20%E2%80%94%20Microsoft."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Bill%20Gates%20and%20Paul%20Allen%20%E2%80%94%20Microsoft."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-13211",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-95",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Steve%20Jobs%2C%20Steve%20Wozniak%20and%20Ronald%20Wayne%20%E2%80%94%20Apple."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Steve%20Jobs%2C%20Steve%20Wozniak%20and%20Ronald%20Wayne%20%E2%80%94%20Apple."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-04-lib-95",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Companies, Personalities, Brands and Products\" category with the linked topic."
+          },
+          {
+            "topicId": "module-04-lib-94",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Companies, Personalities, Brands and Products\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

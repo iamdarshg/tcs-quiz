@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Marie%20and%20Pierre%20Curie%20investigated%20radioactivity%3B%20Marie%20C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Marie%20and%20Pierre%20Curie%20investigated%20radioactivity%3B%20Marie%20C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36473",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36065",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20clues%3A%20first%20woman%20Nobel%20laureate%3B%20only%20person%20to%20win%20N"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20clues%3A%20first%20woman%20Nobel%20laureate%3B%20only%20person%20to%20win%20N"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36065",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36113",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20explain%20the%20practical%20importance%20of%20number%20systems%2C%20algebr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20explain%20the%20practical%20importance%20of%20number%20systems%2C%20algebr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36113",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36173",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Einstein%E2%80%99s%20general%20theory%20of%20relativity%2C%20completed%20in%201915%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Einstein%E2%80%99s%20general%20theory%20of%20relativity%2C%20completed%20in%201915%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36173",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36182",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Why%20it%20mattered%3A%20genetics%20transformed%20breeding%2C%20diagnosis%2C%20f"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Why%20it%20mattered%3A%20genetics%20transformed%20breeding%2C%20diagnosis%2C%20f"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36182",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36187",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Albert%20Einstein%20explained%20the%20photoelectric%20effect%20using%20l"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Albert%20Einstein%20explained%20the%20photoelectric%20effect%20using%20l"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36187",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36215",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20Einstein%E2%80%99s%20Nobel%20Prize%20in%20Physics%20was%20awarded%20pri"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20Einstein%E2%80%99s%20Nobel%20Prize%20in%20Physics%20was%20awarded%20pri"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36215",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36240",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=For%20much%20of%20history%2C%20medicine%20had%20limited%20understanding%20of%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=For%20much%20of%20history%2C%20medicine%20had%20limited%20understanding%20of%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36240",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-16",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20mRNA%20vaccine%20platforms%2C%20developed%20through%20decades%20of%20work%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20mRNA%20vaccine%20platforms%2C%20developed%20through%20decades%20of%20work%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-16",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-258",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=11.%20Science%2C%20Medicine%20and%20Mathematics%20Through%20Innovation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=11.%20Science%2C%20Medicine%20and%20Mathematics%20Through%20Innovation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-258",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-4915",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=11.%20Science%2C%20Medicine%20and%20Mathematics%20Through%20Innovation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=11.%20Science%2C%20Medicine%20and%20Mathematics%20Through%20Innovation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-4915",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-16823",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=CERN%2C%20the%20European%20particle-physics%20laboratory%20near%20Geneva%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=CERN%2C%20the%20European%20particle-physics%20laboratory%20near%20Geneva%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-16823",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36042",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20first%20working%20point-contact%20transistor%20was%20demonstrated%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20first%20working%20point-contact%20transistor%20was%20demonstrated%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36042",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36063",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MODULE%2011%20%E2%80%94%20SCIENCE%2C%20MEDICINE%20AND%20MATHEMATICS%20THROUGH%20INNOVA"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MODULE%2011%20%E2%80%94%20SCIENCE%2C%20MEDICINE%20AND%20MATHEMATICS%20THROUGH%20INNOVA"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36063",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36305",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20connect%20landmark%20discoveries%20in%20physics%2C%20chemistry%2C%20biolog"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20connect%20landmark%20discoveries%20in%20physics%2C%20chemistry%2C%20biolog"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36305",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36494",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20CRISPR-Cas%20systems%20originated%20as%20microbial%20immune%20mechanis"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20CRISPR-Cas%20systems%20originated%20as%20microbial%20immune%20mechanis"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36494",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36666",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Katalin%20Karik%C3%B3%20%E2%80%94%20Persisted%20in%20developing%20nucleoside-modifi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Katalin%20Karik%C3%B3%20%E2%80%94%20Persisted%20in%20developing%20nucleoside-modifi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36666",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36676",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Har%20Gobind%20Khorana%20%E2%80%94%20Helped%20decipher%20the%20genetic%20code%20and%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Har%20Gobind%20Khorana%20%E2%80%94%20Helped%20decipher%20the%20genetic%20code%20and%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36676",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36683",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Tata%20Institute%20of%20Fundamental%20Research%2C%20TIFR%20%E2%80%94%20Founded%20in%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Tata%20Institute%20of%20Fundamental%20Research%2C%20TIFR%20%E2%80%94%20Founded%20in%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36683",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36961",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Indian%20Statistical%20Institute%2C%20ISI%20%E2%80%94%20Statistics%2C%20mathematic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Indian%20Statistical%20Institute%2C%20ISI%20%E2%80%94%20Statistics%2C%20mathematic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36961",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36966",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Einstein%20received%20his%20Nobel%20Prize%20in%20Physics%20chiefly%20for%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Einstein%20received%20his%20Nobel%20Prize%20in%20Physics%20chiefly%20for%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36966",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-37208",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20Which%20statement%20best%20describes%20the%20relation%20between%20Newto"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20Which%20statement%20best%20describes%20the%20relation%20between%20Newto"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-37208",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-37258",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20A%20%E2%80%94%20General%20relativity%20is%20deeper%2C%20but%20Newtonian%20gravity%20r"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20A%20%E2%80%94%20General%20relativity%20is%20deeper%2C%20but%20Newtonian%20gravity%20r"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-37258",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-260",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Kepler%20%3D%20elliptical%20orbits%3B%20Galileo%20%3D%20telescopic%20evidence%3B"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Kepler%20%3D%20elliptical%20orbits%3B%20Galileo%20%3D%20telescopic%20evidence%3B"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-260",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-263",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Science%20and%20medicine"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Science%20and%20medicine"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-263",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-267",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Relativity%20and%20quantum%20physics"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Relativity%20and%20quantum%20physics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-267",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-272",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Genetics%20and%20DNA"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Genetics%20and%20DNA"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-272",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-1649",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Genome%20sequencing%20and%20CRISPR"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Genome%20sequencing%20and%20CRISPR"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-1649",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-1701",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=All%20three%20received%20the%201956%20Nobel%20Prize%20in%20Physics."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=All%20three%20received%20the%201956%20Nobel%20Prize%20in%20Physics."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-1701",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-4963",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Nobel%20Prize%20in%20Physics%2C%202000."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Nobel%20Prize%20in%20Physics%2C%202000."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-4963",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-6963",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Nicola%20Pellow%2C%20a%20mathematics%20student%20working%20at%20CERN%2C%20wrote%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Nicola%20Pellow%2C%20a%20mathematics%20student%20working%20at%20CERN%2C%20wrote%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-6963",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-7524",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Charles%20Kuen%20Kao%20demonstrated%20the%20feasibility%20of%20low-loss%20op"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Charles%20Kuen%20Kao%20demonstrated%20the%20feasibility%20of%20low-loss%20op"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-7524",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-7628",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20O%E2%80%99Shaughnessy%20also%20pioneered%20intravenous-fluid%20research%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20O%E2%80%99Shaughnessy%20also%20pioneered%20intravenous-fluid%20research%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-7628",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-8016",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Born%20in%20Titlagarh%2C%20Odisha%2C%20Sam%20Pitroda%20trained%20in%20physics%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Born%20in%20Titlagarh%2C%20Odisha%2C%20Sam%20Pitroda%20trained%20in%20physics%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-8016",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-11390",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Telemedicine."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Telemedicine."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-11390",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-14456",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Cerner%2C%20a%20major%20healthcare-information%20company."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Cerner%2C%20a%20major%20healthcare-information%20company."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-14456",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-15959",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=During%20generation%2C%20an%20autoregressive%20model%20repeatedly%20predic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=During%20generation%2C%20an%20autoregressive%20model%20repeatedly%20predic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-15959",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-31198",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Microsoft%20is%20a%20major%20investor%20and%20infrastructure%20partner%20in%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Microsoft%20is%20a%20major%20investor%20and%20infrastructure%20partner%20in%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-31198",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-31522",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Early%20beneficiaries%20entered%20medicine%2C%20public%20administratio"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Early%20beneficiaries%20entered%20medicine%2C%20public%20administratio"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-31522",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-33254",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Later%20fields%3A%20specialty%20chemistry%2C%20nutrition%20science%20and%20s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Later%20fields%3A%20specialty%20chemistry%2C%20nutrition%20science%20and%20s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-33254",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-34340",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Life%20sciences%20and%20healthcare."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Life%20sciences%20and%20healthcare."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-34340",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-34461",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Pratt%20truss%3A%20Diagonal%20members%20generally%20slope%20toward%20the%20c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Pratt%20truss%3A%20Diagonal%20members%20generally%20slope%20toward%20the%20c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-34461",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-35121",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Piezoelectric%20materials%20generate%20electric%20charge%20under%20mecha"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Piezoelectric%20materials%20generate%20electric%20charge%20under%20mecha"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-35121",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-35881",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Commercialized%20by%20Sony%20in%201991.%20The%202019%20Nobel%20Prize%20in%20Chem"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Commercialized%20by%20Sony%20in%201991.%20The%202019%20Nobel%20Prize%20in%20Chem"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-35881",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36087",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=24.%20Name%20the%20three%20scientists%20awarded%20the%202019%20Nobel%20Prize%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=24.%20Name%20the%20three%20scientists%20awarded%20the%202019%20Nobel%20Prize%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36087",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36111",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Innovation%3A%20hospitals%20integrated%20radiography%20into%20diagnosi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Innovation%3A%20hospitals%20integrated%20radiography%20into%20diagnosi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36111",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36117",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.4%20Gravity%3A%20Newton%20and%20Einstein"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.4%20Gravity%3A%20Newton%20and%20Einstein"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36117",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36162",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20Einstein%20did%20not%20make%20Newton%20%E2%80%98useless.%E2%80%99%20A%20newer%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20Einstein%20did%20not%20make%20Newton%20%E2%80%98useless.%E2%80%99%20A%20newer%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36162",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36171",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.10%20Biology%3A%20cells%2C%20evolution%2C%20heredity%20and%20DNA"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.10%20Biology%3A%20cells%2C%20evolution%2C%20heredity%20and%20DNA"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36171",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36180",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Alfred%20Hershey%20and%20Martha%20Chase%20strengthened%20the%20DNA-as-ge"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Alfred%20Hershey%20and%20Martha%20Chase%20strengthened%20the%20DNA-as-ge"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36180",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36186",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Henri%20Becquerel%20discovered%20spontaneous%20radioactivity%3B%20Mari"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Henri%20Becquerel%20discovered%20spontaneous%20radioactivity%3B%20Mari"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36186",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36203",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Applications%20include%20semiconductors%2C%20lasers%2C%20nuclear%20medicin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Applications%20include%20semiconductors%2C%20lasers%2C%20nuclear%20medicin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36203",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36219",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Newtonian%20gravity%20remains%20useful%20even%20after%20Einstein."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Newtonian%20gravity%20remains%20useful%20even%20after%20Einstein."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36219",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36224",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Seeing%20inside%20the%20body%3A%20X-rays%2C%20ultrasound%2C%20CT%2C%20MRI%2C%20endo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Seeing%20inside%20the%20body%3A%20X-rays%2C%20ultrasound%2C%20CT%2C%20MRI%2C%20endo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36224",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36242",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Louis%20Pasteur%E2%80%99s%20experiments%20supported%20germ%20theory%20and%20refu"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Louis%20Pasteur%E2%80%99s%20experiments%20supported%20germ%20theory%20and%20refu"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36242",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36263",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20Jenner%20pioneered%20smallpox%20vaccination%2C%20not%20the%20fi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20Jenner%20pioneered%20smallpox%20vaccination%2C%20not%20the%20fi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36263",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36266",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20MRI%3A%20magnetic%20resonance%20imaging%20uses%20strong%20magnetic%20field"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20MRI%3A%20magnetic%20resonance%20imaging%20uses%20strong%20magnetic%20field"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36266",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36271",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20CT%20uses%20X-rays%3B%20MRI%20uses%20magnetic%20fields%20and%20radi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20CT%20uses%20X-rays%3B%20MRI%20uses%20magnetic%20fields%20and%20radi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36271",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36290",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Anticoagulants%2C%20refrigeration%2C%20blood%20typing%20and%20blood%20bank"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Anticoagulants%2C%20refrigeration%2C%20blood%20typing%20and%20blood%20bank"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36290",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36301",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Pacemaker%20%E2%80%94%20Built%20through%20many%20pioneers%3B%20implantable%20syste"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Pacemaker%20%E2%80%94%20Built%20through%20many%20pioneers%3B%20implantable%20syste"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36301",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36307",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Polymerase%20chain%20reaction%2C%20PCR%2C%20developed%20by%20Kary%20Mullis%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Polymerase%20chain%20reaction%2C%20PCR%2C%20developed%20by%20Kary%20Mullis%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36307",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36322",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20CRISPR%20was%20not%20invented%20in%20one%20instant%20by%20two%20peo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20CRISPR%20was%20not%20invented%20in%20one%20instant%20by%20two%20peo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36322",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36333",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20X-ray%20and%20CT%20use%20ionizing%20radiation%3B%20MRI%20and%20ultrasound%20do"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20X-ray%20and%20CT%20use%20ionizing%20radiation%3B%20MRI%20and%20ultrasound%20do"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36333",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36334",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Calculus%20%E2%86%92%20How%20does%20a%20changing%20quantity%20behave%3F%20%E2%86%92%20engineer"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Calculus%20%E2%86%92%20How%20does%20a%20changing%20quantity%20behave%3F%20%E2%86%92%20engineer"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36334",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36346",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Probability%20%E2%86%92%20How%20should%20uncertainty%20be%20measured%3F%20%E2%86%92%20insura"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Probability%20%E2%86%92%20How%20should%20uncertainty%20be%20measured%3F%20%E2%86%92%20insura"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36346",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36349",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Algebra%20represents%20unknown%20quantities%20with%20symbols%20and%20expre"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Algebra%20represents%20unknown%20quantities%20with%20symbols%20and%20expre"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36349",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36353",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Ren%C3%A9%20Descartes%20linked%20algebra%20and%20geometry%20through%20coordin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Ren%C3%A9%20Descartes%20linked%20algebra%20and%20geometry%20through%20coordin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36353",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36360",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Euclid%E2%80%99s%20Elements%20organized%20geometry%20through%20definitions%2C%20ax"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Euclid%E2%80%99s%20Elements%20organized%20geometry%20through%20definitions%2C%20ax"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36360",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36362",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Riemannian%20geometry%20later%20became%20the%20mathematical%20language%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Riemannian%20geometry%20later%20became%20the%20mathematical%20language%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36362",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36376",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Calculus%20was%20independently%20developed%20in%20the%20seventeenth%20cent"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Calculus%20was%20independently%20developed%20in%20the%20seventeenth%20cent"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36376",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36451",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Modern%20probability%20theory%20grew%20from%20correspondence%20between%20B"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Modern%20probability%20theory%20grew%20from%20correspondence%20between%20B"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36451",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36463",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Newton%20and%20Leibniz%20independently%20developed%20calculus."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Newton%20and%20Leibniz%20independently%20developed%20calculus."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36463",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36465",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Key%20contributions%3A%20laws%20of%20motion%2C%20universal%20gravitation%2C%20op"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Key%20contributions%3A%20laws%20of%20motion%2C%20universal%20gravitation%2C%20op"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36465",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36467",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20clues%3A%20Principia%3B%20apple%20legend%3B%20reflecting%20telescope%3B%20f"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20clues%3A%20Principia%3B%20apple%20legend%3B%20reflecting%20telescope%3B%20f"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36467",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36471",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Key%20contributions%3A%20special%20relativity%2C%20mass-energy%20equivalen"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Key%20contributions%3A%20special%20relativity%2C%20mass-energy%20equivalen"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36471",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36484",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Key%20contributions%3A%20research%20on%20radioactivity%2C%20discovery%20of%20p"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Key%20contributions%3A%20research%20on%20radioactivity%2C%20discovery%20of%20p"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36484",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36548",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Impact%3A%20deep%20results%20that%20continue%20to%20influence%20modern%20mathe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Impact%3A%20deep%20results%20that%20continue%20to%20influence%20modern%20mathe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36548",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36572",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Modern%20semiconductors%20therefore%20depend%20on%20science%2C%20precision"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Modern%20semiconductors%20therefore%20depend%20on%20science%2C%20precision"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36572",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36603",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Telemedicine%20for%20remote%20regions."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Telemedicine%20for%20remote%20regions."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36603",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36605",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=J.C.%20Bose%20pioneered%20research%20in%20radio%20and%20microwave%20physics%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=J.C.%20Bose%20pioneered%20research%20in%20radio%20and%20microwave%20physics%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36605",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36612",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Attribution%20lesson%3A%20Bose%20was%20a%20major%20radio-science%20pioneer%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Attribution%20lesson%3A%20Bose%20was%20a%20major%20radio-science%20pioneer%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36612",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36615",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=He%20won%20the%201930%20Nobel%20Prize%20in%20Physics%2C%20becoming%20the%20first%20A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=He%20won%20the%201930%20Nobel%20Prize%20in%20Physics%2C%20becoming%20the%20first%20A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36615",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36616",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=S.N.%20Bose%20derived%20a%20new%20way%20of%20counting%20indistinguishable%20ph"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=S.N.%20Bose%20derived%20a%20new%20way%20of%20counting%20indistinguishable%20ph"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36616",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36687",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Particles%20obeying%20Bose-Einstein%20statistics%20are%20called%20bosons"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Particles%20obeying%20Bose-Einstein%20statistics%20are%20called%20bosons"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36687",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36690",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20C.V.%20Raman%20%3D%20Raman%20effect%3B%20S.N.%20Bose%20%3D%20Bose-Einstein%20stati"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20C.V.%20Raman%20%3D%20Raman%20effect%3B%20S.N.%20Bose%20%3D%20Bose-Einstein%20stati"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36690",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36765",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20J.C.%20Bose%20pioneered%20radio%2Fmicrowave%20science%20but%20should%20not"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20J.C.%20Bose%20pioneered%20radio%2Fmicrowave%20science%20but%20should%20not"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36765",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36767",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Recombinant%20DNA%20combines%20genetic%20material%20from%20different%20s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Recombinant%20DNA%20combines%20genetic%20material%20from%20different%20s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36767",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36771",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20CRISPR%20enables%20targeted%20genetic%20editing."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20CRISPR%20enables%20targeted%20genetic%20editing."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36771",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36813",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Risks%20include%20unintended%20ecological%20effects%2C%20unequal%20access%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Risks%20include%20unintended%20ecological%20effects%2C%20unequal%20access%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36813",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36815",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20medicine%E2%80%99s%20social%20impact%20depends%20on%20affordability%2C%20supply%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20medicine%E2%80%99s%20social%20impact%20depends%20on%20affordability%2C%20supply%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36815",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36855",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Generic%20medicines%20increase%20competition%20after%20exclusivity%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Generic%20medicines%20increase%20competition%20after%20exclusivity%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36855",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36856",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Nuclear%20physics%20%E2%86%92%20energy%20and%20medicine%2C%20but%20also%20weapons."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Nuclear%20physics%20%E2%86%92%20energy%20and%20medicine%2C%20but%20also%20weapons."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36856",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36897",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Gene%20editing%20%E2%86%92%20therapies%20and%20agriculture%2C%20but%20also%20biologi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Gene%20editing%20%E2%86%92%20therapies%20and%20agriculture%2C%20but%20also%20biologi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36897",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36900",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201609%E2%80%931610%20%E2%80%94%20Galileo%20makes%20major%20telescopic%20observations."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201609%E2%80%931610%20%E2%80%94%20Galileo%20makes%20major%20telescopic%20observations."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36900",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36918",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201687%20%E2%80%94%20Newton%20publishes%20Principia."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201687%20%E2%80%94%20Newton%20publishes%20Principia."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36918",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36937",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201915%20%E2%80%94%20General%20relativity."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201915%20%E2%80%94%20General%20relativity."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36937",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36940",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202012%20%E2%80%94%20Programmable%20CRISPR-Cas9%20gene%20editing%20demonstrated."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202012%20%E2%80%94%20Programmable%20CRISPR-Cas9%20gene%20editing%20demonstrated."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36940",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36963",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202023%20%E2%80%94%20Chandrayaan-3%20soft-lands%20on%20Moon%3B%20first%20CRISPR-base"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202023%20%E2%80%94%20Chandrayaan-3%20soft-lands%20on%20Moon%3B%20first%20CRISPR-base"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36963",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36968",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=B.%20General%20relativity"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=B.%20General%20relativity"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36968",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36158",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=B.%20General%20relativity%20proves%20that%20falling%20objects%20do%20not%20acc"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=B.%20General%20relativity%20proves%20that%20falling%20objects%20do%20not%20acc"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-11-lib-36158",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Science, Medicine and Mathematics Through Innovation\" category with the linked topic."
+          },
+          {
+            "topicId": "module-11-lib-36473",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Science, Medicine and Mathematics Through Innovation\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

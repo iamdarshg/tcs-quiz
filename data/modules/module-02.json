@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20FORTRAN%2C%20COBOL%2C%20BASIC%2C%20C%2C%20C%2B%2B%2C%20Java%2C%20Python%2C%20JavaScript%2C%20S"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20FORTRAN%2C%20COBOL%2C%20BASIC%2C%20C%2C%20C%2B%2B%2C%20Java%2C%20Python%2C%20JavaScript%2C%20S"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-42",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-14692",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Unix%2C%20GNU%2C%20Linux%2C%20Windows%2C%20macOS%2C%20Android%20and%20iOS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Unix%2C%20GNU%2C%20Linux%2C%20Windows%2C%20macOS%2C%20Android%20and%20iOS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-14692",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-16711",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=SQL%20is%20a%20language%20and%20standard%20family%2C%20not%20one%20database%20prod"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=SQL%20is%20a%20language%20and%20standard%20family%2C%20not%20one%20database%20prod"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-16711",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23384",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Codd%20%3D%20relational%20model.%20SQL%20queries%20relational%20data.%20ACID%20%3D"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Codd%20%3D%20relational%20model.%20SQL%20queries%20relational%20data.%20ACID%20%3D"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23384",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-48",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Data%20structure%3A%20organized%20way%20to%20store%20data%2C%20such%20as%20array"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Data%20structure%3A%20organized%20way%20to%20store%20data%2C%20such%20as%20array"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-48",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11360",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Relational%20databases%2C%20SQL%20and%20NoSQL"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Relational%20databases%2C%20SQL%20and%20NoSQL"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11360",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-13325",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Edgar%20F.%20Codd%20of%20IBM%20proposed%20the%20relational%20model%2C%20but%20IBM%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Edgar%20F.%20Codd%20of%20IBM%20proposed%20the%20relational%20model%2C%20but%20IBM%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-13325",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-14711",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Sun%20Microsystems%20%E2%86%92%20Java%2C%20Solaris%2C%20SPARC%20and%20network%20computin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Sun%20Microsystems%20%E2%86%92%20Java%2C%20Solaris%2C%20SPARC%20and%20network%20computin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-14711",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-14897",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NoSQL%20broadly%20refers%20to%20non-relational%20database%20models%2C%20ofte"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NoSQL%20broadly%20refers%20to%20non-relational%20database%20models%2C%20ofte"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-14897",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23171",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Cloud%20computing%20provides%20on-demand%20access%20to%20shared%20computin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Cloud%20computing%20provides%20on-demand%20access%20to%20shared%20computin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23171",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23343",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Desktop%2Fserver%3A%20Windows%2C%20macOS%2C%20Linux%2C%20Unix-like%20systems."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Desktop%2Fserver%3A%20Windows%2C%20macOS%2C%20Linux%2C%20Unix-like%20systems."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23343",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23355",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Containers%20usually%20share%20the%20host%20kernel%3B%20virtual%20machines"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Containers%20usually%20share%20the%20host%20kernel%3B%20virtual%20machines"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23355",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23583",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20High-level%20language%3A%20more%20abstract%20and%20portable%2C%20such%20as%20P"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20High-level%20language%3A%20more%20abstract%20and%20portable%2C%20such%20as%20P"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23583",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-7",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NoSQL%20describes%20non-relational%20database%20families."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NoSQL%20describes%20non-relational%20database%20families."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-7",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-37",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20Software%2C%20Operating%20Systems%2C%20Languages%20and%20Databases"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20Software%2C%20Operating%20Systems%2C%20Languages%20and%20Databases"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-37",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11363",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20Software%2C%20Operating%20Systems%2C%20Languages%20and%20Databases"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20Software%2C%20Operating%20Systems%2C%20Languages%20and%20Databases"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11363",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11404",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Oracle%E2%80%99s%20great%20strategic%20skill%20was%20selling%20mission-critical%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Oracle%E2%80%99s%20great%20strategic%20skill%20was%20selling%20mission-critical%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11404",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11422",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20acquisition%20led%20to%20disputes%20including%20Oracle%20versus%20Goog"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20acquisition%20led%20to%20disputes%20including%20Oracle%20versus%20Goog"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11422",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-12998",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20MySQL%E2%80%99s%20name%20is%20linked%20to%20co-founder%20Michael%20Widenius%E2%80%99s%20da"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20MySQL%E2%80%99s%20name%20is%20linked%20to%20co-founder%20Michael%20Widenius%E2%80%99s%20da"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-12998",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-13753",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=63.%20KODAK%20%E2%80%94%20INVENTING%20DIGITAL%20PHOTOGRAPHY%20WITHOUT%20ESCAPING%20F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=63.%20KODAK%20%E2%80%94%20INVENTING%20DIGITAL%20PHOTOGRAPHY%20WITHOUT%20ESCAPING%20F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-13753",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-14708",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=62.%20Which%20company%20commercialised%20relational%20databases%20aggres"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=62.%20Which%20company%20commercialised%20relational%20databases%20aggres"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-14708",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-14914",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=44.%20NoSQL%20databases"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=44.%20NoSQL%20databases"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-14914",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-16149",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Infrastructure%20as%20a%20Service%2C%20or%20IaaS%2C%20supplies%20virtual%20machi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Infrastructure%20as%20a%20Service%2C%20or%20IaaS%2C%20supplies%20virtual%20machi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-16149",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-16719",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=21.%20Containers%20usually%20share%20the%20host%20kernel%3B%20VMs%20normally%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=21.%20Containers%20usually%20share%20the%20host%20kernel%3B%20VMs%20normally%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-16719",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-17950",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=RPA%20%3D%20software%20bots.%20Attended%20works%20with%20a%20user%3B%20unattended%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=RPA%20%3D%20software%20bots.%20Attended%20works%20with%20a%20user%3B%20unattended%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-17950",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-18647",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Peter%20Shor%20developed%20a%20quantum%20algorithm%20for%20integer%20factori"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Peter%20Shor%20developed%20a%20quantum%20algorithm%20for%20integer%20factori"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-18647",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-19212",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Malware%20is%20malicious%20software.%20A%20cyberattack%20is%20the%20broader%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Malware%20is%20malicious%20software.%20A%20cyberattack%20is%20the%20broader%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-19212",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-19230",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=ECC%20uses%20algebraic%20structures%20based%20on%20elliptic%20curves%20over%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=ECC%20uses%20algebraic%20structures%20based%20on%20elliptic%20curves%20over%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-19230",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-20168",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20sufficiently%20powerful%20fault-tolerant%20quantum%20computer%20runn"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20sufficiently%20powerful%20fault-tolerant%20quantum%20computer%20runn"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-20168",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-20192",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=It%20used%20multiple%20methods%2C%20including%20credential%20theft%20and%20Win"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=It%20used%20multiple%20methods%2C%20including%20credential%20theft%20and%20Win"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-20192",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23124",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=WannaCry%20and%20NotPetya%20both%20spread%20rapidly%20in%202017%20and%20used%20E"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=WannaCry%20and%20NotPetya%20both%20spread%20rapidly%20in%202017%20and%20used%20E"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23124",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23147",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20explain%20relational%20and%20non-relational%20databases%2C%20SQL%20opera"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20explain%20relational%20and%20non-relational%20databases%2C%20SQL%20opera"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23147",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23155",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Middleware%3A%20software%20that%20connects%20applications%2C%20services%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Middleware%3A%20software%20that%20connects%20applications%2C%20services%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23155",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23424",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20operating%20system%2C%20or%20OS%2C%20is%20the%20main%20system%20software%20that"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20operating%20system%2C%20or%20OS%2C%20is%20the%20main%20system%20software%20that"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23424",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-23582",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20JavaScript%2FTypeScript%3A%20web%20interfaces%20and%20server-side%20web%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20JavaScript%2FTypeScript%3A%20web%20interfaces%20and%20server-side%20web%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-23582",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-24440",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.15%20NoSQL%20databases"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.15%20NoSQL%20databases"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-24440",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-24500",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=34.%20A%20clinical%20API%20accepts%20a%20patient%20ID%20directly%20inside%20a%20co"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=34.%20A%20clinical%20API%20accepts%20a%20patient%20ID%20directly%20inside%20a%20co"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-24500",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-24650",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.%20B%20%E2%80%94%20Containers%20package%20applications%20while%20commonly%20sharin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.%20B%20%E2%80%94%20Containers%20package%20applications%20while%20commonly%20sharin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-24650",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-24652",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Middleware%20%E2%80%94%20Software%20connecting%20applications%2C%20services%2C%20or%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Middleware%20%E2%80%94%20Software%20connecting%20applications%2C%20services%2C%20or%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-24652",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-24665",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Operating%20system%20%E2%80%94%20Software%20that%20manages%20hardware%20and%20provid"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Operating%20system%20%E2%80%94%20Software%20that%20manages%20hardware%20and%20provid"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-24665",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-24779",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Virtual%20machine%20%E2%80%94%20Software-defined%20computer%20with%20a%20guest%20ope"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Virtual%20machine%20%E2%80%94%20Software-defined%20computer%20with%20a%20guest%20ope"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-24779",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-24974",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=India%20Stack%20is%20a%20commonly%20used%20umbrella%20expression%20for%20a%20set"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=India%20Stack%20is%20a%20commonly%20used%20umbrella%20expression%20for%20a%20set"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-24974",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-144",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Aadhaar%20is%20a%2012-digit%20random%20identification%20number%20issued%20to"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Aadhaar%20is%20a%2012-digit%20random%20identification%20number%20issued%20to"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-144",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-2918",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Quantum%20algorithms%20and%20post-quantum%20cryptography"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Quantum%20algorithms%20and%20post-quantum%20cryptography"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-2918",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-2958",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XXXI%20%E2%80%94%20SOFTWARE%20AS%20AN%20IDEA"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XXXI%20%E2%80%94%20SOFTWARE%20AS%20AN%20IDEA"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-2958",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-2972",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20compiler%20or%20interpreter%20handles%20translation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20compiler%20or%20interpreter%20handles%20translation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-2972",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-3177",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=142.%20Compiler%20versus%20interpreter"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=142.%20Compiler%20versus%20interpreter"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-3177",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-3995",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Software%20gets%20slower%20more%20rapidly%20than%20hardware%20gets%20faster."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Software%20gets%20slower%20more%20rapidly%20than%20hardware%20gets%20faster."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-3995",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-4194",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20unit%20bit%20was%20suggested%20by%20John%20Tukey%20as%20a%20contraction%20of"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20unit%20bit%20was%20suggested%20by%20John%20Tukey%20as%20a%20contraction%20of"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-4194",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-4526",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20LAYERS%3A%20WHY%20NETWORKING%20IS%20DIVIDED%20INTO%20STACKS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20LAYERS%3A%20WHY%20NETWORKING%20IS%20DIVIDED%20INTO%20STACKS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-4526",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-4675",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Message%20Queuing%20Telemetry%20Transport%20is%20a%20lightweight%20publish"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Message%20Queuing%20Telemetry%20Transport%20is%20a%20lightweight%20publish"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-4675",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-4857",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Email%20rapidly%20became%20one%20of%20ARPANET%E2%80%99s%20most%20popular%20uses%2C%20dem"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Email%20rapidly%20became%20one%20of%20ARPANET%E2%80%99s%20most%20popular%20uses%2C%20dem"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-4857",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-4866",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Web%20did%20not%20appear%20from%20nowhere.%20It%20combined%20several%20old"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Web%20did%20not%20appear%20from%20nowhere.%20It%20combined%20several%20old"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-4866",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-4995",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Memex%20was%20never%20built%20as%20described%2C%20and%20it%20was%20based%20on%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Memex%20was%20never%20built%20as%20described%2C%20and%20it%20was%20based%20on%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-4995",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5203",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20The%20first%20widely%20accessible%20cross-platform%20graphical%20brows"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20The%20first%20widely%20accessible%20cross-platform%20graphical%20brows"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5203",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5209",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=18.%20HTML%2C%20CSS%20AND%20JAVASCRIPT"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=18.%20HTML%2C%20CSS%20AND%20JAVASCRIPT"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5209",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5212",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=HTML%20marks%20the%20structure%20of%20content%20using%20elements%20such%20as%20h"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=HTML%20marks%20the%20structure%20of%20content%20using%20elements%20such%20as%20h"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5212",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5224",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Early%20HTML%20grew%20from%20Berners-Lee%E2%80%99s%20requirements%20and%20ideas%20in"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Early%20HTML%20grew%20from%20Berners-Lee%E2%80%99s%20requirements%20and%20ideas%20in"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5224",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5227",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=JavaScript"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=JavaScript"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5227",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5230",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Brendan%20Eich%20created%20JavaScript%20at%20Netscape%20in%201995%20under%20in"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Brendan%20Eich%20created%20JavaScript%20at%20Netscape%20in%201995%20under%20in"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5230",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5236",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=JavaScript%20is%20not%20a%20simplified%20version%20of%20Java.%20The%20language"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=JavaScript%20is%20not%20a%20simplified%20version%20of%20Java.%20The%20language"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5236",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5254",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=ECMAScript%20is%20the%20standardised%20language%20specification%20underl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=ECMAScript%20is%20the%20standardised%20language%20specification%20underl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5254",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5303",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=JavaScript%20Object%20Notation%20is%20a%20lightweight%20text%20format%20for%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=JavaScript%20Object%20Notation%20is%20a%20lightweight%20text%20format%20for%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5303",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5345",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Created%20by%20Pei-Yuan%20Wei.%20It%20was%20an%20influential%20graphical%20bro"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Created%20by%20Pei-Yuan%20Wei.%20It%20was%20an%20influential%20graphical%20bro"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5345",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5426",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Google%20launched%20Chrome%20in%202008.%20Chromium%20is%20the%20open-source%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Google%20launched%20Chrome%20in%202008.%20Chromium%20is%20the%20open-source%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5426",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5612",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Jerry%20Yang%20and%20David%20Filo%20created%20%E2%80%9CJerry%20and%20David%E2%80%99s%20Guide%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Jerry%20Yang%20and%20David%20Filo%20created%20%E2%80%9CJerry%20and%20David%E2%80%99s%20Guide%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5612",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5807",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20certificate%20authority%20signs%20a%20digital%20certificate%20binding%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20certificate%20authority%20signs%20a%20digital%20certificate%20binding%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5807",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-5825",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Integrated%20Services%20Digital%20Network%20carried%20digital%20voice%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Integrated%20Services%20Digital%20Network%20carried%20digital%20voice%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-5825",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-7033",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20Digital%20Subscriber%20Line%20Access%20Multiplexer%20aggregates%20cust"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20Digital%20Subscriber%20Line%20Access%20Multiplexer%20aggregates%20cust"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-7033",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-7220",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20first%20lasting%20transatlantic%20telegraph%20cable%20entered%20serv"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20first%20lasting%20transatlantic%20telegraph%20cable%20entered%20serv"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-7220",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-7439",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Cloud%20providers%20group%20data%20centres%20into%20geographic%20regions%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Cloud%20providers%20group%20data%20centres%20into%20geographic%20regions%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-7439",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-7463",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=50.%20NET%20NEUTRALITY%20AND%20THE%20DIGITAL%20DIVIDE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=50.%20NET%20NEUTRALITY%20AND%20THE%20DIGITAL%20DIVIDE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-7463",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-7500",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Digital%20divide"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Digital%20divide"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-7500",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8241",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Following%20successful%20trials%2C%20a%20rapidly%20expanding%20system%20link"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Following%20successful%20trials%2C%20a%20rapidly%20expanding%20system%20link"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8241",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8253",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20biometric%20identity%20system%20operated%20by%20UIDAI.%20Authenticatio"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20biometric%20identity%20system%20operated%20by%20UIDAI.%20Authenticatio"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8253",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8265",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Provides%20authenticated%20digital%20documents%20and%20issuer%E2%80%93requeste"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Provides%20authenticated%20digital%20documents%20and%20issuer%E2%80%93requeste"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8265",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8271",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Open%20Network%20for%20Digital%20Commerce%20uses%20open%20specifications%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Open%20Network%20for%20Digital%20Commerce%20uses%20open%20specifications%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8271",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8340",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20umbrella%20expression%20for%20digital%20identity%2C%20payments%2C%20data%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20umbrella%20expression%20for%20digital%20identity%2C%20payments%2C%20data%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8340",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8428",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Industry%20representation%20for%20telecom%20infrastructure%20providers"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Industry%20representation%20for%20telecom%20infrastructure%20providers"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8428",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8588",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1995%20%E2%80%94%20India%E2%80%99s%20first%20mobile%20call%20on%20July%2031%3B%20public%20Internet"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1995%20%E2%80%94%20India%E2%80%99s%20first%20mobile%20call%20on%20July%2031%3B%20public%20Internet"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8588",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-8767",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Brendan%20Eich%20%E2%80%94%20JavaScript%2C%20Mozilla%20and%20Brave."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Brendan%20Eich%20%E2%80%94%20JavaScript%2C%20Mozilla%20and%20Brave."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-8767",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-9244",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Myth%3A%20Java%20and%20JavaScript%20are%20the%20same%20family%20in%20a%20simple%20se"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Myth%3A%20Java%20and%20JavaScript%20are%20the%20same%20family%20in%20a%20simple%20se"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-9244",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-9247",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=69.%20Why%20is%20the%20statement%20%E2%80%9CJavaScript%20is%20interpreted%20Java%E2%80%9D%20wr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=69.%20Why%20is%20the%20statement%20%E2%80%9CJavaScript%20is%20interpreted%20Java%E2%80%9D%20wr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-9247",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-9250",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=70.%20What%20standardised%20specification%20underlies%20JavaScript%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=70.%20What%20standardised%20specification%20underlies%20JavaScript%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-9250",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-9259",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=71.%20What%20data%20format%20associated%20with%20Douglas%20Crockford%20resem"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=71.%20What%20data%20format%20associated%20with%20Douglas%20Crockford%20resem"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-9259",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-9277",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=74.%20Identify%20the%20first%20mass-popular%20graphical%20Web%20browser%20de"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=74.%20Identify%20the%20first%20mass-popular%20graphical%20Web%20browser%20de"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-9277",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-9812",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=80.%20Google%20Chrome%E2%80%99s%20open-source%20base%20and%20JavaScript%20engine%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=80.%20Google%20Chrome%E2%80%99s%20open-source%20base%20and%20JavaScript%20engine%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-9812",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-9823",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=68.%20JavaScript%3B%20Mocha%20and%20LiveScript."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=68.%20JavaScript%3B%20Mocha%20and%20LiveScript."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-9823",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-10063",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=79.%20KHTML%2C%20with%20KJS%20also%20influencing%20JavaScript%20technology."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=79.%20KHTML%2C%20with%20KJS%20also%20influencing%20JavaScript%20technology."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-10063",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-10105",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20company%20expands%20into%20adjacent%20products%20at%20the%20same%20broad%20l"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20company%20expands%20into%20adjacent%20products%20at%20the%20same%20broad%20l"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-10105",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-10195",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Enterprise%20software%20and%20databases."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Enterprise%20software%20and%20databases."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-10195",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-10204",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Windows%20supplied%20the%20software%20platform."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Windows%20supplied%20the%20software%20platform."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-10204",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-10245",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Early%20FORTRAN%20and%20COBOL%20products."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Early%20FORTRAN%20and%20COBOL%20products."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-10245",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-10830",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Integration%20of%20AI%20across%20Azure%2C%20Windows%2C%20Microsoft%20365%2C%20Gi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Integration%20of%20AI%20across%20Azure%2C%20Windows%2C%20Microsoft%20365%2C%20Gi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-10830",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11232",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IBM%E2%80%99s%20choice%20of%20the%20Intel%208088%20linked%20Intel%20to%20the%20rapidly%20e"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IBM%E2%80%99s%20choice%20of%20the%20Intel%208088%20linked%20Intel%20to%20the%20rapidly%20e"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11232",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11344",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=16.%20HP%2C%20HPE%20AND%20AGILENT%20%E2%80%94%20THE%20GARAGE%20FAMILY%20TREE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=16.%20HP%2C%20HPE%20AND%20AGILENT%20%E2%80%94%20THE%20GARAGE%20FAMILY%20TREE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11344",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11347",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20III%20%E2%80%94%20ENTERPRISE%20SOFTWARE%2C%20NETWORKING%20AND%20THE%20INVISIBLE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20III%20%E2%80%94%20ENTERPRISE%20SOFTWARE%2C%20NETWORKING%20AND%20THE%20INVISIBLE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11347",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11354",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=19.%20ORACLE%20%E2%80%94%20THE%20DATABASE%20COMPANY%20THAT%20BECAME%20A%20CLOUD%20AND%20AP"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=19.%20ORACLE%20%E2%80%94%20THE%20DATABASE%20COMPANY%20THAT%20BECAME%20A%20CLOUD%20AND%20AP"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11354",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-11375",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Later%20name%3A%20Relational%20Software%20Inc.%3B%20eventually%20Oracle%20Sy"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Later%20name%3A%20Relational%20Software%20Inc.%3B%20eventually%20Oracle%20Sy"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-11375",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-40",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Oracle%20Database."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Oracle%20Database."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-02-lib-40",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Software, Operating Systems, Languages and Databases\" category with the linked topic."
+          },
+          {
+            "topicId": "module-02-lib-42",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Software, Operating Systems, Languages and Databases\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

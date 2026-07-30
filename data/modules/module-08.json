@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Infosys%2C%20Wipro%2C%20HCL%2C%20Zoho%2C%20Flipkart%2C%20Paytm%20and%20Indian%20star"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Infosys%2C%20Wipro%2C%20HCL%2C%20Zoho%2C%20Flipkart%2C%20Paytm%20and%20Indian%20star"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-12558",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8070",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=India%E2%80%99s%202016%20demonetisation%20accelerated%20awareness%20of%20digital"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=India%E2%80%99s%202016%20demonetisation%20accelerated%20awareness%20of%20digital"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8070",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8079",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5Gi%20was%20an%20Indian%20radio-interface%20proposal%20developed%20through"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5Gi%20was%20an%20Indian%20radio-interface%20proposal%20developed%20through"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8079",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8094",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=BSNL%20pursued%20an%20Indian-developed%204G%20stack%20involving%20a%20consor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=BSNL%20pursued%20an%20Indian-developed%204G%20stack%20involving%20a%20consor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8094",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8304",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20Indian%20optical%20and%20broadband%20equipment%20company%20founded%20by"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20Indian%20optical%20and%20broadband%20equipment%20company%20founded%20by"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8304",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-189",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20pioneer%20called%20the%20father%20of%20the%20Indian%20IT%20industry%3B%20ear"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20pioneer%20called%20the%20father%20of%20the%20Indian%20IT%20industry%3B%20ear"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-189",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-346",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Indian%20telecom%20and%20startup%20history"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Indian%20telecom%20and%20startup%20history"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-346",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-599",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Indian%20space%20startups"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Indian%20space%20startups"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-599",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-608",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Indian%20decimal%20place-value%20tradition%20and%20the%20use%20of%20zero"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Indian%20decimal%20place-value%20tradition%20and%20the%20use%20of%20zero"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-608",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3265",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Indian%20mathematicians%20such%20as%20Brahmagupta%20gave%20systematic%20ru"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Indian%20mathematicians%20such%20as%20Brahmagupta%20gave%20systematic%20ru"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3265",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7838",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Its%20founding%20leader%20F.C.%20Kohli%20is%20widely%20called%20the%20Father%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Its%20founding%20leader%20F.C.%20Kohli%20is%20widely%20called%20the%20Father%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7838",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7850",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Vodafone%20India%20and%20Idea%20Cellular%20merged%20in%202018%20to%20form%20Voda"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Vodafone%20India%20and%20Idea%20Cellular%20merged%20in%202018%20to%20form%20Voda"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7850",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8034",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Mumbai%E2%80%99s%20mobile%20service%20passed%20through%20brand%20identities%20incl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Mumbai%E2%80%99s%20mobile%20service%20passed%20through%20brand%20identities%20incl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8034",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8359",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MTNL%20and%20BSNL%20were%20early%20Indian%203G%20launchers.%20Private%20operat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MTNL%20and%20BSNL%20were%20early%20Indian%203G%20launchers.%20Private%20operat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8359",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8440",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=White%2C%20balloon-headed%20characters%20created%20for%20Vodafone%20India%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=White%2C%20balloon-headed%20characters%20created%20for%20Vodafone%20India%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8440",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8863",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2012%20%E2%80%94%20Airtel%20launches%20Indian%204G%20in%20Kolkata%3B%20Supreme%20Court%20c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2012%20%E2%80%94%20Airtel%20launches%20Indian%204G%20in%20Kolkata%3B%20Supreme%20Court%20c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8863",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8879",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=O%E2%80%99Shaughnessy%20%E2%86%92%20Indian%20telegraph%20%E2%86%92%20Posts%20and%20Telegraphs%20%E2%86%92%20Do"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=O%E2%80%99Shaughnessy%20%E2%86%92%20Indian%20telegraph%20%E2%86%92%20Posts%20and%20Telegraphs%20%E2%86%92%20Do"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8879",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-9013",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Infotel%20Broadband%20spectrum%20%E2%86%92%20Reliance%20acquisition%20%E2%86%92%20Reliance"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Infotel%20Broadband%20spectrum%20%E2%86%92%20Reliance%20acquisition%20%E2%86%92%20Reliance"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-9013",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-9942",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Distinguish%20DoT%2C%20TRAI%2C%20BSNL%2C%20MTNL%2C%20VSNL%2FTata%20Communication"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Distinguish%20DoT%2C%20TRAI%2C%20BSNL%2C%20MTNL%2C%20VSNL%2FTata%20Communication"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-9942",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-12310",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=198.%20Indian%205G%20radio-interface%20contribution%20involving%20IIT%20Ma"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=198.%20Indian%205G%20radio-interface%20contribution%20involving%20IIT%20Ma"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-12310",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-12386",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20VI%20%E2%80%94%20INDIAN%20TECHNOLOGY%20COMPANIES%20AND%20STARTUP%20STORIES"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20VI%20%E2%80%94%20INDIAN%20TECHNOLOGY%20COMPANIES%20AND%20STARTUP%20STORIES"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-12386",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-12562",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=44.%20HCLTECH%20%E2%80%94%20THE%20GARAGE%20STARTUP%20OF%20INDIAN%20COMPUTING"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=44.%20HCLTECH%20%E2%80%94%20THE%20GARAGE%20STARTUP%20OF%20INDIAN%20COMPUTING"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-12562",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-12570",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Restrictions%20imposed%20on%20Paytm%20Payments%20Bank%20in%202024%20became%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Restrictions%20imposed%20on%20Paytm%20Payments%20Bank%20in%202024%20became%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-12570",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-12719",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=50.%20PHONEPE%20AND%20RAZORPAY%20%E2%80%94%20PAYMENTS%20AS%20INFRASTRUCTURE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=50.%20PHONEPE%20AND%20RAZORPAY%20%E2%80%94%20PAYMENTS%20AS%20INFRASTRUCTURE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-12719",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-13225",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Technology%20quizzes%20increasingly%20ask%20not%20only%20who%20became%20a%20un"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Technology%20quizzes%20increasingly%20ask%20not%20only%20who%20became%20a%20un"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-13225",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-16021",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20F.C.%20Kohli%20%E2%80%94%20TCS%20and%20Indian%20IT%20industry."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20F.C.%20Kohli%20%E2%80%94%20TCS%20and%20Indian%20IT%20industry."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-16021",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-16059",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Tata%20Consultancy%20Services%20is%20an%20Indian%20multinational%20IT%20serv"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Tata%20Consultancy%20Services%20is%20an%20Indian%20multinational%20IT%20serv"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-16059",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-16605",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20UPI%20is%20operated%20by%20the%20National%20Payments%20Corporation%20of%20In"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20UPI%20is%20operated%20by%20the%20National%20Payments%20Corporation%20of%20In"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-16605",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-21407",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=25.%20Aadhaar%20is%20proof%20of%20Indian%20citizenship."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=25.%20Aadhaar%20is%20proof%20of%20Indian%20citizenship."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-21407",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-24683",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Indian%20Computer%20Emergency%20Response%20Team%20is%20India%E2%80%99s%20natio"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Indian%20Computer%20Emergency%20Response%20Team%20is%20India%E2%80%99s%20natio"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-24683",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-24986",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=India%E2%80%99s%20technology%20story%20is%20not%20only%20a%20list%20of%20apps%20and%20comp"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=India%E2%80%99s%20technology%20story%20is%20not%20only%20a%20list%20of%20apps%20and%20comp"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-24986",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-25168",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Aadhaar%20is%20not%20proof%20of%20Indian%20citizenship.%20Eligibility%20is%20b"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Aadhaar%20is%20not%20proof%20of%20Indian%20citizenship.%20Eligibility%20is%20b"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-25168",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-25307",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NPCI%20stands%20for%20National%20Payments%20Corporation%20of%20India."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NPCI%20stands%20for%20National%20Payments%20Corporation%20of%20India."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-25307",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-25405",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=UPI%20is%20a%20rail.%20Google%20Pay%2C%20PhonePe%2C%20Paytm%2C%20BHIM%20and%20bank%20app"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=UPI%20is%20a%20rail.%20Google%20Pay%2C%20PhonePe%2C%20Paytm%2C%20BHIM%20and%20bank%20app"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-25405",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-25934",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Extends%20UPI-style%20payments%20to%20feature-phone%20users%20through%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Extends%20UPI-style%20payments%20to%20feature-phone%20users%20through%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-25934",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-27776",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=ONDC%20is%20supported%20as%20an%20Indian%20digital-commerce%20initiative%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=ONDC%20is%20supported%20as%20an%20Indian%20digital-commerce%20initiative%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-27776",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-27860",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Used%20by%20Indian%20operators%20including%20Reliance%20and%20Tata%20in%20ea"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Used%20by%20Indian%20operators%20including%20Reliance%20and%20Tata%20in%20ea"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-27860",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-28090",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NavIC%20stands%20for%20Navigation%20with%20Indian%20Constellation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NavIC%20stands%20for%20Navigation%20with%20Indian%20Constellation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-28090",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-28102",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20IMPS%2C%20RuPay%2C%20Digital%20India%2C%20DigiLocker%2C%20UPI%2C%20GeM%20and%20FASTa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20IMPS%2C%20RuPay%2C%20Digital%20India%2C%20DigiLocker%2C%20UPI%2C%20GeM%20and%20FASTa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-28102",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-28108",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XVIII%20%E2%80%94%20INDIAN%20STARTUP%20AND%20PRODUCT%20ECOSYSTEM"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XVIII%20%E2%80%94%20INDIAN%20STARTUP%20AND%20PRODUCT%20ECOSYSTEM"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-28108",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-28230",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20roadmap%20includes%20Indian%20telecom%20and%20startup%20history%20beca"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20roadmap%20includes%20Indian%20telecom%20and%20startup%20history%20beca"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-28230",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-28249",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Paytm%20is%20a%20company%20and%20app%20ecosystem.%20It%20is%20not%20the%20owner%20of"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Paytm%20is%20a%20company%20and%20app%20ecosystem.%20It%20is%20not%20the%20owner%20of"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-28249",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-28787",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PhonePe%20is%20a%20payment-service%20company%20using%20public%20rails%3B%20UPI"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PhonePe%20is%20a%20payment-service%20company%20using%20public%20rails%3B%20UPI"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-28787",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-29348",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NPCI%20%E2%80%94%20National%20Payments%20Corporation%20of%20India."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NPCI%20%E2%80%94%20National%20Payments%20Corporation%20of%20India."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-29348",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-29395",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20NavIC%20%E2%80%94%20Indian%20regional%20navigation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20NavIC%20%E2%80%94%20Indian%20regional%20navigation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-29395",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-29568",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Does%20Aadhaar%20by%20itself%20prove%20Indian%20citizenship%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Does%20Aadhaar%20by%20itself%20prove%20Indian%20citizenship%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-29568",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-29665",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=46.%20UPI%20interoperates%20payments%3B%20ONDC%20seeks%20to%20interoperate%20c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=46.%20UPI%20interoperates%20payments%3B%20ONDC%20seeks%20to%20interoperate%20c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-29665",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-30985",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NPCI%20%E2%86%92%20IMPS%20%E2%86%92%20UPI%20%E2%86%92%20BHIM%2C%20QR%20payments%2C%20mandates%2C%20feature-pho"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NPCI%20%E2%86%92%20IMPS%20%E2%86%92%20UPI%20%E2%86%92%20BHIM%2C%20QR%20payments%2C%20mandates%2C%20feature-pho"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-30985",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-31192",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20commercial%20identity%20that%20may%20differ%20from%20the%20legal%20company"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20commercial%20identity%20that%20may%20differ%20from%20the%20legal%20company"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-31192",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-32110",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Established%20in%201892%2C%20the%20JN%20Tata%20Endowment%20supported%20Indians"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Established%20in%201892%2C%20the%20JN%20Tata%20Endowment%20supported%20Indians"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-32110",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-32122",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=56.%20TATA%20AND%20INDIAN%20SPORT"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=56.%20TATA%20AND%20INDIAN%20SPORT"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-32122",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-32290",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Tata%20Indian%20Premier%20League%20title%20sponsorship."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Tata%20Indian%20Premier%20League%20title%20sponsorship."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-32290",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-33868",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Often%20called%20the%20Father%20of%20the%20Indian%20IT%20industry."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Often%20called%20the%20Father%20of%20the%20Indian%20IT%20industry."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-33868",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-36343",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=131.%20Who%20is%20called%20the%20Father%20of%20the%20Indian%20IT%20industry%20and%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=131.%20Who%20is%20called%20the%20Father%20of%20the%20Indian%20IT%20industry%20and%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-36343",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-36657",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Brahmagupta%2C%20in%20the%20seventh%20century%2C%20gave%20systematic%20rules%20f"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Brahmagupta%2C%20in%20the%20seventh%20century%2C%20gave%20systematic%20rules%20f"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-36657",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-36671",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202023%20%E2%80%94%20Chandrayaan-3%20achieved%20a%20soft%20landing%20near%20the%20luna"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202023%20%E2%80%94%20Chandrayaan-3%20achieved%20a%20soft%20landing%20near%20the%20luna"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-36671",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-37119",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Anna%20Mani%20%E2%80%94%20Physicist%20and%20meteorologist%20who%20advanced%20India"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Anna%20Mani%20%E2%80%94%20Physicist%20and%20meteorologist%20who%20advanced%20India"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-37119",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-13",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=35.%20Which%20Indian%20mission%20achieved%20a%20soft%20landing%20near%20the%20lu"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=35.%20Which%20Indian%20mission%20achieved%20a%20soft%20landing%20near%20the%20lu"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-13",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-79",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.%20Indian%20Digital%20Ecosystem%20and%20Indigenous%20Technology"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.%20Indian%20Digital%20Ecosystem%20and%20Indigenous%20Technology"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-79",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-171",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Study%20major%20global%20and%20Indian%20technology%20companies."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Study%20major%20global%20and%20Indian%20technology%20companies."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-171",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-174",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.%20Indian%20Digital%20Ecosystem%20and%20Indigenous%20Technology"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.%20Indian%20Digital%20Ecosystem%20and%20Indigenous%20Technology"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-174",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-175",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20India%20Stack"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20India%20Stack"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-175",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-190",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20UPI%2C%20NPCI%2C%20IMPS%20and%20RuPay"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20UPI%2C%20NPCI%2C%20IMPS%20and%20RuPay"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-190",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-274",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Indian-origin%20global%20technology%20leaders"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Indian-origin%20global%20technology%20leaders"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-274",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-310",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Indian%20science"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Indian%20science"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-310",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-369",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Landmark%20global%20and%20Indian%20structures"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Landmark%20global%20and%20Indian%20structures"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-369",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-385",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Indian%20technology%20policy"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Indian%20technology%20policy"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-385",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-390",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Major%20world%20and%20Indian%20events"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Major%20world%20and%20Indian%20events"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-390",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-564",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Essential%20Indian%20history"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Essential%20Indian%20history"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-564",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3191",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Indian-built%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Indian-built%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3191",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3204",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Indian%20Statistical%20Institute%20was%20founded%20by%20Prasanta%20Cha"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Indian%20Statistical%20Institute%20was%20founded%20by%20Prasanta%20Cha"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3204",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3249",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20A%20foundation%20for%20training%20early%20Indian%20programmers."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20A%20foundation%20for%20training%20early%20Indian%20programmers."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3249",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3284",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Early%20Indian%20computer%20families%20included%20TDC%20systems."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Early%20Indian%20computer%20families%20included%20TDC%20systems."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3284",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3550",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20belongs%20more%20fully%20in%20Modules%206%20and%208%2C%20but%20it%20completes"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20belongs%20more%20fully%20in%20Modules%206%20and%208%2C%20but%20it%20completes"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3550",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3551",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Indian%20decimal%20place-value%20notation%20and%20zero%20develop."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Indian%20decimal%20place-value%20notation%20and%20zero%20develop."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3551",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3622",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Algorithms%20flourish%20in%20Greek%2C%20Indian%2C%20Chinese%20and%20Islamic%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Algorithms%20flourish%20in%20Greek%2C%20Indian%2C%20Chinese%20and%20Islamic%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3622",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3807",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Indian%20solid-state%20computer%20work."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Indian%20solid-state%20computer%20work."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3807",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3906",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=71.%20Indian%20Statistical%20Institute%2C%20Kolkata."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=71.%20Indian%20Statistical%20Institute%2C%20Kolkata."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3906",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-3973",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20What%20Indian%20connection%20could%20turn%20it%20into%20a%20TCS%20InQuizitiv"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20What%20Indian%20connection%20could%20turn%20it%20into%20a%20TCS%20InQuizitiv"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-3973",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-5181",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=James%20Clerk%20Maxwell%E2%80%99s%20equations%20predicted%20electromagnetic%20wa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=James%20Clerk%20Maxwell%E2%80%99s%20equations%20predicted%20electromagnetic%20wa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-5181",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-6969",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Two-letter%20domains%20such%20as%20.in%20for%20India%2C%20.uk%20for%20the%20United"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Two-letter%20domains%20such%20as%20.in%20for%20India%2C%20.uk%20for%20the%20United"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-6969",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7497",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Indian-born%20physicist%20Narinder%20Singh%20Kapany%20coined%20or%20popula"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Indian-born%20physicist%20Narinder%20Singh%20Kapany%20coined%20or%20popula"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7497",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7509",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=William%20Brooke%20O%E2%80%99Shaughnessy%2C%20an%20Irish%20physician%20and%20scienti"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=William%20Brooke%20O%E2%80%99Shaughnessy%2C%20an%20Irish%20physician%20and%20scienti"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7509",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7525",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Indian%20Posts%20and%20Telegraphs"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Indian%20Posts%20and%20Telegraphs"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7525",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7526",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Calcutta%E2%80%93Diamond%20Harbour%20is%20the%20classic%20early%20Indian%20teleg"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Calcutta%E2%80%93Diamond%20Harbour%20is%20the%20classic%20early%20Indian%20teleg"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7526",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7547",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20The%20telegraph%20predates%20the%20telephone%20and%20Indian%20radio%20broa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20The%20telegraph%20predates%20the%20telephone%20and%20Indian%20radio%20broa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7547",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7619",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=STD%20allowed%20callers%20to%20dial%20long-distance%20calls%20directly%20wit"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=STD%20allowed%20callers%20to%20dial%20long-distance%20calls%20directly%20wit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7619",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7634",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Centre%20for%20Development%20of%20Telematics%20was%20established%20in%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Centre%20for%20Development%20of%20Telematics%20was%20established%20in%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7634",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7673",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Imported%20exchanges%20were%20expensive%20and%20often%20unsuitable%20for%20d"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Imported%20exchanges%20were%20expensive%20and%20often%20unsuitable%20for%20d"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7673",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7707",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Indian%20Institute%20of%20Science%2C%20Bengaluru."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Indian%20Institute%20of%20Science%2C%20Bengaluru."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7707",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7710",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Early%20Indian%20portals%20and%20services"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Early%20Indian%20portals%20and%20services"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7710",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7714",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Rediff%2C%20founded%20by%20Ajit%20Balakrishnan%2C%20became%20an%20early%20Indi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Rediff%2C%20founded%20by%20Ajit%20Balakrishnan%2C%20became%20an%20early%20Indi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7714",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7747",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Naukri.com%2C%20founded%20by%20Sanjeev%20Bikhchandani%2C%20became%20a%20land"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Naukri.com%2C%20founded%20by%20Sanjeev%20Bikhchandani%2C%20became%20a%20land"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7747",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7750",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Internationalised%20Indian%20domains"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Internationalised%20Indian%20domains"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7750",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-7868",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=India%20supports%20domain%20names%20in%20multiple%20scripts.%20Examples%20of"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=India%20supports%20domain%20names%20in%20multiple%20scripts.%20Examples%20of"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-7868",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8088",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Norway%E2%80%99s%20Telenor%20entered%20India%20through%20Unitech%20Wireless.%20The"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Norway%E2%80%99s%20Telenor%20entered%20India%20through%20Unitech%20Wireless.%20The"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8088",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8127",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Links%20TCS%2C%20C-DOT%20and%20Tejas%E2%80%94three%20highly%20quizable%20Indian%20te"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Links%20TCS%2C%20C-DOT%20and%20Tejas%E2%80%94three%20highly%20quizable%20Indian%20te"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8127",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8184",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20industry%2C%20academic%20and%20research%20platform%20intended%20to%20coor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20industry%2C%20academic%20and%20research%20platform%20intended%20to%20coor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8184",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-8193",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Navigation%20with%20Indian%20Constellation%2C%20formerly%20IRNSS%2C%20is%20a%20r"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Navigation%20with%20Indian%20Constellation%2C%20formerly%20IRNSS%2C%20is%20a%20r"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-8193",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-98",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=67.%20INDIAN%20SUBMARINE%20CABLES%20AND%20GLOBAL%20GATEWAYS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=67.%20INDIAN%20SUBMARINE%20CABLES%20AND%20GLOBAL%20GATEWAYS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-08-lib-98",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Indian Digital Ecosystem and Indigenous Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-08-lib-12558",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Indian Digital Ecosystem and Indigenous Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20module%20follows%20the%20roadmap%E2%80%99s%20complete%20Module%206%20scope%3A%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20module%20follows%20the%20roadmap%E2%80%99s%20complete%20Module%206%20scope%3A%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18447",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17202",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Study%20pipelines%2C%20hazards%2C%20branch%20prediction%2C%20superscalar%20and"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Study%20pipelines%2C%20hazards%2C%20branch%20prediction%2C%20superscalar%20and"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17202",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18563",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20microarchitecture%20is%20a%20particular%20internal%20implementation%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20microarchitecture%20is%20a%20particular%20internal%20implementation%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18563",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17062",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=If%20you%20can%20reconstruct%20the%20semiconductor%20chain%20from%20silicon%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=If%20you%20can%20reconstruct%20the%20semiconductor%20chain%20from%20silicon%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17062",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17205",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=OSAT%20means%20outsourced%20semiconductor%20assembly%20and%20test.%20Compa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=OSAT%20means%20outsourced%20semiconductor%20assembly%20and%20test.%20Compa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17205",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17551",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20x86%2C%20Arm%20and%20RISC-V%20are%20instruction-set%20families."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20x86%2C%20Arm%20and%20RISC-V%20are%20instruction-set%20families."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17551",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17574",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Static%20random-access%20memory%20stores%20a%20bit%20using%20a%20bistable%20ci"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Static%20random-access%20memory%20stores%20a%20bit%20using%20a%20bistable%20ci"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17574",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17768",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=HBM%20supply%20links%20memory%20makers%2C%20foundries%2C%20packaging%20capacit"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=HBM%20supply%20links%20memory%20makers%2C%20foundries%2C%20packaging%20capacit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17768",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17780",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Rock%E2%80%99s%20Law%2C%20associated%20with%20Arthur%20Rock%2C%20observes%20that%20semic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Rock%E2%80%99s%20Law%2C%20associated%20with%20Arthur%20Rock%2C%20observes%20that%20semic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17780",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18443",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20finished%20processor%20may%20depend%20on%20architecture%20IP%20from%20one%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20finished%20processor%20may%20depend%20on%20architecture%20IP%20from%20one%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18443",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-1665",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Study%20ISA%20versus%20microarchitecture%2C%20x86%20history%2C%20AMD64%2C%20Arm%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Study%20ISA%20versus%20microarchitecture%2C%20x86%20history%2C%20AMD64%2C%20Arm%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-1665",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10805",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NIST%20defines%20a%20transistor%20as%20a%20semiconductor%20switch%20and%20an%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NIST%20defines%20a%20transistor%20as%20a%20semiconductor%20switch%20and%20an%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10805",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10954",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Noyce%20and%20Moore%20left%20Fairchild%20Semiconductor%20to%20establish%20In"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Noyce%20and%20Moore%20left%20Fairchild%20Semiconductor%20to%20establish%20In"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10954",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16912",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Nvidia%20proposed%20acquiring%20Arm%20from%20SoftBank%2C%20but%20regulatory%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Nvidia%20proposed%20acquiring%20Arm%20from%20SoftBank%2C%20but%20regulatory%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16912",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17070",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20Intel%204004%20was%20not%20the%20first%20CPU%20design%2C%20first%20el"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20Intel%204004%20was%20not%20the%20first%20CPU%20design%2C%20first%20el"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17070",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17085",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Architecture%20and%20intellectual%20property%3A%20Arm%2C%20the%20RISC-V%20ec"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Architecture%20and%20intellectual%20property%3A%20Arm%2C%20the%20RISC-V%20ec"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17085",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17333",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Morris%20Chang%20founded%20Taiwan%20Semiconductor%20Manufacturing%20Comp"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Morris%20Chang%20founded%20Taiwan%20Semiconductor%20Manufacturing%20Comp"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17333",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17602",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=CISC%20means%20complex%20instruction%20set%20computer%2C%20but%20modern%20x86%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=CISC%20means%20complex%20instruction%20set%20computer%2C%20but%20modern%20x86%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17602",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18431",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NVMe%20is%20a%20storage%20protocol%20designed%20for%20non-volatile%20memory%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NVMe%20is%20a%20storage%20protocol%20designed%20for%20non-volatile%20memory%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18431",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-23251",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Study%20Bell%20Labs%2C%20Kilby%2C%20Noyce%2C%20Hoerni%2C%20Shockley%20Semiconducto"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Study%20Bell%20Labs%2C%20Kilby%2C%20Noyce%2C%20Hoerni%2C%20Shockley%20Semiconducto"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-23251",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-23274",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=CPU%20registers%20%E2%86%92%20cache%20%E2%86%92%20RAM%20%E2%86%92%20solid-state%20or%20magnetic%20storag"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=CPU%20registers%20%E2%86%92%20cache%20%E2%86%92%20RAM%20%E2%86%92%20solid-state%20or%20magnetic%20storag"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-23274",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27405",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20page%20fault%20occurs%20when%20a%20referenced%20page%20is%20not%20currently%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20page%20fault%20occurs%20when%20a%20referenced%20page%20is%20not%20currently%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27405",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-36547",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=These%20facilities%20perform%20back-end%20semiconductor%20operations%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=These%20facilities%20perform%20back-end%20semiconductor%20operations%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-36547",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-11",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20integrated%20circuit%20emerged%20independently%20through%20Jack%20Ki"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20integrated%20circuit%20emerged%20independently%20through%20Jack%20Ki"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-11",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-129",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=6.%20Hardware%2C%20Semiconductors%2C%20Architectures%20and%20Quantum%20Compu"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=6.%20Hardware%2C%20Semiconductors%2C%20Architectures%20and%20Quantum%20Compu"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-129",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-132",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=6.%20Hardware%2C%20Semiconductors%2C%20Architectures%20and%20Quantum%20Compu"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=6.%20Hardware%2C%20Semiconductors%2C%20Architectures%20and%20Quantum%20Compu"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-132",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-138",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Semiconductor%20fabrication"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Semiconductor%20fabrication"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-138",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-143",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20x86%2C%20ARM%20and%20RISC-V"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20x86%2C%20ARM%20and%20RISC-V"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-143",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-524",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Qubits%2C%20superposition%20and%20entanglement"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Qubits%2C%20superposition%20and%20entanglement"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-524",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-1552",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=First%20program%20run%20from%20electronic%20memory"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=First%20program%20run%20from%20electronic%20memory"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-1552",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-1684",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20makes%20it%20the%20first%20machine%20to%20run%20a%20stored%20program%20from"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20makes%20it%20the%20first%20machine%20to%20run%20a%20stored%20program%20from"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-1684",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-1882",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=His%20design%20showed%20that%20multiple%20circuit%20elements%20could%20be%20fa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=His%20design%20showed%20that%20multiple%20circuit%20elements%20could%20be%20fa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-1882",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-2094",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Intel%E2%80%99s%201103%20helped%20semiconductor%20DRAM%20replace%20magnetic%20core"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Intel%E2%80%99s%201103%20helped%20semiconductor%20DRAM%20replace%20magnetic%20core"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-2094",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-2698",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20microprocessor%20places%20the%20central%20processing%20unit%E2%80%99s%20major%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20microprocessor%20places%20the%20central%20processing%20unit%E2%80%99s%20major%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-2698",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-3805",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20CPU%20fetches%20instruction%20from%20memory."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20CPU%20fetches%20instruction%20from%20memory."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-3805",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10129",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=69.%20RAM%20is%20fast%20working%20memory%2C%20generally%20volatile%3B%20storage%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=69.%20RAM%20is%20fast%20working%20memory%2C%20generally%20volatile%3B%20storage%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10129",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10859",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Dynamic%20random-access%20memory%2C%20or%20DRAM%2C%20associated%20with%20Rob"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Dynamic%20random-access%20memory%2C%20or%20DRAM%2C%20associated%20with%20Rob"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10859",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10863",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Core%20businesses%3A%20CPUs%2C%20GPUs%2C%20adaptive%20computing%20and%20data-c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Core%20businesses%3A%20CPUs%2C%20GPUs%2C%20adaptive%20computing%20and%20data-c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10863",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10962",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Jerry%20Sanders%20famously%20said%20real%20men%20have%20fabs%2C%20reflecting%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Jerry%20Sanders%20famously%20said%20real%20men%20have%20fabs%2C%20reflecting%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10962",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10963",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Nvidia%20does%20not%20fabricate%20most%20of%20its%20leading%20chips%20itself"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Nvidia%20does%20not%20fabricate%20most%20of%20its%20leading%20chips%20itself"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10963",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-10978",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20A%20GPU%20is%20not%20simply%20a%20faster%20CPU.%20Its%20architecture%20is%20opti"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20A%20GPU%20is%20not%20simply%20a%20faster%20CPU.%20Its%20architecture%20is%20opti"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-10978",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-11004",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Acorn%20needed%20a%20processor%20for%20new%20computers%20and%20developed%20a%20r"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Acorn%20needed%20a%20processor%20for%20new%20computers%20and%20developed%20a%20r"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-11004",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-11066",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Arm%20is%20an%20architecture%20and%20intellectual-property%20company%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Arm%20is%20an%20architecture%20and%20intellectual-property%20company%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-11066",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16015",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Traditional%20semiconductor%20companies%20both%20designed%20and%20manufa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Traditional%20semiconductor%20companies%20both%20designed%20and%20manufa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16015",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16393",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Nvidia%20designs%20chips%20and%20systems%20but%20generally%20relies%20on%20ext"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Nvidia%20designs%20chips%20and%20systems%20but%20generally%20relies%20on%20ext"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16393",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16745",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A.%20Semiconductor%20fabrication"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A.%20Semiconductor%20fabrication"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16745",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16869",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MODULE%206%20%E2%80%94%20HARDWARE%2C%20SEMICONDUCTORS%2C%20ARCHITECTURES%20AND%20QUANT"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MODULE%206%20%E2%80%94%20HARDWARE%2C%20SEMICONDUCTORS%2C%20ARCHITECTURES%20AND%20QUANT"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16869",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16897",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20integrated%20circuit%20fabricates%20multiple%20electronic%20compone"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20integrated%20circuit%20fabricates%20multiple%20electronic%20compone"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16897",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16938",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20microprocessor%20places%20the%20central%20processing%20unit%E2%80%99s%20core%20f"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20microprocessor%20places%20the%20central%20processing%20unit%E2%80%99s%20core%20f"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16938",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16944",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20wafer%20is%20the%20circular%20slice%20on%20which%20many%20dies%20are%20fabrica"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20wafer%20is%20the%20circular%20slice%20on%20which%20many%20dies%20are%20fabrica"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16944",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16968",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Modern%20chip%20fabrication%20is%20not%20a%20single%20printing%20operation.%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Modern%20chip%20fabrication%20is%20not%20a%20single%20printing%20operation.%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16968",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17059",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20fab%20means%20semiconductor%20fabrication%20plant.%20A%20modern%20leadin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20fab%20means%20semiconductor%20fabrication%20plant.%20A%20modern%20leadin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17059",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17072",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20design-house%20licence%20supplier%20may%20create%20architectures%20or%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20design-house%20licence%20supplier%20may%20create%20architectures%20or%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17072",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17170",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Wafer-fabrication%20equipment%3A%20ASML%2C%20Applied%20Materials%2C%20Lam%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Wafer-fabrication%20equipment%3A%20ASML%2C%20Applied%20Materials%2C%20Lam%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17170",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17199",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Traditional%20chips%20route%20both%20signals%20and%20power%20through%20inter"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Traditional%20chips%20route%20both%20signals%20and%20power%20through%20inter"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17199",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17212",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20instruction-set%20architecture%2C%20ISA%2C%20defines%20the%20programmer"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20instruction-set%20architecture%2C%20ISA%2C%20defines%20the%20programmer"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17212",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17268",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.%20Fetch%20an%20instruction%20from%20memory%20or%20cache."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.%20Fetch%20an%20instruction%20from%20memory%20or%20cache."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17268",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17315",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=CPU%20speed%20greatly%20exceeds%20main-memory%20access%20speed.%20Caches%20s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=CPU%20speed%20greatly%20exceeds%20main-memory%20access%20speed.%20Caches%20s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17315",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17354",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20VIII%20%E2%80%94%20x86%2C%20ARM%20AND%20RISC-V"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20VIII%20%E2%80%94%20x86%2C%20ARM%20AND%20RISC-V"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17354",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17378",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Arm%20grew%20from%20Acorn%20Computers%E2%80%99%20search%20for%20an%20efficient%20proce"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Arm%20grew%20from%20Acorn%20Computers%E2%80%99%20search%20for%20an%20efficient%20proce"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17378",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17388",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=RISC-V%20is%20an%20open%20standard%20instruction-set%20architecture%20orig"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=RISC-V%20is%20an%20open%20standard%20instruction-set%20architecture%20orig"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17388",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17394",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20RISC-V%20ISA%20being%20open%20does%20not%20mean%20every%20RISC-V%20chip%20de"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20RISC-V%20ISA%20being%20open%20does%20not%20mean%20every%20RISC-V%20chip%20de"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17394",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17596",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=RISC%20traditionally%20emphasises%20simple%2C%20regular%20instructions%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=RISC%20traditionally%20emphasises%20simple%2C%20regular%20instructions%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17596",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17599",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20HDD%20stores%20data%20magnetically%20on%20spinning%20platters%20and%20use"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20HDD%20stores%20data%20magnetically%20on%20spinning%20platters%20and%20use"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17599",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17628",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=SSDs%20usually%20offer%20lower%20latency%2C%20greater%20shock%20resistance%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=SSDs%20usually%20offer%20lower%20latency%2C%20greater%20shock%20resistance%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17628",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17690",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Package%20types%20evolved%20from%20dual%20in-line%20packages%20to%20pin-grid"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Package%20types%20evolved%20from%20dual%20in-line%20packages%20to%20pin-grid"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17690",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-17807",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PCI%20Express%20is%20a%20high-speed%20serial%20interconnect%20used%20for%20GPU"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PCI%20Express%20is%20a%20high-speed%20serial%20interconnect%20used%20for%20GPU"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-17807",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18131",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=India%20has%20long%20had%20strength%20in%20semiconductor%20design%2C%20embedde"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=India%20has%20long%20had%20strength%20in%20semiconductor%20design%2C%20embedde"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18131",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18157",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20AMD%3A%20x86%20CPUs%2C%20Radeon%20GPUs%20and%20Instinct%20accelerators."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20AMD%3A%20x86%20CPUs%2C%20Radeon%20GPUs%20and%20Instinct%20accelerators."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18157",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18189",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Arm%20licenses%20architectures%20and%20cores%3B%20it%20is%20not%20primarily"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Arm%20licenses%20architectures%20and%20cores%3B%20it%20is%20not%20primarily"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18189",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18216",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.%20Graphics%20pipeline%20%E2%86%92%20programmable%20shaders%20%E2%86%92%20CUDA%20%E2%86%92%20GPU%20com"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.%20Graphics%20pipeline%20%E2%86%92%20programmable%20shaders%20%E2%86%92%20CUDA%20%E2%86%92%20GPU%20com"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18216",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18288",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=10.%20Which%20material%20dominates%20mainstream%20chip%20fabrication%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=10.%20Which%20material%20dominates%20mainstream%20chip%20fabrication%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18288",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18354",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=82.%20Which%20volatile%20memory%20is%20commonly%20used%20for%20CPU%20caches%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=82.%20Which%20volatile%20memory%20is%20commonly%20used%20for%20CPU%20caches%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18354",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18435",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=40.%20A%20company%20that%20designs%20chips%20and%20contracts%20fabrication%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=40.%20A%20company%20that%20designs%20chips%20and%20contracts%20fabrication%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18435",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18451",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Learn%20the%20sequence%20from%20purified%20silicon%20to%20ingot%2C%20wafer%2C%20de"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Learn%20the%20sequence%20from%20purified%20silicon%20to%20ingot%2C%20wafer%2C%20de"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18451",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18517",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Study%20SRAM%2C%20DRAM%2C%20DDR%20families%2C%20HBM%2C%20NAND%2C%20SSDs%2C%20HDDs%2C%20NVMe%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Study%20SRAM%2C%20DRAM%2C%20DDR%20families%2C%20HBM%2C%20NAND%2C%20SSDs%2C%20HDDs%2C%20NVMe%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-18517",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-23167",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20industry%20divides%20architecture%2C%20design%2C%20equipment%2C%20fabric"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20industry%20divides%20architecture%2C%20design%2C%20equipment%2C%20fabric"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-23167",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-24211",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Resource%20accounting%3A%20tracks%20CPU%20time%2C%20memory%2C%20storage%2C%20and"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Resource%20accounting%3A%20tracks%20CPU%20time%2C%20memory%2C%20storage%2C%20and"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-24211",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-24556",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20A%20system%20is%20spending%20most%20of%20its%20time%20moving%20memory%20pages"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20A%20system%20is%20spending%20most%20of%20its%20time%20moving%20memory%20pages"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-24556",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27201",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Cache%20is%20faster%20and%20smaller%20than%20RAM%3B%20RAM%20is%20volatile%3B%20sto"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Cache%20is%20faster%20and%20smaller%20than%20RAM%3B%20RAM%20is%20volatile%3B%20sto"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27201",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27228",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Identity%3A%20indigenous%20processor%20and%20system-on-chip%20effort%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Identity%3A%20indigenous%20processor%20and%20system-on-chip%20effort%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27228",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27245",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=System%20on%20Chip%2C%20or%20SoC"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=System%20on%20Chip%2C%20or%20SoC"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27245",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27270",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Designs%20chips%20but%20outsources%20fabrication."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Designs%20chips%20but%20outsources%20fabrication."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27270",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27355",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Attract%20semiconductor%20fabrication."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Attract%20semiconductor%20fabrication."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27355",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27367",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20country%20can%20be%20strong%20in%20chip%20design%20while%20weak%20in%20leading"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20country%20can%20be%20strong%20in%20chip%20design%20while%20weak%20in%20leading"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27367",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-27386",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Semiconductor%20fabrication%20plant."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Semiconductor%20fabrication%20plant."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-27386",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-29133",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%9CFabless%E2%80%9D%20does%20not%20mean%20a%20company%20makes%20software%20only.%20It%20cr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%9CFabless%E2%80%9D%20does%20not%20mean%20a%20company%20makes%20software%20only.%20It%20cr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-29133",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-31828",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%86%92%20design%2C%20fabrication%2C%20packaging%20and%20skills%20programmes."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%86%92%20design%2C%20fabrication%2C%20packaging%20and%20skills%20programmes."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-31828",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-33836",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Semiconductor%20fabrication%20plans%20in%20Gujarat."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Semiconductor%20fabrication%20plans%20in%20Gujarat."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-33836",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-36773",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=99.%20Which%20state%20hosts%20Tata%E2%80%99s%20announced%20semiconductor%20fabrica"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=99.%20Which%20state%20hosts%20Tata%E2%80%99s%20announced%20semiconductor%20fabrica"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-36773",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-137",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quantum%20computing%20uses%20quantum%20bits%2C%20or%20qubits%2C%20which%20can%20ex"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quantum%20computing%20uses%20quantum%20bits%2C%20or%20qubits%2C%20which%20can%20ex"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-137",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-139",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20CPUs%2C%20GPUs%2C%20TPUs%20and%20NPUs"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20CPUs%2C%20GPUs%2C%20TPUs%20and%20NPUs"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-139",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-145",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Memory%20and%20storage%20technologies"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Memory%20and%20storage%20technologies"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-145",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-480",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Core%20question%20types%3A%20match%20company%20to%20supply-chain%20role%2C%20arc"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Core%20question%20types%3A%20match%20company%20to%20supply-chain%20role%2C%20arc"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-480",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-545",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20ability%20to%20branch%20according%20to%20a%20condition%20distinguishe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20ability%20to%20branch%20according%20to%20a%20condition%20distinguishe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-545",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-578",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=First%20commercially%20available%20single-chip%20microprocessor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=First%20commercially%20available%20single-chip%20microprocessor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-578",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-929",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20abacus%20is%20not%20a%20single%20invention%20from%20one%20identifiable%20p"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20abacus%20is%20not%20a%20single%20invention%20from%20one%20identifiable%20p"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-929",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-956",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Her%20mother%20encouraged%20mathematical%20education%2C%20partly%20hoping%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Her%20mother%20encouraged%20mathematical%20education%2C%20partly%20hoping%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-956",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-1405",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20computer%20does%20not%20inherently%20know%20whether%20a%20bit%20pattern%20re"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20computer%20does%20not%20inherently%20know%20whether%20a%20bit%20pattern%20re"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-1405",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-16749",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Did%20not%20store%20its%20program%20in%20memory."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Did%20not%20store%20its%20program%20in%20memory."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-06-lib-16749",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Hardware, Semiconductors, Architectures and Quantum Computing\" category with the linked topic."
+          },
+          {
+            "topicId": "module-06-lib-18447",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Hardware, Semiconductors, Architectures and Quantum Computing\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

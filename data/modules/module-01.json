@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Example%20%E2%80%94%20computer%3A%20Babbage%20designed%20a%20general%20mechanical%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Example%20%E2%80%94%20computer%3A%20Babbage%20designed%20a%20general%20mechanical%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-963",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1565",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Ada%20Lovelace%20is%20widely%20credited%20as%20the%20first%20computer%20progra"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Ada%20Lovelace%20is%20widely%20credited%20as%20the%20first%20computer%20progra"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1565",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3285",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Alan%20Turing%20joined%20the%20Manchester%20computing%20effort%20and%20contr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Alan%20Turing%20joined%20the%20Manchester%20computing%20effort%20and%20contr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3285",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-26832",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Imported%20machine%20%E2%86%92%20indigenous%20digital%20computer%20%E2%86%92%20solid-state"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Imported%20machine%20%E2%86%92%20indigenous%20digital%20computer%20%E2%86%92%20solid-state"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-26832",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-414",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PARAM%208000%20was%20not%20India%E2%80%99s%20first%20computer.%20Earlier%20machines%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PARAM%208000%20was%20not%20India%E2%80%99s%20first%20computer.%20Earlier%20machines%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-414",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1608",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Error-prone%20printed%20tables%20%E2%86%92%20Babbage%E2%80%99s%20Difference%20Engine%20%E2%86%92%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Error-prone%20printed%20tables%20%E2%86%92%20Babbage%E2%80%99s%20Difference%20Engine%20%E2%86%92%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1608",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-4595",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=It%20is%20widely%20regarded%20as%20the%20first%20computer%20built%20for%20routin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=It%20is%20widely%20regarded%20as%20the%20first%20computer%20built%20for%20routin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-4595",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-10014",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Early%20computers%20were%20expensive%20machines%20used%20by%20one%20job%20at%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Early%20computers%20were%20expensive%20machines%20used%20by%20one%20job%20at%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-10014",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-10091",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Hollerith%20census%20machines%20%E2%86%92%20Tabulating%20Machine%20Company%20%E2%86%92%20Com"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Hollerith%20census%20machines%20%E2%86%92%20Tabulating%20Machine%20Company%20%E2%86%92%20Com"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-10091",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-14077",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IBM%E2%80%99s%20deepest%20root%20is%20Herman%20Hollerith%E2%80%99s%20punched-card%20tabula"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IBM%E2%80%99s%20deepest%20root%20is%20Herman%20Hollerith%E2%80%99s%20punched-card%20tabula"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-14077",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-17418",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Alan%20Turing%20proposed%20the%20%E2%80%9Cimitation%20game%E2%80%9D%20in%20his%201950%20paper%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Alan%20Turing%20proposed%20the%20%E2%80%9Cimitation%20game%E2%80%9D%20in%20his%201950%20paper%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-17418",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-18185",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20GPU%20contains%20many%20arithmetic%20resources%20designed%20for%20high-t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20GPU%20contains%20many%20arithmetic%20resources%20designed%20for%20high-t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-18185",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-36409",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Busicom%20calculator%20%E2%86%92%20Intel%204004%20%E2%86%92%20microprocessor%20%E2%86%92%20person"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Busicom%20calculator%20%E2%86%92%20Intel%204004%20%E2%86%92%20microprocessor%20%E2%86%92%20person"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-36409",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-36479",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Alan%20Turing%20formalized%20computation%20through%20the%20abstract%20Turi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Alan%20Turing%20formalized%20computation%20through%20the%20abstract%20Turi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-36479",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-36543",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Key%20contributions%3A%20Turing%20machine%2C%20foundations%20of%20computabil"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Key%20contributions%3A%20Turing%20machine%2C%20foundations%20of%20computabil"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-36543",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-28",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Boolean%20algebra%2C%20developed%20by%20George%20Boole%20in%20the%20nineteenth"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Boolean%20algebra%2C%20developed%20by%20George%20Boole%20in%20the%20nineteenth"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-28",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-30",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20ENIAC%2C%20EDVAC%2C%20EDSAC%20and%20UNIVAC"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20ENIAC%2C%20EDVAC%2C%20EDSAC%20and%20UNIVAC"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-30",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-31",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Transistors%2C%20integrated%20circuits%20and%20microprocessors"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Transistors%2C%20integrated%20circuits%20and%20microprocessors"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-31",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-141",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Mainframes%2C%20PCs%2C%20mobile%20computing%20and%20cloud%20computing"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Mainframes%2C%20PCs%2C%20mobile%20computing%20and%20cloud%20computing"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-141",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-400",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Moore%E2%80%99s%20Law%20and%20other%20computing%20laws"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Moore%E2%80%99s%20Law%20and%20other%20computing%20laws"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-400",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-430",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20describes%20InQuizitive%20as%20the%20successor%20to%20TCS%20IT%20Wiz%2C%20la"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20describes%20InQuizitive%20as%20the%20successor%20to%20TCS%20IT%20Wiz%2C%20la"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-430",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-433",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Women%20were%20disproportionately%20employed%20in%20many%20twentieth-cen"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Women%20were%20disproportionately%20employed%20in%20many%20twentieth-cen"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-433",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-475",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Calculating%20machine%3A%20a%20device%20performing%20arithmetic."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Calculating%20machine%3A%20a%20device%20performing%20arithmetic."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-475",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-515",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20pocket%20calculator%20may%20perform%20many%20arithmetic%20operations%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20pocket%20calculator%20may%20perform%20many%20arithmetic%20operations%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-515",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-585",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=First%20electronic%20digital%20computing%20device"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=First%20electronic%20digital%20computing%20device"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-585",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-587",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20abacus%20does%20not%20automatically%20perform%20arithmetic.%20It%20is%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20abacus%20does%20not%20automatically%20perform%20arithmetic.%20It%20is%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-587",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-644",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20The%20abacus%20is%20not%20necessarily%20%E2%80%9Cthe%20first%20computer.%E2%80%9D"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20The%20abacus%20is%20not%20necessarily%20%E2%80%9Cthe%20first%20computer.%E2%80%9D"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-644",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-645",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Binary%20was%20not%20invented%20for%20electronic%20computers.%20Two-state%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Binary%20was%20not%20invented%20for%20electronic%20computers.%20Two-state%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-645",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-750",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Computers%20use%20binary%20not%20because%20binary%20arithmetic%20is%20inhere"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Computers%20use%20binary%20not%20because%20binary%20arithmetic%20is%20inhere"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-750",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-781",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Pascal%20produced%20multiple%20machines%2C%20making%20the%20Pascaline%20one%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Pascal%20produced%20multiple%20machines%2C%20making%20the%20Pascaline%20one%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-781",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-821",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Mechanical-calculator%20businesses%20later%20formed%20part%20of%20the%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Mechanical-calculator%20businesses%20later%20formed%20part%20of%20the%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-821",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-955",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20VII%20%E2%80%94%20CHARLES%20BABBAGE%3A%20FROM%20CALCULATOR%20TO%20COMPUTER"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20VII%20%E2%80%94%20CHARLES%20BABBAGE%3A%20FROM%20CALCULATOR%20TO%20COMPUTER"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-955",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1116",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=That%20is%20the%20essence%20of%20general%20digital%20computing%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=That%20is%20the%20essence%20of%20general%20digital%20computing%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1116",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1149",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Before%20and%20during%20early%20electronic%20computing%2C%20large%20teams%20pe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Before%20and%20during%20early%20electronic%20computing%2C%20large%20teams%20pe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1149",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1160",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Six%20women%20selected%20from%20the%20human-computer%20workforce%20became%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Six%20women%20selected%20from%20the%20human-computer%20workforce%20became%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1160",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1252",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XII%20%E2%80%94%20ANALOG%2C%20DIGITAL%20AND%20HYBRID%20COMPUTING"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XII%20%E2%80%94%20ANALOG%2C%20DIGITAL%20AND%20HYBRID%20COMPUTING"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1252",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1253",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Stibitz%20also%20demonstrated%20remote%20computer%20use%20by%20transmittin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Stibitz%20also%20demonstrated%20remote%20computer%20use%20by%20transmittin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1253",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1287",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Model%20K%20provided%20an%20important%20proof%20that%20Boolean-style%20b"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Model%20K%20provided%20an%20important%20proof%20that%20Boolean-style%20b"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1287",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1333",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Harvard%20Mark%20I%2C%20also%20known%20as%20the%20IBM%20Automatic%20Sequence"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Harvard%20Mark%20I%2C%20also%20known%20as%20the%20IBM%20Automatic%20Sequence"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1333",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1337",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Turing%E2%80%99s%20crucial%20insight%20was%20that%20one%20machine%20could%20simulate"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Turing%E2%80%99s%20crucial%20insight%20was%20that%20one%20machine%20could%20simulate"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1337",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1406",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Rather%20than%20constructing%20one%20machine%20for%20payroll%2C%20another%20fo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Rather%20than%20constructing%20one%20machine%20for%20payroll%2C%20another%20fo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1406",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1579",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20existence%20of%20Colossus%20remained%20secret%20for%20decades%2C%20disto"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20existence%20of%20Colossus%20remained%20secret%20for%20decades%2C%20disto"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1579",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1906",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=It%20is%20often%20described%20as%20the%20first%20practical%20stored-program%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=It%20is%20often%20described%20as%20the%20first%20practical%20stored-program%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1906",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-1927",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XXI%20%E2%80%94%20MAINFRAMES%20AND%20COMMERCIAL%20COMPUTING"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XXI%20%E2%80%94%20MAINFRAMES%20AND%20COMMERCIAL%20COMPUTING"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-1927",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-2303",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Introduced%20in%201959%2C%20the%20transistorised%20IBM%201401%20became%20one%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Introduced%20in%201959%2C%20the%20transistorised%20IBM%201401%20became%20one%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-2303",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3278",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IBM%20introduced%20the%20Model%205150%20Personal%20Computer%20in%201981."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IBM%20introduced%20the%20Model%205150%20Personal%20Computer%20in%201981."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3278",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3410",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Centre%20for%20Development%20of%20Advanced%20Computing%20was%20establi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Centre%20for%20Development%20of%20Advanced%20Computing%20was%20establi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3410",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3412",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=176.%20%E2%80%9CBabbage%20built%20the%20first%20computer%E2%80%9D"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=176.%20%E2%80%9CBabbage%20built%20the%20first%20computer%E2%80%9D"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3412",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3415",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Babbage%20designed%20the%20Analytical%20Engine%2C%20a%20mechanical%20general"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Babbage%20designed%20the%20Analytical%20Engine%2C%20a%20mechanical%20general"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3415",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3425",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=She%20published%20the%20first%20widely%20recognised%20algorithm%20intended"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=She%20published%20the%20first%20widely%20recognised%20algorithm%20intended"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3425",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3427",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=181.%20%E2%80%9CENIAC%20was%20the%20first%20computer%E2%80%9D"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=181.%20%E2%80%9CENIAC%20was%20the%20first%20computer%E2%80%9D"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3427",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3446",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=It%20was%20the%20first%20general-purpose%20electronic%20programmable%20dig"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=It%20was%20the%20first%20general-purpose%20electronic%20programmable%20dig"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3446",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3665",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=188.%20%E2%80%9CThe%20Altair%20was%20the%20first%20personal%20computer%E2%80%9D"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=188.%20%E2%80%9CThe%20Altair%20was%20the%20first%20personal%20computer%E2%80%9D"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3665",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3672",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.%20Which%20textile%20machine%20directly%20influenced%20Babbage%E2%80%99s%20use%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.%20Which%20textile%20machine%20directly%20influenced%20Babbage%E2%80%99s%20use%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3672",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-3727",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=15.%20Which%20machine%20was%20the%20first%20program-controlled%20electrome"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=15.%20Which%20machine%20was%20the%20first%20program-controlled%20electrome"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-3727",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-4598",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=70.%20Which%20machine%20was%20the%20first%20computer%20installed%20in%20India%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=70.%20Which%20machine%20was%20the%20first%20computer%20installed%20in%20India%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-4598",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-10122",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=J.%20C.%20R.%20Licklider%2C%20a%20psychologist%20and%20computer%20scientist%2C%20e"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=J.%20C.%20R.%20Licklider%2C%20a%20psychologist%20and%20computer%20scientist%2C%20e"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-10122",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-10158",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20IBM%20Quantum%3A%20one%20of%20the%20most%20visible%20corporate%20quantum-com"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20IBM%20Quantum%3A%20one%20of%20the%20most%20visible%20corporate%20quantum-com"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-10158",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-10189",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20IBM%20did%20not%20invent%20the%20personal%20computer%2C%20although%20its%20PC%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20IBM%20did%20not%20invent%20the%20personal%20computer%2C%20although%20its%20PC%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-10189",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-11465",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=When%20IBM%20developed%20its%20personal%20computer%2C%20Microsoft%20obtained"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=When%20IBM%20developed%20its%20personal%20computer%2C%20Microsoft%20obtained"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-11465",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-15995",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=R%2F3%20used%20a%20three-tier%20client-server%20model%20and%20helped%20move%20en"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=R%2F3%20used%20a%20three-tier%20client-server%20model%20and%20helped%20move%20en"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-15995",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-15997",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Mainframes%20and%20enterprise%20computing."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Mainframes%20and%20enterprise%20computing."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-15997",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-16009",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20IBM%20Research%20contributions%20to%20AI%20and%20quantum%20computing."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20IBM%20Research%20contributions%20to%20AI%20and%20quantum%20computing."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-16009",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-16185",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=CUDA%20is%20Nvidia%E2%80%99s%20parallel-computing%20platform%20and%20programming"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=CUDA%20is%20Nvidia%E2%80%99s%20parallel-computing%20platform%20and%20programming"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-16185",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-16835",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.%20Alan%20Turing%20%E2%86%92%20imitation%20game%20%E2%86%92%20Turing%20Test%20%E2%86%92%20machine%20inte"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.%20Alan%20Turing%20%E2%86%92%20imitation%20game%20%E2%86%92%20Turing%20Test%20%E2%86%92%20machine%20inte"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-16835",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-17436",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20field-effect%20transistor%20controls%20current%20through%20an%20electr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20field-effect%20transistor%20controls%20current%20through%20an%20electr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-17436",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-17702",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20CUDA%3A%20parallel-computing%20platform%20and%20programming%20model."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20CUDA%3A%20parallel-computing%20platform%20and%20programming%20model."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-17702",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-17723",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Modern%20computing%20performance%20is%20increasingly%20limited%20by%20data"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Modern%20computing%20performance%20is%20increasingly%20limited%20by%20data"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-17723",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-17935",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Gordon%20Moore%20observed%20in%201965%20that%20the%20number%20of%20components%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Gordon%20Moore%20observed%20in%201965%20that%20the%20number%20of%20components%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-17935",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-18146",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quantum%20advantage%20means%20a%20quantum%20computer%20performs%20a%20useful"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quantum%20advantage%20means%20a%20quantum%20computer%20performs%20a%20useful"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-18146",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-18537",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20IBM%20Quantum%20System%20One%3A%20enclosed%20integrated%20quantum-comput"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20IBM%20Quantum%20System%20One%3A%20enclosed%20integrated%20quantum-comput"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-18537",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-21503",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quantum%20computing%20becomes%20useful%20only%20through%20error%20suppress"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quantum%20computing%20becomes%20useful%20only%20through%20error%20suppress"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-21503",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-21811",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Norton%20brand%20originated%20with%20Peter%20Norton%20Computing%2C%20fam"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Norton%20brand%20originated%20with%20Peter%20Norton%20Computing%2C%20fam"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-21811",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-26755",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20%E2%80%9CFirst%20computer%20virus%E2%80%9D%20depends%20on%20whether%20the%20question%20mea"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20%E2%80%9CFirst%20computer%20virus%E2%80%9D%20depends%20on%20whether%20the%20question%20mea"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-26755",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-26924",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Supercomputers%2C%20language%20computing%2C%20high-performance%20syste"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Supercomputers%2C%20language%20computing%2C%20high-performance%20syste"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-26924",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-26942",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NSM%20is%20a%20mission%20deploying%20an%20ecosystem%3B%20PARAM%20is%20a%20supercom"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NSM%20is%20a%20mission%20deploying%20an%20ecosystem%3B%20PARAM%20is%20a%20supercom"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-26942",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-27893",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Intended%20to%20make%20parallel-computing%20access%20available%20witho"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Intended%20to%20make%20parallel-computing%20access%20available%20witho"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-27893",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-28004",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XVII%20%E2%80%94%20INDIAN%20COMPUTING%20AND%20DIGITAL-MILESTONE%20TIMELINE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XVII%20%E2%80%94%20INDIAN%20COMPUTING%20AND%20DIGITAL-MILESTONE%20TIMELINE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-28004",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-28042",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20computerisation%20of%20passenger%20reservation%20became%20one%20of%20I"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20computerisation%20of%20passenger%20reservation%20became%20one%20of%20I"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-28042",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-29602",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Part%20of%20India%E2%80%99s%20progression%20from%20isolated%20mainframes%20to%20ne"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Part%20of%20India%E2%80%99s%20progression%20from%20isolated%20mainframes%20to%20ne"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-29602",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-29701",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=80.%20To%20build%20indigenous%20advanced-computing%20capability%20after%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=80.%20To%20build%20indigenous%20advanced-computing%20capability%20after%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-29701",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-36197",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Supercomputer%20import%20restriction%20%E2%86%92%20C-DAC%20%E2%86%92%20PARAM%20%E2%86%92%20National%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Supercomputer%20import%20restriction%20%E2%86%92%20C-DAC%20%E2%86%92%20PARAM%20%E2%86%92%20National%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-36197",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-6",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Integrated%20circuit%20%E2%80%94%20Jack%20Kilby%20and%20Robert%20Noyce%20independe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Integrated%20circuit%20%E2%80%94%20Jack%20Kilby%20and%20Robert%20Noyce%20independe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-6",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-21",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.%20Computing%20History%20and%20Foundations"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.%20Computing%20History%20and%20Foundations"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-21",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-22",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.%20Computing%20History%20and%20Foundations"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.%20Computing%20History%20and%20Foundations"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-22",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-23",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Study%20the%20development%20of%20computing%20chronologically%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Study%20the%20development%20of%20computing%20chronologically%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-23",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-25",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Abacus%20and%20mechanical%20calculators"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Abacus%20and%20mechanical%20calculators"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-25",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-27",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Babbage%20and%20Ada%20Lovelace"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Babbage%20and%20Ada%20Lovelace"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-27",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-32",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Turing%20and%20wartime%20computing"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Turing%20and%20wartime%20computing"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-32",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-131",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Binary%2C%20memory%2C%20CPUs%20and%20generations%20of%20computers"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Binary%2C%20memory%2C%20CPUs%20and%20generations%20of%20computers"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-131",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-294",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Transistors%20and%20integrated%20circuits"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Transistors%20and%20integrated%20circuits"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-294",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-397",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Mathematics%20behind%20computing%20and%20cryptography"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Mathematics%20behind%20computing%20and%20cryptography"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-397",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-398",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Module%201%3A%20Computing%20History%20and%20Foundations"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Module%201%3A%20Computing%20History%20and%20Foundations"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-398",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-401",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MODULE%201%20%E2%80%94%20COMPUTING%20HISTORY%20AND%20FOUNDATIONS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MODULE%201%20%E2%80%94%20COMPUTING%20HISTORY%20AND%20FOUNDATIONS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-401",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-434",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=No%20finite%20guide%20can%20literally%20contain%20every%20fact%20ever%20connec"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=No%20finite%20guide%20can%20literally%20contain%20every%20fact%20ever%20connec"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-434",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-435",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Automatic%20calculator%3A%20a%20machine%20able%20to%20continue%20through%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Automatic%20calculator%3A%20a%20machine%20able%20to%20continue%20through%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-435",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-474",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Computer%3A%20eventually%20a%20programmable%20electronic%20machine%20cap"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Computer%3A%20eventually%20a%20programmable%20electronic%20machine%20cap"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-474",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-484",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20crucial%20leap%20from%20calculator%20to%20computer%20is%20programmabil"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20crucial%20leap%20from%20calculator%20to%20computer%20is%20programmabil"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-484",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-485",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20II%20%E2%80%94%20WHY%20%E2%80%9CTHE%20FIRST%20COMPUTER%E2%80%9D%20HAS%20NO%20SINGLE%20ANSWER"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20II%20%E2%80%94%20WHY%20%E2%80%9CTHE%20FIRST%20COMPUTER%E2%80%9D%20HAS%20NO%20SINGLE%20ANSWER"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-485",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-36505",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20quiz%20asking%20simply%2C%20%E2%80%9CWhat%20was%20the%20first%20computer%3F%E2%80%9D%20is%20inco"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20quiz%20asking%20simply%2C%20%E2%80%9CWhat%20was%20the%20first%20computer%3F%E2%80%9D%20is%20inco"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-01-lib-36505",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Computing History and Foundations\" category with the linked topic."
+          },
+          {
+            "topicId": "module-01-lib-963",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Computing History and Foundations\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

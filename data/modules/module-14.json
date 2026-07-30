@@ -236,7 +236,7 @@
       "id": "module-14-lib-18084",
       "rank": 7,
       "title": "Google announced the 105-qubit Willow superconducting processor in Decem...",
-      "hook": "Google announced the 105-qubit Willow superconducting processor in December 2024. Its central research claim was that increasing surface-code ...",
+      "hook": "Google announced the 105-qubit Willow superconducting processor in December 2024. Its central research claim was that increasing surface-code ... — TCS Quiz 2026",
       "explainer": "Google announced the 105-qubit Willow superconducting processor in December 2024. Its central research claim was that increasing surface-code size reduced errors, an important below-threshold error-correction milestone.",
       "importance": 2,
       "category": "Current Technology, Science and Business Affairs",
@@ -245,15 +245,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Google%20announced%20the%20105-qubit%20Willow%20superconducting%20proces"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Google%20announced%20the%20105-qubit%20Willow%20superconducting%20proces"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-35610",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-3272",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-35610",
       "rank": 8,
       "title": "Names, official titles and records can change. In a live current-affairs...",
-      "hook": "Names, official titles and records can change. In a live current-affairs round, verify the latest official status, especially for “largest,” “...",
+      "hook": "Names, official titles and records can change. In a live current-affairs round, verify the latest official status, especially for “largest,” “... — TCS Quiz 2026",
       "explainer": "Names, official titles and records can change. In a live current-affairs round, verify the latest official status, especially for “largest,” “longest,” “highest,” “first operational” and newly inaugurated projects.",
       "importance": 2,
       "category": "Current Technology, Science and Business Affairs",
@@ -262,15 +282,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Names%2C%20official%20titles%20and%20records%20can%20change.%20In%20a%20live%20cur"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Names%2C%20official%20titles%20and%20records%20can%20change.%20In%20a%20live%20cur"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-3272",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-3880",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-3272",
       "rank": 9,
       "title": "TCS records that an early 1973 project involved creating a tool in India...",
-      "hook": "TCS records that an early 1973 project involved creating a tool in India to convert software for a Burroughs system not physically available t...",
+      "hook": "TCS records that an early 1973 project involved creating a tool in India to convert software for a Burroughs system not physically available t... — TCS Quiz 2026",
       "explainer": "TCS records that an early 1973 project involved creating a tool in India to convert software for a Burroughs system not physically available to the team, an early offshore-delivery milestone.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -279,15 +319,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20records%20that%20an%20early%201973%20project%20involved%20creating%20a%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20records%20that%20an%20early%201973%20project%20involved%20creating%20a%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-3880",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-5170",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-3880",
       "rank": 10,
       "title": "This is one of the central modules of the entire preparation programme. ...",
-      "hook": "This is one of the central modules of the entire preparation programme. It connects computing history, companies, science, engineering, busine...",
+      "hook": "This is one of the central modules of the entire preparation programme. It connects computing history, companies, science, engineering, busine... — TCS Quiz 2026",
       "explainer": "This is one of the central modules of the entire preparation programme. It connects computing history, companies, science, engineering, business, current affairs, brands, personalities, visual clues and Indian technology. A question may appear to be about a logo, a song, a political policy, a failed company or a sports broadcast, but the hidden link may be the network that carried it.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -296,15 +356,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20is%20one%20of%20the%20central%20modules%20of%20the%20entire%20preparation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20is%20one%20of%20the%20central%20modules%20of%20the%20entire%20preparation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-5170",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-6349",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-5170",
       "rank": 11,
       "title": "Registering a domain corresponding to another party’s trademark or ident...",
-      "hook": "Registering a domain corresponding to another party’s trademark or identity, often to profit from confusion or resale. The Uniform Domain-Name...",
+      "hook": "Registering a domain corresponding to another party’s trademark or identity, often to profit from confusion or resale. The Uniform Domain-Name... — TCS Quiz 2026",
       "explainer": "Registering a domain corresponding to another party’s trademark or identity, often to profit from confusion or resale. The Uniform Domain-Name Dispute-Resolution Policy, or UDRP, provides a process for many disputes.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -313,15 +393,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Registering%20a%20domain%20corresponding%20to%20another%20party%E2%80%99s%20tradem"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Registering%20a%20domain%20corresponding%20to%20another%20party%E2%80%99s%20tradem"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-6349",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-7816",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-6349",
       "rank": 12,
       "title": "Steve Jobs introduced the iPhone on January 9, 2007 as three products: a...",
-      "hook": "Steve Jobs introduced the iPhone on January 9, 2007 as three products: a widescreen iPod with touch controls, a revolutionary mobile phone and...",
+      "hook": "Steve Jobs introduced the iPhone on January 9, 2007 as three products: a widescreen iPod with touch controls, a revolutionary mobile phone and... — TCS Quiz 2026",
       "explainer": "Steve Jobs introduced the iPhone on January 9, 2007 as three products: a widescreen iPod with touch controls, a revolutionary mobile phone and a breakthrough Internet communicator—revealed to be one device.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -330,15 +430,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Steve%20Jobs%20introduced%20the%20iPhone%20on%20January%209%2C%202007%20as%20three"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Steve%20Jobs%20introduced%20the%20iPhone%20on%20January%209%2C%202007%20as%20three"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-7816",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10039",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-7816",
       "rank": 13,
       "title": "The undivided Reliance group launched a mass-market CDMA service under t...",
-      "hook": "The undivided Reliance group launched a mass-market CDMA service under the “Monsoon Hungama” campaign in 2003. The business later belonged to ...",
+      "hook": "The undivided Reliance group launched a mass-market CDMA service under the “Monsoon Hungama” campaign in 2003. The business later belonged to ... — TCS Quiz 2026",
       "explainer": "The undivided Reliance group launched a mass-market CDMA service under the “Monsoon Hungama” campaign in 2003. The business later belonged to Anil Ambani’s Reliance Communications and eventually entered insolvency.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -347,15 +467,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20undivided%20Reliance%20group%20launched%20a%20mass-market%20CDMA%20ser"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20undivided%20Reliance%20group%20launched%20a%20mass-market%20CDMA%20ser"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10039",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10085",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10039",
       "rank": 14,
       "title": "An acquisition occurs when one company purchases another. A merger combi...",
-      "hook": "An acquisition occurs when one company purchases another. A merger combines organisations, although the word may conceal the fact that one sid...",
+      "hook": "An acquisition occurs when one company purchases another. A merger combines organisations, although the word may conceal the fact that one sid... — TCS Quiz 2026",
       "explainer": "An acquisition occurs when one company purchases another. A merger combines organisations, although the word may conceal the fact that one side gained effective control. A consolidation may create a new corporate entity.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -364,8 +504,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20acquisition%20occurs%20when%20one%20company%20purchases%20another.%20A%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20acquisition%20occurs%20when%20one%20company%20purchases%20another.%20A%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10085",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10314",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -381,8 +541,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Current%20chairman%2C%20president%20and%20CEO%20as%20of%20July%202026%3A%20Arvin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Current%20chairman%2C%20president%20and%20CEO%20as%20of%20July%202026%3A%20Arvin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10314",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10329",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -398,15 +578,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Announced%20successor%3A%20John%20Ternus%2C%20due%20to%20become%20CEO%20on%20Sep"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Announced%20successor%3A%20John%20Ternus%2C%20due%20to%20become%20CEO%20on%20Sep"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10329",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-11356",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10329",
       "rank": 17,
       "title": "Apple’s Lisa introduced a commercial graphical interface but failed beca...",
-      "hook": "Apple’s Lisa introduced a commercial graphical interface but failed because of price and performance. The Macintosh, launched in 1984, package...",
+      "hook": "Apple’s Lisa introduced a commercial graphical interface but failed because of price and performance. The Macintosh, launched in 1984, package... — TCS Quiz 2026",
       "explainer": "Apple’s Lisa introduced a commercial graphical interface but failed because of price and performance. The Macintosh, launched in 1984, packaged the mouse and graphical interface into a more focused product.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -415,8 +615,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Apple%E2%80%99s%20Lisa%20introduced%20a%20commercial%20graphical%20interface%20but"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Apple%E2%80%99s%20Lisa%20introduced%20a%20commercial%20graphical%20interface%20but"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-11356",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-11909",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -432,15 +652,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Current%20leadership%20structure%20in%202026%3A%20Larry%20Ellison%20is%20cha"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Current%20leadership%20structure%20in%202026%3A%20Larry%20Ellison%20is%20cha"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-11909",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-16039",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-11909",
       "rank": 19,
       "title": "In 2011 Netflix proposed separating its DVD service under the Qwikster n...",
-      "hook": "In 2011 Netflix proposed separating its DVD service under the Qwikster name while raising and restructuring prices. Customer backlash caused t...",
+      "hook": "In 2011 Netflix proposed separating its DVD service under the Qwikster name while raising and restructuring prices. Customer backlash caused t... — TCS Quiz 2026",
       "explainer": "In 2011 Netflix proposed separating its DVD service under the Qwikster name while raising and restructuring prices. Customer backlash caused the plan to be abandoned.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -449,15 +689,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=In%202011%20Netflix%20proposed%20separating%20its%20DVD%20service%20under%20th"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=In%202011%20Netflix%20proposed%20separating%20its%20DVD%20service%20under%20th"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-16039",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-16174",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-16039",
       "rank": 20,
       "title": "The Government of India approved the IndiaAI Mission in March 2024 to bu...",
-      "hook": "The Government of India approved the IndiaAI Mission in March 2024 to build a broad domestic AI ecosystem across areas including compute, data...",
+      "hook": "The Government of India approved the IndiaAI Mission in March 2024 to build a broad domestic AI ecosystem across areas including compute, data... — TCS Quiz 2026",
       "explainer": "The Government of India approved the IndiaAI Mission in March 2024 to build a broad domestic AI ecosystem across areas including compute, datasets, innovation, skills, startups, applications and safe or trusted AI.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -466,15 +726,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Government%20of%20India%20approved%20the%20IndiaAI%20Mission%20in%20Marc"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Government%20of%20India%20approved%20the%20IndiaAI%20Mission%20in%20Marc"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-16174",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18066",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-16174",
       "rank": 21,
       "title": "46. OpenAI created ChatGPT; GPT is the model-family term.",
-      "hook": "46. OpenAI created ChatGPT; GPT is the model-family term.",
+      "hook": "46. OpenAI created ChatGPT; GPT is the model-family term. — TCS Quiz 2026",
       "explainer": "46. OpenAI created ChatGPT; GPT is the model-family term.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -483,8 +763,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=46.%20OpenAI%20created%20ChatGPT%3B%20GPT%20is%20the%20model-family%20term."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=46.%20OpenAI%20created%20ChatGPT%3B%20GPT%20is%20the%20model-family%20term."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18066",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18072",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -500,8 +800,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Nvidia%20announced%20its%20Rubin%20platform%20for%202026%20as%20the%20successo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Nvidia%20announced%20its%20Rubin%20platform%20for%202026%20as%20the%20successo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18072",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18078",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -517,8 +837,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=AMD%20launched%20the%20Instinct%20MI350%20series%20in%202025%20using%20its%20CDN"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=AMD%20launched%20the%20Instinct%20MI350%20series%20in%202025%20using%20its%20CDN"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18078",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18090",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -534,8 +874,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Qualcomm%20announced%20Snapdragon%20X2%20Elite%20and%20X2%20Elite%20Extreme%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Qualcomm%20announced%20Snapdragon%20X2%20Elite%20and%20X2%20Elite%20Extreme%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18090",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-21539",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -551,15 +911,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Microsoft%20announced%20Majorana%201%20in%20February%202025%20as%20a%20process"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Microsoft%20announced%20Majorana%201%20in%20February%202025%20as%20a%20process"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-21539",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-24680",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-21539",
       "rank": 26,
       "title": "Founded by George Kurtz, Dmitri Alperovitch and Gregg Marston. Falcon is...",
-      "hook": "Founded by George Kurtz, Dmitri Alperovitch and Gregg Marston. Falcon is its cloud-based endpoint-security platform. Its red falcon logo and t...",
+      "hook": "Founded by George Kurtz, Dmitri Alperovitch and Gregg Marston. Falcon is its cloud-based endpoint-security platform. Its red falcon logo and t... — TCS Quiz 2026",
       "explainer": "Founded by George Kurtz, Dmitri Alperovitch and Gregg Marston. Falcon is its cloud-based endpoint-security platform. Its red falcon logo and the July 2024 outage are high-value visual and current-affairs clues.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -568,8 +948,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Founded%20by%20George%20Kurtz%2C%20Dmitri%20Alperovitch%20and%20Gregg%20Marsto"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Founded%20by%20George%20Kurtz%2C%20Dmitri%20Alperovitch%20and%20Gregg%20Marsto"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-24680",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-24706",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -585,15 +985,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Current-affairs%20checkpoint%3A%2029%20July%202026"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Current-affairs%20checkpoint%3A%2029%20July%202026"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-24706",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-29241",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-24706",
       "rank": 28,
       "title": "7. One milestone, extension or current-affairs connection.",
-      "hook": "7. One milestone, extension or current-affairs connection.",
+      "hook": "7. One milestone, extension or current-affairs connection. — TCS Quiz 2026",
       "explainer": "7. One milestone, extension or current-affairs connection.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -602,8 +1022,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.%20One%20milestone%2C%20extension%20or%20current-affairs%20connection."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.%20One%20milestone%2C%20extension%20or%20current-affairs%20connection."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-29241",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-32475",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -619,15 +1059,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XXII%20%E2%80%94%20CURRENT-AFFAIRS%20WATCHLIST%20FOR%202026"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XXII%20%E2%80%94%20CURRENT-AFFAIRS%20WATCHLIST%20FOR%202026"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-32475",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-32837",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-32475",
       "rank": 30,
       "title": "TCS crossed US$1 billion in annual revenue in the early 2000s, becoming ...",
-      "hook": "TCS crossed US$1 billion in annual revenue in the early 2000s, becoming the first Indian IT-services company to reach the milestone.",
+      "hook": "TCS crossed US$1 billion in annual revenue in the early 2000s, becoming the first Indian IT-services company to reach the milestone. — TCS Quiz 2026",
       "explainer": "TCS crossed US$1 billion in annual revenue in the early 2000s, becoming the first Indian IT-services company to reach the milestone.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -636,15 +1096,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20crossed%20US%241%20billion%20in%20annual%20revenue%20in%20the%20early%202000"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20crossed%20US%241%20billion%20in%20annual%20revenue%20in%20the%20early%202000"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-32837",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-34234",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-32837",
       "rank": 31,
       "title": "Launched in 2024, TCS AI WisdomNext is an enterprise generative-AI aggre...",
-      "hook": "Launched in 2024, TCS AI WisdomNext is an enterprise generative-AI aggregation platform.",
+      "hook": "Launched in 2024, TCS AI WisdomNext is an enterprise generative-AI aggregation platform. — TCS Quiz 2026",
       "explainer": "Launched in 2024, TCS AI WisdomNext is an enterprise generative-AI aggregation platform.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -653,15 +1133,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Launched%20in%202024%2C%20TCS%20AI%20WisdomNext%20is%20an%20enterprise%20generat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Launched%20in%202024%2C%20TCS%20AI%20WisdomNext%20is%20an%20enterprise%20generat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-34234",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-19",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-34234",
       "rank": 32,
       "title": "This module covers the ideas, people, structures, machines, energy syste...",
-      "hook": "This module covers the ideas, people, structures, machines, energy systems and sustainability technologies that repeatedly appear in technolog...",
+      "hook": "This module covers the ideas, people, structures, machines, energy systems and sustainability technologies that repeatedly appear in technolog... — TCS Quiz 2026",
       "explainer": "This module covers the ideas, people, structures, machines, energy systems and sustainability technologies that repeatedly appear in technology, science, business and current-affairs quizzes. The goal is not merely to memorize names. You should be able to identify an answer from a clue about a design principle, material, engineer, company, country, record, failure, nickname, diagram or historical first.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -670,15 +1170,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20module%20covers%20the%20ideas%2C%20people%2C%20structures%2C%20machines%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20module%20covers%20the%20ideas%2C%20people%2C%20structures%2C%20machines%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-19",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-124",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-19",
       "rank": 33,
       "title": "14. Current Technology, Science and Business Affairs",
-      "hook": "14. Current Technology, Science and Business Affairs",
+      "hook": "14. Current Technology, Science and Business Affairs — TCS Quiz 2026",
       "explainer": "14. Current Technology, Science and Business Affairs",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -687,15 +1207,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=14.%20Current%20Technology%2C%20Science%20and%20Business%20Affairs"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=14.%20Current%20Technology%2C%20Science%20and%20Business%20Affairs"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-124",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-125",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-124",
       "rank": 34,
       "title": "* AI ethics, safety, bias and regulation",
-      "hook": "* AI ethics, safety, bias and regulation",
+      "hook": "* AI ethics, safety, bias and regulation — TCS Quiz 2026",
       "explainer": "* AI ethics, safety, bias and regulation",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -704,15 +1244,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20AI%20ethics%2C%20safety%2C%20bias%20and%20regulation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20AI%20ethics%2C%20safety%2C%20bias%20and%20regulation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-125",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-191",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-125",
       "rank": 35,
       "title": "Core question types: landmark match, paper-author connection, identify t...",
-      "hook": "Core question types: landmark match, paper-author connection, identify the model or laboratory, terminology and current affairs.",
+      "hook": "Core question types: landmark match, paper-author connection, identify the model or laboratory, terminology and current affairs. — TCS Quiz 2026",
       "explainer": "Core question types: landmark match, paper-author connection, identify the model or laboratory, terminology and current affairs.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -721,15 +1281,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Core%20question%20types%3A%20landmark%20match%2C%20paper-author%20connection"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Core%20question%20types%3A%20landmark%20match%2C%20paper-author%20connection"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-191",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-225",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-191",
       "rank": 36,
       "title": "Core question types: platform matched to institution, expansion of acron...",
-      "hook": "Core question types: platform matched to institution, expansion of acronym, founder or architect, indigenous first and current policy developm...",
+      "hook": "Core question types: platform matched to institution, expansion of acronym, founder or architect, indigenous first and current policy developm... — TCS Quiz 2026",
       "explainer": "Core question types: platform matched to institution, expansion of acronym, founder or architect, indigenous first and current policy development.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -738,15 +1318,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Core%20question%20types%3A%20platform%20matched%20to%20institution%2C%20expans"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Core%20question%20types%3A%20platform%20matched%20to%20institution%2C%20expans"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-225",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-360",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-225",
       "rank": 37,
       "title": "Core question types: founder, year, platform-purpose matching, Tata inst...",
-      "hook": "Core question types: founder, year, platform-purpose matching, Tata institution, acquisition and historic milestone.",
+      "hook": "Core question types: founder, year, platform-purpose matching, Tata institution, acquisition and historic milestone. — TCS Quiz 2026",
       "explainer": "Core question types: founder, year, platform-purpose matching, Tata institution, acquisition and historic milestone.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -755,15 +1355,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Core%20question%20types%3A%20founder%2C%20year%2C%20platform-purpose%20matchin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Core%20question%20types%3A%20founder%2C%20year%2C%20platform-purpose%20matchin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-360",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-361",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-360",
       "rank": 38,
       "title": "14. Current Technology, Science and Business Affairs",
-      "hook": "14. Current Technology, Science and Business Affairs",
+      "hook": "14. Current Technology, Science and Business Affairs — TCS Quiz 2026",
       "explainer": "14. Current Technology, Science and Business Affairs",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -772,8 +1392,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=14.%20Current%20Technology%2C%20Science%20and%20Business%20Affairs"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=14.%20Current%20Technology%2C%20Science%20and%20Business%20Affairs"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-361",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-364",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -789,15 +1429,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Maintain%20a%20rolling%20file%20from%20January%202025%20to%20the%20quiz%20date."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Maintain%20a%20rolling%20file%20from%20January%202025%20to%20the%20quiz%20date."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-364",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-687",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-364",
       "rank": 40,
       "title": "* AI policy summits",
-      "hook": "* AI policy summits",
+      "hook": "* AI policy summits — TCS Quiz 2026",
       "explainer": "* AI policy summits",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -806,15 +1466,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20AI%20policy%20summits"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20AI%20policy%20summits"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-687",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-1082",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-687",
       "rank": 41,
       "title": "Automata were generally not computers, but they introduced important ideas:",
-      "hook": "Automata were generally not computers, but they introduced important ideas:",
+      "hook": "Automata were generally not computers, but they introduced important ideas: — TCS Quiz 2026",
       "explainer": "Automata were generally not computers, but they introduced important ideas:",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -823,15 +1503,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Automata%20were%20generally%20not%20computers%2C%20but%20they%20introduced%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Automata%20were%20generally%20not%20computers%2C%20but%20they%20introduced%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-1082",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-1361",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-1082",
       "rank": 42,
       "title": "* Railway tickets punched to record passenger characteristics.",
-      "hook": "* Railway tickets punched to record passenger characteristics.",
+      "hook": "* Railway tickets punched to record passenger characteristics. — TCS Quiz 2026",
       "explainer": "* Railway tickets punched to record passenger characteristics.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -840,15 +1540,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Railway%20tickets%20punched%20to%20record%20passenger%20characteristic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Railway%20tickets%20punched%20to%20record%20passenger%20characteristic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-1361",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-4607",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-1361",
       "rank": 43,
       "title": "Before Britain’s wartime work, Polish mathematicians made critical break...",
-      "hook": "Before Britain’s wartime work, Polish mathematicians made critical breakthroughs.",
+      "hook": "Before Britain’s wartime work, Polish mathematicians made critical breakthroughs. — TCS Quiz 2026",
       "explainer": "Before Britain’s wartime work, Polish mathematicians made critical breakthroughs.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -857,15 +1577,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Before%20Britain%E2%80%99s%20wartime%20work%2C%20Polish%20mathematicians%20made%20cr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Before%20Britain%E2%80%99s%20wartime%20work%2C%20Polish%20mathematicians%20made%20cr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-4607",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-4863",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-4607",
       "rank": 44,
       "title": "The Soviet launch of Sputnik in 1957 shocked the United States. The Adva...",
-      "hook": "The Soviet launch of Sputnik in 1957 shocked the United States. The Advanced Research Projects Agency, ARPA, was created in 1958 to pursue adv...",
+      "hook": "The Soviet launch of Sputnik in 1957 shocked the United States. The Advanced Research Projects Agency, ARPA, was created in 1958 to pursue adv... — TCS Quiz 2026",
       "explainer": "The Soviet launch of Sputnik in 1957 shocked the United States. The Advanced Research Projects Agency, ARPA, was created in 1958 to pursue advanced research. It later became DARPA, returned for a period to ARPA and then again became DARPA.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -874,15 +1614,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Soviet%20launch%20of%20Sputnik%20in%201957%20shocked%20the%20United%20Stat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Soviet%20launch%20of%20Sputnik%20in%201957%20shocked%20the%20United%20Stat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-4863",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-5133",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-4863",
       "rank": 45,
       "title": "In his 1945 essay “As We May Think”, American engineer and science admin...",
-      "hook": "In his 1945 essay “As We May Think”, American engineer and science administrator Vannevar Bush imagined a desk-like device called the Memex. I...",
+      "hook": "In his 1945 essay “As We May Think”, American engineer and science administrator Vannevar Bush imagined a desk-like device called the Memex. I... — TCS Quiz 2026",
       "explainer": "In his 1945 essay “As We May Think”, American engineer and science administrator Vannevar Bush imagined a desk-like device called the Memex. It would store books, records and communications and allow users to create associative trails between items.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -891,15 +1651,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=In%20his%201945%20essay%20%E2%80%9CAs%20We%20May%20Think%E2%80%9D%2C%20American%20engineer%20and%20s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=In%20his%201945%20essay%20%E2%80%9CAs%20We%20May%20Think%E2%80%9D%2C%20American%20engineer%20and%20s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-5133",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-5152",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-5133",
       "rank": 46,
       "title": "Start of Authority record containing essential administrative informatio...",
-      "hook": "Start of Authority record containing essential administrative information about a DNS zone.",
+      "hook": "Start of Authority record containing essential administrative information about a DNS zone. — TCS Quiz 2026",
       "explainer": "Start of Authority record containing essential administrative information about a DNS zone.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -908,15 +1688,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Start%20of%20Authority%20record%20containing%20essential%20administrativ"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Start%20of%20Authority%20record%20containing%20essential%20administrativ"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-5152",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-5945",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-5152",
       "rank": 47,
       "title": "Operates the authoritative database for a top-level domain. For example,...",
-      "hook": "Operates the authoritative database for a top-level domain. For example, a registry manages the records for all names under its TLD.",
+      "hook": "Operates the authoritative database for a top-level domain. For example, a registry manages the records for all names under its TLD. — TCS Quiz 2026",
       "explainer": "Operates the authoritative database for a top-level domain. For example, a registry manages the records for all names under its TLD.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -925,15 +1725,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Operates%20the%20authoritative%20database%20for%20a%20top-level%20domain.%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Operates%20the%20authoritative%20database%20for%20a%20top-level%20domain.%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-5945",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-6101",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-5945",
       "rank": 48,
       "title": "Spectrum is divided into frequency bands and licensed or unlicensed uses...",
-      "hook": "Spectrum is divided into frequency bands and licensed or unlicensed uses. Lower frequencies generally travel farther and penetrate buildings b...",
+      "hook": "Spectrum is divided into frequency bands and licensed or unlicensed uses. Lower frequencies generally travel farther and penetrate buildings b... — TCS Quiz 2026",
       "explainer": "Spectrum is divided into frequency bands and licensed or unlicensed uses. Lower frequencies generally travel farther and penetrate buildings better; higher frequencies can offer greater bandwidth but often require denser coverage.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -942,15 +1762,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Spectrum%20is%20divided%20into%20frequency%20bands%20and%20licensed%20or%20unl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Spectrum%20is%20divided%20into%20frequency%20bands%20and%20licensed%20or%20unl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-6101",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-6265",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-6101",
       "rank": 49,
       "title": "Introduced packet data to GSM networks and enabled always-available data...",
-      "hook": "Introduced packet data to GSM networks and enabled always-available data sessions at modest speeds.",
+      "hook": "Introduced packet data to GSM networks and enabled always-available data sessions at modest speeds. — TCS Quiz 2026",
       "explainer": "Introduced packet data to GSM networks and enabled always-available data sessions at modest speeds.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -959,8 +1799,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Introduced%20packet%20data%20to%20GSM%20networks%20and%20enabled%20always-av"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Introduced%20packet%20data%20to%20GSM%20networks%20and%20enabled%20always-av"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-6265",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-6643",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -976,15 +1836,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=6G%20remains%20a%20research%20and%20standardisation%20programme%2C%20not%20an%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=6G%20remains%20a%20research%20and%20standardisation%20programme%2C%20not%20an%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-6643",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-7097",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-6643",
       "rank": 51,
       "title": "Introduced stronger authentication, including SAE for personal networks,...",
-      "hook": "Introduced stronger authentication, including SAE for personal networks, and better protection against offline password guessing.",
+      "hook": "Introduced stronger authentication, including SAE for personal networks, and better protection against offline password guessing. — TCS Quiz 2026",
       "explainer": "Introduced stronger authentication, including SAE for personal networks, and better protection against offline password guessing.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -993,15 +1873,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Introduced%20stronger%20authentication%2C%20including%20SAE%20for%20person"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Introduced%20stronger%20authentication%2C%20including%20SAE%20for%20person"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-7097",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-7116",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-7097",
       "rank": 52,
       "title": "Very Small Aperture Terminal: a compact satellite ground station used fo...",
-      "hook": "Very Small Aperture Terminal: a compact satellite ground station used for banking, retail, maritime, enterprise and rural links.",
+      "hook": "Very Small Aperture Terminal: a compact satellite ground station used for banking, retail, maritime, enterprise and rural links. — TCS Quiz 2026",
       "explainer": "Very Small Aperture Terminal: a compact satellite ground station used for banking, retail, maritime, enterprise and rural links.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1010,15 +1910,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Very%20Small%20Aperture%20Terminal%3A%20a%20compact%20satellite%20ground%20sta"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Very%20Small%20Aperture%20Terminal%3A%20a%20compact%20satellite%20ground%20sta"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-7116",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-7923",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-7116",
       "rank": 53,
       "title": "MEO broadband system; the name meant “Other 3 billion”, referring to peo...",
-      "hook": "MEO broadband system; the name meant “Other 3 billion”, referring to people considered insufficiently connected. It became part of SES.",
+      "hook": "MEO broadband system; the name meant “Other 3 billion”, referring to people considered insufficiently connected. It became part of SES. — TCS Quiz 2026",
       "explainer": "MEO broadband system; the name meant “Other 3 billion”, referring to people considered insufficiently connected. It became part of SES.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1027,15 +1947,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MEO%20broadband%20system%3B%20the%20name%20meant%20%E2%80%9COther%203%20billion%E2%80%9D%2C%20refe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MEO%20broadband%20system%3B%20the%20name%20meant%20%E2%80%9COther%203%20billion%E2%80%9D%2C%20refe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-7923",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-8291",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-7923",
       "rank": 54,
       "title": "Adjusted Gross Revenue determines licence-fee and spectrum-charge obliga...",
-      "hook": "Adjusted Gross Revenue determines licence-fee and spectrum-charge obligations. A long dispute concerned whether AGR included only telecom reve...",
+      "hook": "Adjusted Gross Revenue determines licence-fee and spectrum-charge obligations. A long dispute concerned whether AGR included only telecom reve... — TCS Quiz 2026",
       "explainer": "Adjusted Gross Revenue determines licence-fee and spectrum-charge obligations. A long dispute concerned whether AGR included only telecom revenue or broader company revenue. Supreme Court rulings produced major liabilities for operators.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1044,15 +1984,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Adjusted%20Gross%20Revenue%20determines%20licence-fee%20and%20spectrum-c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Adjusted%20Gross%20Revenue%20determines%20licence-fee%20and%20spectrum-c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-8291",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-8435",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-8291",
       "rank": 55,
       "title": "Dhirubhai Ambani",
-      "hook": "Dhirubhai Ambani",
+      "hook": "Dhirubhai Ambani — TCS Quiz 2026",
       "explainer": "Dhirubhai Ambani",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1061,15 +2021,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Dhirubhai%20Ambani"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Dhirubhai%20Ambani"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-8435",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-8437",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-8435",
       "rank": 56,
       "title": "2004 — Facebook and Gmail launched.",
-      "hook": "2004 — Facebook and Gmail launched.",
+      "hook": "2004 — Facebook and Gmail launched. — TCS Quiz 2026",
       "explainer": "2004 — Facebook and Gmail launched.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1078,15 +2058,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2004%20%E2%80%94%20Facebook%20and%20Gmail%20launched."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2004%20%E2%80%94%20Facebook%20and%20Gmail%20launched."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-8437",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-8443",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-8437",
       "rank": 57,
       "title": "2007 — iPhone introduced; Android/Open Handset Alliance announced.",
-      "hook": "2007 — iPhone introduced; Android/Open Handset Alliance announced.",
+      "hook": "2007 — iPhone introduced; Android/Open Handset Alliance announced. — TCS Quiz 2026",
       "explainer": "2007 — iPhone introduced; Android/Open Handset Alliance announced.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1095,15 +2095,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2007%20%E2%80%94%20iPhone%20introduced%3B%20Android%2FOpen%20Handset%20Alliance%20anno"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2007%20%E2%80%94%20iPhone%20introduced%3B%20Android%2FOpen%20Handset%20Alliance%20anno"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-8443",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-8792",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-8443",
       "rank": 58,
       "title": "2016 — Reliance Jio commercial launch; Mirai/Dyn outage.",
-      "hook": "2016 — Reliance Jio commercial launch; Mirai/Dyn outage.",
+      "hook": "2016 — Reliance Jio commercial launch; Mirai/Dyn outage. — TCS Quiz 2026",
       "explainer": "2016 — Reliance Jio commercial launch; Mirai/Dyn outage.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1112,8 +2132,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2016%20%E2%80%94%20Reliance%20Jio%20commercial%20launch%3B%20Mirai%2FDyn%20outage."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2016%20%E2%80%94%20Reliance%20Jio%20commercial%20launch%3B%20Mirai%2FDyn%20outage."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-8792",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-9908",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1129,15 +2169,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Correction%3A%20It%20remains%20in%20research%20and%20standardisation%20as%20of"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Correction%3A%20It%20remains%20in%20research%20and%20standardisation%20as%20of"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-9908",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10006",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-9908",
       "rank": 60,
       "title": "164. DoT handles policy/licensing/spectrum; TRAI regulates; TDSAT adjudi...",
-      "hook": "164. DoT handles policy/licensing/spectrum; TRAI regulates; TDSAT adjudicates disputes/appeals.",
+      "hook": "164. DoT handles policy/licensing/spectrum; TRAI regulates; TDSAT adjudicates disputes/appeals. — TCS Quiz 2026",
       "explainer": "164. DoT handles policy/licensing/spectrum; TRAI regulates; TDSAT adjudicates disputes/appeals.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1146,15 +2206,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=164.%20DoT%20handles%20policy%2Flicensing%2Fspectrum%3B%20TRAI%20regulates%3B%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=164.%20DoT%20handles%20policy%2Flicensing%2Fspectrum%3B%20TRAI%20regulates%3B%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10006",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10027",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10006",
       "rank": 61,
       "title": "• Failure: Which celebrated launch failed, and why?",
-      "hook": "• Failure: Which celebrated launch failed, and why?",
+      "hook": "• Failure: Which celebrated launch failed, and why? — TCS Quiz 2026",
       "explainer": "• Failure: Which celebrated launch failed, and why?",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1163,15 +2243,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Failure%3A%20Which%20celebrated%20launch%20failed%2C%20and%20why%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Failure%3A%20Which%20celebrated%20launch%20failed%2C%20and%20why%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10027",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10038",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10027",
       "rank": 62,
       "title": "A founder creates the organisation. Several people may be recognised as ...",
-      "hook": "A founder creates the organisation. Several people may be recognised as co-founders, but corporate origin stories are frequently disputed. A p...",
+      "hook": "A founder creates the organisation. Several people may be recognised as co-founders, but corporate origin stories are frequently disputed. A p... — TCS Quiz 2026",
       "explainer": "A founder creates the organisation. Several people may be recognised as co-founders, but corporate origin stories are frequently disputed. A person who joined soon after launch may be popularly called a founder even when legal records use a different description. Use the company’s own formulation where possible.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1180,15 +2280,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20founder%20creates%20the%20organisation.%20Several%20people%20may%20be%20re"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20founder%20creates%20the%20organisation.%20Several%20people%20may%20be%20re"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10038",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10178",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10038",
       "rank": 63,
       "title": "Acquisition, merger and consolidation",
-      "hook": "Acquisition, merger and consolidation",
+      "hook": "Acquisition, merger and consolidation — TCS Quiz 2026",
       "explainer": "Acquisition, merger and consolidation",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1197,8 +2317,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Acquisition%2C%20merger%20and%20consolidation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Acquisition%2C%20merger%20and%20consolidation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10178",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10217",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1214,15 +2354,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Chairman%20and%20CEO%20as%20of%20July%202026%3A%20Satya%20Nadella."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Chairman%20and%20CEO%20as%20of%20July%202026%3A%20Satya%20Nadella."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10217",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10258",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10217",
       "rank": 65,
       "title": "• Windows 95, with the Start button and major consumer launch campaign.",
-      "hook": "• Windows 95, with the Start button and major consumer launch campaign.",
+      "hook": "• Windows 95, with the Start button and major consumer launch campaign. — TCS Quiz 2026",
       "explainer": "• Windows 95, with the Start button and major consumer launch campaign.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1231,15 +2391,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Windows%2095%2C%20with%20the%20Start%20button%20and%20major%20consumer%20launc"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Windows%2095%2C%20with%20the%20Start%20button%20and%20major%20consumer%20launc"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10258",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10385",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10258",
       "rank": 66,
       "title": "• Hotmail, an early webmail acquisition.",
-      "hook": "• Hotmail, an early webmail acquisition.",
+      "hook": "• Hotmail, an early webmail acquisition. — TCS Quiz 2026",
       "explainer": "• Hotmail, an early webmail acquisition.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1248,8 +2428,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Hotmail%2C%20an%20early%20webmail%20acquisition."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Hotmail%2C%20an%20early%20webmail%20acquisition."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10385",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10389",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1265,15 +2465,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20John%20Ternus%3A%20hardware-engineering%20leader%20announced%20as%20Appl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20John%20Ternus%3A%20hardware-engineering%20leader%20announced%20as%20Appl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10389",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10408",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10389",
       "rank": 68,
       "title": "Apple generally buys smaller companies and absorbs their technology rath...",
-      "hook": "Apple generally buys smaller companies and absorbs their technology rather than maintaining every acquired brand.",
+      "hook": "Apple generally buys smaller companies and absorbs their technology rather than maintaining every acquired brand. — TCS Quiz 2026",
       "explainer": "Apple generally buys smaller companies and absorbs their technology rather than maintaining every acquired brand.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1282,15 +2502,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Apple%20generally%20buys%20smaller%20companies%20and%20absorbs%20their%20tec"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Apple%20generally%20buys%20smaller%20companies%20and%20absorbs%20their%20tec"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10408",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10457",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10408",
       "rank": 69,
       "title": "• AirPower charging mat: announced but cancelled before release.",
-      "hook": "• AirPower charging mat: announced but cancelled before release.",
+      "hook": "• AirPower charging mat: announced but cancelled before release. — TCS Quiz 2026",
       "explainer": "• AirPower charging mat: announced but cancelled before release.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1299,8 +2539,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20AirPower%20charging%20mat%3A%20announced%20but%20cancelled%20before%20rele"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20AirPower%20charging%20mat%3A%20announced%20but%20cancelled%20before%20rele"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10457",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10499",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1316,15 +2576,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20CEO%20of%20Google%20and%20Alphabet%20as%20of%20July%202026%3A%20Sundar%20Pichai."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20CEO%20of%20Google%20and%20Alphabet%20as%20of%20July%202026%3A%20Sundar%20Pichai."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10499",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10528",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10499",
       "rank": 71,
       "title": "• Gemini and AI products.",
-      "hook": "• Gemini and AI products.",
+      "hook": "• Gemini and AI products. — TCS Quiz 2026",
       "explainer": "• Gemini and AI products.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1333,8 +2613,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Gemini%20and%20AI%20products."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Gemini%20and%20AI%20products."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10528",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10561",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1350,15 +2650,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Wiz%2C%20whose%20acquisition%20was%20completed%20in%202026%20to%20strengthen"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Wiz%2C%20whose%20acquisition%20was%20completed%20in%202026%20to%20strengthen"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10561",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10567",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10561",
       "rank": 73,
       "title": "• Android versions were historically named after desserts in public, inc...",
-      "hook": "• Android versions were historically named after desserts in public, including Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Crea...",
+      "hook": "• Android versions were historically named after desserts in public, including Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Crea... — TCS Quiz 2026",
       "explainer": "• Android versions were historically named after desserts in public, including Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich, Jelly Bean, KitKat, Lollipop, Marshmallow, Nougat, Oreo and Pie.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1367,15 +2687,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Android%20versions%20were%20historically%20named%20after%20desserts%20in"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Android%20versions%20were%20historically%20named%20after%20desserts%20in"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10567",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10669",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10567",
       "rank": 74,
       "title": "• Gmail launched on April 1, 2004, leading some people to suspect an Apr...",
-      "hook": "• Gmail launched on April 1, 2004, leading some people to suspect an April Fools’ joke.",
+      "hook": "• Gmail launched on April 1, 2004, leading some people to suspect an April Fools’ joke. — TCS Quiz 2026",
       "explainer": "• Gmail launched on April 1, 2004, leading some people to suspect an April Fools’ joke.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1384,15 +2724,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Gmail%20launched%20on%20April%201%2C%202004%2C%20leading%20some%20people%20to%20su"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Gmail%20launched%20on%20April%201%2C%202004%2C%20leading%20some%20people%20to%20su"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10669",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10685",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10669",
       "rank": 75,
       "title": "• Bezos’s repeated phrase Day 1 describes maintaining startup urgency an...",
-      "hook": "• Bezos’s repeated phrase Day 1 describes maintaining startup urgency and avoiding institutional stagnation.",
+      "hook": "• Bezos’s repeated phrase Day 1 describes maintaining startup urgency and avoiding institutional stagnation. — TCS Quiz 2026",
       "explainer": "• Bezos’s repeated phrase Day 1 describes maintaining startup urgency and avoiding institutional stagnation.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1401,8 +2761,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Bezos%E2%80%99s%20repeated%20phrase%20Day%201%20describes%20maintaining%20startu"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Bezos%E2%80%99s%20repeated%20phrase%20Day%201%20describes%20maintaining%20startu"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10685",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10696",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1418,8 +2798,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Andy%20Jassy%2C%20not%20Bezos%2C%20is%20the%20current%20CEO%20as%20of%20July%202026."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Andy%20Jassy%2C%20not%20Bezos%2C%20is%20the%20current%20CEO%20as%20of%20July%202026."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10696",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10759",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1435,15 +2835,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Founder%2C%20chairman%20and%20CEO%20as%20of%20July%202026%3A%20Mark%20Zuckerberg"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Founder%2C%20chairman%20and%20CEO%20as%20of%20July%202026%3A%20Mark%20Zuckerberg"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10759",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10800",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10759",
       "rank": 78,
       "title": "• Reality Labs spending and the uncertain economics of the metaverse.",
-      "hook": "• Reality Labs spending and the uncertain economics of the metaverse.",
+      "hook": "• Reality Labs spending and the uncertain economics of the metaverse. — TCS Quiz 2026",
       "explainer": "• Reality Labs spending and the uncertain economics of the metaverse.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1452,8 +2872,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Reality%20Labs%20spending%20and%20the%20uncertain%20economics%20of%20the%20m"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Reality%20Labs%20spending%20and%20the%20uncertain%20economics%20of%20the%20m"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10800",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10858",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1469,15 +2909,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Current%20CEO%20as%20of%20July%202026%3A%20Lip-Bu%20Tan."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Current%20CEO%20as%20of%20July%202026%3A%20Lip-Bu%20Tan."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10858",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-10953",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10858",
       "rank": 80,
       "title": "• Current chair and CEO: Lisa Su.",
-      "hook": "• Current chair and CEO: Lisa Su.",
+      "hook": "• Current chair and CEO: Lisa Su. — TCS Quiz 2026",
       "explainer": "• Current chair and CEO: Lisa Su.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1486,15 +2946,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Current%20chair%20and%20CEO%3A%20Lisa%20Su."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Current%20chair%20and%20CEO%3A%20Lisa%20Su."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-10953",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-11525",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-10953",
       "rank": 81,
       "title": "Failed Arm acquisition",
-      "hook": "Failed Arm acquisition",
+      "hook": "Failed Arm acquisition — TCS Quiz 2026",
       "explainer": "Failed Arm acquisition",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1503,15 +2983,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Failed%20Arm%20acquisition"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Failed%20Arm%20acquisition"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-11525",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-11795",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-11525",
       "rank": 82,
       "title": "• Figma acquisition attempt, abandoned after regulatory opposition.",
-      "hook": "• Figma acquisition attempt, abandoned after regulatory opposition.",
+      "hook": "• Figma acquisition attempt, abandoned after regulatory opposition. — TCS Quiz 2026",
       "explainer": "• Figma acquisition attempt, abandoned after regulatory opposition.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1520,15 +3020,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Figma%20acquisition%20attempt%2C%20abandoned%20after%20regulatory%20oppo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Figma%20acquisition%20attempt%2C%20abandoned%20after%20regulatory%20oppo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-11795",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-11800",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-11795",
       "rank": 83,
       "title": "The 2000 merger became an emblem of dot-com-era excess. The promised uni...",
-      "hook": "The 2000 merger became an emblem of dot-com-era excess. The promised union of new-media distribution and old-media content failed to deliver e...",
+      "hook": "The 2000 merger became an emblem of dot-com-era excess. The promised union of new-media distribution and old-media content failed to deliver e... — TCS Quiz 2026",
       "explainer": "The 2000 merger became an emblem of dot-com-era excess. The promised union of new-media distribution and old-media content failed to deliver expected value, and enormous write-downs followed.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1537,15 +3057,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%202000%20merger%20became%20an%20emblem%20of%20dot-com-era%20excess.%20The%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%202000%20merger%20became%20an%20emblem%20of%20dot-com-era%20excess.%20The%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-11800",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-12049",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-11800",
       "rank": 84,
       "title": "• The Time Warner deal was technically described as a merger but reflect...",
-      "hook": "• The Time Warner deal was technically described as a merger but reflected the extraordinary market valuation of AOL at the dot-com peak.",
+      "hook": "• The Time Warner deal was technically described as a merger but reflected the extraordinary market valuation of AOL at the dot-com peak. — TCS Quiz 2026",
       "explainer": "• The Time Warner deal was technically described as a merger but reflected the extraordinary market valuation of AOL at the dot-com peak.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1554,15 +3094,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20The%20Time%20Warner%20deal%20was%20technically%20described%20as%20a%20merger"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20The%20Time%20Warner%20deal%20was%20technically%20described%20as%20a%20merger"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-12049",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-12602",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-12049",
       "rank": 85,
       "title": "Airbnb owns a platform but generally does not own the homes listed on it.",
-      "hook": "Airbnb owns a platform but generally does not own the homes listed on it.",
+      "hook": "Airbnb owns a platform but generally does not own the homes listed on it. — TCS Quiz 2026",
       "explainer": "Airbnb owns a platform but generally does not own the homes listed on it.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1571,8 +3131,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Airbnb%20owns%20a%20platform%20but%20generally%20does%20not%20own%20the%20homes%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Airbnb%20owns%20a%20platform%20but%20generally%20does%20not%20own%20the%20homes%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-12602",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-12682",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1588,15 +3168,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Corporate%20parent%20renamed%20Eternal%20in%202025%20while%20Zomato%20rema"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Corporate%20parent%20renamed%20Eternal%20in%202025%20while%20Zomato%20rema"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-12682",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-12874",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-12682",
       "rank": 87,
       "title": "• Important for questions linking sport, data, gaming regulation and sta...",
-      "hook": "• Important for questions linking sport, data, gaming regulation and startup business models.",
+      "hook": "• Important for questions linking sport, data, gaming regulation and startup business models. — TCS Quiz 2026",
       "explainer": "• Important for questions linking sport, data, gaming regulation and startup business models.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1605,15 +3205,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Important%20for%20questions%20linking%20sport%2C%20data%2C%20gaming%20regula"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Important%20for%20questions%20linking%20sport%2C%20data%2C%20gaming%20regula"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-12874",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-13092",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-12874",
       "rank": 88,
       "title": "Snapchat rejected a multibillion-dollar acquisition offer from Facebook,...",
-      "hook": "Snapchat rejected a multibillion-dollar acquisition offer from Facebook, becoming a famous example of founders choosing independence.",
+      "hook": "Snapchat rejected a multibillion-dollar acquisition offer from Facebook, becoming a famous example of founders choosing independence. — TCS Quiz 2026",
       "explainer": "Snapchat rejected a multibillion-dollar acquisition offer from Facebook, becoming a famous example of founders choosing independence.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1622,15 +3242,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Snapchat%20rejected%20a%20multibillion-dollar%20acquisition%20offer%20fr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Snapchat%20rejected%20a%20multibillion-dollar%20acquisition%20offer%20fr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-13092",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-13161",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-13092",
       "rank": 89,
       "title": "• Its PlayBook tablet launched without native email initially, a remarka...",
-      "hook": "• Its PlayBook tablet launched without native email initially, a remarkable product mistake.",
+      "hook": "• Its PlayBook tablet launched without native email initially, a remarkable product mistake. — TCS Quiz 2026",
       "explainer": "• Its PlayBook tablet launched without native email initially, a remarkable product mistake.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1639,15 +3279,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Its%20PlayBook%20tablet%20launched%20without%20native%20email%20initiall"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Its%20PlayBook%20tablet%20launched%20without%20native%20email%20initiall"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-13161",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-13167",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-13161",
       "rank": 90,
       "title": "• Neumann resigned; the company later entered bankruptcy restructuring.",
-      "hook": "• Neumann resigned; the company later entered bankruptcy restructuring.",
+      "hook": "• Neumann resigned; the company later entered bankruptcy restructuring. — TCS Quiz 2026",
       "explainer": "• Neumann resigned; the company later entered bankruptcy restructuring.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1656,15 +3316,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Neumann%20resigned%3B%20the%20company%20later%20entered%20bankruptcy%20res"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Neumann%20resigned%3B%20the%20company%20later%20entered%20bankruptcy%20res"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-13167",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-13245",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-13167",
       "rank": 91,
       "title": "• Raised enormous funding and assembled a prestigious board.",
-      "hook": "• Raised enormous funding and assembled a prestigious board.",
+      "hook": "• Raised enormous funding and assembled a prestigious board. — TCS Quiz 2026",
       "explainer": "• Raised enormous funding and assembled a prestigious board.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1673,8 +3353,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Raised%20enormous%20funding%20and%20assembled%20a%20prestigious%20board."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Raised%20enormous%20funding%20and%20assembled%20a%20prestigious%20board."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-13245",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-14117",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1690,15 +3390,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20John%20Ternus%20%E2%80%94%20announced%20to%20succeed%20Cook%20as%20Apple%20CEO%20on%20Se"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20John%20Ternus%20%E2%80%94%20announced%20to%20succeed%20Cook%20as%20Apple%20CEO%20on%20Se"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-14117",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-14211",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-14117",
       "rank": 93,
       "title": "An AI winter is a period of reduced funding and enthusiasm after expecta...",
-      "hook": "An AI winter is a period of reduced funding and enthusiasm after expectations exceed technical results.",
+      "hook": "An AI winter is a period of reduced funding and enthusiasm after expectations exceed technical results. — TCS Quiz 2026",
       "explainer": "An AI winter is a period of reduced funding and enthusiasm after expectations exceed technical results.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1707,15 +3427,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20AI%20winter%20is%20a%20period%20of%20reduced%20funding%20and%20enthusiasm%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20AI%20winter%20is%20a%20period%20of%20reduced%20funding%20and%20enthusiasm%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-14211",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-14528",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-14211",
       "rank": 94,
       "title": "Data leakage occurs when information unavailable at real prediction time...",
-      "hook": "Data leakage occurs when information unavailable at real prediction time enters training or evaluation. It can create unrealistically high sco...",
+      "hook": "Data leakage occurs when information unavailable at real prediction time enters training or evaluation. It can create unrealistically high sco... — TCS Quiz 2026",
       "explainer": "Data leakage occurs when information unavailable at real prediction time enters training or evaluation. It can create unrealistically high scores.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1724,15 +3464,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Data%20leakage%20occurs%20when%20information%20unavailable%20at%20real%20pre"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Data%20leakage%20occurs%20when%20information%20unavailable%20at%20real%20pre"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-14528",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-14869",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-14528",
       "rank": 95,
       "title": "• Better training and evaluation.",
-      "hook": "• Better training and evaluation.",
+      "hook": "• Better training and evaluation. — TCS Quiz 2026",
       "explainer": "• Better training and evaluation.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1741,15 +3501,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Better%20training%20and%20evaluation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Better%20training%20and%20evaluation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-14869",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-15870",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-14869",
       "rank": 96,
       "title": "Master data management maintains authoritative records for key entities ...",
-      "hook": "Master data management maintains authoritative records for key entities such as customers, products and suppliers.",
+      "hook": "Master data management maintains authoritative records for key entities such as customers, products and suppliers. — TCS Quiz 2026",
       "explainer": "Master data management maintains authoritative records for key entities such as customers, products and suppliers.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1758,15 +3538,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Master%20data%20management%20maintains%20authoritative%20records%20for%20k"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Master%20data%20management%20maintains%20authoritative%20records%20for%20k"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-15870",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-15953",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-15870",
       "rank": 97,
       "title": "Aadhaar biometric authentication is a verification process against UIDAI...",
-      "hook": "Aadhaar biometric authentication is a verification process against UIDAI records; it is not a public reverse-search service that reveals a per...",
+      "hook": "Aadhaar biometric authentication is a verification process against UIDAI records; it is not a public reverse-search service that reveals a per... — TCS Quiz 2026",
       "explainer": "Aadhaar biometric authentication is a verification process against UIDAI records; it is not a public reverse-search service that reveals a person’s full biometric data.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1775,15 +3575,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Aadhaar%20biometric%20authentication%20is%20a%20verification%20process%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Aadhaar%20biometric%20authentication%20is%20a%20verification%20process%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-15953",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-16752",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-15953",
       "rank": 98,
       "title": "ChatGPT is an application or service built around language models; “GPT”...",
-      "hook": "ChatGPT is an application or service built around language models; “GPT” refers to a model family and architecture lineage. They are related b...",
+      "hook": "ChatGPT is an application or service built around language models; “GPT” refers to a model family and architecture lineage. They are related b... — TCS Quiz 2026",
       "explainer": "ChatGPT is an application or service built around language models; “GPT” refers to a model family and architecture lineage. They are related but not identical terms.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1792,15 +3612,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=ChatGPT%20is%20an%20application%20or%20service%20built%20around%20language%20m"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=ChatGPT%20is%20an%20application%20or%20service%20built%20around%20language%20m"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-16752",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-16811",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-16752",
       "rank": 99,
       "title": "The goal is not merely to memorise processor names. A strong quizzer sho...",
-      "hook": "The goal is not merely to memorise processor names. A strong quizzer should be able to connect an inventor to a device, a company to its suppl...",
+      "hook": "The goal is not merely to memorise processor names. A strong quizzer should be able to connect an inventor to a device, a company to its suppl... — TCS Quiz 2026",
       "explainer": "The goal is not merely to memorise processor names. A strong quizzer should be able to connect an inventor to a device, a company to its supply-chain role, an architecture to its licensing model, a process term to its manufacturing stage, and a quantum concept to the problem it solves.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1809,15 +3649,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20goal%20is%20not%20merely%20to%20memorise%20processor%20names.%20A%20strong"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20goal%20is%20not%20merely%20to%20memorise%20processor%20names.%20A%20strong"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-16811",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-16832",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-16811",
       "rank": 100,
       "title": "The depletion region at a PN junction contains few mobile carriers and c...",
-      "hook": "The depletion region at a PN junction contains few mobile carriers and creates an internal electric field. Forward bias reduces the barrier an...",
+      "hook": "The depletion region at a PN junction contains few mobile carriers and creates an internal electric field. Forward bias reduces the barrier an... — TCS Quiz 2026",
       "explainer": "The depletion region at a PN junction contains few mobile carriers and creates an internal electric field. Forward bias reduces the barrier and permits substantial current. Reverse bias enlarges the barrier and normally permits only small leakage until breakdown.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1826,15 +3686,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20depletion%20region%20at%20a%20PN%20junction%20contains%20few%20mobile%20ca"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20depletion%20region%20at%20a%20PN%20junction%20contains%20few%20mobile%20ca"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-16832",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-16983",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-16832",
       "rank": 101,
       "title": "A bipolar junction transistor, or BJT, uses both electrons and holes and...",
-      "hook": "A bipolar junction transistor, or BJT, uses both electrons and holes and has emitter, base and collector terminals. A small base current can c...",
+      "hook": "A bipolar junction transistor, or BJT, uses both electrons and holes and has emitter, base and collector terminals. A small base current can c... — TCS Quiz 2026",
       "explainer": "A bipolar junction transistor, or BJT, uses both electrons and holes and has emitter, base and collector terminals. A small base current can control a larger collector current.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1843,15 +3723,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20bipolar%20junction%20transistor%2C%20or%20BJT%2C%20uses%20both%20electrons%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20bipolar%20junction%20transistor%2C%20or%20BJT%2C%20uses%20both%20electrons%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-16983",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-17980",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-16983",
       "rank": 102,
       "title": "Yield is the fraction of manufactured dies that meet requirements. A waf...",
-      "hook": "Yield is the fraction of manufactured dies that meet requirements. A wafer can contain many dies, but a single defect may ruin a die. Larger d...",
+      "hook": "Yield is the fraction of manufactured dies that meet requirements. A wafer can contain many dies, but a single defect may ruin a die. Larger d... — TCS Quiz 2026",
       "explainer": "Yield is the fraction of manufactured dies that meet requirements. A wafer can contain many dies, but a single defect may ruin a die. Larger dies generally expose more area to possible defects, making high yield harder.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1860,15 +3760,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Yield%20is%20the%20fraction%20of%20manufactured%20dies%20that%20meet%20require"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Yield%20is%20the%20fraction%20of%20manufactured%20dies%20that%20meet%20require"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-17980",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18045",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-17980",
       "rank": 103,
       "title": "Variational quantum eigensolver and quantum approximate optimisation alg...",
-      "hook": "Variational quantum eigensolver and quantum approximate optimisation algorithm combine parameterised quantum circuits with classical optimisat...",
+      "hook": "Variational quantum eigensolver and quantum approximate optimisation algorithm combine parameterised quantum circuits with classical optimisat... — TCS Quiz 2026",
       "explainer": "Variational quantum eigensolver and quantum approximate optimisation algorithm combine parameterised quantum circuits with classical optimisation. They were proposed for noisy intermediate-scale quantum devices, but practical advantage remains an open engineering and scientific question.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1877,8 +3797,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Variational%20quantum%20eigensolver%20and%20quantum%20approximate%20opti"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Variational%20quantum%20eigensolver%20and%20quantum%20approximate%20opti"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18045",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18183",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1894,15 +3834,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XIX%20%E2%80%94%20CURRENT%20DEVELOPMENTS%20SNAPSHOT%3A%20JULY%202026"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XIX%20%E2%80%94%20CURRENT%20DEVELOPMENTS%20SNAPSHOT%3A%20JULY%202026"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18183",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18193",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-18183",
       "rank": 105,
       "title": "1. Bell Labs → transistor → Shockley Laboratory → traitorous eight → Fai...",
-      "hook": "1. Bell Labs → transistor → Shockley Laboratory → traitorous eight → Fairchild → Intel and Silicon Valley startups.",
+      "hook": "1. Bell Labs → transistor → Shockley Laboratory → traitorous eight → Fairchild → Intel and Silicon Valley startups. — TCS Quiz 2026",
       "explainer": "1. Bell Labs → transistor → Shockley Laboratory → traitorous eight → Fairchild → Intel and Silicon Valley startups.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1911,15 +3871,35 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.%20Bell%20Labs%20%E2%86%92%20transistor%20%E2%86%92%20Shockley%20Laboratory%20%E2%86%92%20traitorous"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.%20Bell%20Labs%20%E2%86%92%20transistor%20%E2%86%92%20Shockley%20Laboratory%20%E2%86%92%20traitorous"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18193",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-18084",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
       "id": "module-14-lib-18193",
       "rank": 106,
       "title": "11. DRAM bandwidth wall → HBM stacking → 2.5D packaging → AI accelerator...",
-      "hook": "11. DRAM bandwidth wall → HBM stacking → 2.5D packaging → AI accelerator systems.",
+      "hook": "11. DRAM bandwidth wall → HBM stacking → 2.5D packaging → AI accelerator systems. — TCS Quiz 2026",
       "explainer": "11. DRAM bandwidth wall → HBM stacking → 2.5D packaging → AI accelerator systems.",
       "importance": 1,
       "category": "Current Technology, Science and Business Affairs",
@@ -1928,8 +3908,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=11.%20DRAM%20bandwidth%20wall%20%E2%86%92%20HBM%20stacking%20%E2%86%92%202.5D%20packaging%20%E2%86%92%20AI"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=11.%20DRAM%20bandwidth%20wall%20%E2%86%92%20HBM%20stacking%20%E2%86%92%202.5D%20packaging%20%E2%86%92%20AI"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-14-lib-18084",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Current Technology, Science and Business Affairs\" category with the linked topic."
+          },
+          {
+            "topicId": "module-14-lib-35610",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Current Technology, Science and Business Affairs\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Cricket%2C%20football%20and%20the%20Olympics"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Cricket%2C%20football%20and%20the%20Olympics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-21269",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-1594",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Justice%20K.%20S.%20Puttaswamy%20(Retd.)%20v.%20Union%20of%20India%20was%20decid"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Justice%20K.%20S.%20Puttaswamy%20(Retd.)%20v.%20Union%20of%20India%20was%20decid"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-1594",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-7898",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=It%20gained%20publicity%20after%20a%20UNIVAC%20system%20correctly%20projecte"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=It%20gained%20publicity%20after%20a%20UNIVAC%20system%20correctly%20projecte"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-7898",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-8737",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Comptroller%20and%20Auditor%20General%E2%80%99s%20presumptive-loss%20estim"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Comptroller%20and%20Auditor%20General%E2%80%99s%20presumptive-loss%20estim"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-8737",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-9115",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Recorded%20by%20Elwood%20Edwards%20and%20associated%20with%20mass%20dial-up%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Recorded%20by%20Elwood%20Edwards%20and%20associated%20with%20mass%20dial-up%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-9115",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-10596",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=27.%20Arrange%20these%20OSI%20layers%20from%20lowest%20to%20highest%3A%20transpo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=27.%20Arrange%20these%20OSI%20layers%20from%20lowest%20to%20highest%3A%20transpo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-10596",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-12027",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Cadabra%2C%20from%20abracadabra%2C%20was%20rejected%20after%20it%20was%20heard%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Cadabra%2C%20from%20abracadabra%2C%20was%20rejected%20after%20it%20was%20heard%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-12027",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-15908",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=During%20the%202008%20United%20States%20election%2C%20the%20founders%20sold%20no"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=During%20the%202008%20United%20States%20election%2C%20the%20founders%20sold%20no"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-15908",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-17992",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=AlphaZero%20later%20learned%20chess%2C%20shogi%20and%20Go%20from%20self-play%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=AlphaZero%20later%20learned%20chess%2C%20shogi%20and%20Go%20from%20self-play%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-17992",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-19996",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quantum%20teleportation%20transfers%20an%20unknown%20quantum%20state%20usi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quantum%20teleportation%20transfers%20an%20unknown%20quantum%20state%20usi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-19996",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-20275",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Morris%20became%20the%20first%20person%20convicted%20under%20the%201986%20Un"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Morris%20became%20the%20first%20person%20convicted%20under%20the%201986%20Un"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-20275",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-21263",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Abuses%20network%20or%20transport%20behaviour%20to%20exhaust%20devices%20or%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Abuses%20network%20or%20transport%20behaviour%20to%20exhaust%20devices%20or%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-21263",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-29312",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Privacy%20is%20a%20fundamental%20right%20in%20India%20following%20the%20Supr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Privacy%20is%20a%20fundamental%20right%20in%20India%20following%20the%20Supr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-29312",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-33062",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.%20Is%20the%20source%20a%20ministry%20release%2C%20regulator%2C%20company%20stat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.%20Is%20the%20source%20a%20ministry%20release%2C%20regulator%2C%20company%20stat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-33062",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-386",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20partnered%20with%20India%E2%80%99s%20Ministry%20of%20External%20Affairs%20on%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20partnered%20with%20India%E2%80%99s%20Ministry%20of%20External%20Affairs%20on%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-386",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-387",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Major%20awards"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Major%20awards"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-387",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-656",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Major%20sporting%20winners"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Major%20sporting%20winners"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-656",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-940",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Possibly%20timing%20connected%20with%20athletic%20festivals."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Possibly%20timing%20connected%20with%20athletic%20festivals."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-940",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-1320",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Her%20additions%20were%20longer%20than%20the%20original%20article."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Her%20additions%20were%20longer%20than%20the%20original%20article."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-1320",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-1326",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20A%20finite%20set%20of%20internal%20states."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20A%20finite%20set%20of%20internal%20states."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-1326",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-1736",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Change%20state."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Change%20state."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-1736",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-1831",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Solid-state%20drives."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Solid-state%20drives."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-1831",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-2033",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Easy%20transport."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Easy%20transport."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-2033",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-2091",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Tennis%20for%20Two."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Tennis%20for%20Two."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-2091",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-2490",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Cabinets."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Cabinets."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-2490",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-2908",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Distinctive%20C-shaped%20cabinet."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Distinctive%20C-shaped%20cabinet."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-2908",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-2914",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Previous%20state."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Previous%20state."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-2914",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-3152",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20flip-flop%20stores%20one%20bit%20of%20state."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20flip-flop%20stores%20one%20bit%20of%20state."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-3152",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-3432",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Often%20stated%20as%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Often%20stated%20as%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-3432",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-3441",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Overstated."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Overstated."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-3441",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-4218",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Overstated."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Overstated."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-4218",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-4246",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Layer%204%20%E2%80%94%20Transport"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Layer%204%20%E2%80%94%20Transport"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-4246",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-4511",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Transport."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Transport."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-4511",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-4730",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=RTP%20%E2%80%94%20Real-time%20Transport%20Protocol"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=RTP%20%E2%80%94%20Real-time%20Transport%20Protocol"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-4730",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-4813",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Flag%20Day%3A%20January%201%2C%201983"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Flag%20Day%3A%20January%201%2C%201983"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-4813",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-5840",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20ARIN%20%E2%80%94%20United%20States%2C%20Canada%20and%20parts%20of%20the%20Caribbean%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20ARIN%20%E2%80%94%20United%20States%2C%20Canada%20and%20parts%20of%20the%20Caribbean%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-5840",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-7040",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=FTTC%20%E2%80%94%20fibre%20to%20the%20cabinet%20or%20curb%2C%20followed%20by%20another%20med"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=FTTC%20%E2%80%94%20fibre%20to%20the%20cabinet%20or%20curb%2C%20followed%20by%20another%20med"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-7040",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-7057",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20FLAG%2C%20Fibre-optic%20Link%20Around%20the%20Globe."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20FLAG%2C%20Fibre-optic%20Link%20Around%20the%20Globe."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-7057",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-8506",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Undersea%20cables%20include%20repeaters%3B%20light%20does%20not%20cross%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Undersea%20cables%20include%20repeaters%3B%20light%20does%20not%20cross%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-8506",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-8524",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MQTT%20%E2%80%94%20Message%20Queuing%20Telemetry%20Transport."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MQTT%20%E2%80%94%20Message%20Queuing%20Telemetry%20Transport."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-8524",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-9370",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=RTP%20%E2%80%94%20Real-time%20Transport%20Protocol."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=RTP%20%E2%80%94%20Real-time%20Transport%20Protocol."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-9370",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-9773",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=110.%20Name%20the%20two%20primary%20types%20of%20optical%20fibre%20and%20state%20w"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=110.%20Name%20the%20two%20primary%20types%20of%20optical%20fibre%20and%20state%20w"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-9773",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-9859",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=29.%20Layer%204%2C%20Transport."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=29.%20Layer%204%2C%20Transport."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-9859",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-11820",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=115.%20Shore%20zones%20face%20anchors%2C%20fishing%20and%20abrasion%3B%20deep%20oc"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=115.%20Shore%20zones%20face%20anchors%2C%20fishing%20and%20abrasion%3B%20deep%20oc"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-11820",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-11982",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Sports."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Sports."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-11982",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-12267",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Drivers."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Drivers."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-12267",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-12522",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Famous%20slogan%3A%20EA%20Sports%20%E2%80%94%20It%E2%80%99s%20in%20the%20game."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Famous%20slogan%3A%20EA%20Sports%20%E2%80%94%20It%E2%80%99s%20in%20the%20game."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-12522",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-12681",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Major%20festival%20sales."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Major%20festival%20sales."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-12681",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-13529",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Fantasy-sports%20platform."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Fantasy-sports%20platform."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-13529",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-13550",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20EA%20Sports%20%E2%80%94%20It%E2%80%99s%20in%20the%20game."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20EA%20Sports%20%E2%80%94%20It%E2%80%99s%20in%20the%20game."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-13550",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-13823",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20EA%20Sports%20spoken%20slogan."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20EA%20Sports%20spoken%20slogan."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-13823",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-14187",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=27.%20A-to-Z%20selection%20and%20a%20smile."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=27.%20A-to-Z%20selection%20and%20a%20smile."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-14187",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-15008",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20State%3A%20information%20describing%20the%20situation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20State%3A%20information%20describing%20the%20situation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-15008",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-16213",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Stateful-workload%20challenges."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Stateful-workload%20challenges."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-16213",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-16273",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=29.%20Deep%20Blue%20%E2%86%92%20chess%3B%20Watson%20%E2%86%92%20Jeopardy!%3B%20AlphaGo%20%E2%86%92%20Go%3B%20Alp"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=29.%20Deep%20Blue%20%E2%86%92%20chess%3B%20Watson%20%E2%86%92%20Jeopardy!%3B%20AlphaGo%20%E2%86%92%20Go%3B%20Alp"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-16273",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-16387",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.%20Which%20statement%20best%20describes%20an%20embedding%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.%20Which%20statement%20best%20describes%20an%20embedding%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-16387",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-16396",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=B.%20Chess"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=B.%20Chess"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-16396",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-16564",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=D.%20Biometric%20passports"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=D.%20Biometric%20passports"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-16564",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-16572",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=24.%20Which%20statements%20about%20biometric%20thresholds%20are%20correct%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=24.%20Which%20statements%20about%20biometric%20thresholds%20are%20correct%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-16572",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-16735",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A.%20Deep%20Blue%20%E2%80%94%20chess"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A.%20Deep%20Blue%20%E2%80%94%20chess"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-16735",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-17288",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Deep%20Blue%20%E2%80%94%20chess."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Deep%20Blue%20%E2%80%94%20chess."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-17288",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-17654",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20MESI%3A%20a%20well-known%20family%20of%20coherence%20states%E2%80%94Modified%2C%20Ex"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20MESI%3A%20a%20well-known%20family%20of%20coherence%20states%E2%80%94Modified%2C%20Ex"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-17654",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-19491",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Known-good-die%20selection."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Known-good-die%20selection."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-19491",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-20794",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Tracks%20connection%20state%20and%20can%20distinguish%20traffic%20belongin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Tracks%20connection%20state%20and%20can%20distinguish%20traffic%20belongin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-20794",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-21830",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Feature%20flag"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Feature%20flag"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-21830",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-22262",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1977%20%E2%80%94%20RSA%20was%20publicly%20described%3B%20DES%20became%20a%20United%20State"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1977%20%E2%80%94%20RSA%20was%20publicly%20described%3B%20DES%20became%20a%20United%20State"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-22262",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-23162",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=31.%20Which%20obsolete%20United%20States%20standard%20used%20a%2056-bit%20effe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=31.%20Which%20obsolete%20United%20States%20standard%20used%20a%2056-bit%20effe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-23162",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-23293",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Device%20management%3A%20communicates%20with%20hardware%20through%20devi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Device%20management%3A%20communicates%20with%20hardware%20through%20devi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-23293",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-23294",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1.10%20Device%20drivers%20and%20booting"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1.10%20Device%20drivers%20and%20booting"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-23294",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-23407",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20device%20driver%20allows%20the%20OS%20to%20communicate%20with%20a%20particul"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20device%20driver%20allows%20the%20OS%20to%20communicate%20with%20a%20particul"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-23407",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-23666",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Declarative%3A%20states%20the%20desired%20result%20rather%20than%20every%20e"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Declarative%3A%20states%20the%20desired%20result%20rather%20than%20every%20e"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-23666",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-24017",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Transport"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Transport"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-24017",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-24083",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Feature%20selection"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Feature%20selection"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-24083",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-24559",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20threshold%20selection%20based%20on%20clinical%20costs%3B"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20threshold%20selection%20based%20on%20clinical%20costs%3B"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-24559",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-24701",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Driver%20%3D%20OS-to-device%20interface."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Driver%20%3D%20OS-to-device%20interface."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-24701",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-25442",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20Parent%20ministry%2C%20regulator%20or%20operating%20institution."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20Parent%20ministry%2C%20regulator%20or%20operating%20institution."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-25442",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-25503",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Named%20in%20honour%20of%20B.%20R.%20Ambedkar."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Named%20in%20honour%20of%20B.%20R.%20Ambedkar."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-25503",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-25677",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Mini%20statement."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Mini%20statement."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-25677",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-26342",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Examples%3A%20education%20board%2C%20transport%20department%20or%20governm"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Examples%3A%20education%20board%2C%20transport%20department%20or%20governm"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-26342",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-26703",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%2022%20languages%20in%20the%20Eighth%20Schedule%20of%20the%20Constitution."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%2022%20languages%20in%20the%20Eighth%20Schedule%20of%20the%20Constitution."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-26703",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-27838",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Connected%20central%2C%20state%20and%20district%20administrations."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Connected%20central%2C%20state%20and%20district%20administrations."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-27838",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-28741",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Transport."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Transport."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-28741",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-29035",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=DigiYatra%20%E2%80%94%20Ministry%20of%20Civil%20Aviation-led%20ecosystem."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=DigiYatra%20%E2%80%94%20Ministry%20of%20Civil%20Aviation-led%20ecosystem."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-29035",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-29205",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20XXI%20%E2%80%94%20QUIZ%20TRAPS%20AND%20ADVERSARIAL%20STATEMENTS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20XXI%20%E2%80%94%20QUIZ%20TRAPS%20AND%20ADVERSARIAL%20STATEMENTS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-29205",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-29457",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Bharat%20Interface%20for%20Money%3B%20name%20also%20honours%20B.%20R.%20Ambedk"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Bharat%20Interface%20for%20Money%3B%20name%20also%20honours%20B.%20R.%20Ambedk"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-29457",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-29587",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=65.%20Which%20ministry%20leads%20the%20DigiYatra%20initiative%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=65.%20Which%20ministry%20leads%20the%20DigiYatra%20initiative%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-29587",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-29805",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=65.%20The%20Ministry%20of%20Civil%20Aviation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=65.%20The%20Ministry%20of%20Civil%20Aviation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-29805",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30005",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Ministry%20of%20Health%20and%20Family%20Welfare."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Ministry%20of%20Health%20and%20Family%20Welfare."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30005",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30118",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20State%20the%20immediate%20outcome%20required."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20State%20the%20immediate%20outcome%20required."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30118",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30166",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20It%20states%20the%20trade-off%20openly."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20It%20states%20the%20trade-off%20openly."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30166",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30177",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20State%20your%20recommendation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20State%20your%20recommendation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30177",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30189",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Escalate%20when%20a%20stated%20threshold%20is%20crossed."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Escalate%20when%20a%20stated%20threshold%20is%20crossed."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30189",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30201",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=State%20your%20responsibility%20and%20the%20outcome%20you%20had%20to%20protect"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=State%20your%20responsibility%20and%20the%20outcome%20you%20had%20to%20protect"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30201",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30630",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=State%20why%20the%20choice%20was%20reasonable%2C%20what%20trade-off%20you%20acce"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=State%20why%20the%20choice%20was%20reasonable%2C%20what%20trade-off%20you%20acce"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30630",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30659",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Better%3A%20%E2%80%9CI%20would%20recommend%20a%20sequence%20and%20explicitly%20state%20w"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Better%3A%20%E2%80%9CI%20would%20recommend%20a%20sequence%20and%20explicitly%20state%20w"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30659",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30783",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Fix%3A%20State%20non-negotiable%20controls."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Fix%3A%20State%20non-negotiable%20controls."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30783",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-30826",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=12.%20Which%20statement%20best%20demonstrates%20ownership%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=12.%20Which%20statement%20best%20demonstrates%20ownership%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-30826",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-31084",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%96%A1%20Have%20I%20stated%20the%20outcome%20that%20matters%20most%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%96%A1%20Have%20I%20stated%20the%20outcome%20that%20matters%20most%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-31084",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-31186",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Sports."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Sports."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-31186",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-244",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20four-dream%20matrix%20is%20one%20of%20the%20highest-yield%20facts%20in%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20four-dream%20matrix%20is%20one%20of%20the%20highest-yield%20facts%20in%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-15-lib-244",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"General-Awareness Safety Net\" category with the linked topic."
+          },
+          {
+            "topicId": "module-15-lib-21269",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"General-Awareness Safety Net\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

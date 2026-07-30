@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20module%20follows%20the%20roadmap%E2%80%99s%20complete%20Module%205%20scope%3A%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20module%20follows%20the%20roadmap%E2%80%99s%20complete%20Module%205%20scope%3A%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16707",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-10",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=AI%20%3E%20ML%20%3E%20deep%20learning.%20Supervised%20uses%20labels%3B%20unsupervise"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=AI%20%3E%20ML%20%3E%20deep%20learning.%20Supervised%20uses%20labels%3B%20unsupervise"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-10",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-103",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20Artificial%20Intelligence%2C%20Data%2C%20Cloud%2C%20Automation%2C%20Robotic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20Artificial%20Intelligence%2C%20Data%2C%20Cloud%2C%20Automation%2C%20Robotic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-103",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-13972",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20Artificial%20Intelligence%2C%20Data%2C%20Cloud%2C%20Automation%2C%20Robotic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20Artificial%20Intelligence%2C%20Data%2C%20Cloud%2C%20Automation%2C%20Robotic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-13972",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-13996",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MODULE%205%20%E2%80%94%20ARTIFICIAL%20INTELLIGENCE%2C%20DATA%2C%20CLOUD%2C%20AUTOMATION%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MODULE%205%20%E2%80%94%20ARTIFICIAL%20INTELLIGENCE%2C%20DATA%2C%20CLOUD%2C%20AUTOMATION%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-13996",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14041",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Large%20language%20model%20%E2%86%92%20transformer%20neural%20network%20%E2%86%92%20predicts"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Large%20language%20model%20%E2%86%92%20transformer%20neural%20network%20%E2%86%92%20predicts"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14041",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-119",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20spreadsheet%20rule%20that%20flags%20every%20payment%20above%20a%20fixed%20am"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20spreadsheet%20rule%20that%20flags%20every%20payment%20above%20a%20fixed%20am"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-119",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-122",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20AWS%2C%20Azure%20and%20Google%20Cloud"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20AWS%2C%20Azure%20and%20Google%20Cloud"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-122",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-10675",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Robotics%20and%20automation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Robotics%20and%20automation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-10675",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14034",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20AWS%20versus%20Microsoft%20Azure%20and%20Google%20Cloud."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20AWS%20versus%20Microsoft%20Azure%20and%20Google%20Cloud."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14034",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14038",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Deep%20learning%20is%20a%20subset%20of%20machine%20learning%20based%20on%20neura"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Deep%20learning%20is%20a%20subset%20of%20machine%20learning%20based%20on%20neura"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14038",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14453",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Artificial%20intelligence%20%E2%86%92%20machine%20learning%20%E2%86%92%20deep%20learning."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Artificial%20intelligence%20%E2%86%92%20machine%20learning%20%E2%86%92%20deep%20learning."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14453",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14994",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20large%20language%20model%2C%20or%20LLM%2C%20is%20trained%20on%20large%20text%20or%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20large%20language%20model%2C%20or%20LLM%2C%20is%20trained%20on%20large%20text%20or%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14994",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15474",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Function%20as%20a%20Service%20examples%20include%20AWS%20Lambda%2C%20Azure%20Fun"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Function%20as%20a%20Service%20examples%20include%20AWS%20Lambda%2C%20Azure%20Fun"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15474",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15543",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=87.%20Computer%20vision%20in%20robotics"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=87.%20Computer%20vision%20in%20robotics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15543",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16055",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Isaac%20Asimov%20popularised%20the%20term%20%E2%80%9Crobotics%E2%80%9D%20and%20formulated%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Isaac%20Asimov%20popularised%20the%20term%20%E2%80%9Crobotics%E2%80%9D%20and%20formulated%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16055",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16098",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20ISRO%20uses%20robotics%20and%20autonomous%20systems%20in%20space%20mission"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20ISRO%20uses%20robotics%20and%20autonomous%20systems%20in%20space%20mission"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16098",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16175",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=124.%20Automation%20and%20robotics%20clues"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=124.%20Automation%20and%20robotics%20clues"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16175",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16191",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=47.%20AWS%2C%20Azure%20and%20Google%20Cloud%20are%20providers%3B%20cloud%20is%20the%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=47.%20AWS%2C%20Azure%20and%20Google%20Cloud%20are%20providers%3B%20cloud%20is%20the%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16191",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16193",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.%20Attention%20Is%20All%20You%20Need%20%E2%86%92%20Transformer%20%E2%86%92%20BERT%20and%20GPT%20%E2%86%92%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.%20Attention%20Is%20All%20You%20Need%20%E2%86%92%20Transformer%20%E2%86%92%20BERT%20and%20GPT%20%E2%86%92%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16193",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16205",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=9.%20Labelled%20data%20%E2%86%92%20supervised%20learning%20%E2%86%92%20classification%20and%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=9.%20Labelled%20data%20%E2%86%92%20supervised%20learning%20%E2%86%92%20classification%20and%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16205",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16661",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=21.%20Karel%20%C4%8Capek%20%E2%86%92%20word%20%E2%80%9Crobot%E2%80%9D%3B%20Isaac%20Asimov%20%E2%86%92%20%E2%80%9Crobotics%E2%80%9D%20an"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=21.%20Karel%20%C4%8Capek%20%E2%86%92%20word%20%E2%80%9Crobot%E2%80%9D%3B%20Isaac%20Asimov%20%E2%86%92%20%E2%80%9Crobotics%E2%80%9D%20an"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16661",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-23109",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=17.%20A%2C%20B%2C%20C%20%E2%80%94%20These%20are%20software-automation%20tasks%3B%20physical%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=17.%20A%2C%20B%2C%20C%20%E2%80%94%20These%20are%20software-automation%20tasks%3B%20physical%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-23109",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-23964",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Big%20data%2C%20artificial%20intelligence%2C%20and%20machine%20learning%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Big%20data%2C%20artificial%20intelligence%2C%20and%20machine%20learning%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-23964",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-24601",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Deep%20learning%20is%20a%20subset%20of%20machine%20learning%20using%20multilay"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Deep%20learning%20is%20a%20subset%20of%20machine%20learning%20using%20multilay"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-24601",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-36755",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Classification%20%3D%20category%3B%20regression%20%3D%20continuous%20value%3B%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Classification%20%3D%20category%3B%20regression%20%3D%20continuous%20value%3B%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-36755",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-109",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=AI%20systems%20perform%20tasks%20such%20as%20recognition%2C%20prediction%2C%20pl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=AI%20systems%20perform%20tasks%20such%20as%20recognition%2C%20prediction%2C%20pl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-109",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-13105",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Machine%20learning%20and%20deep%20learning"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Machine%20learning%20and%20deep%20learning"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-13105",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-13720",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Corporate%20path%20involved%20US%20Robotics%2C%203Com%2C%20spin-offs%2C%20Hand"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Corporate%20path%20involved%20US%20Robotics%2C%203Com%2C%20spin-offs%2C%20Hand"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-13720",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14025",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=29.%20Which%20Amazon%20acquisition%20brought%20warehouse%20robotics%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=29.%20Which%20Amazon%20acquisition%20brought%20warehouse%20robotics%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14025",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14150",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20AI%2C%20machine%20learning%20and%20deep%20learning"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20AI%2C%20machine%20learning%20and%20deep%20learning"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14150",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14153",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=10.%20Unsupervised%20learning"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=10.%20Unsupervised%20learning"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14153",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14169",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Unsupervised%20learning%20works%20with%20data%20that%20has%20no%20target%20lab"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Unsupervised%20learning%20works%20with%20data%20that%20has%20no%20target%20lab"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14169",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14193",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Semi-supervised%20learning%20combines%20a%20small%20labelled%20dataset%20w"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Semi-supervised%20learning%20combines%20a%20small%20labelled%20dataset%20w"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14193",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14427",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Reinforcement%20learning%20differs%20from%20supervised%20learning%20beca"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Reinforcement%20learning%20differs%20from%20supervised%20learning%20beca"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14427",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-14776",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=BERT%20is%20an%20encoder-focused%20transformer%20family.%20GPT%20models%20ar"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=BERT%20is%20an%20encoder-focused%20transformer%20family.%20GPT%20models%20ar"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-14776",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15194",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Big%20data%20refers%20to%20datasets%20or%20data%20flows%20that%20challenge%20con"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Big%20data%20refers%20to%20datasets%20or%20data%20flows%20that%20challenge%20con"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15194",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15213",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Robotic%20process%20automation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Robotic%20process%20automation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15213",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15216",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=73.%20Robotic%20process%20automation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=73.%20Robotic%20process%20automation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15216",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15246",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Robotic%20process%20automation%2C%20or%20RPA%2C%20uses%20software%20bots%20to%20im"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Robotic%20process%20automation%2C%20or%20RPA%2C%20uses%20software%20bots%20to%20im"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15246",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15334",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Intelligent%20automation%20combines%20workflow%20or%20RPA%20with%20AI%20tech"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Intelligent%20automation%20combines%20workflow%20or%20RPA%20with%20AI%20tech"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15334",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15422",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20VII%20%E2%80%94%20ROBOTICS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20VII%20%E2%80%94%20ROBOTICS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15422",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15428",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=84.%20Mobile%20robots%20and%20autonomous%20vehicles"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=84.%20Mobile%20robots%20and%20autonomous%20vehicles"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15428",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15440",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20autonomous%20mobile%20robot%2C%20or%20AMR%2C%20builds%20or%20uses%20a%20map%20and"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20autonomous%20mobile%20robot%2C%20or%20AMR%2C%20builds%20or%20uses%20a%20map%20and"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15440",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15519",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20common%20robotics%20loop%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20common%20robotics%20loop%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15519",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15522",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Service%20robots%20perform%20useful%20tasks%20outside%20traditional%20indu"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Service%20robots%20perform%20useful%20tasks%20outside%20traditional%20indu"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15522",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15537",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Boston%20Dynamics%20is%20known%20for%20robots%20including%20Spot%20and%20Atlas"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Boston%20Dynamics%20is%20known%20for%20robots%20including%20Spot%20and%20Atlas"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15537",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15549",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=91.%20Robotics%20landmarks"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=91.%20Robotics%20landmarks"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15549",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15569",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Joseph%20Engelberger%20is%20often%20called%20the%20father%20of%20industrial%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Joseph%20Engelberger%20is%20often%20called%20the%20father%20of%20industrial%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15569",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15572",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=93.%20Swarm%20robotics"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=93.%20Swarm%20robotics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15572",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15593",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Swarm%20robotics%20coordinates%20many%20relatively%20simple%20robots%20usi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Swarm%20robotics%20coordinates%20many%20relatively%20simple%20robots%20usi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15593",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15732",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=94.%20Robotics%20safety%20and%20ethics"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=94.%20Robotics%20safety%20and%20ethics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15732",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15825",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Sir%20Francis%20Galton%20studied%20fingerprint%20individuality%20and%20cla"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Sir%20Francis%20Galton%20studied%20fingerprint%20individuality%20and%20cla"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15825",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15847",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Multimodal%20biometrics%20combines%20more%20than%20one%20biometric%20sourc"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Multimodal%20biometrics%20combines%20more%20than%20one%20biometric%20sourc"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15847",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15886",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Biometrics%20are%20difficult%20to%20replace%20after%20compromise.%20A%20pers"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Biometrics%20are%20difficult%20to%20replace%20after%20compromise.%20A%20pers"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15886",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15938",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Modern%20phones%20commonly%20use%20face%20or%20fingerprint%20verification."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Modern%20phones%20commonly%20use%20face%20or%20fingerprint%20verification."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15938",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15947",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Google%20is%20also%20associated%20with%20the%20Transformer%20paper%2C%20Tensor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Google%20is%20also%20associated%20with%20the%20Transformer%20paper%2C%20Tensor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15947",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15950",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=It%20is%20associated%20with%20GPT%20language%20models%2C%20ChatGPT%2C%20DALL%C2%B7E%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=It%20is%20associated%20with%20GPT%20language%20models%2C%20ChatGPT%2C%20DALL%C2%B7E%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15950",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15965",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=GPT%20stands%20for%20Generative%20Pre-trained%20Transformer."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=GPT%20stands%20for%20Generative%20Pre-trained%20Transformer."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15965",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-15986",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Microsoft%E2%80%99s%20cloud%20platform%20is%20Azure.%20Azure%20AI%20services%20and%20A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Microsoft%E2%80%99s%20cloud%20platform%20is%20Azure.%20Azure%20AI%20services%20and%20A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-15986",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16051",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Amazon%20Robotics%20grew%20partly%20from%20Amazon%E2%80%99s%20acquisition%20of%20Kiv"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Amazon%20Robotics%20grew%20partly%20from%20Amazon%E2%80%99s%20acquisition%20of%20Kiv"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16051",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16056",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=121.%20Indian%20robotics%20and%20digital%20initiatives"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=121.%20Indian%20robotics%20and%20digital%20initiatives"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16056",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16105",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20DRDO%20works%20on%20unmanned%20systems%2C%20defence%20robotics%20and%20auton"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20DRDO%20works%20on%20unmanned%20systems%2C%20defence%20robotics%20and%20auton"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16105",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16107",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Large%20industrial%20arm%20welding%20a%20car%3A%20industrial%20robotics."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Large%20industrial%20arm%20welding%20a%20car%3A%20industrial%20robotics."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16107",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16122",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Flat%20warehouse%20robot%20carrying%20shelves%3A%20Kiva%2FAmazon%20Robotic"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Flat%20warehouse%20robot%20carrying%20shelves%3A%20Kiva%2FAmazon%20Robotic"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16122",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16130",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Eye%20plus%20fingerprint%20plus%20face%20icons%3A%20multimodal%20biometric"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Eye%20plus%20fingerprint%20plus%20face%20icons%3A%20multimodal%20biometric"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16130",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16131",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20Deep%20learning%20is%20a%20subset%20of%20machine%20learning."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20Deep%20learning%20is%20a%20subset%20of%20machine%20learning."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16131",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16137",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Classification%20predicts%20categories%3B%20regression%20predicts%20c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Classification%20predicts%20categories%3B%20regression%20predicts%20c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16137",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16161",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=9.%20A%20transformer%20is%20not%20the%20same%20thing%20as%20a%20chatbot."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=9.%20A%20transformer%20is%20not%20the%20same%20thing%20as%20a%20chatbot."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16161",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16194",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=33.%20Robot-assisted%20surgery%20is%20not%20autonomous%20surgery."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=33.%20Robot-assisted%20surgery%20is%20not%20autonomous%20surgery."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16194",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16204",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=10.%20Unlabelled%20data%20%E2%86%92%20clustering%20and%20representation%20learning"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=10.%20Unlabelled%20data%20%E2%86%92%20clustering%20and%20representation%20learning"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16204",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16442",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=20.%20George%20Devol%20plus%20Joseph%20Engelberger%20%E2%86%92%20Unimate%20%E2%86%92%20General"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=20.%20George%20Devol%20plus%20Joseph%20Engelberger%20%E2%86%92%20Unimate%20%E2%86%92%20General"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16442",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16543",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=D.%20Every%20transformer%20is%20a%20chatbot."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=D.%20Every%20transformer%20is%20a%20chatbot."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16543",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16646",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=21.%20Which%20are%20parts%20of%20the%20robotics%20autonomy%20loop%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=21.%20Which%20are%20parts%20of%20the%20robotics%20autonomy%20loop%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16646",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16650",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20A%2C%20B%2C%20D%20%E2%80%94%20Classification%2C%20regression%20and%20labelled%20spam%20de"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20A%2C%20B%2C%20D%20%E2%80%94%20Classification%2C%20regression%20and%20labelled%20spam%20de"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16650",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16722",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=6.%20A%2C%20B%2C%20C%20%E2%80%94%20These%20describe%20transformers%3B%20not%20every%20transfor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=6.%20A%2C%20B%2C%20C%20%E2%80%94%20These%20describe%20transformers%3B%20not%20every%20transfor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-16722",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-23902",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Robotics%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Robotics%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-23902",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-23907",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%204%20%E2%80%94%20BIG%20DATA%2C%20AI%2C%20AND%20MACHINE%20LEARNING%20IN%20HEALTHCARE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%204%20%E2%80%94%20BIG%20DATA%2C%20AI%2C%20AND%20MACHINE%20LEARNING%20IN%20HEALTHCARE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-23907",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-23957",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Big%20data%20refers%20to%20datasets%20whose%20scale%2C%20speed%2C%20diversity%2C%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Big%20data%20refers%20to%20datasets%20whose%20scale%2C%20speed%2C%20diversity%2C%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-23957",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-23969",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.5%20Artificial%20intelligence%20and%20machine%20learning"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.5%20Artificial%20intelligence%20and%20machine%20learning"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-23969",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-24179",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Unsupervised%20learning%3A%20finds%20structure%20without%20target%20labe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Unsupervised%20learning%3A%20finds%20structure%20without%20target%20labe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-24179",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-24371",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20AI%20is%20broader%20than%20machine%20learning%3B%20deep%20learning%20is%20a%20su"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20AI%20is%20broader%20than%20machine%20learning%3B%20deep%20learning%20is%20a%20su"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-24371",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-29697",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=SECTION%20D%20%E2%80%94%20BIG%20DATA%2C%20AI%2C%20AND%20MACHINE%20LEARNING"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=SECTION%20D%20%E2%80%94%20BIG%20DATA%2C%20AI%2C%20AND%20MACHINE%20LEARNING"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-29697",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-32735",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=BhashaDaan%20datasets%20%E2%86%92%20BHASHINI%20%E2%86%92%20speech%20recognition%2C%20transla"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=BhashaDaan%20datasets%20%E2%86%92%20BHASHINI%20%E2%86%92%20speech%20recognition%2C%20transla"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-32735",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-32758",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%9CMasterCraft%E2%80%9D%20points%20to%20engineering%20automation%2C%20not%20banking%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%9CMasterCraft%E2%80%9D%20points%20to%20engineering%20automation%2C%20not%20banking%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-32758",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-32947",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=ignio%20is%20not%20a%20chatbot%20brand.%20Its%20central%20identity%20is%20cognit"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=ignio%20is%20not%20a%20chatbot%20brand.%20Its%20central%20identity%20is%20cognit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-32947",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-36285",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Robotics."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Robotics."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-36285",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-108",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Laparoscopic%20surgery%20uses%20small%20incisions%20and%20cameras%3B%20rob"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Laparoscopic%20surgery%20uses%20small%20incisions%20and%20cameras%3B%20rob"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-108",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-112",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Expert%20systems"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Expert%20systems"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-112",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-121",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Transformers"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Transformers"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-121",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-123",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Big%20data"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Big%20data"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-123",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-152",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Facial%2C%20fingerprint%20and%20iris%20recognition"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Facial%2C%20fingerprint%20and%20iris%20recognition"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-152",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-166",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20RSA%20and%20Diffie%E2%80%93Hellman"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20RSA%20and%20Diffie%E2%80%93Hellman"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-166",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-247",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Privacy%20laws%20and%20surveillance%20debates"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Privacy%20laws%20and%20surveillance%20debates"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-247",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-250",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20MRI%20and%20robotic%20surgery"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20MRI%20and%20robotic%20surgery"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-250",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-350",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Electric%20and%20autonomous%20vehicles"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Electric%20and%20autonomous%20vehicles"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-350",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-469",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Drones"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Drones"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-469",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-588",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Movement%20of%20a%20robot."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Movement%20of%20a%20robot."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-588",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-806",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20It%20stores%20a%20number%E2%80%99s%20state%20physically%20but%20does%20not%20execute"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20It%20stores%20a%20number%E2%80%99s%20state%20physically%20but%20does%20not%20execute"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-806",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-13976",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Automation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Automation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-05-lib-13976",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" category with the linked topic."
+          },
+          {
+            "topicId": "module-05-lib-16707",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Artificial Intelligence, Data, Cloud, Automation, Robotics and Biometrics\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

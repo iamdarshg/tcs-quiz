@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=10.%20Technology%20Across%20Industries%20and%20Culture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=10.%20Technology%20Across%20Industries%20and%20Culture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-229",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-240",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=10.%20Technology%20Across%20Industries%20and%20Culture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=10.%20Technology%20Across%20Industries%20and%20Culture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-240",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-241",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Music%20and%20streaming"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Music%20and%20streaming"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-241",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-378",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Gaming%20and%20esports"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Gaming%20and%20esports"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-378",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-6276",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Rule%3A%20prioritise%20current%20affairs%20with%20a%20technology%2C%20science%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Rule%3A%20prioritise%20current%20affairs%20with%20a%20technology%2C%20science%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-6276",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-8493",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Digital%20twins%20and%20immersive%20communication."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Digital%20twins%20and%20immersive%20communication."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-8493",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9367",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IoT%20%E2%80%94%20Internet%20of%20Things."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IoT%20%E2%80%94%20Internet%20of%20Things."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9367",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9995",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=109.%20Which%20technology%20used%20in%20item%20trackers%20and%20digital%20car%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=109.%20Which%20technology%20used%20in%20item%20trackers%20and%20digital%20car%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9995",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11078",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20module%20is%20not%20a%20directory%20of%20companies.%20It%20is%20a%20map%20of%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20module%20is%20not%20a%20directory%20of%20companies.%20It%20is%20a%20map%20of%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11078",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11082",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Chang%20previously%20worked%20at%20Texas%20Instruments%20and%20recognised%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Chang%20previously%20worked%20at%20Texas%20Instruments%20and%20recognised%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11082",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11930",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TSMC%E2%80%99s%20advanced%20manufacturing%20role%20makes%20Taiwan%20central%20to%20g"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TSMC%E2%80%99s%20advanced%20manufacturing%20role%20makes%20Taiwan%20central%20to%20g"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11930",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11945",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=32.%20SPOTIFY%20%E2%80%94%20STREAMING%20AND%20THE%20FREEMIUM%20MUSIC%20MODEL"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=32.%20SPOTIFY%20%E2%80%94%20STREAMING%20AND%20THE%20FREEMIUM%20MUSIC%20MODEL"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11945",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12092",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20On-demand%20music%20streaming."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20On-demand%20music%20streaming."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12092",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12100",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Businesses%3A%20Taobao%2C%20Tmall%2C%20Alibaba.com%2C%20AliExpress%2C%20Alibab"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Businesses%3A%20Taobao%2C%20Tmall%2C%20Alibaba.com%2C%20AliExpress%2C%20Alibab"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12100",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12124",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Major%20gaming%20interests%20include%20Riot%20Games%20ownership%20and%20st"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Major%20gaming%20interests%20include%20Riot%20Games%20ownership%20and%20st"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12124",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-15552",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20V%20%E2%80%94%20GAMING%20AND%20INTERACTIVE-ENTERTAINMENT%20COMPANIES"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20V%20%E2%80%94%20GAMING%20AND%20INTERACTIVE-ENTERTAINMENT%20COMPANIES"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-15552",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-15555",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=92.%20Digital%20twins"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=92.%20Digital%20twins"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-15555",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-15566",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20digital%20twin%20is%20a%20digital%20representation%20of%20a%20physical%20ass"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20digital%20twin%20is%20a%20digital%20representation%20of%20a%20physical%20ass"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-15566",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-23105",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20static%203D%20model%20is%20not%20automatically%20a%20digital%20twin.%20A%20twi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20static%203D%20model%20is%20not%20automatically%20a%20digital%20twin.%20A%20twi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-23105",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-25613",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20module%20develops%20the%20IT%20and%20digital-technology%20knowledge"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20module%20develops%20the%20IT%20and%20digital-technology%20knowledge"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-25613",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-28738",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=DigiLocker%20is%20a%20flagship%20digital-document%20platform%20under%20the"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=DigiLocker%20is%20a%20flagship%20digital-document%20platform%20under%20the"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-28738",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-30917",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=CoWIN%20%E2%80%94%20Government%20of%20India%20health%20and%20digital-technology%20ec"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=CoWIN%20%E2%80%94%20Government%20of%20India%20health%20and%20digital-technology%20ec"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-30917",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-30960",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Tata%20story%20is%20unusually%20rich%20quiz%20material%20because%20it%20li"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Tata%20story%20is%20unusually%20rich%20quiz%20material%20because%20it%20li"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-30960",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-31126",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20TwinX%20%E2%86%92%20digital%20twins%20and%20simulation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20TwinX%20%E2%86%92%20digital%20twins%20and%20simulation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-31126",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-32605",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Technology%20and%20innovation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Technology%20and%20innovation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-32605",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-32817",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Growth%20in%20digital%20transformation."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Growth%20in%20digital%20transformation."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-32817",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-32923",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20digital%20twin%20is%20a%20virtual%20representation%20of%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20digital%20twin%20is%20a%20virtual%20representation%20of%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-32923",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-33176",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20DigiBOLT%20is%20associated%20with%20low-code%20enterprise%20applicat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20DigiBOLT%20is%20associated%20with%20low-code%20enterprise%20applicat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-33176",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-33261",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Innovation%20and%20current%20technology."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Innovation%20and%20current%20technology."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-33261",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-33288",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20organises%20expertise%20by%20both%20technology%20capability%20and%20cu"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20organises%20expertise%20by%20both%20technology%20capability%20and%20cu"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-33288",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-33483",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Consumer%20digital%20platforms%20and%20e-commerce%20ecosystem."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Consumer%20digital%20platforms%20and%20e-commerce%20ecosystem."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-33483",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-33906",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Digital%20twins%20%E2%86%92%20TwinX."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Digital%20twins%20%E2%86%92%20TwinX."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-33906",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-36069",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=169.%20Which%20TCS%20platform%20creates%20and%20uses%20digital%20twins%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=169.%20Which%20TCS%20platform%20creates%20and%20uses%20digital%20twins%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-36069",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-36199",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20compare%20major%20energy%20technologies%20and%20understand%20the%20roles"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20compare%20major%20energy%20technologies%20and%20understand%20the%20roles"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-36199",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-36300",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Global%20Positioning%20System%20%E2%80%94%20US%20military-led%20satellite%20syst"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Global%20Positioning%20System%20%E2%80%94%20US%20military-led%20satellite%20syst"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-36300",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-36557",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.12%20Genetics%2C%20genomics%20and%20biotechnology"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.12%20Genetics%2C%20genomics%20and%20biotechnology"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-36557",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-36764",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20cold%20chain%20maintains%20required%20temperatures%20from%20factory%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20cold%20chain%20maintains%20required%20temperatures%20from%20factory%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-36764",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.9%20Biotechnology%20and%20synthetic%20biology"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.9%20Biotechnology%20and%20synthetic%20biology"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-78",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Technology%20Companies%2C%20Personalities%2C%20Brands%20and%20Products"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Technology%20Companies%2C%20Personalities%2C%20Brands%20and%20Products"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-78",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-230",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Technology%20Companies%2C%20Personalities%2C%20Brands%20and%20Products"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Technology%20Companies%2C%20Personalities%2C%20Brands%20and%20Products"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-230",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-231",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Study%20how%20technology%20changed%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Study%20how%20technology%20changed%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-231",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-234",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Banking%20and%20fintech"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Banking%20and%20fintech"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-234",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-237",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Agriculture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Agriculture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-237",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-248",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Retail%20and%20e-commerce"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Retail%20and%20e-commerce"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-248",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-249",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20MOOCs%20and%20edtech"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20MOOCs%20and%20edtech"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-249",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-251",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Precision%20agriculture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Precision%20agriculture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-251",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-253",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20CGI%20and%20streaming"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20CGI%20and%20streaming"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-253",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-271",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Wearables%20and%20sports%20analytics"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Wearables%20and%20sports%20analytics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-271",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-366",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Antibiotics"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Antibiotics"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-366",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-373",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Technology%20acquisitions"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Technology%20acquisitions"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-373",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-376",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Technology%20court%20cases"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Technology%20court%20cases"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-376",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-679",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Technology%20at%20major%20sporting%20events"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Technology%20at%20major%20sporting%20events"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-679",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-950",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Musical%20devices."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Musical%20devices."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-950",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-1664",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Musical%20notes."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Musical%20notes."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-1664",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-1867",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Processing%20technology%20matured%20around%20it."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Processing%20technology%20matured%20around%20it."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-1867",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-2155",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Music."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Music."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-2155",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-2162",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MOS%20Technology%206502"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MOS%20Technology%206502"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-2162",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-2235",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Nintendo%20Entertainment%20System%20variants."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Nintendo%20Entertainment%20System%20variants."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-2235",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-2244",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Hobbyist%20culture."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Hobbyist%20culture."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-2244",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-3114",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Processor%20Technology."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Processor%20Technology."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-3114",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-3245",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Online%20gaming."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Online%20gaming."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-3245",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-4406",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Industry."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Industry."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-4406",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-4408",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Online%20gaming."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Online%20gaming."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-4408",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-5177",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Streaming%20protocols."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Streaming%20protocols."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-5177",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-5450",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=.com%2C%20.org%2C%20.net%20and%20newer%20forms%20such%20as%20.app%2C%20.shop%20and%20.te"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=.com%2C%20.org%2C%20.net%20and%20newer%20forms%20such%20as%20.app%2C%20.shop%20and%20.te"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-5450",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-5559",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Its%20name%20is%20commonly%20explained%20as%20%E2%80%9CYet%20Another%20iNDEXer%E2%80%9D.%20It%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Its%20name%20is%20commonly%20explained%20as%20%E2%80%9CYet%20Another%20iNDEXer%E2%80%9D.%20It%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-5559",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-6789",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Streaming"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Streaming"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-6789",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-7643",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Inventory%20and%20logistics."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Inventory%20and%20logistics."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-7643",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9088",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Technology%20Missions"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Technology%20Missions"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9088",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9136",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=19.%20What%20phrase%20describes%20the%20IETF%E2%80%99s%20practical%20culture%20of%20ag"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=19.%20What%20phrase%20describes%20the%20IETF%E2%80%99s%20practical%20culture%20of%20ag"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9136",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9364",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=34.%20What%20technology%20lets%20many%20private%20home%20devices%20share%20a%20p"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=34.%20What%20technology%20lets%20many%20private%20home%20devices%20share%20a%20p"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9364",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9379",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=108.%20Which%20technology%20popularised%20by%20Harald%20Haas%20sends%20data%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=108.%20Which%20technology%20popularised%20by%20Harald%20Haas%20sends%20data%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9379",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9466",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=113.%20What%20technology%20sends%20many%20wavelengths%20through%20one%20fibr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=113.%20What%20technology%20sends%20many%20wavelengths%20through%20one%20fibr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9466",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-9983",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=141.%20Expand%20UMTS%20and%20name%20its%20common%20radio%20technology."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=141.%20Expand%20UMTS%20and%20name%20its%20common%20radio%20technology."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-9983",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-10395",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MODULE%204%20%E2%80%94%20TECHNOLOGY%20COMPANIES%2C%20PERSONALITIES%2C%20BRANDS%20AND%20P"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MODULE%204%20%E2%80%94%20TECHNOLOGY%20COMPANIES%2C%20PERSONALITIES%2C%20BRANDS%20AND%20P"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-10395",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-10396",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Siri%3A%20voice-assistant%20technology."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Siri%3A%20voice-assistant%20technology."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-10396",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-10540",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Beats%20Electronics%3A%20headphones%20and%20streaming%20assets."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Beats%20Electronics%3A%20headphones%20and%20streaming%20assets."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-10540",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-10639",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Stadia%20cloud%20gaming."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Stadia%20cloud%20gaming."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-10639",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-10840",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Logistics%20and%20fulfilment."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Logistics%20and%20fulfilment."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-10840",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-10862",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Manufacturing%20delays%20weakened%20its%20process-technology%20leade"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Manufacturing%20delays%20weakened%20its%20process-technology%20leade"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-10862",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-10957",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Origin%20and%20culture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Origin%20and%20culture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-10957",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11143",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Mascot%20and%20culture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Mascot%20and%20culture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11143",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11150",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Technology%20domains"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Technology%20domains"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11150",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11210",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Wearables."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Wearables."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11210",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11211",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Gaming."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Gaming."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11211",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11229",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Music."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Music."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11229",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11294",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20The%20Walkman%20was%20not%20the%20first%20portable%20audio%20device%2C%20but%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20The%20Walkman%20was%20not%20the%20first%20portable%20audio%20device%2C%20but%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11294",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11411",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Business-model%20innovation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Business-model%20innovation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11411",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11450",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Aggressive%20sales%20culture."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Aggressive%20sales%20culture."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11450",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11576",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Supply%20chains."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Supply%20chains."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11576",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11891",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Ohana%20culture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Ohana%20culture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11891",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11901",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Streaming%20introduced%20later."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Streaming%20introduced%20later."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11901",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-11944",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Streaming."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Streaming."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-11944",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12068",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Technology%20and%20product"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Technology%20and%20product"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12068",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12082",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Core%20innovation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Core%20innovation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12082",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12143",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Musical.ly%20was%20acquired%2C%20not%20independently%20rebranded%20witho"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Musical.ly%20was%20acquired%2C%20not%20independently%20rebranded%20witho"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12143",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12154",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Nintendo%20Entertainment%20System%20or%20Famicom."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Nintendo%20Entertainment%20System%20or%20Famicom."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12154",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12155",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Hiroshi%20Yamauchi%3A%20transformed%20Nintendo%20into%20an%20entertainme"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Hiroshi%20Yamauchi%3A%20transformed%20Nintendo%20into%20an%20entertainme"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12155",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-12249",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Gunpei%20Yokoi%3A%20Game%20%26%20Watch%2C%20Game%20Boy%20and%20lateral%20thinking%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Gunpei%20Yokoi%3A%20Game%20%26%20Watch%2C%20Game%20Boy%20and%20lateral%20thinking%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-12249",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-15",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20The%20crash%20had%20many%20causes%3B%20E.T.%20alone%20did%20not%20destroy%20the%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20The%20crash%20had%20many%20causes%3B%20E.T.%20alone%20did%20not%20destroy%20the%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-10-lib-15",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Technology Across Industries and Culture\" category with the linked topic."
+          },
+          {
+            "topicId": "module-10-lib-229",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Technology Across Industries and Culture\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

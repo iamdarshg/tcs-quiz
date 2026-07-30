@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20module%20follows%20the%20roadmap%20through%20structural%20engineerin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20module%20follows%20the%20roadmap%20through%20structural%20engineerin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-17",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-299",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=12.%20Engineering%2C%20Architecture%2C%20Infrastructure%2C%20Energy%20and%20Cl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=12.%20Engineering%2C%20Architecture%2C%20Infrastructure%2C%20Energy%20and%20Cl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-299",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36025",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=12.%20Engineering%2C%20Architecture%2C%20Infrastructure%2C%20Energy%20and%20Cl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=12.%20Engineering%2C%20Architecture%2C%20Infrastructure%2C%20Energy%20and%20Cl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36025",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-312",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%96%A1%20Distinguish%20hydro%2C%20nuclear%2C%20solar%2C%20wind%2C%20geothermal%20and%20bi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%96%A1%20Distinguish%20hydro%2C%20nuclear%2C%20solar%2C%20wind%2C%20geothermal%20and%20bi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-312",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34934",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Nuclear%2C%20solar%2C%20wind%20and%20hydropower"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Nuclear%2C%20solar%2C%20wind%20and%20hydropower"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34934",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36732",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Coal%2C%20gas%2C%20oil%2C%20nuclear%20heat%20or%20concentrated%20solar%20heat%20can%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Coal%2C%20gas%2C%20oil%2C%20nuclear%20heat%20or%20concentrated%20solar%20heat%20can%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36732",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-315",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20nuclear%20power%20plants%20use%20fission%20today.%20The%20Sun%20u"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20nuclear%20power%20plants%20use%20fission%20today.%20The%20Sun%20u"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-315",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-31493",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Carbon%20capture%20and%20smart%20grids"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Carbon%20capture%20and%20smart%20grids"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-31493",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34227",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Expansion%20into%20thermal%2C%20solar%2C%20wind%2C%20distribution%2C%20electri"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Expansion%20into%20thermal%2C%20solar%2C%20wind%2C%20distribution%2C%20electri"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34227",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34748",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MODULE%2012%20%E2%80%94%20ENGINEERING%20MARVELS%2C%20ENERGY%20SYSTEMS%20%26%20SUSTAINABL"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MODULE%2012%20%E2%80%94%20ENGINEERING%20MARVELS%2C%20ENERGY%20SYSTEMS%20%26%20SUSTAINABL"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34748",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34905",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=British%20engineer%20associated%20with%20the%20Great%20Western%20Railway%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=British%20engineer%20associated%20with%20the%20Great%20Western%20Railway%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34905",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34960",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Smart%20grids%20combine%20sensors%2C%20digital%20communications%2C%20automat"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Smart%20grids%20combine%20sensors%2C%20digital%20communications%2C%20automat"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34960",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35011",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Gas%20turbines%20can%20start%20and%20ramp%20faster%20than%20traditional%20coal"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Gas%20turbines%20can%20start%20and%20ramp%20faster%20than%20traditional%20coal"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35011",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35210",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Fusion%20combines%20light%20nuclei%2C%20such%20as%20isotopes%20of%20hydrogen%2C%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Fusion%20combines%20light%20nuclei%2C%20such%20as%20isotopes%20of%20hydrogen%2C%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35210",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35214",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Grey%20hydrogen%3A%20Usually%20natural%20gas%20without%20carbon%20capture."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Grey%20hydrogen%3A%20Usually%20natural%20gas%20without%20carbon%20capture."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35214",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35255",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Pink%20hydrogen%3A%20Electrolysis%20powered%20by%20nuclear%20energy."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Pink%20hydrogen%3A%20Electrolysis%20powered%20by%20nuclear%20energy."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35255",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35265",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=12.%20CARBON%20CAPTURE%2C%20CLIMATE%20ENGINEERING%20AND%20INDUSTRIAL%20DECAR"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=12.%20CARBON%20CAPTURE%2C%20CLIMATE%20ENGINEERING%20AND%20INDUSTRIAL%20DECAR"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35265",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35474",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Bioenergy%20with%20carbon%20capture%20and%20storage%3A%20Biomass%20absorbs%20C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Bioenergy%20with%20carbon%20capture%20and%20storage%3A%20Biomass%20absorbs%20C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35474",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35583",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Incineration%20can%20reduce%20waste%20volume%20and%20generate%20energy%20but"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Incineration%20can%20reduce%20waste%20volume%20and%20generate%20energy%20but"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35583",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35886",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Solar%20Energy%20Corporation%20of%20India%20%E2%80%94%20renewable%20project%20impl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Solar%20Energy%20Corporation%20of%20India%20%E2%80%94%20renewable%20project%20impl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35886",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36727",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=29.%20What%20is%20hydrogen%20produced%20from%20natural%20gas%20without%20carbo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=29.%20What%20is%20hydrogen%20produced%20from%20natural%20gas%20without%20carbo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36727",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36728",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Fission%20splits%20a%20heavy%20nucleus%20such%20as%20uranium-235%2C%20releasin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Fission%20splits%20a%20heavy%20nucleus%20such%20as%20uranium-235%2C%20releasin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36728",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36733",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Fusion%20combines%20light%20nuclei%2C%20as%20in%20the%20Sun.%20Deuterium-triti"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Fusion%20combines%20light%20nuclei%2C%20as%20in%20the%20Sun.%20Deuterium-triti"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36733",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36738",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.5%20Solar%2C%20wind%20and%20hydro"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.5%20Solar%2C%20wind%20and%20hydro"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36738",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36751",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Variable%20renewables%20require%20grid%20balancing%20through%20transmiss"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Variable%20renewables%20require%20grid%20balancing%20through%20transmiss"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36751",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-37293",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Blue%20hydrogen%3A%20fossil-based%20production%20with%20carbon%20capture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Blue%20hydrogen%3A%20fossil-based%20production%20with%20carbon%20capture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-37293",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-162",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Hydrogen%20is%20an%20energy%20carrier%3B%20green%20hydrogen%20uses%20renewab"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Hydrogen%20is%20an%20energy%20carrier%3B%20green%20hydrogen%20uses%20renewab"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-162",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-306",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20SolarWinds"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20SolarWinds"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-306",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-316",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Dams%2C%20canals%20and%20tunnels"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Dams%2C%20canals%20and%20tunnels"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-316",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-317",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Desalination%20and%20recycling%20technology"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Desalination%20and%20recycling%20technology"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-317",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-684",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Core%20question%20types%3A%20structure-engineer%20matching%2C%20identify%20c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Core%20question%20types%3A%20structure-engineer%20matching%2C%20identify%20c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-684",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-16074",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Chinese%20mechanical%20engineering."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Chinese%20mechanical%20engineering."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-16074",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-20577",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Grid%20of%20labelled%20predicted%20versus%20actual%20values%3A%20confusion"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Grid%20of%20labelled%20predicted%20versus%20actual%20values%3A%20confusion"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-20577",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-20583",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=27.%20SOLARWINDS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=27.%20SOLARWINDS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-20583",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-20939",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=SolarWinds%20is%20a%20software%20company.%20Orion%20is%20a%20network-managem"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=SolarWinds%20is%20a%20software%20company.%20Orion%20is%20a%20network-managem"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-20939",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-21802",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Airlines%2C%20airports%2C%20banks%2C%20broadcasters%2C%20hospitals%2C%20retailer"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Airlines%2C%20airports%2C%20banks%2C%20broadcasters%2C%20hospitals%2C%20retailer"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-21802",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-21890",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20SolarWinds%20is%20the%20company%3B%20Orion%20is%20the%20product%3B%20SUNBURST%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20SolarWinds%20is%20the%20company%3B%20Orion%20is%20the%20product%3B%20SUNBURST%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-21890",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-22106",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2020%20%E2%80%94%20SolarWinds%20campaign%20was%20publicly%20exposed%3B%20Schrems%20II%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2020%20%E2%80%94%20SolarWinds%20campaign%20was%20publicly%20exposed%3B%20Schrems%20II%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-22106",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-22832",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=SolarWinds%20Orion."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=SolarWinds%20Orion."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-22832",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-22835",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=221.%20Which%20network-management%20platform%20was%20compromised%20in%20th"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=221.%20Which%20network-management%20platform%20was%20compromised%20in%20th"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-22835",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-22838",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=222.%20What%20was%20the%20widely%20used%20name%20of%20the%20SolarWinds%20backdoo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=222.%20What%20was%20the%20widely%20used%20name%20of%20the%20SolarWinds%20backdoo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-22838",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-27296",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=223.%20Which%20security%20company%E2%80%99s%20investigation%20helped%20expose%20So"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=223.%20Which%20security%20company%E2%80%99s%20investigation%20helped%20expose%20So"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-27296",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-28476",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Renewable%20energy."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Renewable%20energy."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-28476",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-32909",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Studied%20electrical%20engineering%20in%20India%20before%20graduate%20st"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Studied%20electrical%20engineering%20in%20India%20before%20graduate%20st"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-32909",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34379",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=TCS%20Clever%20Energy%20uses%20data%2C%20IoT%20and%20AI%20to%20manage%20energy%20and"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=TCS%20Clever%20Energy%20uses%20data%2C%20IoT%20and%20AI%20to%20manage%20energy%20and"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34379",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34532",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20tuned%20mass%20damper%20is%20a%20large%20auxiliary%20mass%20designed%20to%20os"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20tuned%20mass%20damper%20is%20a%20large%20auxiliary%20mass%20designed%20to%20os"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34532",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34549",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Atal%20Setu%2C%20Mumbai%20Trans%20Harbour%20Link%3A%20A%20major%20sea%20bridge%20l"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Atal%20Setu%2C%20Mumbai%20Trans%20Harbour%20Link%3A%20A%20major%20sea%20bridge%20l"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34549",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34555",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Tacoma%20Narrows%20Bridge%2C%201940%3A%20Nicknamed%20%E2%80%9CGalloping%20Gertie.%E2%80%9D%20I"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Tacoma%20Narrows%20Bridge%2C%201940%3A%20Nicknamed%20%E2%80%9CGalloping%20Gertie.%E2%80%9D%20I"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34555",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34558",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=I-35W%20Mississippi%20River%20Bridge%2C%202007%3A%20Collapse%20in%20Minneapoli"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=I-35W%20Mississippi%20River%20Bridge%2C%202007%3A%20Collapse%20in%20Minneapoli"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34558",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34568",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Morandi%20Bridge%2C%202018%3A%20Collapse%20in%20Genoa%20intensified%20scrutiny"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Morandi%20Bridge%2C%202018%3A%20Collapse%20in%20Genoa%20intensified%20scrutiny"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34568",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34589",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20TUNNELS%2C%20CANALS%2C%20DAMS%20AND%20TRANSPORT%20MEGAPROJECTS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20TUNNELS%2C%20CANALS%2C%20DAMS%20AND%20TRANSPORT%20MEGAPROJECTS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34589",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34625",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Atal%20Tunnel%3A%20Highway%20tunnel%20beneath%20Rohtang%20Pass%20in%20Himachal"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Atal%20Tunnel%3A%20Highway%20tunnel%20beneath%20Rohtang%20Pass%20in%20Himachal"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34625",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34626",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Three%20Gorges%20Dam%3A%20Massive%20hydroelectric%20project%20on%20the%20Yan"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Three%20Gorges%20Dam%3A%20Massive%20hydroelectric%20project%20on%20the%20Yan"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34626",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34633",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Itaipu%20Dam%3A%20Hydroelectric%20project%20on%20the%20Paran%C3%A1%20River%20betw"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Itaipu%20Dam%3A%20Hydroelectric%20project%20on%20the%20Paran%C3%A1%20River%20betw"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34633",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34650",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.5%20Railways%20and%20metros"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.5%20Railways%20and%20metros"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34650",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34652",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20First%20metro%20railway%20in%20India%3A%20Kolkata%20Metro."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20First%20metro%20railway%20in%20India%3A%20Kolkata%20Metro."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34652",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34653",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Konkan%20Railway%3A%20Major%20engineering%20achievement%20across%20diffi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Konkan%20Railway%3A%20Major%20engineering%20achievement%20across%20diffi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34653",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34673",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Chenab%20Rail%20Bridge%3A%20Steel%20arch%20railway%20bridge%20over%20the%20Che"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Chenab%20Rail%20Bridge%3A%20Steel%20arch%20railway%20bridge%20over%20the%20Che"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34673",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34756",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=As%20buildings%20rise%2C%20wind%20effects%20become%20more%20important.%20Engin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=As%20buildings%20rise%2C%20wind%20effects%20become%20more%20important.%20Engin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34756",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34764",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Often%20called%20the%20father%20of%20civil%20engineering.%20Designed%20the%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Often%20called%20the%20father%20of%20civil%20engineering.%20Designed%20the%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34764",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34825",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Railway%20and%20civil%20engineer%2C%20son%20of%20George%20Stephenson.%20Associ"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Railway%20and%20civil%20engineer%2C%20son%20of%20George%20Stephenson.%20Associ"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34825",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34902",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Father%20of%20civil%20engineering%20%E2%86%92%20John%20Smeaton"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Father%20of%20civil%20engineering%20%E2%86%92%20John%20Smeaton"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34902",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34914",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.6%20Smart%20grids"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.6%20Smart%20grids"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34914",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34920",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Virtual%20power%20plant%3A%20Aggregates%20distributed%20resources%20such%20a"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Virtual%20power%20plant%3A%20Aggregates%20distributed%20resources%20such%20a"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34920",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34975",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=High-voltage%20direct%20current%20transmission%20is%20useful%20for%20very%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=High-voltage%20direct%20current%20transmission%20is%20useful%20for%20very%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34975",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35008",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Pumped-storage%20hydropower%20moves%20water%20uphill%20when%20electricit"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Pumped-storage%20hydropower%20moves%20water%20uphill%20when%20electricit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35008",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35033",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=9.6%20Nuclear%20fusion"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=9.6%20Nuclear%20fusion"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35033",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35055",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=An%20inverter%20converts%20solar-panel%20DC%20into%20AC%20suitable%20for%20the"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=An%20inverter%20converts%20solar-panel%20DC%20into%20AC%20suitable%20for%20the"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35055",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35076",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Betz%E2%80%99s%20law%20states%20that%20no%20ideal%20wind%20turbine%20can%20capture%20mor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Betz%E2%80%99s%20law%20states%20that%20no%20ideal%20wind%20turbine%20can%20capture%20mor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35076",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35206",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Biomass%20energy%20uses%20organic%20material.%20Anaerobic%20digestion%20pr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Biomass%20energy%20uses%20organic%20material.%20Anaerobic%20digestion%20pr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35206",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35211",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Hydrogen%20is%20an%20energy%20carrier%2C%20not%20a%20primary%20energy%20source.%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Hydrogen%20is%20an%20energy%20carrier%2C%20not%20a%20primary%20energy%20source.%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35211",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35212",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Blue%20hydrogen%3A%20Fossil-based%20production%20with%20carbon%20capture"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Blue%20hydrogen%3A%20Fossil-based%20production%20with%20carbon%20capture"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35212",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35213",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Green%20hydrogen%3A%20Electrolysis%20powered%20by%20renewable%20electric"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Green%20hydrogen%3A%20Electrolysis%20powered%20by%20renewable%20electric"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35213",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35299",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Brown%20or%20black%20hydrogen%3A%20Coal-based%20production."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Brown%20or%20black%20hydrogen%3A%20Coal-based%20production."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35299",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35308",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Carbon%20capture%3A%20Can%20reduce%20emissions%20from%20some%20conventional%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Carbon%20capture%3A%20Can%20reduce%20emissions%20from%20some%20conventional%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35308",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35312",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Examples%20studied%20under%20solar%20radiation%20modification%20include%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Examples%20studied%20under%20solar%20radiation%20modification%20include%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35312",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35421",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=13.%20WATER%20ENGINEERING%20AND%20DESALINATION"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=13.%20WATER%20ENGINEERING%20AND%20DESALINATION"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35421",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35439",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Aluminium%20recycling%20uses%20far%20less%20energy%20than%20producing%20prim"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Aluminium%20recycling%20uses%20far%20less%20energy%20than%20producing%20prim"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35439",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35542",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Mechanical%20recycling%20sorts%2C%20cleans%2C%20melts%20and%20reforms%20plasti"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Mechanical%20recycling%20sorts%2C%20cleans%2C%20melts%20and%20reforms%20plasti"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35542",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35572",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=16.%20INDIA%20ENGINEERING%20AND%20ENERGY%20MASTER%20LIST"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=16.%20INDIA%20ENGINEERING%20AND%20ENERGY%20MASTER%20LIST"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35572",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35579",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Kolkata%20Metro%20%E2%80%94%20India%E2%80%99s%20first%20metro%20railway"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Kolkata%20Metro%20%E2%80%94%20India%E2%80%99s%20first%20metro%20railway"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35579",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35581",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Power%20Grid%20Corporation%20of%20India%20%E2%80%94%20interstate%20transmission"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Power%20Grid%20Corporation%20of%20India%20%E2%80%94%20interstate%20transmission"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35581",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35686",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20NPCIL%20%E2%80%94%20nuclear%20power%20plant%20operation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20NPCIL%20%E2%80%94%20nuclear%20power%20plant%20operation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35686",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35690",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Both%20are%20energy%20carriers.%20Electricity%20moves%20through%20conducto"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Both%20are%20energy%20carriers.%20Electricity%20moves%20through%20conducto"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35690",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35744",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Reuse%20preserves%20more%20of%20the%20existing%20product%20and%20often%20saves"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Reuse%20preserves%20more%20of%20the%20existing%20product%20and%20often%20saves"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35744",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35745",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=27.%20Pumped%20hydro%20stores%20energy%20by%20moving%20water%20uphill."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=27.%20Pumped%20hydro%20stores%20energy%20by%20moving%20water%20uphill."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35745",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35754",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=28.%20A%20tokamak%20is%20a%20toroidal%20magnetic-confinement%20fusion%20devi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=28.%20A%20tokamak%20is%20a%20toroidal%20magnetic-confinement%20fusion%20devi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35754",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35755",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=37.%20Green%20hydrogen%20is%20produced%20by%20renewable-powered%20electrol"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=37.%20Green%20hydrogen%20is%20produced%20by%20renewable-powered%20electrol"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35755",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35836",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=38.%20Grey%20hydrogen%20is%20usually%20fossil-derived%20without%20carbon%20c"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=38.%20Grey%20hydrogen%20is%20usually%20fossil-derived%20without%20carbon%20c"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35836",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35868",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%9CMetro%20Man%E2%80%9D%20%E2%86%92%20%E2%80%9CKonkan%20Railway%E2%80%9D%20%E2%86%92%20%E2%80%9CDelhi%20Metro%E2%80%9D"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%9CMetro%20Man%E2%80%9D%20%E2%86%92%20%E2%80%9CKonkan%20Railway%E2%80%9D%20%E2%86%92%20%E2%80%9CDelhi%20Metro%E2%80%9D"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35868",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35877",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=11.%20Who%20is%20known%20as%20the%20father%20of%20civil%20engineering%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=11.%20Who%20is%20known%20as%20the%20father%20of%20civil%20engineering%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35877",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35885",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=20.%20What%20is%20the%20theoretical%20maximum%20fraction%20of%20wind%20energy%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=20.%20What%20is%20the%20theoretical%20maximum%20fraction%20of%20wind%20energy%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35885",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35921",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=28.%20What%20colour%20label%20is%20normally%20used%20for%20renewable-powered"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=28.%20What%20colour%20label%20is%20normally%20used%20for%20renewable-powered"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35921",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35926",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20Father%20of%20civil%20engineering"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20Father%20of%20civil%20engineering"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35926",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35955",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=10.%20Delhi%20Metro%20and%20Konkan%20Railway"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=10.%20Delhi%20Metro%20and%20Konkan%20Railway"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35955",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35959",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Assertion%3A%20High-voltage%20transmission%20reduces%20energy%20loss."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Assertion%3A%20High-voltage%20transmission%20reduces%20energy%20loss."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35959",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35976",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Assertion%3A%20Pumped-storage%20hydropower%20is%20a%20net%20source%20of%20p"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Assertion%3A%20Pumped-storage%20hydropower%20is%20a%20net%20source%20of%20p"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35976",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-35986",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Reason%3A%20Recycling%20often%20requires%20reprocessing%20energy%20and%20may"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Reason%3A%20Recycling%20often%20requires%20reprocessing%20energy%20and%20may"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-35986",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-36004",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=5.%20Connect%20E.%20Sreedharan%2C%20the%20Konkan%20Railway%20and%20Delhi%20Metro"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=5.%20Connect%20E.%20Sreedharan%2C%20the%20Konkan%20Railway%20and%20Delhi%20Metro"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-36004",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-34237",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.%20Pyrometallurgy%2C%20hydrometallurgy%2C%20direct%20recycling%2C%20electr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.%20Pyrometallurgy%2C%20hydrometallurgy%2C%20direct%20recycling%2C%20electr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-12-lib-34237",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-12-lib-17",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Engineering, Architecture, Infrastructure, Energy and Climate Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

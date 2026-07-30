@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=SpaceX%E2%80%99s%20LEO%20broadband%20constellation.%20Uses%20large%20numbers%20of%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=SpaceX%E2%80%99s%20LEO%20broadband%20constellation.%20Uses%20large%20numbers%20of%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-356",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36681",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Core%20question%20types%3A%20mission-purpose%20matching%2C%20launch%20vehicl"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Core%20question%20types%3A%20mission-purpose%20matching%2C%20launch%20vehicl"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36681",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36720",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Indian%20Space%20Research%20Organisation%2C%20ISRO%20%E2%80%94%20Space%20launch%2C%20s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Indian%20Space%20Research%20Organisation%2C%20ISRO%20%E2%80%94%20Space%20launch%2C%20s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36720",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36724",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201990%3A%20Hubble%20Space%20Telescope%20launched."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201990%3A%20Hubble%20Space%20Telescope%20launched."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36724",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36934",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202021%3A%20James%20Webb%20Space%20Telescope%20launched%3B%20first%20full-colo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202021%3A%20James%20Webb%20Space%20Telescope%20launched%3B%20first%20full-colo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36934",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36939",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201990%20%E2%80%94%20Hubble%20Space%20Telescope%20launched."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201990%20%E2%80%94%20Hubble%20Space%20Telescope%20launched."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36939",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-18",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202021%20%E2%80%94%20James%20Webb%20Space%20Telescope%20launches."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202021%20%E2%80%94%20James%20Webb%20Space%20Telescope%20launches."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-18",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-72",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=13.%20Space%2C%20Satellites%2C%20Defence%20and%20Frontier%20Technology"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=13.%20Space%2C%20Satellites%2C%20Defence%20and%20Frontier%20Technology"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-72",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-321",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20GPS%2C%20NavIC%20and%20satellite%20internet"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20GPS%2C%20NavIC%20and%20satellite%20internet"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-321",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-8154",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=13.%20Space%2C%20Satellites%2C%20Defence%20and%20Frontier%20Technology"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=13.%20Space%2C%20Satellites%2C%20Defence%20and%20Frontier%20Technology"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-8154",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-8689",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Ariane%20Passenger%20Payload%20Experiment%20was%20India%E2%80%99s%20first%20experi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Ariane%20Passenger%20Payload%20Experiment%20was%20India%E2%80%99s%20first%20experi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-8689",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-8945",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Geostationary%20versus%20LEO%20orbit%20diagram."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Geostationary%20versus%20LEO%20orbit%20diagram."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-8945",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-9391",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=GEO%20versus%20LEO%20satellite"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=GEO%20versus%20LEO%20satellite"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-9391",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36202",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=117.%20Compare%20GEO%20and%20LEO%20satellite%20systems%20in%20altitude%2C%20appa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=117.%20Compare%20GEO%20and%20LEO%20satellite%20systems%20in%20altitude%2C%20appa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36202",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36533",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Galileo%20improved%20and%20used%20the%20telescope%20for%20astronomy%3B%20he%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Galileo%20improved%20and%20used%20the%20telescope%20for%20astronomy%3B%20he%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36533",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36650",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Military-to-civilian%20spillovers%20include%20radar%20weather%20monito"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Military-to-civilian%20spillovers%20include%20radar%20weather%20monito"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36650",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36659",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201980%20%E2%80%94%20Rohini%20satellite%20placed%20in%20orbit%20by%20SLV-3%2C%20making%20I"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201980%20%E2%80%94%20Rohini%20satellite%20placed%20in%20orbit%20by%20SLV-3%2C%20making%20I"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36659",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36661",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20Chandrayaan-1%20was%20an%20orbiter%2Fimpact-probe%20mission"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20Chandrayaan-1%20was%20an%20orbiter%2Fimpact-probe%20mission"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36661",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36663",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A.P.J.%20Abdul%20Kalam%20worked%20on%20India%E2%80%99s%20space%20launch%20and%20missil"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A.P.J.%20Abdul%20Kalam%20worked%20on%20India%E2%80%99s%20space%20launch%20and%20missil"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36663",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36682",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20he%20was%20an%20aerospace%20scientist%20and%20programme%20leade"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20he%20was%20an%20aerospace%20scientist%20and%20programme%20leade"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36682",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36705",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Defence%20Research%20and%20Development%20Organisation%2C%20DRDO%20%E2%80%94%20Defe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Defence%20Research%20and%20Development%20Organisation%2C%20DRDO%20%E2%80%94%20Defe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36705",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36707",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Low%20Earth%20orbit%2C%20LEO%3A%20roughly%20a%20few%20hundred%20to%20about%202%2C000"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Low%20Earth%20orbit%2C%20LEO%3A%20roughly%20a%20few%20hundred%20to%20about%202%2C000"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36707",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36710",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Geostationary%20orbit%2C%20GEO%3A%20circular%20equatorial%20orbit%20about%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Geostationary%20orbit%2C%20GEO%3A%20circular%20equatorial%20orbit%20about%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36710",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36711",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Lagrange%20points%3A%20positions%20where%20gravitational%20and%20orbital"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Lagrange%20points%3A%20positions%20where%20gravitational%20and%20orbital"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36711",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-37145",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Quiz%20trap%3A%20geostationary%20is%20a%20special%20geosynchronous%20orbit%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Quiz%20trap%3A%20geostationary%20is%20a%20special%20geosynchronous%20orbit%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-37145",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-37290",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=40.%20A%20geostationary%20satellite%20must%20be%20in%20what%20kind%20of%20orbit%3F"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=40.%20A%20geostationary%20satellite%20must%20be%20in%20what%20kind%20of%20orbit%3F"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-37290",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-37333",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20LEO%20%3D%20Earth%20observation%2Fcrew%3B%20MEO%20%3D%20navigation%3B%20GEO%20%3D%20fixe"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20LEO%20%3D%20Earth%20observation%2Fcrew%3B%20MEO%20%3D%20navigation%3B%20GEO%20%3D%20fixe"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-37333",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-330",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Geostationary%20orbit%20%E2%80%94%20Circular%20equatorial%20orbit%20in%20which%20a%20s"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Geostationary%20orbit%20%E2%80%94%20Circular%20equatorial%20orbit%20in%20which%20a%20s"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-330",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-333",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Hubble%20and%20major%20telescopes"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Hubble%20and%20major%20telescopes"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-333",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-348",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20SpaceX%2C%20Blue%20Origin%20and%20private%20spaceflight"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20SpaceX%2C%20Blue%20Origin%20and%20private%20spaceflight"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-348",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-349",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Radar%20and%20sonar"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Radar%20and%20sonar"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-349",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-370",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Missiles"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Missiles"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-370",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1147",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Space%20missions"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Space%20missions"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1147",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-4739",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Dorothy%20Vaughan%20became%20skilled%20in%20FORTRAN%20when%20electronic%20ma"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Dorothy%20Vaughan%20became%20skilled%20in%20FORTRAN%20when%20electronic%20ma"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-4739",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-6501",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20military%20portion%20of%20ARPANET%20separated%20as%20MILNET.%20ARPANET"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20military%20portion%20of%20ARPANET%20separated%20as%20MILNET.%20ARPANET"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-6501",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-7066",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20satellite-phone%20constellation%20was%20named%20after%20element%2077"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20satellite-phone%20constellation%20was%20named%20after%20element%2077"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-7066",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-7071",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=GEO%20%E2%80%94%20Geostationary%20Earth%20Orbit"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=GEO%20%E2%80%94%20Geostationary%20Earth%20Orbit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-7071",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-7074",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Between%20low%20and%20geostationary%20orbits.%20Navigation%20constellati"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Between%20low%20and%20geostationary%20orbits.%20Navigation%20constellati"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-7074",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-7085",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=LEO%20%E2%80%94%20Low%20Earth%20Orbit"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=LEO%20%E2%80%94%20Low%20Earth%20Orbit"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-7085",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-7112",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20GEO%20signal%20travels%20tens%20of%20thousands%20of%20kilometres%20up%20and%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20GEO%20signal%20travels%20tens%20of%20thousands%20of%20kilometres%20up%20and%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-7112",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-9382",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=LEO%20voice%20and%20data%20constellation%20with%20inter-satellite%20links."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=LEO%20voice%20and%20data%20constellation%20with%20inter-satellite%20links."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-9382",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-9691",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=114.%20Do%20satellites%20or%20submarine%20cables%20carry%20most%20interconti"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=114.%20Do%20satellites%20or%20submarine%20cables%20carry%20most%20interconti"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-9691",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-9861",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=214.%20Connect%20these%20clues%3A%20a%20bullock%20cart%2C%20electromagnetic%20in"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=214.%20Connect%20these%20clues%3A%20a%20bullock%20cart%2C%20electromagnetic%20in"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-9861",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-10640",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=117.%20GEO%20is%20high%20and%20appears%20fixed%20with%20greater%20latency%3B%20LEO"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=117.%20GEO%20is%20high%20and%20appears%20fixed%20with%20greater%20latency%3B%20LEO"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-10640",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-12772",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Project%20Kuiper%2C%20subsequently%20branded%20Amazon%20Leo%20for%20satell"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Project%20Kuiper%2C%20subsequently%20branded%20Amazon%20Leo%20for%20satell"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-12772",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-31798",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20SpaceX."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20SpaceX."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-31798",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-31805",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Tata%20Advanced%20Systems%20is%20a%20major%20aerospace%20and%20defence%20compa"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Tata%20Advanced%20Systems%20is%20a%20major%20aerospace%20and%20defence%20compa"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-31805",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-33292",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Missiles%20and%20launch%20systems."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Missiles%20and%20launch%20systems."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-33292",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-33699",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Aerospace%20and%20defence%20manufacturing%20and%20systems."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Aerospace%20and%20defence%20manufacturing%20and%20systems."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-33699",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-33832",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Aerospace%20and%20defence%20manufacturing%20%E2%86%92%20Tata%20Advanced%20System"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Aerospace%20and%20defence%20manufacturing%20%E2%86%92%20Tata%20Advanced%20System"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-33832",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-34352",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=95.%20Which%20Tata%20company%20works%20in%20aerospace%20and%20defence%20system"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=95.%20Which%20Tata%20company%20works%20in%20aerospace%20and%20defence%20system"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-34352",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-34796",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20dome%20is%20essentially%20an%20arch%20rotated%20around%20a%20vertical%20axis"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20dome%20is%20essentially%20an%20arch%20rotated%20around%20a%20vertical%20axis"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-34796",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-35741",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Architect%2C%20designer%20and%20futurist%20who%20popularized%20the%20geodesi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Architect%2C%20designer%20and%20futurist%20who%20popularized%20the%20geodesi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-35741",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36109",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=24.%20HVDC%20is%20valuable%20for%20long-distance%20and%20submarine%20transmi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=24.%20HVDC%20is%20valuable%20for%20long-distance%20and%20submarine%20transmi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36109",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36116",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Why%20it%20mattered%3A%20the%20same%20mathematical%20rules%20could%20explain%20f"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Why%20it%20mattered%3A%20the%20same%20mathematical%20rules%20could%20explain%20f"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36116",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36357",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Relativistic%20corrections%20are%20necessary%20for%20technologies%20su"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Relativistic%20corrections%20are%20necessary%20for%20technologies%20su"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36357",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36468",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20astronomy%20and%20satellite%20positioning%3B"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20astronomy%20and%20satellite%20positioning%3B"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36468",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36491",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Impact%3A%20transformed%20space%2C%20time%2C%20gravity%2C%20quantum%20theory%20and"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Impact%3A%20transformed%20space%2C%20time%2C%20gravity%2C%20quantum%20theory%20and"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36491",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36571",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Katherine%20Johnson%20%E2%80%94%20NASA%20mathematician%20whose%20trajectory%20ca"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Katherine%20Johnson%20%E2%80%94%20NASA%20mathematician%20whose%20trajectory%20ca"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36571",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36652",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Low-cost%20satellite%20missions."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Low-cost%20satellite%20missions."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36652",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36654",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201988%20onward%20%E2%80%94%20IRS%20satellites%20strengthened%20remote%20sensing."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201988%20onward%20%E2%80%94%20IRS%20satellites%20strengthened%20remote%20sensing."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36654",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36655",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202013%E2%80%932014%20%E2%80%94%20Mars%20Orbiter%20Mission%20launched%20in%202013%20and%20ente"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202013%E2%80%932014%20%E2%80%94%20Mars%20Orbiter%20Mission%20launched%20in%202013%20and%20ente"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36655",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36656",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202017%20%E2%80%94%20PSLV-C37%20launched%20104%20satellites%20in%20one%20mission%2C%20th"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202017%20%E2%80%94%20PSLV-C37%20launched%20104%20satellites%20in%20one%20mission%2C%20th"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36656",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36698",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202019%20%E2%80%94%20Chandrayaan-2%20orbiter%20succeeded%3B%20the%20Vikram%20lander%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202019%20%E2%80%94%20Chandrayaan-2%20orbiter%20succeeded%3B%20the%20Vikram%20lander%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36698",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36699",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20rocket%20moves%20forward%20by%20expelling%20mass%20backward%2C%20consisten"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20rocket%20moves%20forward%20by%20expelling%20mass%20backward%2C%20consisten"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36699",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36704",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Konstantin%20Tsiolkovsky%20developed%20the%20rocket%20equation%20and%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Konstantin%20Tsiolkovsky%20developed%20the%20rocket%20equation%20and%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36704",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36706",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=7.2%20Satellite%20orbits"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=7.2%20Satellite%20orbits"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36706",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36716",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Medium%20Earth%20orbit%2C%20MEO%3A%20navigation%20constellations%20such%20as"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Medium%20Earth%20orbit%2C%20MEO%3A%20navigation%20constellations%20such%20as"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36716",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36721",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201965%3A%20Alexei%20Leonov%2C%20first%20spacewalk."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201965%3A%20Alexei%20Leonov%2C%20first%20spacewalk."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36721",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36725",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%201998%3A%20construction%20of%20the%20International%20Space%20Station%20bega"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%201998%3A%20construction%20of%20the%20International%20Space%20Station%20bega"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36725",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36788",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202023%3A%20Chandrayaan-3%20lunar%20landing%20and%20OSIRIS-REx%20return%20of"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202023%3A%20Chandrayaan-3%20lunar%20landing%20and%20OSIRIS-REx%20return%20of"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36788",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-36938",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Geostationary%20is%20a%20special%20type%20of%20geosynchronous%20orbit."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Geostationary%20is%20a%20special%20type%20of%20geosynchronous%20orbit."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-36938",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-37243",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%202014%20%E2%80%94%20Mars%20Orbiter%20Mission%20enters%20Mars%20orbit."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%202014%20%E2%80%94%20Mars%20Orbiter%20Mission%20enters%20Mars%20orbit."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-37243",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-37363",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=40.%20A%20%E2%80%94%20Geostationary%20orbit%20is%20circular%2C%20equatorial%20and%20sync"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=40.%20A%20%E2%80%94%20Geostationary%20orbit%20is%20circular%2C%20equatorial%20and%20sync"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-37363",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-323",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Satellite%20%E2%80%94%20Object%20placed%20in%20orbit%20around%20a%20celestial%20body."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Satellite%20%E2%80%94%20Object%20placed%20in%20orbit%20around%20a%20celestial%20body."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-323",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-328",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Global%20space"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Global%20space"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-328",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-329",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Space%20Shuttle"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Space%20Shuttle"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-329",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-331",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Space%20stations"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Space%20stations"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-331",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-332",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Mars%20and%20planetary%20missions"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Mars%20and%20planetary%20missions"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-332",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-344",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Reusable%20rockets"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Reusable%20rockets"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-344",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-347",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Gaganyaan"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Gaganyaan"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-347",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-351",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Defence%20and%20frontier%20systems"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Defence%20and%20frontier%20systems"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-351",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-354",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Stealth"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Stealth"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-354",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-355",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Satellite%20applications"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Satellite%20applications"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-355",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-534",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Space%20debris"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Space%20debris"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-534",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-982",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=LEO%20I"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=LEO%20I"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-982",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-983",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=25.%20George%20Boole"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=25.%20George%20Boole"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-983",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1118",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=English%20mathematician%20George%20Boole%20developed%20a%20mathematical%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=English%20mathematician%20George%20Boole%20developed%20a%20mathematical%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1118",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1124",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Astronomy."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Astronomy."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1124",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1142",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Spaceflight."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Spaceflight."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1142",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1249",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Women%20calculated%20aeronautical%20and%20spaceflight%20data."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Women%20calculated%20aeronautical%20and%20spaceflight%20data."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1249",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1455",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=36.%20George%20Stibitz%20and%20Bell%20Labs"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=36.%20George%20Stibitz%20and%20Bell%20Labs"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1455",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1598",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Used%20for%20several%20later%20scientific%20and%20military%20calculation"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Used%20for%20several%20later%20scientific%20and%20military%20calculation"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1598",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-1601",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=59.%20LEO%20I"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=59.%20LEO%20I"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-1601",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-2012",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=LEO%20stands%20for%3A"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=LEO%20stands%20for%3A"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-2012",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-2029",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=85.%20Spacewar!"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=85.%20Spacewar!"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-2029",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-2131",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Spacewar!%20is%20not%20necessarily%20the%20first%20electronic%20game%20of%20ev"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Spacewar!%20is%20not%20necessarily%20the%20first%20electronic%20game%20of%20ev"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-2131",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-3105",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Which%20company%20commissioned%20it%3F%20Busicom."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Which%20company%20commissioned%20it%3F%20Busicom."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-3105",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-3217",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Missing%20a%20deadline%20may%20be%20catastrophic."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Missing%20a%20deadline%20may%20be%20catastrophic."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-3217",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-7120",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Full-scale%20TIFRAC%20was%20commissioned%20in%20February%201960."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Full-scale%20TIFRAC%20was%20commissioned%20in%20February%201960."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-13-lib-7120",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Space, Satellites, Defence and Frontier Technology\" category with the linked topic."
+          },
+          {
+            "topicId": "module-13-lib-356",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Space, Satellites, Defence and Frontier Technology\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],

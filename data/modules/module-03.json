@@ -239,8 +239,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Connects%20wireless%20devices%20to%20a%20wired%20network.%20A%20domestic%20%E2%80%9CWi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Connects%20wireless%20devices%20to%20a%20wired%20network.%20A%20domestic%20%E2%80%9CWi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8992",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4733",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -256,8 +276,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Put%20telegraph%2C%20telephone%2C%20radio%2C%20packet%20switching%2C%20ARPANET"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Put%20telegraph%2C%20telephone%2C%20radio%2C%20packet%20switching%2C%20ARPANET"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4733",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -273,8 +313,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=ARPANET%E2%80%99s%20hosts%20were%20required%20to%20switch%20from%20NCP%20to%20TCP%2FIP%20o"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=ARPANET%E2%80%99s%20hosts%20were%20required%20to%20switch%20from%20NCP%20to%20TCP%2FIP%20o"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-54",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -290,8 +350,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Internet%2C%20Web%2C%20Networking%2C%20Telecom%20and%20Mobile"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Internet%2C%20Web%2C%20Networking%2C%20Telecom%20and%20Mobile"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-54",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3868",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -307,8 +387,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Internet%2C%20Web%2C%20Networking%2C%20Telecom%20and%20Mobile"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Internet%2C%20Web%2C%20Networking%2C%20Telecom%20and%20Mobile"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3868",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3887",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -324,8 +424,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=MODULE%203%20%E2%80%94%20INTERNET%2C%20WEB%2C%20NETWORKING%2C%20TELECOM%20AND%20MOBILE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=MODULE%203%20%E2%80%94%20INTERNET%2C%20WEB%2C%20NETWORKING%2C%20TELECOM%20AND%20MOBILE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3887",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4169",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -341,8 +461,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=2.%20Computers%20learned%20to%20communicate%3A%20time-sharing%2C%20packet%20sw"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=2.%20Computers%20learned%20to%20communicate%3A%20time-sharing%2C%20packet%20sw"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4169",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8423",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -358,8 +498,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Acts%20as%20an%20intermediary.%20A%20forward%20proxy%20represents%20clients%3B"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Acts%20as%20an%20intermediary.%20A%20forward%20proxy%20represents%20clients%3B"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8423",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8827",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -375,8 +535,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1990%20%E2%80%94%20First%20Web%20server%20and%20browser%3B%20ARPANET%20decommissioned."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1990%20%E2%80%94%20First%20Web%20server%20and%20browser%3B%20ARPANET%20decommissioned."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8827",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-9085",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -392,8 +572,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Paul%20Baran%20%2B%20Donald%20Davies%20%E2%86%92%20packet%20switching%20%E2%86%92%20ARPANET%2FNPL%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Paul%20Baran%20%2B%20Donald%20Davies%20%E2%86%92%20packet%20switching%20%E2%86%92%20ARPANET%2FNPL%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-9085",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-19503",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -409,8 +609,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=18.%20Match%20the%20institution%20to%20its%20role%3A%20IETF%2C%20ICANN%2C%20W3C%2C%20ITU"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=18.%20Match%20the%20institution%20to%20its%20role%3A%20IETF%2C%20ICANN%2C%20W3C%2C%20ITU"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-19503",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-20902",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -426,8 +646,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20Web%20Application%20Firewall%20filters%20HTTP%2FHTTPS%20traffic%20to%20pro"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20Web%20Application%20Firewall%20filters%20HTTP%2FHTTPS%20traffic%20to%20pro"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-20902",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-23689",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -443,8 +683,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20maintenance%20update%20in%20the%20core%20network%20caused%20a%20nationwide"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20maintenance%20update%20in%20the%20core%20network%20caused%20a%20nationwide"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-23689",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3889",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -460,8 +720,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20DHCP%20automatically%20supplies%20network%20configuration%20such%20as%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20DHCP%20automatically%20supplies%20network%20configuration%20such%20as%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3889",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3915",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -477,8 +757,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=4.%20Connectivity%20became%20personal%20and%20wireless%3A%20cellular%20netwo"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=4.%20Connectivity%20became%20personal%20and%20wireless%3A%20cellular%20netwo"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3915",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4427",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -494,8 +794,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Internet%20is%20the%20global%20network%20of%20networks%20that%20moves%20da"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Internet%20is%20the%20global%20network%20of%20networks%20that%20moves%20da"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4427",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4520",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -511,8 +831,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=DHCP%20automatically%20supplies%20devices%20with%20configuration%20such%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=DHCP%20automatically%20supplies%20devices%20with%20configuration%20such%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4520",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4663",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -528,8 +868,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=WebSocket%20establishes%20persistent%2C%20two-way%20communication%20betw"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=WebSocket%20establishes%20persistent%2C%20two-way%20communication%20betw"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4663",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4727",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -545,8 +905,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=ARPANET%20initially%20used%20the%20Network%20Control%20Protocol%2C%20or%20NCP%2C"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=ARPANET%20initially%20used%20the%20Network%20Control%20Protocol%2C%20or%20NCP%2C"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4727",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4745",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -562,8 +942,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=In%201977%2C%20a%20celebrated%20demonstration%20linked%20packet%20radio%2C%20ARP"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=In%201977%2C%20a%20celebrated%20demonstration%20linked%20packet%20radio%2C%20ARP"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4745",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4821",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -579,8 +979,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20United%20States%20National%20Science%20Foundation%20funded%20superco"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20United%20States%20National%20Science%20Foundation%20funded%20superco"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4821",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4945",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -596,8 +1016,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Founded%20by%20Tim%20Berners-Lee%20in%201994%20to%20develop%20open%20Web%20stand"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Founded%20by%20Tim%20Berners-Lee%20in%201994%20to%20develop%20open%20Web%20stand"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4945",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4948",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -613,8 +1053,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20first%20Web%20server%20and%20browser"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20first%20Web%20server%20and%20browser"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4948",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4957",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -630,8 +1090,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Berners-Lee%20developed%20the%20first%20server%2C%20called%20httpd%2C%20and%20th"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Berners-Lee%20developed%20the%20first%20server%2C%20called%20httpd%2C%20and%20th"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4957",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5260",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -647,8 +1127,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20first%20site%20was%20hosted%20at%20CERN%20and%20explained%20what%20the%20Wor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20first%20site%20was%20hosted%20at%20CERN%20and%20explained%20what%20the%20Wor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5260",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5363",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -664,8 +1164,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=AJAX%20means%20Asynchronous%20JavaScript%20and%20XML.%20Jesse%20James%20Garr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=AJAX%20means%20Asynchronous%20JavaScript%20and%20XML.%20Jesse%20James%20Garr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5363",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6152",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -681,8 +1201,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Opera%20originated%20at%20Norwegian%20telecom%20company%20Telenor%20before"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Opera%20originated%20at%20Norwegian%20telecom%20company%20Telenor%20before"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6152",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6343",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -698,8 +1238,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Long%20Term%20Evolution%20was%20developed%20through%203GPP%20as%20an%20all-IP%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Long%20Term%20Evolution%20was%20developed%20through%203GPP%20as%20an%20all-IP%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6343",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-7194",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -715,8 +1275,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Symbian%20OS%20grew%20from%20Psion%E2%80%99s%20EPOC%20and%20became%20the%20leading%20sma"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Symbian%20OS%20grew%20from%20Psion%E2%80%99s%20EPOC%20and%20became%20the%20leading%20sma"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-7194",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-7284",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -732,8 +1312,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20same%20IP%20address%20is%20announced%20from%20multiple%20locations.%20Ro"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20same%20IP%20address%20is%20announced%20from%20multiple%20locations.%20Ro"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-7284",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8418",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -749,8 +1349,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20cache%20stores%20frequently%20needed%20data%20closer%20to%20where%20it%20wil"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20cache%20stores%20frequently%20needed%20data%20closer%20to%20where%20it%20wil"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8418",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8819",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -766,8 +1386,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=1983%20%E2%80%94%20ARPANET%20changes%20to%20TCP%2FIP%20on%20January%201%3B%20commercial%20Dy"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=1983%20%E2%80%94%20ARPANET%20changes%20to%20TCP%2FIP%20on%20January%201%3B%20commercial%20Dy"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8819",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8996",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -783,8 +1423,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Sputnik%20%E2%86%92%20ARPA%20%E2%86%92%20Licklider%20%E2%86%92%20ARPANET%20%E2%86%92%20TCP%2FIP%20%E2%86%92%20Internet."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Sputnik%20%E2%86%92%20ARPA%20%E2%86%92%20Licklider%20%E2%86%92%20ARPANET%20%E2%86%92%20TCP%2FIP%20%E2%86%92%20Internet."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8996",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-9002",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -800,8 +1460,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Distinguish%20a%20hub%2C%20switch%2C%20router%2C%20modem%2C%20gateway%2C%20access%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Distinguish%20a%20hub%2C%20switch%2C%20router%2C%20modem%2C%20gateway%2C%20access%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-9002",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-9055",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -817,8 +1497,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20Explain%20cookies%2C%20AJAX%2C%20JSON%2C%20HTML%2C%20CSS%20and%20JavaScript."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20Explain%20cookies%2C%20AJAX%2C%20JSON%2C%20HTML%2C%20CSS%20and%20JavaScript."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-9055",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-9508",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -834,8 +1534,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.%20Put%20these%20in%20chronological%20order%3A%20the%20Web%20proposal%2C%20the%20f"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.%20Put%20these%20in%20chronological%20order%3A%20the%20Web%20proposal%2C%20the%20f"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-9508",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-9752",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -851,8 +1571,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=155.%20Which%20operating%20system%20grew%20from%20Psion%E2%80%99s%20EPOC%20and%20domin"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=155.%20Which%20operating%20system%20grew%20from%20Psion%E2%80%99s%20EPOC%20and%20domin"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-9752",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-16715",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -868,8 +1608,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=8.%20Shannon%20paper%201948%20%E2%86%92%20first%20ARPANET%20message%201969%20%E2%86%92%20TCP%2FIP%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=8.%20Shannon%20paper%201948%20%E2%86%92%20first%20ARPANET%20message%201969%20%E2%86%92%20TCP%2FIP%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-16715",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-20037",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -885,8 +1645,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=IaaS%20gives%20infrastructure%3B%20PaaS%20gives%20a%20platform%3B%20SaaS%20gives"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=IaaS%20gives%20infrastructure%3B%20PaaS%20gives%20a%20platform%3B%20SaaS%20gives"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-20037",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-24582",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -902,8 +1682,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20fast-spreading%202001%20worm%20whose%20name%20is%20%E2%80%9Cadmin%E2%80%9D%20reversed.%20I"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20fast-spreading%202001%20worm%20whose%20name%20is%20%E2%80%9Cadmin%E2%80%9D%20reversed.%20I"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-24582",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-26653",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -919,8 +1719,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=%E2%80%A2%20DNS%20resolves%20names%3B%20DHCP%20supplies%20network%20configuration%3B%20N"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=%E2%80%A2%20DNS%20resolves%20names%3B%20DHCP%20supplies%20network%20configuration%3B%20N"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-26653",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-62",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -936,8 +1756,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Current-affairs%20questions%20may%20connect%20C-DOT%20with%20indigenous%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Current-affairs%20questions%20may%20connect%20C-DOT%20with%20indigenous%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-62",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-63",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -953,8 +1793,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Tim%20Berners-Lee%20and%20the%20World%20Wide%20Web"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Tim%20Berners-Lee%20and%20the%20World%20Wide%20Web"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-63",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-120",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -970,8 +1830,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20HTML%2C%20HTTP%20and%20URLs"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20HTML%2C%20HTTP%20and%20URLs"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-120",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3091",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -987,8 +1867,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20SaaS%2C%20PaaS%20and%20IaaS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20SaaS%2C%20PaaS%20and%20IaaS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3091",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3646",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1004,8 +1904,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Web%20server."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Web%20server."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3646",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3888",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1021,8 +1941,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=*%20Networking%20and%20the%20World%20Wide%20Web%20expand."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=*%20Networking%20and%20the%20World%20Wide%20Web%20expand."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3888",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-3912",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1038,8 +1978,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=3.%20Information%20became%20browsable%3A%20hypertext%2C%20the%20World%20Wide%20W"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=3.%20Information%20became%20browsable%3A%20hypertext%2C%20the%20World%20Wide%20W"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-3912",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4049",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1055,8 +2015,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20Internet%20and%20the%20World%20Wide%20Web%20are%20not%20synonyms."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20Internet%20and%20the%20World%20Wide%20Web%20are%20not%20synonyms."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4049",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4075",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1072,8 +2052,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Donald%20Davies%20at%20Britain%E2%80%99s%20National%20Physical%20Laboratory%20inde"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Donald%20Davies%20at%20Britain%E2%80%99s%20National%20Physical%20Laboratory%20inde"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4075",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4141",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1089,8 +2089,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20network%20within%20a%20room%2C%20building%2C%20school%2C%20laboratory%20or%20cam"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20network%20within%20a%20room%2C%20building%2C%20school%2C%20laboratory%20or%20cam"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4141",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4149",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1106,8 +2126,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Connects%20network%20segments%20and%20filters%20frames%20using%20hardware%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Connects%20network%20segments%20and%20filters%20frames%20using%20hardware%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4149",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4357",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1123,8 +2163,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Forwards%20packets%20between%20IP%20networks%20using%20routing%20tables.%20R"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Forwards%20packets%20between%20IP%20networks%20using%20routing%20tables.%20R"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4357",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4442",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1140,8 +2200,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=67%2F68%20%E2%80%94%20DHCP%20server%20and%20client."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=67%2F68%20%E2%80%94%20DHCP%20server%20and%20client."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4442",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4532",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1157,8 +2237,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=DNS%20maps%20names%20to%20data%20such%20as%20IP%20addresses.%20It%20is%20a%20distrib"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=DNS%20maps%20names%20to%20data%20such%20as%20IP%20addresses.%20It%20is%20a%20distrib"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4532",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4553",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1174,8 +2274,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=QUIC%20was%20originally%20developed%20at%20Google%20and%20standardised%20thr"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=QUIC%20was%20originally%20developed%20at%20Google%20and%20standardised%20thr"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4553",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4669",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1191,8 +2311,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Modern%20switched%20full-duplex%20Ethernet%20largely%20eliminates%20coll"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Modern%20switched%20full-duplex%20Ethernet%20largely%20eliminates%20coll"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4669",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4681",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1208,8 +2348,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Ray%20Tomlinson%20of%20BBN%20implemented%20network%20email%20across%20ARPANE"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Ray%20Tomlinson%20of%20BBN%20implemented%20network%20email%20across%20ARPANE"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4681",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4709",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1225,8 +2385,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20major%20ARPANET%20demonstration%20occurred%20at%20the%20International%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20major%20ARPANET%20demonstration%20occurred%20at%20the%20International%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4709",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4796",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1242,8 +2422,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=This%20separation%20allowed%20applications%20needing%20speed%20rather%20th"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=This%20separation%20allowed%20applications%20needing%20speed%20rather%20th"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4796",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4924",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1259,8 +2459,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Coordinates%20global%20protocol%20parameters%2C%20IP%20address%20allocatio"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Coordinates%20global%20protocol%20parameters%2C%20IP%20address%20allocatio"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4924",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5001",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1276,8 +2496,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Belgian%20informatics%20engineer%20Robert%20Cailliau%20became%20a%20major%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Belgian%20informatics%20engineer%20Robert%20Cailliau%20became%20a%20major%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5001",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5031",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1293,8 +2533,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=16.%20URLS%2C%20URIS%20AND%20THE%20ANATOMY%20OF%20A%20WEB%20ADDRESS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=16.%20URLS%2C%20URIS%20AND%20THE%20ANATOMY%20OF%20A%20WEB%20ADDRESS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5031",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5058",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1310,8 +2570,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Points%20to%20a%20section%20within%20the%20retrieved%20resource.%20It%20is%20nor"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Points%20to%20a%20section%20within%20the%20retrieved%20resource.%20It%20is%20nor"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5058",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5282",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1327,8 +2607,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Computers%20route%20using%20numerical%20IP%20addresses%2C%20but%20humans%20rem"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Computers%20route%20using%20numerical%20IP%20addresses%2C%20but%20humans%20rem"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5282",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5390",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1344,8 +2644,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Web%20Storage%20provides%20browser-side%20key-value%20storage.%20Unlike%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Web%20Storage%20provides%20browser-side%20key-value%20storage.%20Unlike%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5390",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5532",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1361,8 +2681,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Created%20by%20Alan%20Emtage%20at%20McGill%20University.%20Archie%20indexed%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Created%20by%20Alan%20Emtage%20at%20McGill%20University.%20Archie%20indexed%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5532",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5580",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1378,8 +2718,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Web%202.0%20was%20not%20a%20formal%20new%20version%20of%20HTTP%20or%20HTML."
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Web%202.0%20was%20not%20a%20formal%20new%20version%20of%20HTTP%20or%20HTML."
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5580",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5601",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1395,8 +2755,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Software%20as%20a%20Service%20delivers%20applications%20through%20networks"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Software%20as%20a%20Service%20delivers%20applications%20through%20networks"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5601",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5630",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1412,8 +2792,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=HTTPS%20uses%20TLS%20to%20protect%20traffic%20between%20a%20client%20and%20serve"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=HTTPS%20uses%20TLS%20to%20protect%20traffic%20between%20a%20client%20and%20serve"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5630",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5666",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1429,8 +2829,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20fraudulent%20website%20may%20still%20use%20HTTPS.%20The%20certificate%20sh"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20fraudulent%20website%20may%20still%20use%20HTTPS.%20The%20certificate%20sh"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5666",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5696",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1446,8 +2866,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Cross-Origin%20Resource%20Sharing%20lets%20a%20server%20explicitly%20permi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Cross-Origin%20Resource%20Sharing%20lets%20a%20server%20explicitly%20permi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5696",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5715",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1463,8 +2903,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=W3C%20historically%20published%20HTML%20and%20many%20Web%20standards.%20The%20"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=W3C%20historically%20published%20HTML%20and%20many%20Web%20standards.%20The%20"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5715",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5729",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1480,8 +2940,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Reduces%20local%20history%20and%20cookie%20persistence%20after%20a%20session"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Reduces%20local%20history%20and%20cookie%20persistence%20after%20a%20session"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5729",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5735",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1497,8 +2977,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=PART%20IV%20%E2%80%94%20TELECOMMUNICATIONS%20AND%20MOBILE%20NETWORKS"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=PART%20IV%20%E2%80%94%20TELECOMMUNICATIONS%20AND%20MOBILE%20NETWORKS"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5735",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5738",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1514,8 +3014,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20public%20switched%20telephone%20network"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20public%20switched%20telephone%20network"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5738",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5789",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1531,8 +3051,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=The%20PSTN%20is%20the%20global%20collection%20of%20interconnected%20telephon"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=The%20PSTN%20is%20the%20global%20collection%20of%20interconnected%20telephon"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5789",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-5912",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1548,8 +3088,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20dial-up%20modem%20converted%20computer%20data%20into%20audible%20signals"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20dial-up%20modem%20converted%20computer%20data%20into%20audible%20signals"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-5912",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6008",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1565,8 +3125,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=International%20Mobile%20Subscriber%20Identity.%20Identifies%20the%20sub"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=International%20Mobile%20Subscriber%20Identity.%20Identifies%20the%20sub"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6008",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6172",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1582,8 +3162,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20retrospective%20label%20for%20pre-cellular%20mobile%20radio%20telephon"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20retrospective%20label%20for%20pre-cellular%20mobile%20radio%20telephon"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6172",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6223",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1599,8 +3199,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Voice%20over%20LTE%20carries%20calls%20through%20the%20IP%20Multimedia%20Subsy"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Voice%20over%20LTE%20carries%20calls%20through%20the%20IP%20Multimedia%20Subsy"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6223",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6229",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1616,8 +3236,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=NSA%20deployments%20use%205G%20radio%20alongside%20a%204G%20LTE%20core%20and%20con"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=NSA%20deployments%20use%205G%20radio%20alongside%20a%204G%20LTE%20core%20and%20con"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6229",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6402",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1633,8 +3273,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=SA%20uses%20a%205G%20core%20and%20enables%20fuller%20support%20for%20capabilitie"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=SA%20uses%20a%205G%20core%20and%20enables%20fuller%20support%20for%20capabilitie"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6402",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6420",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1650,8 +3310,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20carrier%20service%20that%20routes%20ordinary%20mobile%20calls%20and%20mess"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20carrier%20service%20that%20routes%20ordinary%20mobile%20calls%20and%20mess"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6420",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6426",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1667,8 +3347,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20phone%20shares%20its%20mobile-data%20connection%20with%20other%20devices"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20phone%20shares%20its%20mobile-data%20connection%20with%20other%20devices"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6426",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6459",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1684,8 +3384,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Lets%20users%20retain%20a%20telephone%20number%20when%20changing%20operators"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Lets%20users%20retain%20a%20telephone%20number%20when%20changing%20operators"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6459",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6477",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1701,8 +3421,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Founded%20by%20Lars%20Magnus%20Ericsson%20in%20Sweden.%20A%20major%20telecom-e"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Founded%20by%20Lars%20Magnus%20Ericsson%20in%20Sweden.%20A%20major%20telecom-e"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6477",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6489",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1718,8 +3458,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Chinese%20telecom-equipment%20and%20consumer-electronics%20company%20f"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Chinese%20telecom-equipment%20and%20consumer-electronics%20company%20f"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6489",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6522",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1735,8 +3495,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Taiwanese%20company%20originally%20known%20as%20High%20Tech%20Computer.%20It"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Taiwanese%20company%20originally%20known%20as%20High%20Tech%20Computer.%20It"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6522",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6747",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1752,8 +3532,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Wi-Fi%20is%20not%20the%20Internet.%20A%20Wi-Fi%20network%20may%20provide%20Inter"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Wi-Fi%20is%20not%20the%20Internet.%20A%20Wi-Fi%20network%20may%20provide%20Inter"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6747",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-6868",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1769,8 +3569,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20small%20Bluetooth%20network%20with%20a%20central%20device%20coordinating"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20small%20Bluetooth%20network%20with%20a%20central%20device%20coordinating"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-6868",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-7406",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1786,8 +3606,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Matter%20can%20run%20over%20Ethernet%2C%20Wi-Fi%20and%20Thread%2C%20using%20Blueto"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Matter%20can%20run%20over%20Ethernet%2C%20Wi-Fi%20and%20Thread%2C%20using%20Blueto"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-7406",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-7518",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1803,8 +3643,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20famous%20botnet%20that%20exploited%20insecure%20Internet%20of%20Things%20d"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20famous%20botnet%20that%20exploited%20insecure%20Internet%20of%20Things%20d"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-7518",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-7586",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1820,8 +3680,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=BSNL%20ended%20its%20public%20telegram%20service%20in%20India%20in%20July%202013"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=BSNL%20ended%20its%20public%20telegram%20service%20in%20India%20in%20July%202013"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-7586",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-7704",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1837,8 +3717,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Videsh%20Sanchar%20Nigam%20Limited%20was%20created%20in%201986%20for%20interna"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Videsh%20Sanchar%20Nigam%20Limited%20was%20created%20in%201986%20for%20interna"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-7704",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-7983",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1854,8 +3754,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=VSNL%E2%80%99s%20service%20was%20marketed%20as%20Gateway%20Internet%20Access%20Servi"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=VSNL%E2%80%99s%20service%20was%20marketed%20as%20Gateway%20Internet%20Access%20Servi"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-7983",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8046",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1871,8 +3791,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=A%20flagship%20rural-broadband%20infrastructure%20project%20intended%20t"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=A%20flagship%20rural-broadband%20infrastructure%20project%20intended%20t"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8046",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8058",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1888,8 +3828,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Bharti%20Airtel%20launched%20India%E2%80%99s%20first%20commercial%204G%20service%20i"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Bharti%20Airtel%20launched%20India%E2%80%99s%20first%20commercial%204G%20service%20i"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8058",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8324",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1905,8 +3865,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Airtel%20initially%20emphasised%20non-standalone%205G%20layered%20on%20its"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Airtel%20initially%20emphasised%20non-standalone%205G%20layered%20on%20its"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-8324",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-4161",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     },
     {
@@ -1922,8 +3902,28 @@
         "TCS Quiz 2026"
       ],
       "map": {
-        "links": [],
-        "connections": []
+        "links": [
+          {
+            "label": "Search this topic",
+            "url": "https://www.google.com/search?q=Indigenous%20telecom%20research%20and%20switching%2Fcore-network%20organ"
+          },
+          {
+            "label": "Wikipedia reference",
+            "url": "https://en.wikipedia.org/w/index.php?search=Indigenous%20telecom%20research%20and%20switching%2Fcore-network%20organ"
+          }
+        ],
+        "connections": [
+          {
+            "topicId": "module-03-lib-4161",
+            "relationship": "Related study topic",
+            "fact": "This topic shares the \"Internet, Web, Networking, Telecom and Mobile\" category with the linked topic."
+          },
+          {
+            "topicId": "module-03-lib-8992",
+            "relationship": "Related study topic",
+            "fact": "Both topics are part of the \"Internet, Web, Networking, Telecom and Mobile\" module for TCS Quiz preparation."
+          }
+        ]
       }
     }
   ],
