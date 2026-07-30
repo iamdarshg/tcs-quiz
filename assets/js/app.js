@@ -6,7 +6,7 @@ import { resolveTopicRoute } from './topic-route.js';
 import { renderMap, wireMap } from './map.js';
 import { topicWithTcsConnections } from './tcs-map.js';
 import { moduleStore } from './module-store.js';
-import { loadPrepLibrary, searchPrepLines } from './prep-library.js';
+import { loadPrepLibrary, pagePrepLines, searchPrepLines } from './prep-library.js';
 import {
   DAY, exportState, loadStudyState, markRead, nextReviewItems,
   restoreState, saveStudyState
@@ -249,9 +249,9 @@ async function viewLibrary() {
   view.innerHTML = '<div class="skel" style="height:300px"></div>';
   const library = await loadPrepLibrary();
   view.innerHTML = `<div class="page-head"><h1>Complete TCS prep library</h1><p class="sub">Every study line from the comprehensive preparation document, preserved in source order. ${library.sourceLineCount.toLocaleString()} lines available.</p></div><div class="searchbar"><input class="input" placeholder="Search every prep line…" autofocus></div><div data-results></div>`;
-  const input = view.querySelector('input'); const output = view.querySelector('[data-results]');
-  const draw = () => { const query = input.value.trim(); const lines = query.length > 1 ? searchPrepLines(library, query).slice(0, 300) : library.modules.flatMap((module) => module.lines.map((line) => ({ ...line, moduleTitle: module.title }))).slice(0, 300); output.innerHTML = `<p class="search-count">${lines.length}${lines.length === 300 ? '+' : ''} ${query ? 'matching lines' : 'lines shown — search to narrow'}</p><div class="revision-list">${lines.map((line) => `<article class="revision-card" id="prep-${line.sourceLine}"><span class="chip">${esc(line.moduleTitle || 'Prep')}</span><p>${esc(line.text)}</p><small>Source line ${line.sourceLine}</small></article>`).join('')}</div>`; };
-  input.addEventListener('input', draw); draw();
+  const input = view.querySelector('input'); const output = view.querySelector('[data-results]'); let page = 1;
+  const draw = () => { const query = input.value.trim(); const all = query.length > 1 ? searchPrepLines(library, query) : library.modules.flatMap((module) => module.lines.map((line) => ({ ...line, moduleTitle: module.title }))); const result = pagePrepLines(all, page); page = result.page; output.innerHTML = `<p class="search-count">${all.length.toLocaleString()} ${query ? 'matching lines' : 'total lines'} · page ${result.page} of ${result.pages}</p><div class="revision-list">${result.items.map((line) => `<article class="revision-card" id="prep-${line.sourceLine}"><span class="chip">${esc(line.moduleTitle || 'Prep')}</span><p>${esc(line.text)}</p><small>Source line ${line.sourceLine}</small></article>`).join('')}</div><div class="acts"><button class="btn" data-page="${result.page - 1}" ${result.page === 1 ? 'disabled' : ''}>Previous</button><button class="btn" data-page="${result.page + 1}" ${result.page === result.pages ? 'disabled' : ''}>Next</button></div>`; output.querySelectorAll('[data-page]').forEach((button) => button.addEventListener('click', () => { page = Number(button.dataset.page); draw(); window.scrollTo(0, 0); })); };
+  input.addEventListener('input', () => { page = 1; draw(); }); draw();
 }
 
 function viewBackup() {
