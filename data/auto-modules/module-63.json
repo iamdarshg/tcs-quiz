@@ -1,0 +1,158 @@
+{
+  "id": "module-63",
+  "order": 63,
+  "label": "The tyranny of numbers",
+  "topicCount": 10,
+  "topics": [
+    {
+      "id": "lib-01670",
+      "rank": 1,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1670,
+      "title": "63. The tyranny of numbers",
+      "text": "63. The tyranny of numbers",
+      "hook": "63. The tyranny of numbers",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01671",
+      "rank": 2,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1671,
+      "title": "Building a computer from individual components required enormous numbers of:",
+      "text": "Building a computer from individual components required enormous numbers of:",
+      "hook": "Building a computer from individual components required enormous numbers of:",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01672",
+      "rank": 3,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1672,
+      "title": "* Transistors.",
+      "text": "* Transistors.",
+      "hook": "* Transistors.",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01673",
+      "rank": 4,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1673,
+      "title": "* Resistors.",
+      "text": "* Resistors.",
+      "hook": "* Resistors.",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01674",
+      "rank": 5,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1674,
+      "title": "* Capacitors.",
+      "text": "* Capacitors.",
+      "hook": "* Capacitors.",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01675",
+      "rank": 6,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1675,
+      "title": "* Wires.",
+      "text": "* Wires.",
+      "hook": "* Wires.",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01676",
+      "rank": 7,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1676,
+      "title": "* Soldered connections.",
+      "text": "* Soldered connections.",
+      "hook": "* Soldered connections.",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01677",
+      "rank": 8,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1677,
+      "title": "As systems became more complex, connecting the parts threatened to become unm...",
+      "text": "As systems became more complex, connecting the parts threatened to become unmanageable.",
+      "hook": "As systems became more complex, connecting the parts threatened to become unmanageable.",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01678",
+      "rank": 9,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1678,
+      "title": "The solution was to place several components on one semiconductor substrate.",
+      "text": "The solution was to place several components on one semiconductor substrate.",
+      "hook": "The solution was to place several components on one semiconductor substrate.",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01679",
+      "rank": 10,
+      "moduleId": "module-63",
+      "moduleLabel": "The tyranny of numbers",
+      "sourceLine": 1679,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The tyranny of numbers",
+      "tags": [
+        "The tyranny of numbers",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

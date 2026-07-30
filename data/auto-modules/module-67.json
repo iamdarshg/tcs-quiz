@@ -1,0 +1,248 @@
+{
+  "id": "module-67",
+  "order": 67,
+  "label": "Memory versus storage",
+  "topicCount": 16,
+  "topics": [
+    {
+      "id": "lib-01724",
+      "rank": 1,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1724,
+      "title": "67. Memory versus storage",
+      "text": "67. Memory versus storage",
+      "hook": "67. Memory versus storage",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01725",
+      "rank": 2,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1725,
+      "title": "These terms are related but not identical.",
+      "text": "These terms are related but not identical.",
+      "hook": "These terms are related but not identical.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01726",
+      "rank": 3,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1726,
+      "title": "Memory",
+      "text": "Memory",
+      "hook": "Memory",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01727",
+      "rank": 4,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1727,
+      "title": "Usually means fast working storage directly accessible to the processor.",
+      "text": "Usually means fast working storage directly accessible to the processor.",
+      "hook": "Usually means fast working storage directly accessible to the processor.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01728",
+      "rank": 5,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1728,
+      "title": "Examples:",
+      "text": "Examples:",
+      "hook": "Examples:",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01729",
+      "rank": 6,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1729,
+      "title": "* Registers.",
+      "text": "* Registers.",
+      "hook": "* Registers.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01730",
+      "rank": 7,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1730,
+      "title": "* Cache.",
+      "text": "* Cache.",
+      "hook": "* Cache.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01731",
+      "rank": 8,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1731,
+      "title": "* RAM.",
+      "text": "* RAM.",
+      "hook": "* RAM.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01732",
+      "rank": 9,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1732,
+      "title": "Secondary storage",
+      "text": "Secondary storage",
+      "hook": "Secondary storage",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01733",
+      "rank": 10,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1733,
+      "title": "Usually means persistent, larger-capacity storage.",
+      "text": "Usually means persistent, larger-capacity storage.",
+      "hook": "Usually means persistent, larger-capacity storage.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01734",
+      "rank": 11,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1734,
+      "title": "Examples:",
+      "text": "Examples:",
+      "hook": "Examples:",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01735",
+      "rank": 12,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1735,
+      "title": "* Magnetic disks.",
+      "text": "* Magnetic disks.",
+      "hook": "* Magnetic disks.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01736",
+      "rank": 13,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1736,
+      "title": "* Solid-state drives.",
+      "text": "* Solid-state drives.",
+      "hook": "* Solid-state drives.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01737",
+      "rank": 14,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1737,
+      "title": "* Tape.",
+      "text": "* Tape.",
+      "hook": "* Tape.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01738",
+      "rank": 15,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1738,
+      "title": "* Optical media.",
+      "text": "* Optical media.",
+      "hook": "* Optical media.",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01739",
+      "rank": 16,
+      "moduleId": "module-67",
+      "moduleLabel": "Memory versus storage",
+      "sourceLine": 1739,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Memory versus storage",
+      "tags": [
+        "Memory versus storage",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

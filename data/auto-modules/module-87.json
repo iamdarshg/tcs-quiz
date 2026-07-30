@@ -1,0 +1,233 @@
+{
+  "id": "module-87",
+  "order": 87,
+  "label": "Douglas Engelbart",
+  "topicCount": 15,
+  "topics": [
+    {
+      "id": "lib-02056",
+      "rank": 1,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2056,
+      "title": "87. Douglas Engelbart",
+      "text": "87. Douglas Engelbart",
+      "hook": "87. Douglas Engelbart",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02057",
+      "rank": 2,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2057,
+      "title": "Douglas Engelbart believed computers should augment human intellect, not mere...",
+      "text": "Douglas Engelbart believed computers should augment human intellect, not merely automate arithmetic.",
+      "hook": "Douglas Engelbart believed computers should augment human intellect, not merely automate arithmetic.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02058",
+      "rank": 3,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2058,
+      "title": "At Stanford Research Institute, his team developed the NLS system.",
+      "text": "At Stanford Research Institute, his team developed the NLS system.",
+      "hook": "At Stanford Research Institute, his team developed the NLS system.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02059",
+      "rank": 4,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2059,
+      "title": "On December 9, 1968, Engelbart gave the demonstration later nicknamed the Mot...",
+      "text": "On December 9, 1968, Engelbart gave the demonstration later nicknamed the Mother of All Demos.",
+      "hook": "On December 9, 1968, Engelbart gave the demonstration later nicknamed the Mother of All Demos.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02060",
+      "rank": 5,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2060,
+      "title": "It showed working examples or precursors of:",
+      "text": "It showed working examples or precursors of:",
+      "hook": "It showed working examples or precursors of:",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02061",
+      "rank": 6,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2061,
+      "title": "* The mouse.",
+      "text": "* The mouse.",
+      "hook": "* The mouse.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02062",
+      "rank": 7,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2062,
+      "title": "* Hypertext.",
+      "text": "* Hypertext.",
+      "hook": "* Hypertext.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02063",
+      "rank": 8,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2063,
+      "title": "* Windows.",
+      "text": "* Windows.",
+      "hook": "* Windows.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02064",
+      "rank": 9,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2064,
+      "title": "* Word processing.",
+      "text": "* Word processing.",
+      "hook": "* Word processing.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02065",
+      "rank": 10,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2065,
+      "title": "* Shared documents.",
+      "text": "* Shared documents.",
+      "hook": "* Shared documents.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02066",
+      "rank": 11,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2066,
+      "title": "* Collaborative editing.",
+      "text": "* Collaborative editing.",
+      "hook": "* Collaborative editing.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02067",
+      "rank": 12,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2067,
+      "title": "* Videoconferencing.",
+      "text": "* Videoconferencing.",
+      "hook": "* Videoconferencing.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02068",
+      "rank": 13,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2068,
+      "title": "* Networked interaction.",
+      "text": "* Networked interaction.",
+      "hook": "* Networked interaction.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02069",
+      "rank": 14,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2069,
+      "title": "The demonstration anticipated central features of personal and networked comp...",
+      "text": "The demonstration anticipated central features of personal and networked computing.",
+      "hook": "The demonstration anticipated central features of personal and networked computing.",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02070",
+      "rank": 15,
+      "moduleId": "module-87",
+      "moduleLabel": "Douglas Engelbart",
+      "sourceLine": 2070,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Douglas Engelbart",
+      "tags": [
+        "Douglas Engelbart",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "module-90",
+  "order": 90,
+  "label": "Intel’s founding",
+  "topicCount": 5,
+  "topics": [
+    {
+      "id": "lib-02104",
+      "rank": 1,
+      "moduleId": "module-90",
+      "moduleLabel": "Intel’s founding",
+      "sourceLine": 2104,
+      "title": "90. Intel’s founding",
+      "text": "90. Intel’s founding",
+      "hook": "90. Intel’s founding",
+      "category": "Intel’s founding",
+      "tags": [
+        "Intel’s founding",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02105",
+      "rank": 2,
+      "moduleId": "module-90",
+      "moduleLabel": "Intel’s founding",
+      "sourceLine": 2105,
+      "title": "Robert Noyce and Gordon Moore founded Intel in 1968.",
+      "text": "Robert Noyce and Gordon Moore founded Intel in 1968.",
+      "hook": "Robert Noyce and Gordon Moore founded Intel in 1968.",
+      "category": "Intel’s founding",
+      "tags": [
+        "Intel’s founding",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02106",
+      "rank": 3,
+      "moduleId": "module-90",
+      "moduleLabel": "Intel’s founding",
+      "sourceLine": 2106,
+      "title": "The name came from integrated electronics.",
+      "text": "The name came from integrated electronics.",
+      "hook": "The name came from integrated electronics.",
+      "category": "Intel’s founding",
+      "tags": [
+        "Intel’s founding",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02107",
+      "rank": 4,
+      "moduleId": "module-90",
+      "moduleLabel": "Intel’s founding",
+      "sourceLine": 2107,
+      "title": "Intel initially focused heavily on semiconductor memory rather than processors.",
+      "text": "Intel initially focused heavily on semiconductor memory rather than processors.",
+      "hook": "Intel initially focused heavily on semiconductor memory rather than processors.",
+      "category": "Intel’s founding",
+      "tags": [
+        "Intel’s founding",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02108",
+      "rank": 5,
+      "moduleId": "module-90",
+      "moduleLabel": "Intel’s founding",
+      "sourceLine": 2108,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Intel’s founding",
+      "tags": [
+        "Intel’s founding",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

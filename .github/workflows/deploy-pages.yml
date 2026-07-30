@@ -1,4 +1,4 @@
-name: Deploy TCS Quiz to Pages
+name: Deploy Jekyll site to Pages
 
 on:
   push:
@@ -18,28 +18,77 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          node-version: '20'
-      - name: Validate study corpus
-        run: node scripts/build-index.mjs
-      - name: Stage published site
-        shell: bash
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # Step 1: Build prep-library from source text (if source exists)
+      - name: Build prep library from source
         run: |
-          mkdir _site
-          cp -R assets data index.html .nojekyll _site/
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+          if [ -f data/source/tcs-quiz-prep.txt ] && [ -f scripts/build-prep-library.mjs ]; then
+            node scripts/build-prep-library.mjs data/source/tcs-quiz-prep.txt data/prep-library.json
+            echo "prep-library.json regenerated from source"
+          else
+            echo "Source text not found — using existing prep-library.json"
+          fi
+
+      # Step 2: Build index manifest from months/ and static/
+      - name: Build index manifest
+        run: node scripts/build-index.mjs
+
+      # Step 3: Auto-generate module data from prep-library (this is the KEY pipeline)
+      - name: Auto-generate module topics from library
+        run: node scripts/build-prep-to-modules.mjs
+
+      # Step 4: Generate Jekyll module pages
+      - name: Generate module pages
+        run: node scripts/generate-module-pages.mjs
+
+      # Step 5: Create _data symlink for Jekyll (if not already a real directory)
+      - name: Prepare Jekyll data directory
+        run: |
+          if [ ! -L _data ] && [ ! -d _data ]; then
+            ln -s data _data
+          fi
+
+      # Step 6: Build Jekyll site
+      - name: Build Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
-          path: _site
+          source: ./
+          destination: ./_site
+
+      # Step 7: Preserve data/ for the SPA (Jekyll copies it, but ensure it's there)
+      - name: Verify build
+        run: |
+          ls -la _site/
+          echo "---"
+          ls _site/modules.html 2>/dev/null && echo "modules page OK" || echo "WARNING: modules page missing"
+          ls _site/revision.html 2>/dev/null && echo "revision page OK" || echo "WARNING: revision page missing"
+          ls _site/library.html 2>/dev/null && echo "library page OK" || echo "WARNING: library page missing"
+          ls _site/module/ 2>/dev/null && echo "module pages OK" || echo "WARNING: module directory missing"
+          echo "Build complete"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
 
   deploy:
-    needs: build
-    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4

@@ -1,0 +1,23 @@
+{
+  "id": "module-03",
+  "order": 3,
+  "label": "Internet, Web, Networking, Telecom and Mobile",
+  "topicCount": 1,
+  "topics": [
+    {
+      "id": "lib-00008",
+      "rank": 1,
+      "moduleId": "module-03",
+      "moduleLabel": "Internet, Web, Networking, Telecom and Mobile",
+      "sourceLine": 8,
+      "title": "3. Internet, Web, Networking, Telecom and Mobile",
+      "text": "3. Internet, Web, Networking, Telecom and Mobile",
+      "hook": "3. Internet, Web, Networking, Telecom and Mobile",
+      "category": "Internet, Web, Networking, Telecom and Mobile",
+      "tags": [
+        "Internet, Web, Networking, Telecom and Mobile",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

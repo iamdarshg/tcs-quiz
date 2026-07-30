@@ -1,0 +1,248 @@
+{
+  "id": "module-50",
+  "order": 50,
+  "label": "The ENIAC Six",
+  "topicCount": 16,
+  "topics": [
+    {
+      "id": "lib-01473",
+      "rank": 1,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1473,
+      "title": "50. The ENIAC Six",
+      "text": "50. The ENIAC Six",
+      "hook": "50. The ENIAC Six",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01474",
+      "rank": 2,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1474,
+      "title": "The six original women programmers had to invent programming techniques without:",
+      "text": "The six original women programmers had to invent programming techniques without:",
+      "hook": "The six original women programmers had to invent programming techniques without:",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01475",
+      "rank": 3,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1475,
+      "title": "* Programming languages.",
+      "text": "* Programming languages.",
+      "hook": "* Programming languages.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01476",
+      "rank": 4,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1476,
+      "title": "* Textbooks.",
+      "text": "* Textbooks.",
+      "hook": "* Textbooks.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01477",
+      "rank": 5,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1477,
+      "title": "* Compilers.",
+      "text": "* Compilers.",
+      "hook": "* Compilers.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01478",
+      "rank": 6,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1478,
+      "title": "* Operating systems.",
+      "text": "* Operating systems.",
+      "hook": "* Operating systems.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01479",
+      "rank": 7,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1479,
+      "title": "* Established terminology.",
+      "text": "* Established terminology.",
+      "hook": "* Established terminology.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01480",
+      "rank": 8,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1480,
+      "title": "They developed methods involving:",
+      "text": "They developed methods involving:",
+      "hook": "They developed methods involving:",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01481",
+      "rank": 9,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1481,
+      "title": "* Flow diagrams.",
+      "text": "* Flow diagrams.",
+      "hook": "* Flow diagrams.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01482",
+      "rank": 10,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1482,
+      "title": "* Decomposition of problems.",
+      "text": "* Decomposition of problems.",
+      "hook": "* Decomposition of problems.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01483",
+      "rank": 11,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1483,
+      "title": "* Conditional logic.",
+      "text": "* Conditional logic.",
+      "hook": "* Conditional logic.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01484",
+      "rank": 12,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1484,
+      "title": "* Debugging.",
+      "text": "* Debugging.",
+      "hook": "* Debugging.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01485",
+      "rank": 13,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1485,
+      "title": "* Coordination of parallel operations.",
+      "text": "* Coordination of parallel operations.",
+      "hook": "* Coordination of parallel operations.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01486",
+      "rank": 14,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1486,
+      "title": "Their identities and contributions were widely rediscovered only decades later.",
+      "text": "Their identities and contributions were widely rediscovered only decades later.",
+      "hook": "Their identities and contributions were widely rediscovered only decades later.",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01487",
+      "rank": 15,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1487,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01490",
+      "rank": 16,
+      "moduleId": "module-50",
+      "moduleLabel": "The ENIAC Six",
+      "sourceLine": 1490,
+      "title": "PART XVII — THE STORED-PROGRAM REVOLUTION",
+      "text": "PART XVII — THE STORED-PROGRAM REVOLUTION",
+      "hook": "PART XVII — THE STORED-PROGRAM REVOLUTION",
+      "category": "The ENIAC Six",
+      "tags": [
+        "The ENIAC Six",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

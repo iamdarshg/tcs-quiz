@@ -1,0 +1,76 @@
+---
+layout: default
+title: Revision — TCS Quiz 2026
+permalink: /revision/
+---
+
+<div class="page-header">
+  <h1>Revision</h1>
+  <p>{{ site.data.auto-revision.totalTopics }} study items from the prep library — browse, filter, review.</p>
+</div>
+
+<div class="revision-controls">
+  <input type="text" id="revision-search" placeholder="Filter by keyword…" class="search-input" oninput="filterRevision(this.value)">
+  <select id="revision-module-filter" onchange="filterRevision(document.getElementById('revision-search').value)">
+    <option value="">All modules</option>
+    {% for mod in site.data.auto-revision.modules %}
+    <option value="{{ mod.id }}">{{ mod.label }}</option>
+    {% endfor %}
+  </select>
+  <span class="revision-count" id="revision-count">{{ site.data.auto-revision.totalTopics }} items</span>
+</div>
+
+<div class="revision-list" id="revision-list">
+{% for mod in site.data.auto-revision.modules %}
+  {% assign modData = site.data.auto-modules[mod.id] %}
+  {% if modData %}
+    {% for topic in modData.topics %}
+    <article class="revision-card" data-module="{{ mod.id }}" data-keywords="{{ topic.title | escape }} {{ topic.text | escape }}">
+      <div class="revision-meta">
+        <span class="revision-module">{{ mod.label }}</span>
+        <span class="revision-line">Line {{ topic.sourceLine }}</span>
+      </div>
+      <div class="revision-text">{{ topic.text }}</div>
+      <a href="{{ site.baseurl }}/module/{{ mod.id }}/#{{ topic.id }}" class="revision-link">View in module &rarr;</a>
+    </article>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</div>
+
+<script>
+function filterRevision(query) {
+  const q = query.toLowerCase().trim();
+  const moduleFilter = document.getElementById('revision-module-filter').value;
+  const cards = document.querySelectorAll('.revision-card');
+  let visible = 0;
+  cards.forEach(function(card) {
+    const mod = card.dataset.module;
+    const keywords = (card.dataset.keywords || '').toLowerCase();
+    const matchModule = !moduleFilter || mod === moduleFilter;
+    const matchQuery = !q || keywords.indexOf(q) !== -1;
+    card.style.display = matchModule && matchQuery ? '' : 'none';
+    if (matchModule && matchQuery) visible++;
+  });
+  document.getElementById('revision-count').textContent = visible + ' items';
+}
+</script>
+
+<style>
+.page-header { padding: 1.5rem 0; }
+.page-header h1 { margin: 0 0 0.25rem; font-size: 1.4rem; }
+.page-header p { margin: 0; color: var(--text-dim); font-size: 0.85rem; }
+.revision-controls { display: flex; gap: 0.75rem; align-items: center; padding: 0.75rem 0; flex-wrap: wrap; }
+.search-input { flex: 1; min-width: 200px; padding: 0.5rem 0.75rem; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); color: var(--text); font-size: .85rem; }
+.search-input:focus { outline: none; border-color: var(--accent); }
+.revision-controls select { padding: 0.5rem; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); color: var(--text); font-size: .85rem; }
+.revision-count { font-size: .8rem; color: var(--text-dim); white-space: nowrap; }
+.revision-list { padding: 0 0 2rem; display: flex; flex-direction: column; gap: 0.5rem; }
+.revision-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0.75rem 1rem; transition: border-color .15s; }
+.revision-card:hover { border-color: var(--accent); }
+.revision-meta { display: flex; gap: 0.75rem; font-size: .7rem; color: var(--text-dim); margin-bottom: .25rem; }
+.revision-module { font-weight: 600; color: var(--accent); }
+.revision-text { font-size: .88rem; line-height: 1.5; color: var(--text); white-space: pre-wrap; }
+.revision-link { display: inline-block; font-size: .78rem; color: var(--accent); margin-top: .3rem; text-decoration: none; }
+.revision-link:hover { text-decoration: underline; }
+</style>

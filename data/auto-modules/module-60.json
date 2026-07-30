@@ -1,0 +1,218 @@
+{
+  "id": "module-60",
+  "order": 60,
+  "label": "Vacuum tubes",
+  "topicCount": 14,
+  "topics": [
+    {
+      "id": "lib-01613",
+      "rank": 1,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1613,
+      "title": "60. Vacuum tubes",
+      "text": "60. Vacuum tubes",
+      "hook": "60. Vacuum tubes",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01614",
+      "rank": 2,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1614,
+      "title": "A vacuum tube can:",
+      "text": "A vacuum tube can:",
+      "hook": "A vacuum tube can:",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01615",
+      "rank": 3,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1615,
+      "title": "* Amplify signals.",
+      "text": "* Amplify signals.",
+      "hook": "* Amplify signals.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01616",
+      "rank": 4,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1616,
+      "title": "* Act as an electronic switch.",
+      "text": "* Act as an electronic switch.",
+      "hook": "* Act as an electronic switch.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01617",
+      "rank": 5,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1617,
+      "title": "Compared with relays, tubes were much faster because they contained no moving...",
+      "text": "Compared with relays, tubes were much faster because they contained no moving mechanical contacts.",
+      "hook": "Compared with relays, tubes were much faster because they contained no moving mechanical contacts.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01618",
+      "rank": 6,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1618,
+      "title": "Problems:",
+      "text": "Problems:",
+      "hook": "Problems:",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01619",
+      "rank": 7,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1619,
+      "title": "* Large.",
+      "text": "* Large.",
+      "hook": "* Large.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01620",
+      "rank": 8,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1620,
+      "title": "* Hot.",
+      "text": "* Hot.",
+      "hook": "* Hot.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01621",
+      "rank": 9,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1621,
+      "title": "* Power-hungry.",
+      "text": "* Power-hungry.",
+      "hook": "* Power-hungry.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01622",
+      "rank": 10,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1622,
+      "title": "* Fragile.",
+      "text": "* Fragile.",
+      "hook": "* Fragile.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01623",
+      "rank": 11,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1623,
+      "title": "* Expensive.",
+      "text": "* Expensive.",
+      "hook": "* Expensive.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01624",
+      "rank": 12,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1624,
+      "title": "* Required substantial cooling and maintenance.",
+      "text": "* Required substantial cooling and maintenance.",
+      "hook": "* Required substantial cooling and maintenance.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01625",
+      "rank": 13,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1625,
+      "title": "The first generation of large electronic computers depended on thousands of t...",
+      "text": "The first generation of large electronic computers depended on thousands of tubes.",
+      "hook": "The first generation of large electronic computers depended on thousands of tubes.",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01626",
+      "rank": 14,
+      "moduleId": "module-60",
+      "moduleLabel": "Vacuum tubes",
+      "sourceLine": 1626,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Vacuum tubes",
+      "tags": [
+        "Vacuum tubes",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

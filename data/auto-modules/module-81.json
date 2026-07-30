@@ -1,0 +1,293 @@
+{
+  "id": "module-81",
+  "order": 81,
+  "label": "IBM System/360",
+  "topicCount": 19,
+  "topics": [
+    {
+      "id": "lib-01936",
+      "rank": 1,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1936,
+      "title": "81. IBM System/360",
+      "text": "81. IBM System/360",
+      "hook": "81. IBM System/360",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01937",
+      "rank": 2,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1937,
+      "title": "Announced in 1964, the IBM System/360 was a family of compatible computers.",
+      "text": "Announced in 1964, the IBM System/360 was a family of compatible computers.",
+      "hook": "Announced in 1964, the IBM System/360 was a family of compatible computers.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01938",
+      "rank": 3,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1938,
+      "title": "Before it, moving to a larger machine could require:",
+      "text": "Before it, moving to a larger machine could require:",
+      "hook": "Before it, moving to a larger machine could require:",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01939",
+      "rank": 4,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1939,
+      "title": "* Rewriting software.",
+      "text": "* Rewriting software.",
+      "hook": "* Rewriting software.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01940",
+      "rank": 5,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1940,
+      "title": "* Replacing peripheral equipment.",
+      "text": "* Replacing peripheral equipment.",
+      "hook": "* Replacing peripheral equipment.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01941",
+      "rank": 6,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1941,
+      "title": "* Retraining staff.",
+      "text": "* Retraining staff.",
+      "hook": "* Retraining staff.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01942",
+      "rank": 7,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1942,
+      "title": "* Redesigning workflows.",
+      "text": "* Redesigning workflows.",
+      "hook": "* Redesigning workflows.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01943",
+      "rank": 8,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1943,
+      "title": "System/360 offered models across a wide performance range while preserving a ...",
+      "text": "System/360 offered models across a wide performance range while preserving a common architectural family.",
+      "hook": "System/360 offered models across a wide performance range while preserving a common architectural family.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01944",
+      "rank": 9,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1944,
+      "title": "This made software investment more durable and established compatibility as a...",
+      "text": "This made software investment more durable and established compatibility as a major commercial advantage.",
+      "hook": "This made software investment more durable and established compatibility as a major commercial advantage.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01945",
+      "rank": 10,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1945,
+      "title": "Why “360”?",
+      "text": "Why “360”?",
+      "hook": "Why “360”?",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01946",
+      "rank": 11,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1946,
+      "title": "The name suggested a full 360-degree range of applications:",
+      "text": "The name suggested a full 360-degree range of applications:",
+      "hook": "The name suggested a full 360-degree range of applications:",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01947",
+      "rank": 12,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1947,
+      "title": "* Scientific.",
+      "text": "* Scientific.",
+      "hook": "* Scientific.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01948",
+      "rank": 13,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1948,
+      "title": "* Commercial.",
+      "text": "* Commercial.",
+      "hook": "* Commercial.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01949",
+      "rank": 14,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1949,
+      "title": "* Government.",
+      "text": "* Government.",
+      "hook": "* Government.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01950",
+      "rank": 15,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1950,
+      "title": "* General data processing.",
+      "text": "* General data processing.",
+      "hook": "* General data processing.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01951",
+      "rank": 16,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1951,
+      "title": "Major risk",
+      "text": "Major risk",
+      "hook": "Major risk",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01952",
+      "rank": 17,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1952,
+      "title": "IBM invested enormously in System/360. It was one of the largest private indu...",
+      "text": "IBM invested enormously in System/360. It was one of the largest private industrial projects of its era.",
+      "hook": "IBM invested enormously in System/360. It was one of the largest private industrial projects of its era.",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01953",
+      "rank": 18,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1953,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01956",
+      "rank": 19,
+      "moduleId": "module-81",
+      "moduleLabel": "IBM System/360",
+      "sourceLine": 1956,
+      "title": "PART XXII — MINICOMPUTERS, INTERACTIVITY AND TIME-SHARING",
+      "text": "PART XXII — MINICOMPUTERS, INTERACTIVITY AND TIME-SHARING",
+      "hook": "PART XXII — MINICOMPUTERS, INTERACTIVITY AND TIME-SHARING",
+      "category": "IBM System/360",
+      "tags": [
+        "IBM System/360",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

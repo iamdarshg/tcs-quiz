@@ -1,0 +1,233 @@
+{
+  "id": "module-57",
+  "order": 57,
+  "label": "EDSAC",
+  "topicCount": 15,
+  "topics": [
+    {
+      "id": "lib-01569",
+      "rank": 1,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1569,
+      "title": "57. EDSAC",
+      "text": "57. EDSAC",
+      "hook": "57. EDSAC",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01570",
+      "rank": 2,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1570,
+      "title": "At Cambridge University, Maurice Wilkes led development of EDSAC:",
+      "text": "At Cambridge University, Maurice Wilkes led development of EDSAC:",
+      "hook": "At Cambridge University, Maurice Wilkes led development of EDSAC:",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01571",
+      "rank": 3,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1571,
+      "title": "Electronic Delay Storage Automatic Calculator.",
+      "text": "Electronic Delay Storage Automatic Calculator.",
+      "hook": "Electronic Delay Storage Automatic Calculator.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01572",
+      "rank": 4,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1572,
+      "title": "It first ran programs in May 1949.",
+      "text": "It first ran programs in May 1949.",
+      "hook": "It first ran programs in May 1949.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01573",
+      "rank": 5,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1573,
+      "title": "EDSAC was:",
+      "text": "EDSAC was:",
+      "hook": "EDSAC was:",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01574",
+      "rank": 6,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1574,
+      "title": "* A full-sized stored-program computer.",
+      "text": "* A full-sized stored-program computer.",
+      "hook": "* A full-sized stored-program computer.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01575",
+      "rank": 7,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1575,
+      "title": "* Practical.",
+      "text": "* Practical.",
+      "hook": "* Practical.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01576",
+      "rank": 8,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1576,
+      "title": "* Used regularly by researchers.",
+      "text": "* Used regularly by researchers.",
+      "hook": "* Used regularly by researchers.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01577",
+      "rank": 9,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1577,
+      "title": "* Supported by a library of reusable subroutines.",
+      "text": "* Supported by a library of reusable subroutines.",
+      "hook": "* Supported by a library of reusable subroutines.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01578",
+      "rank": 10,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1578,
+      "title": "* Based on mercury delay-line memory.",
+      "text": "* Based on mercury delay-line memory.",
+      "hook": "* Based on mercury delay-line memory.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01579",
+      "rank": 11,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1579,
+      "title": "It is often described as the first practical stored-program computer to provi...",
+      "text": "It is often described as the first practical stored-program computer to provide regular computing service.",
+      "hook": "It is often described as the first practical stored-program computer to provide regular computing service.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01580",
+      "rank": 12,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1580,
+      "title": "Famous realisation",
+      "text": "Famous realisation",
+      "hook": "Famous realisation",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01581",
+      "rank": 13,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1581,
+      "title": "Wilkes later recalled that while travelling upstairs to the punching equipmen...",
+      "text": "Wilkes later recalled that while travelling upstairs to the punching equipment, he realised that much of his future life would be spent finding errors in his own programs.",
+      "hook": "Wilkes later recalled that while travelling upstairs to the punching equipment, he realised that much of his future l...",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01582",
+      "rank": 14,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1582,
+      "title": "That insight captures the birth of software debugging as a permanent discipline.",
+      "text": "That insight captures the birth of software debugging as a permanent discipline.",
+      "hook": "That insight captures the birth of software debugging as a permanent discipline.",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01583",
+      "rank": 15,
+      "moduleId": "module-57",
+      "moduleLabel": "EDSAC",
+      "sourceLine": 1583,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "EDSAC",
+      "tags": [
+        "EDSAC",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

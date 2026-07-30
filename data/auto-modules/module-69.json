@@ -1,0 +1,233 @@
+{
+  "id": "module-69",
+  "order": 69,
+  "label": "Punched cards and paper tape",
+  "topicCount": 15,
+  "topics": [
+    {
+      "id": "lib-01759",
+      "rank": 1,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1759,
+      "title": "69. Punched cards and paper tape",
+      "text": "69. Punched cards and paper tape",
+      "hook": "69. Punched cards and paper tape",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01760",
+      "rank": 2,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1760,
+      "title": "Punched media stored information physically as holes.",
+      "text": "Punched media stored information physically as holes.",
+      "hook": "Punched media stored information physically as holes.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01761",
+      "rank": 3,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1761,
+      "title": "Advantages:",
+      "text": "Advantages:",
+      "hook": "Advantages:",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01762",
+      "rank": 4,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1762,
+      "title": "* Human-visible.",
+      "text": "* Human-visible.",
+      "hook": "* Human-visible.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01763",
+      "rank": 5,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1763,
+      "title": "* Portable.",
+      "text": "* Portable.",
+      "hook": "* Portable.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01764",
+      "rank": 6,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1764,
+      "title": "* Relatively durable.",
+      "text": "* Relatively durable.",
+      "hook": "* Relatively durable.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01765",
+      "rank": 7,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1765,
+      "title": "* Machine-readable.",
+      "text": "* Machine-readable.",
+      "hook": "* Machine-readable.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01766",
+      "rank": 8,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1766,
+      "title": "* Easy to duplicate mechanically.",
+      "text": "* Easy to duplicate mechanically.",
+      "hook": "* Easy to duplicate mechanically.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01767",
+      "rank": 9,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1767,
+      "title": "Disadvantages:",
+      "text": "Disadvantages:",
+      "hook": "Disadvantages:",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01768",
+      "rank": 10,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1768,
+      "title": "* Low density.",
+      "text": "* Low density.",
+      "hook": "* Low density.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01769",
+      "rank": 11,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1769,
+      "title": "* Slow.",
+      "text": "* Slow.",
+      "hook": "* Slow.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01770",
+      "rank": 12,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1770,
+      "title": "* Bulky.",
+      "text": "* Bulky.",
+      "hook": "* Bulky.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01771",
+      "rank": 13,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1771,
+      "title": "* Difficult to edit.",
+      "text": "* Difficult to edit.",
+      "hook": "* Difficult to edit.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01772",
+      "rank": 14,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1772,
+      "title": "* Vulnerable to physical damage and misordering.",
+      "text": "* Vulnerable to physical damage and misordering.",
+      "hook": "* Vulnerable to physical damage and misordering.",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01773",
+      "rank": 15,
+      "moduleId": "module-69",
+      "moduleLabel": "Punched cards and paper tape",
+      "sourceLine": 1773,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Punched cards and paper tape",
+      "tags": [
+        "Punched cards and paper tape",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

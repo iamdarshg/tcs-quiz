@@ -1,0 +1,413 @@
+{
+  "id": "module-37",
+  "order": 37,
+  "label": "Konrad Zuse",
+  "topicCount": 27,
+  "topics": [
+    {
+      "id": "lib-01257",
+      "rank": 1,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1257,
+      "title": "37. Konrad Zuse",
+      "text": "37. Konrad Zuse",
+      "hook": "37. Konrad Zuse",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01258",
+      "rank": 2,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1258,
+      "title": "German engineer Konrad Zuse worked largely independently.",
+      "text": "German engineer Konrad Zuse worked largely independently.",
+      "hook": "German engineer Konrad Zuse worked largely independently.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01259",
+      "rank": 3,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1259,
+      "title": "Z1",
+      "text": "Z1",
+      "hook": "Z1",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01260",
+      "rank": 4,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1260,
+      "title": "* Developed in the late 1930s.",
+      "text": "* Developed in the late 1930s.",
+      "hook": "* Developed in the late 1930s.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01261",
+      "rank": 5,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1261,
+      "title": "* Mechanical.",
+      "text": "* Mechanical.",
+      "hook": "* Mechanical.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01262",
+      "rank": 6,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1262,
+      "title": "* Binary.",
+      "text": "* Binary.",
+      "hook": "* Binary.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01263",
+      "rank": 7,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1263,
+      "title": "* Programmable through punched tape.",
+      "text": "* Programmable through punched tape.",
+      "hook": "* Programmable through punched tape.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01264",
+      "rank": 8,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1264,
+      "title": "* Unreliable in operation.",
+      "text": "* Unreliable in operation.",
+      "hook": "* Unreliable in operation.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01265",
+      "rank": 9,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1265,
+      "title": "Z2",
+      "text": "Z2",
+      "hook": "Z2",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01266",
+      "rank": 10,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1266,
+      "title": "* Combined mechanical memory with relay-based arithmetic.",
+      "text": "* Combined mechanical memory with relay-based arithmetic.",
+      "hook": "* Combined mechanical memory with relay-based arithmetic.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01267",
+      "rank": 11,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1267,
+      "title": "Z3",
+      "text": "Z3",
+      "hook": "Z3",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01268",
+      "rank": 12,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1268,
+      "title": "Completed in 1941:",
+      "text": "Completed in 1941:",
+      "hook": "Completed in 1941:",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01269",
+      "rank": 13,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1269,
+      "title": "* Used approximately 2,300 relays.",
+      "text": "* Used approximately 2,300 relays.",
+      "hook": "* Used approximately 2,300 relays.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01270",
+      "rank": 14,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1270,
+      "title": "* Used binary floating-point arithmetic.",
+      "text": "* Used binary floating-point arithmetic.",
+      "hook": "* Used binary floating-point arithmetic.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01271",
+      "rank": 15,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1271,
+      "title": "* Was program-controlled.",
+      "text": "* Was program-controlled.",
+      "hook": "* Was program-controlled.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01272",
+      "rank": 16,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1272,
+      "title": "* Was used for aeronautical calculations.",
+      "text": "* Was used for aeronautical calculations.",
+      "hook": "* Was used for aeronautical calculations.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01273",
+      "rank": 17,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1273,
+      "title": "* Was destroyed during wartime bombing.",
+      "text": "* Was destroyed during wartime bombing.",
+      "hook": "* Was destroyed during wartime bombing.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01274",
+      "rank": 18,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1274,
+      "title": "The Computer History Museum describes the Z3 as the first program-controlled ...",
+      "text": "The Computer History Museum describes the Z3 as the first program-controlled electromechanical digital computer.",
+      "hook": "The Computer History Museum describes the Z3 as the first program-controlled electromechanical digital computer.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01275",
+      "rank": 19,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1275,
+      "title": "Plankalkül",
+      "text": "Plankalkül",
+      "hook": "Plankalkül",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01276",
+      "rank": 20,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1276,
+      "title": "Zuse later developed Plankalkül, an early high-level algorithmic programming-...",
+      "text": "Zuse later developed Plankalkül, an early high-level algorithmic programming-language design.",
+      "hook": "Zuse later developed Plankalkül, an early high-level algorithmic programming-language design.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01277",
+      "rank": 21,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1277,
+      "title": "Quiz caution",
+      "text": "Quiz caution",
+      "hook": "Quiz caution",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01278",
+      "rank": 22,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1278,
+      "title": "The Z3 was programmable but:",
+      "text": "The Z3 was programmable but:",
+      "hook": "The Z3 was programmable but:",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01279",
+      "rank": 23,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1279,
+      "title": "* Not electronic.",
+      "text": "* Not electronic.",
+      "hook": "* Not electronic.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01280",
+      "rank": 24,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1280,
+      "title": "* Not stored-program.",
+      "text": "* Not stored-program.",
+      "hook": "* Not stored-program.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01281",
+      "rank": 25,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1281,
+      "title": "* Not initially known to Allied computing groups.",
+      "text": "* Not initially known to Allied computing groups.",
+      "hook": "* Not initially known to Allied computing groups.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01282",
+      "rank": 26,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1282,
+      "title": "* Not designed with every feature of later general-purpose systems.",
+      "text": "* Not designed with every feature of later general-purpose systems.",
+      "hook": "* Not designed with every feature of later general-purpose systems.",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01283",
+      "rank": 27,
+      "moduleId": "module-37",
+      "moduleLabel": "Konrad Zuse",
+      "sourceLine": 1283,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Konrad Zuse",
+      "tags": [
+        "Konrad Zuse",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

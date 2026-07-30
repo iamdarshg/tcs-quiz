@@ -1,0 +1,203 @@
+{
+  "id": "module-34",
+  "order": 34,
+  "label": "Hybrid computers",
+  "topicCount": 13,
+  "topics": [
+    {
+      "id": "lib-01218",
+      "rank": 1,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1218,
+      "title": "34. Hybrid computers",
+      "text": "34. Hybrid computers",
+      "hook": "34. Hybrid computers",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01219",
+      "rank": 2,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1219,
+      "title": "Hybrid systems combine analogue and digital elements.",
+      "text": "Hybrid systems combine analogue and digital elements.",
+      "hook": "Hybrid systems combine analogue and digital elements.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01220",
+      "rank": 3,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1220,
+      "title": "Historically they were useful when:",
+      "text": "Historically they were useful when:",
+      "hook": "Historically they were useful when:",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01221",
+      "rank": 4,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1221,
+      "title": "* Analogue components simulated continuous physical systems.",
+      "text": "* Analogue components simulated continuous physical systems.",
+      "hook": "* Analogue components simulated continuous physical systems.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01222",
+      "rank": 5,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1222,
+      "title": "* Digital components handled control, logic or record keeping.",
+      "text": "* Digital components handled control, logic or record keeping.",
+      "hook": "* Digital components handled control, logic or record keeping.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01223",
+      "rank": 6,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1223,
+      "title": "Modern sensors often illustrate a related pattern:",
+      "text": "Modern sensors often illustrate a related pattern:",
+      "hook": "Modern sensors often illustrate a related pattern:",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01224",
+      "rank": 7,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1224,
+      "title": "1. Physical phenomenon occurs continuously.",
+      "text": "1. Physical phenomenon occurs continuously.",
+      "hook": "1. Physical phenomenon occurs continuously.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01225",
+      "rank": 8,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1225,
+      "title": "2. Sensor creates an analogue electrical signal.",
+      "text": "2. Sensor creates an analogue electrical signal.",
+      "hook": "2. Sensor creates an analogue electrical signal.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01226",
+      "rank": 9,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1226,
+      "title": "3. Analogue-to-digital converter samples it.",
+      "text": "3. Analogue-to-digital converter samples it.",
+      "hook": "3. Analogue-to-digital converter samples it.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01227",
+      "rank": 10,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1227,
+      "title": "4. Digital computer processes the data.",
+      "text": "4. Digital computer processes the data.",
+      "hook": "4. Digital computer processes the data.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01228",
+      "rank": 11,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1228,
+      "title": "5. Digital-to-analogue systems may control a physical actuator.",
+      "text": "5. Digital-to-analogue systems may control a physical actuator.",
+      "hook": "5. Digital-to-analogue systems may control a physical actuator.",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01229",
+      "rank": 12,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1229,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01232",
+      "rank": 13,
+      "moduleId": "module-34",
+      "moduleLabel": "Hybrid computers",
+      "sourceLine": 1232,
+      "title": "PART XIII — ELECTROMECHANICAL COMPUTING",
+      "text": "PART XIII — ELECTROMECHANICAL COMPUTING",
+      "hook": "PART XIII — ELECTROMECHANICAL COMPUTING",
+      "category": "Hybrid computers",
+      "tags": [
+        "Hybrid computers",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

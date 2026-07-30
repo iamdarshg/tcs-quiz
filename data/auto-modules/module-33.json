@@ -1,0 +1,263 @@
+{
+  "id": "module-33",
+  "order": 33,
+  "label": "Digital computers",
+  "topicCount": 17,
+  "topics": [
+    {
+      "id": "lib-01199",
+      "rank": 1,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1199,
+      "title": "33. Digital computers",
+      "text": "33. Digital computers",
+      "hook": "33. Digital computers",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01200",
+      "rank": 2,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1200,
+      "title": "Digital computers represent information using discrete states.",
+      "text": "Digital computers represent information using discrete states.",
+      "hook": "Digital computers represent information using discrete states.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01201",
+      "rank": 3,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1201,
+      "title": "Advantages include:",
+      "text": "Advantages include:",
+      "hook": "Advantages include:",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01202",
+      "rank": 4,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1202,
+      "title": "* Repeatability.",
+      "text": "* Repeatability.",
+      "hook": "* Repeatability.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01203",
+      "rank": 5,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1203,
+      "title": "* Programmability.",
+      "text": "* Programmability.",
+      "hook": "* Programmability.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01204",
+      "rank": 6,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1204,
+      "title": "* Error detection.",
+      "text": "* Error detection.",
+      "hook": "* Error detection.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01205",
+      "rank": 7,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1205,
+      "title": "* Exact symbolic representation.",
+      "text": "* Exact symbolic representation.",
+      "hook": "* Exact symbolic representation.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01206",
+      "rank": 8,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1206,
+      "title": "* Easy copying.",
+      "text": "* Easy copying.",
+      "hook": "* Easy copying.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01207",
+      "rank": 9,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1207,
+      "title": "* Scalable storage.",
+      "text": "* Scalable storage.",
+      "hook": "* Scalable storage.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01208",
+      "rank": 10,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1208,
+      "title": "* General-purpose use.",
+      "text": "* General-purpose use.",
+      "hook": "* General-purpose use.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01209",
+      "rank": 11,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1209,
+      "title": "Digital does not automatically mean perfectly accurate. Errors can arise from:",
+      "text": "Digital does not automatically mean perfectly accurate. Errors can arise from:",
+      "hook": "Digital does not automatically mean perfectly accurate. Errors can arise from:",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01210",
+      "rank": 12,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1210,
+      "title": "* Faulty input.",
+      "text": "* Faulty input.",
+      "hook": "* Faulty input.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01211",
+      "rank": 13,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1211,
+      "title": "* Software bugs.",
+      "text": "* Software bugs.",
+      "hook": "* Software bugs.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01212",
+      "rank": 14,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1212,
+      "title": "* Limited numerical precision.",
+      "text": "* Limited numerical precision.",
+      "hook": "* Limited numerical precision.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01213",
+      "rank": 15,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1213,
+      "title": "* Hardware failure.",
+      "text": "* Hardware failure.",
+      "hook": "* Hardware failure.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01214",
+      "rank": 16,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1214,
+      "title": "* Incorrect models.",
+      "text": "* Incorrect models.",
+      "hook": "* Incorrect models.",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01215",
+      "rank": 17,
+      "moduleId": "module-33",
+      "moduleLabel": "Digital computers",
+      "sourceLine": 1215,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Digital computers",
+      "tags": [
+        "Digital computers",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

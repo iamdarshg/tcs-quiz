@@ -1,0 +1,73 @@
+---
+layout: default
+title: Prep Library — TCS Quiz 2026
+permalink: /library/
+---
+
+<div class="page-header">
+  <h1>Prep Library</h1>
+  <p>Complete study document — {{ site.data.prep-library.sourceLineCount }} source lines across {{ site.data.prep-library.modules.size }} modules.</p>
+</div>
+
+<div class="library-controls">
+  <input type="text" id="library-search" placeholder="Search library content…" class="search-input" oninput="searchLibrary(this.value)">
+  <span class="library-count" id="library-count">{{ site.data.prep-library.sourceLineCount }} lines</span>
+</div>
+
+<div class="library-content" id="library-content">
+{% for mod in site.data.prep-library.modules %}
+  <section class="library-module" id="lib-module-{{ mod.id }}" data-module="{{ mod.id }}">
+    <h2 class="library-module-title">Module {{ mod.id }}: {{ mod.title }}</h2>
+    <div class="library-lines">
+    {% for line in mod.lines %}
+      <div class="library-line" id="prep-{{ line.sourceLine }}" data-line="{{ line.sourceLine }}">
+        <span class="library-line-num">{{ line.sourceLine }}</span>
+        <span class="library-line-text">{{ line.text }}</span>
+      </div>
+    {% endfor %}
+    </div>
+  </section>
+{% endfor %}
+</div>
+
+<script>
+function searchLibrary(query) {
+  const q = query.toLowerCase().trim();
+  const sections = document.querySelectorAll('.library-module');
+  let totalVisible = 0;
+  sections.forEach(function(section) {
+    const lines = section.querySelectorAll('.library-line');
+    let sectionHasVisible = false;
+    lines.forEach(function(line) {
+      const text = (line.querySelector('.library-line-text')?.textContent || '').toLowerCase();
+      const match = !q || text.indexOf(q) !== -1;
+      line.style.display = match ? '' : 'none';
+      if (match) sectionHasVisible = true;
+    });
+    section.style.display = sectionHasVisible ? '' : 'none';
+    if (sectionHasVisible) totalVisible++;
+  });
+  document.getElementById('library-count').textContent = totalVisible > 0
+    ? (document.querySelectorAll('.library-line[style*="display: none"]').length > 0
+      ? (document.querySelectorAll('.library-line:not([style*="display: none"])').length) + ' visible lines'
+      : '{{ site.data.prep-library.sourceLineCount }} lines')
+    : '0 lines';
+}
+</script>
+
+<style>
+.page-header { padding: 1.5rem 0; }
+.page-header h1 { margin: 0 0 0.25rem; font-size: 1.4rem; }
+.page-header p { margin: 0; color: var(--text-dim); font-size: 0.85rem; }
+.library-controls { padding: 0.75rem 0; }
+.library-count { font-size: .8rem; color: var(--text-dim); margin-left: .75rem; }
+.library-module { margin-bottom: 1.5rem; }
+.library-module-title { font-size: 1.05rem; font-weight: 600; color: var(--accent); margin: 0 0 .5rem; padding-bottom: .25rem; border-bottom: 1px solid var(--border); }
+.library-lines { display: flex; flex-direction: column; }
+.library-line { display: flex; gap: 0.75rem; padding: 0.25rem 0; font-size: .85rem; line-height: 1.5; border-bottom: 1px solid var(--border-subtle, rgba(0,0,0,.04)); }
+.library-line:hover { background: var(--hover, rgba(0,0,0,.02)); }
+.library-line-num { min-width: 3rem; text-align: right; color: var(--text-dim); font-size: .75rem; font-family: monospace; user-select: none; }
+.library-line-text { flex: 1; color: var(--text); white-space: pre-wrap; word-break: break-word; }
+[data-theme="dark"] .library-line { border-bottom-color: rgba(255,255,255,.04); }
+[data-theme="dark"] .library-line:hover { background: rgba(255,255,255,.03); }
+</style>

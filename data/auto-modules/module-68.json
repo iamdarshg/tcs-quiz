@@ -1,0 +1,233 @@
+{
+  "id": "module-68",
+  "order": 68,
+  "label": "The memory hierarchy",
+  "topicCount": 15,
+  "topics": [
+    {
+      "id": "lib-01742",
+      "rank": 1,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1742,
+      "title": "68. The memory hierarchy",
+      "text": "68. The memory hierarchy",
+      "hook": "68. The memory hierarchy",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01743",
+      "rank": 2,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1743,
+      "title": "From fastest/smallest/most expensive per bit to slowest/largest/cheapest:",
+      "text": "From fastest/smallest/most expensive per bit to slowest/largest/cheapest:",
+      "hook": "From fastest/smallest/most expensive per bit to slowest/largest/cheapest:",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01744",
+      "rank": 3,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1744,
+      "title": "1. CPU registers.",
+      "text": "1. CPU registers.",
+      "hook": "1. CPU registers.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01745",
+      "rank": 4,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1745,
+      "title": "2. Cache.",
+      "text": "2. Cache.",
+      "hook": "2. Cache.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01746",
+      "rank": 5,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1746,
+      "title": "3. Main memory or RAM.",
+      "text": "3. Main memory or RAM.",
+      "hook": "3. Main memory or RAM.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01747",
+      "rank": 6,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1747,
+      "title": "4. Solid-state or disk storage.",
+      "text": "4. Solid-state or disk storage.",
+      "hook": "4. Solid-state or disk storage.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01748",
+      "rank": 7,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1748,
+      "title": "5. Archival storage such as tape.",
+      "text": "5. Archival storage such as tape.",
+      "hook": "5. Archival storage such as tape.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01749",
+      "rank": 8,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1749,
+      "title": "6. Remote or cloud storage.",
+      "text": "6. Remote or cloud storage.",
+      "hook": "6. Remote or cloud storage.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01750",
+      "rank": 9,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1750,
+      "title": "The hierarchy exists because no single technology simultaneously provides:",
+      "text": "The hierarchy exists because no single technology simultaneously provides:",
+      "hook": "The hierarchy exists because no single technology simultaneously provides:",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01751",
+      "rank": 10,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1751,
+      "title": "* Maximum speed.",
+      "text": "* Maximum speed.",
+      "hook": "* Maximum speed.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01752",
+      "rank": 11,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1752,
+      "title": "* Maximum capacity.",
+      "text": "* Maximum capacity.",
+      "hook": "* Maximum capacity.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01753",
+      "rank": 12,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1753,
+      "title": "* Minimum cost.",
+      "text": "* Minimum cost.",
+      "hook": "* Minimum cost.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01754",
+      "rank": 13,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1754,
+      "title": "* Minimum power.",
+      "text": "* Minimum power.",
+      "hook": "* Minimum power.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01755",
+      "rank": 14,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1755,
+      "title": "* Permanent retention.",
+      "text": "* Permanent retention.",
+      "hook": "* Permanent retention.",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01756",
+      "rank": 15,
+      "moduleId": "module-68",
+      "moduleLabel": "The memory hierarchy",
+      "sourceLine": 1756,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The memory hierarchy",
+      "tags": [
+        "The memory hierarchy",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

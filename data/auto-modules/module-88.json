@@ -1,0 +1,203 @@
+{
+  "id": "module-88",
+  "order": 88,
+  "label": "The mouse",
+  "topicCount": 13,
+  "topics": [
+    {
+      "id": "lib-02073",
+      "rank": 1,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2073,
+      "title": "88. The mouse",
+      "text": "88. The mouse",
+      "hook": "88. The mouse",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02074",
+      "rank": 2,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2074,
+      "title": "Engelbart and engineer Bill English developed an early mouse.",
+      "text": "Engelbart and engineer Bill English developed an early mouse.",
+      "hook": "Engelbart and engineer Bill English developed an early mouse.",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02075",
+      "rank": 3,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2075,
+      "title": "The original device:",
+      "text": "The original device:",
+      "hook": "The original device:",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02076",
+      "rank": 4,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2076,
+      "title": "* Had a wooden shell.",
+      "text": "* Had a wooden shell.",
+      "hook": "* Had a wooden shell.",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02077",
+      "rank": 5,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2077,
+      "title": "* Used two perpendicular wheels.",
+      "text": "* Used two perpendicular wheels.",
+      "hook": "* Used two perpendicular wheels.",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02078",
+      "rank": 6,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2078,
+      "title": "* Mapped physical movement to screen movement.",
+      "text": "* Mapped physical movement to screen movement.",
+      "hook": "* Mapped physical movement to screen movement.",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02079",
+      "rank": 7,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2079,
+      "title": "* Connected by a cable.",
+      "text": "* Connected by a cable.",
+      "hook": "* Connected by a cable.",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02080",
+      "rank": 8,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2080,
+      "title": "The name may have arisen because the cable resembled a tail, although recolle...",
+      "text": "The name may have arisen because the cable resembled a tail, although recollections differ.",
+      "hook": "The name may have arisen because the cable resembled a tail, although recollections differ.",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02081",
+      "rank": 9,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2081,
+      "title": "Quiz trap",
+      "text": "Quiz trap",
+      "hook": "Quiz trap",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02082",
+      "rank": 10,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2082,
+      "title": "Engelbart did not single-handedly create every modern GUI feature.",
+      "text": "Engelbart did not single-handedly create every modern GUI feature.",
+      "hook": "Engelbart did not single-handedly create every modern GUI feature.",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02083",
+      "rank": 11,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2083,
+      "title": "His team created an integrated interactive system; Xerox PARC and later comme...",
+      "text": "His team created an integrated interactive system; Xerox PARC and later commercial companies developed different GUI traditions.",
+      "hook": "His team created an integrated interactive system; Xerox PARC and later commercial companies developed different GUI ...",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02084",
+      "rank": 12,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2084,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02087",
+      "rank": 13,
+      "moduleId": "module-88",
+      "moduleLabel": "The mouse",
+      "sourceLine": 2087,
+      "title": "PART XXIV — THE MICROPROCESSOR",
+      "text": "PART XXIV — THE MICROPROCESSOR",
+      "hook": "PART XXIV — THE MICROPROCESSOR",
+      "category": "The mouse",
+      "tags": [
+        "The mouse",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

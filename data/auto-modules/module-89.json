@@ -1,0 +1,218 @@
+{
+  "id": "module-89",
+  "order": 89,
+  "label": "Processor before microprocessor",
+  "topicCount": 14,
+  "topics": [
+    {
+      "id": "lib-02088",
+      "rank": 1,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2088,
+      "title": "89. Processor before microprocessor",
+      "text": "89. Processor before microprocessor",
+      "hook": "89. Processor before microprocessor",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02089",
+      "rank": 2,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2089,
+      "title": "Earlier computer processors occupied:",
+      "text": "Earlier computer processors occupied:",
+      "hook": "Earlier computer processors occupied:",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02090",
+      "rank": 3,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2090,
+      "title": "* Multiple circuit boards.",
+      "text": "* Multiple circuit boards.",
+      "hook": "* Multiple circuit boards.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02091",
+      "rank": 4,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2091,
+      "title": "* Cabinets.",
+      "text": "* Cabinets.",
+      "hook": "* Cabinets.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02092",
+      "rank": 5,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2092,
+      "title": "* Entire rooms.",
+      "text": "* Entire rooms.",
+      "hook": "* Entire rooms.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02093",
+      "rank": 6,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2093,
+      "title": "An integrated circuit could place many components on one chip.",
+      "text": "An integrated circuit could place many components on one chip.",
+      "hook": "An integrated circuit could place many components on one chip.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02094",
+      "rank": 7,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2094,
+      "title": "A microprocessor places the central processing unit’s major logic on one or a...",
+      "text": "A microprocessor places the central processing unit’s major logic on one or a small number of integrated circuits, eventually one chip.",
+      "hook": "A microprocessor places the central processing unit’s major logic on one or a small number of integrated circuits, ev...",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02095",
+      "rank": 8,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2095,
+      "title": "This enabled:",
+      "text": "This enabled:",
+      "hook": "This enabled:",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02096",
+      "rank": 9,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2096,
+      "title": "* Smaller computers.",
+      "text": "* Smaller computers.",
+      "hook": "* Smaller computers.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02097",
+      "rank": 10,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2097,
+      "title": "* Cheaper computers.",
+      "text": "* Cheaper computers.",
+      "hook": "* Cheaper computers.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02098",
+      "rank": 11,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2098,
+      "title": "* Embedded control.",
+      "text": "* Embedded control.",
+      "hook": "* Embedded control.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02099",
+      "rank": 12,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2099,
+      "title": "* Personal computing.",
+      "text": "* Personal computing.",
+      "hook": "* Personal computing.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02100",
+      "rank": 13,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2100,
+      "title": "* Digital appliances.",
+      "text": "* Digital appliances.",
+      "hook": "* Digital appliances.",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02101",
+      "rank": 14,
+      "moduleId": "module-89",
+      "moduleLabel": "Processor before microprocessor",
+      "sourceLine": 2101,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Processor before microprocessor",
+      "tags": [
+        "Processor before microprocessor",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

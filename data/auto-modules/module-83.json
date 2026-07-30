@@ -1,0 +1,233 @@
+{
+  "id": "module-83",
+  "order": 83,
+  "label": "Time-sharing",
+  "topicCount": 15,
+  "topics": [
+    {
+      "id": "lib-01972",
+      "rank": 1,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1972,
+      "title": "83. Time-sharing",
+      "text": "83. Time-sharing",
+      "hook": "83. Time-sharing",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01973",
+      "rank": 2,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1973,
+      "title": "Time-sharing allows many users to interact with one computer through terminals.",
+      "text": "Time-sharing allows many users to interact with one computer through terminals.",
+      "hook": "Time-sharing allows many users to interact with one computer through terminals.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01974",
+      "rank": 3,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1974,
+      "title": "The computer rapidly switches among users, creating the impression that each ...",
+      "text": "The computer rapidly switches among users, creating the impression that each person has direct access.",
+      "hook": "The computer rapidly switches among users, creating the impression that each person has direct access.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01975",
+      "rank": 4,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1975,
+      "title": "Benefits:",
+      "text": "Benefits:",
+      "hook": "Benefits:",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01976",
+      "rank": 5,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1976,
+      "title": "* Immediate feedback.",
+      "text": "* Immediate feedback.",
+      "hook": "* Immediate feedback.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01977",
+      "rank": 6,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1977,
+      "title": "* Interactive programming.",
+      "text": "* Interactive programming.",
+      "hook": "* Interactive programming.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01978",
+      "rank": 7,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1978,
+      "title": "* Shared resources.",
+      "text": "* Shared resources.",
+      "hook": "* Shared resources.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01979",
+      "rank": 8,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1979,
+      "title": "* Online communities.",
+      "text": "* Online communities.",
+      "hook": "* Online communities.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01980",
+      "rank": 9,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1980,
+      "title": "* Foundations of networked computing.",
+      "text": "* Foundations of networked computing.",
+      "hook": "* Foundations of networked computing.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01981",
+      "rank": 10,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1981,
+      "title": "Important time-sharing projects included:",
+      "text": "Important time-sharing projects included:",
+      "hook": "Important time-sharing projects included:",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01982",
+      "rank": 11,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1982,
+      "title": "* CTSS at MIT.",
+      "text": "* CTSS at MIT.",
+      "hook": "* CTSS at MIT.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01983",
+      "rank": 12,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1983,
+      "title": "* Multics.",
+      "text": "* Multics.",
+      "hook": "* Multics.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01984",
+      "rank": 13,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1984,
+      "title": "* Dartmouth’s system associated with BASIC.",
+      "text": "* Dartmouth’s system associated with BASIC.",
+      "hook": "* Dartmouth’s system associated with BASIC.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01985",
+      "rank": 14,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1985,
+      "title": "* Commercial time-sharing services.",
+      "text": "* Commercial time-sharing services.",
+      "hook": "* Commercial time-sharing services.",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01986",
+      "rank": 15,
+      "moduleId": "module-83",
+      "moduleLabel": "Time-sharing",
+      "sourceLine": 1986,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Time-sharing",
+      "tags": [
+        "Time-sharing",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

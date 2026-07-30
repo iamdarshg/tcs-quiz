@@ -1,0 +1,248 @@
+{
+  "id": "module-48",
+  "order": 48,
+  "label": "ENIAC",
+  "topicCount": 16,
+  "topics": [
+    {
+      "id": "lib-01442",
+      "rank": 1,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1442,
+      "title": "48. ENIAC",
+      "text": "48. ENIAC",
+      "hook": "48. ENIAC",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01443",
+      "rank": 2,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1443,
+      "title": "The Electronic Numerical Integrator and Computer was designed by:",
+      "text": "The Electronic Numerical Integrator and Computer was designed by:",
+      "hook": "The Electronic Numerical Integrator and Computer was designed by:",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01444",
+      "rank": 3,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1444,
+      "title": "* John Mauchly.",
+      "text": "* John Mauchly.",
+      "hook": "* John Mauchly.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01445",
+      "rank": 4,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1445,
+      "title": "* J. Presper Eckert.",
+      "text": "* J. Presper Eckert.",
+      "hook": "* J. Presper Eckert.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01446",
+      "rank": 5,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1446,
+      "title": "It was built at the University of Pennsylvania for the US Army.",
+      "text": "It was built at the University of Pennsylvania for the US Army.",
+      "hook": "It was built at the University of Pennsylvania for the US Army.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01447",
+      "rank": 6,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1447,
+      "title": "Main facts",
+      "text": "Main facts",
+      "hook": "Main facts",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01448",
+      "rank": 7,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1448,
+      "title": "* Work began in 1943.",
+      "text": "* Work began in 1943.",
+      "hook": "* Work began in 1943.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01449",
+      "rank": 8,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1449,
+      "title": "* Publicly unveiled in February 1946.",
+      "text": "* Publicly unveiled in February 1946.",
+      "hook": "* Publicly unveiled in February 1946.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01450",
+      "rank": 9,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1450,
+      "title": "* Approximately 18,000 vacuum tubes.",
+      "text": "* Approximately 18,000 vacuum tubes.",
+      "hook": "* Approximately 18,000 vacuum tubes.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01451",
+      "rank": 10,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1451,
+      "title": "* Around 30 tons.",
+      "text": "* Around 30 tons.",
+      "hook": "* Around 30 tons.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01452",
+      "rank": 11,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1452,
+      "title": "* Occupied a large room.",
+      "text": "* Occupied a large room.",
+      "hook": "* Occupied a large room.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01453",
+      "rank": 12,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1453,
+      "title": "* Capable of about 5,000 additions per second.",
+      "text": "* Capable of about 5,000 additions per second.",
+      "hook": "* Capable of about 5,000 additions per second.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01454",
+      "rank": 13,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1454,
+      "title": "* Originally intended for artillery firing tables.",
+      "text": "* Originally intended for artillery firing tables.",
+      "hook": "* Originally intended for artillery firing tables.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01455",
+      "rank": 14,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1455,
+      "title": "* Used for several later scientific and military calculations.",
+      "text": "* Used for several later scientific and military calculations.",
+      "hook": "* Used for several later scientific and military calculations.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01456",
+      "rank": 15,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1456,
+      "title": "ENIAC was dramatically faster than electromechanical machines.",
+      "text": "ENIAC was dramatically faster than electromechanical machines.",
+      "hook": "ENIAC was dramatically faster than electromechanical machines.",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01457",
+      "rank": 16,
+      "moduleId": "module-48",
+      "moduleLabel": "ENIAC",
+      "sourceLine": 1457,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "ENIAC",
+      "tags": [
+        "ENIAC",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

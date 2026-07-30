@@ -1,0 +1,188 @@
+{
+  "id": "module-23",
+  "order": 23,
+  "label": "Lovelace’s deeper insight",
+  "topicCount": 12,
+  "topics": [
+    {
+      "id": "lib-00947",
+      "rank": 1,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 947,
+      "title": "23. Lovelace’s deeper insight",
+      "text": "23. Lovelace’s deeper insight",
+      "hook": "23. Lovelace’s deeper insight",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00948",
+      "rank": 2,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 948,
+      "title": "Lovelace understood that a programmable machine could manipulate representati...",
+      "text": "Lovelace understood that a programmable machine could manipulate representations, not merely quantities.",
+      "hook": "Lovelace understood that a programmable machine could manipulate representations, not merely quantities.",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00949",
+      "rank": 3,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 949,
+      "title": "If numbers represented:",
+      "text": "If numbers represented:",
+      "hook": "If numbers represented:",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00950",
+      "rank": 4,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 950,
+      "title": "* Musical notes.",
+      "text": "* Musical notes.",
+      "hook": "* Musical notes.",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00951",
+      "rank": 5,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 951,
+      "title": "* Letters.",
+      "text": "* Letters.",
+      "hook": "* Letters.",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00952",
+      "rank": 6,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 952,
+      "title": "* Logical symbols.",
+      "text": "* Logical symbols.",
+      "hook": "* Logical symbols.",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00953",
+      "rank": 7,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 953,
+      "title": "* Other structured relationships,",
+      "text": "* Other structured relationships,",
+      "hook": "* Other structured relationships,",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00954",
+      "rank": 8,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 954,
+      "title": "then the machine could process those forms as well.",
+      "text": "then the machine could process those forms as well.",
+      "hook": "then the machine could process those forms as well.",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00955",
+      "rank": 9,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 955,
+      "title": "That is the essence of general digital computing:",
+      "text": "That is the essence of general digital computing:",
+      "hook": "That is the essence of general digital computing:",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00956",
+      "rank": 10,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 956,
+      "title": "A computer does not inherently know whether a bit pattern represents a number...",
+      "text": "A computer does not inherently know whether a bit pattern represents a number, word, colour, sound or instruction. Meaning comes from the interpretation imposed by the program.",
+      "hook": "A computer does not inherently know whether a bit pattern represents a number, word, colour, sound or instruction. Me...",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00957",
+      "rank": 11,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 957,
+      "title": "The Science Museum highlights her recognition that the Analytical Engine coul...",
+      "text": "The Science Museum highlights her recognition that the Analytical Engine could manipulate symbols and possibly create music, extending its significance beyond numerical arithmetic.",
+      "hook": "The Science Museum highlights her recognition that the Analytical Engine could manipulate symbols and possibly create...",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00958",
+      "rank": 12,
+      "moduleId": "module-23",
+      "moduleLabel": "Lovelace’s deeper insight",
+      "sourceLine": 958,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Lovelace’s deeper insight",
+      "tags": [
+        "Lovelace’s deeper insight",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

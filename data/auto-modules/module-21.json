@@ -1,0 +1,128 @@
+{
+  "id": "module-21",
+  "order": 21,
+  "label": "Background",
+  "topicCount": 8,
+  "topics": [
+    {
+      "id": "lib-00927",
+      "rank": 1,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 927,
+      "title": "21. Background",
+      "text": "21. Background",
+      "hook": "21. Background",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00928",
+      "rank": 2,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 928,
+      "title": "Augusta Ada King, Countess of Lovelace, was the daughter of poet Lord Byron a...",
+      "text": "Augusta Ada King, Countess of Lovelace, was the daughter of poet Lord Byron and Annabella Milbanke.",
+      "hook": "Augusta Ada King, Countess of Lovelace, was the daughter of poet Lord Byron and Annabella Milbanke.",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00929",
+      "rank": 3,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 929,
+      "title": "Her mother encouraged mathematical education, partly hoping to counter what s...",
+      "text": "Her mother encouraged mathematical education, partly hoping to counter what she saw as Byron’s unstable romantic temperament.",
+      "hook": "Her mother encouraged mathematical education, partly hoping to counter what she saw as Byron’s unstable romantic temp...",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00930",
+      "rank": 4,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 930,
+      "title": "Ada studied with figures including:",
+      "text": "Ada studied with figures including:",
+      "hook": "Ada studied with figures including:",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00931",
+      "rank": 5,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 931,
+      "title": "* Mary Somerville.",
+      "text": "* Mary Somerville.",
+      "hook": "* Mary Somerville.",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00932",
+      "rank": 6,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 932,
+      "title": "* Augustus De Morgan.",
+      "text": "* Augustus De Morgan.",
+      "hook": "* Augustus De Morgan.",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00933",
+      "rank": 7,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 933,
+      "title": "She met Babbage in 1833 and became fascinated by his machines.",
+      "text": "She met Babbage in 1833 and became fascinated by his machines.",
+      "hook": "She met Babbage in 1833 and became fascinated by his machines.",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00934",
+      "rank": 8,
+      "moduleId": "module-21",
+      "moduleLabel": "Background",
+      "sourceLine": 934,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Background",
+      "tags": [
+        "Background",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

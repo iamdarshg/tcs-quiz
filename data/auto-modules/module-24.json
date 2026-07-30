@@ -1,0 +1,293 @@
+{
+  "id": "module-24",
+  "order": 24,
+  "label": "Was Ada really the first programmer?",
+  "topicCount": 19,
+  "topics": [
+    {
+      "id": "lib-00961",
+      "rank": 1,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 961,
+      "title": "24. Was Ada really the first programmer?",
+      "text": "24. Was Ada really the first programmer?",
+      "hook": "24. Was Ada really the first programmer?",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00962",
+      "rank": 2,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 962,
+      "title": "The safest quiz answer is:",
+      "text": "The safest quiz answer is:",
+      "hook": "The safest quiz answer is:",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00963",
+      "rank": 3,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 963,
+      "title": "Ada Lovelace is widely credited as the first computer programmer because her ...",
+      "text": "Ada Lovelace is widely credited as the first computer programmer because her Notes contain the first published algorithm intended for a general-purpose computing machine.",
+      "hook": "Ada Lovelace is widely credited as the first computer programmer because her Notes contain the first published algori...",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00964",
+      "rank": 4,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 964,
+      "title": "The historical debate arises because:",
+      "text": "The historical debate arises because:",
+      "hook": "The historical debate arises because:",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00965",
+      "rank": 5,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 965,
+      "title": "* Babbage had written procedures in his notebooks.",
+      "text": "* Babbage had written procedures in his notebooks.",
+      "hook": "* Babbage had written procedures in his notebooks.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00966",
+      "rank": 6,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 966,
+      "title": "* The machine was never built.",
+      "text": "* The machine was never built.",
+      "hook": "* The machine was never built.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00967",
+      "rank": 7,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 967,
+      "title": "* Scholars debate how much of the Bernoulli procedure was independently devel...",
+      "text": "* Scholars debate how much of the Bernoulli procedure was independently developed by Ada.",
+      "hook": "* Scholars debate how much of the Bernoulli procedure was independently developed by Ada.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00968",
+      "rank": 8,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 968,
+      "title": "* “Programmer” did not yet exist as a profession.",
+      "text": "* “Programmer” did not yet exist as a profession.",
+      "hook": "* “Programmer” did not yet exist as a profession.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00969",
+      "rank": 9,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 969,
+      "title": "Do not overcorrect and claim she contributed nothing. Her published explanati...",
+      "text": "Do not overcorrect and claim she contributed nothing. Her published explanation and conceptual interpretation were historically significant.",
+      "hook": "Do not overcorrect and claim she contributed nothing. Her published explanation and conceptual interpretation were hi...",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00970",
+      "rank": 10,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 970,
+      "title": "Eponym",
+      "text": "Eponym",
+      "hook": "Eponym",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00971",
+      "rank": 11,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 971,
+      "title": "The US Department of Defense programming language Ada was named after her.",
+      "text": "The US Department of Defense programming language Ada was named after her.",
+      "hook": "The US Department of Defense programming language Ada was named after her.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00972",
+      "rank": 12,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 972,
+      "title": "Visual clues",
+      "text": "Visual clues",
+      "hook": "Visual clues",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00973",
+      "rank": 13,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 973,
+      "title": "* Victorian portrait.",
+      "text": "* Victorian portrait.",
+      "hook": "* Victorian portrait.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00974",
+      "rank": 14,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 974,
+      "title": "* Elaborate hair arrangement.",
+      "text": "* Elaborate hair arrangement.",
+      "hook": "* Elaborate hair arrangement.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00975",
+      "rank": 15,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 975,
+      "title": "* Often associated with punched cards or Babbage’s engine.",
+      "text": "* Often associated with punched cards or Babbage’s engine.",
+      "hook": "* Often associated with punched cards or Babbage’s engine.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00976",
+      "rank": 16,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 976,
+      "title": "* Daughter-of-Byron clue.",
+      "text": "* Daughter-of-Byron clue.",
+      "hook": "* Daughter-of-Byron clue.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00977",
+      "rank": 17,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 977,
+      "title": "* “Enchantress of Numbers,” Babbage’s phrase for her.",
+      "text": "* “Enchantress of Numbers,” Babbage’s phrase for her.",
+      "hook": "* “Enchantress of Numbers,” Babbage’s phrase for her.",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00978",
+      "rank": 18,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 978,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00981",
+      "rank": 19,
+      "moduleId": "module-24",
+      "moduleLabel": "Was Ada really the first programmer?",
+      "sourceLine": 981,
+      "title": "PART IX — LOGIC BECOMES MACHINABLE",
+      "text": "PART IX — LOGIC BECOMES MACHINABLE",
+      "hook": "PART IX — LOGIC BECOMES MACHINABLE",
+      "category": "Was Ada really the first programmer?",
+      "tags": [
+        "Was Ada really the first programmer?",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

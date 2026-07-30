@@ -1,0 +1,158 @@
+{
+  "id": "module-58",
+  "order": 58,
+  "label": "UNIVAC I",
+  "topicCount": 10,
+  "topics": [
+    {
+      "id": "lib-01586",
+      "rank": 1,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1586,
+      "title": "58. UNIVAC I",
+      "text": "58. UNIVAC I",
+      "hook": "58. UNIVAC I",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01587",
+      "rank": 2,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1587,
+      "title": "Eckert and Mauchly later developed UNIVAC:",
+      "text": "Eckert and Mauchly later developed UNIVAC:",
+      "hook": "Eckert and Mauchly later developed UNIVAC:",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01588",
+      "rank": 3,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1588,
+      "title": "Universal Automatic Computer.",
+      "text": "Universal Automatic Computer.",
+      "hook": "Universal Automatic Computer.",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01589",
+      "rank": 4,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1589,
+      "title": "UNIVAC I:",
+      "text": "UNIVAC I:",
+      "hook": "UNIVAC I:",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01590",
+      "rank": 5,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1590,
+      "title": "* Used vacuum tubes.",
+      "text": "* Used vacuum tubes.",
+      "hook": "* Used vacuum tubes.",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01591",
+      "rank": 6,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1591,
+      "title": "* Used magnetic tape.",
+      "text": "* Used magnetic tape.",
+      "hook": "* Used magnetic tape.",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01592",
+      "rank": 7,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1592,
+      "title": "* Was delivered to the US Census Bureau in 1951.",
+      "text": "* Was delivered to the US Census Bureau in 1951.",
+      "hook": "* Was delivered to the US Census Bureau in 1951.",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01593",
+      "rank": 8,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1593,
+      "title": "* Became the first commercially produced computer in the United States.",
+      "text": "* Became the first commercially produced computer in the United States.",
+      "hook": "* Became the first commercially produced computer in the United States.",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01594",
+      "rank": 9,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1594,
+      "title": "It gained publicity after a UNIVAC system correctly projected the result of t...",
+      "text": "It gained publicity after a UNIVAC system correctly projected the result of the 1952 US presidential election earlier than many human commentators expected.",
+      "hook": "It gained publicity after a UNIVAC system correctly projected the result of the 1952 US presidential election earlier...",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01595",
+      "rank": 10,
+      "moduleId": "module-58",
+      "moduleLabel": "UNIVAC I",
+      "sourceLine": 1595,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "UNIVAC I",
+      "tags": [
+        "UNIVAC I",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "id": "module-16",
+  "order": 16,
+  "label": "The Jacquard loom",
+  "topicCount": 26,
+  "topics": [
+    {
+      "id": "lib-00794",
+      "rank": 1,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 794,
+      "title": "16. The Jacquard loom",
+      "text": "16. The Jacquard loom",
+      "hook": "16. The Jacquard loom",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00795",
+      "rank": 2,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 795,
+      "title": "In the early nineteenth century, Joseph Marie Jacquard developed an automated...",
+      "text": "In the early nineteenth century, Joseph Marie Jacquard developed an automated loom controlled by punched cards.",
+      "hook": "In the early nineteenth century, Joseph Marie Jacquard developed an automated loom controlled by punched cards.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00796",
+      "rank": 3,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 796,
+      "title": "Each card represented part of a weaving pattern:",
+      "text": "Each card represented part of a weaving pattern:",
+      "hook": "Each card represented part of a weaving pattern:",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00797",
+      "rank": 4,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 797,
+      "title": "* Hole: one control action.",
+      "text": "* Hole: one control action.",
+      "hook": "* Hole: one control action.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00798",
+      "rank": 5,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 798,
+      "title": "* No hole: another control action.",
+      "text": "* No hole: another control action.",
+      "hook": "* No hole: another control action.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00799",
+      "rank": 6,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 799,
+      "title": "A sequence of cards produced a complex design.",
+      "text": "A sequence of cards produced a complex design.",
+      "hook": "A sequence of cards produced a complex design.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00800",
+      "rank": 7,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 800,
+      "title": "The loom did not calculate mathematical problems, but it demonstrated that:",
+      "text": "The loom did not calculate mathematical problems, but it demonstrated that:",
+      "hook": "The loom did not calculate mathematical problems, but it demonstrated that:",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00801",
+      "rank": 8,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 801,
+      "title": "Instructions can be encoded outside a machine and fed into it as a reusable s...",
+      "text": "Instructions can be encoded outside a machine and fed into it as a reusable sequence.",
+      "hook": "Instructions can be encoded outside a machine and fed into it as a reusable sequence.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00802",
+      "rank": 9,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 802,
+      "title": "This idea directly influenced Babbage.",
+      "text": "This idea directly influenced Babbage.",
+      "hook": "This idea directly influenced Babbage.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00803",
+      "rank": 10,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 803,
+      "title": "Why Jacquard matters",
+      "text": "Why Jacquard matters",
+      "hook": "Why Jacquard matters",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00804",
+      "rank": 11,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 804,
+      "title": "It connects:",
+      "text": "It connects:",
+      "hook": "It connects:",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00805",
+      "rank": 12,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 805,
+      "title": "* Textile history.",
+      "text": "* Textile history.",
+      "hook": "* Textile history.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00806",
+      "rank": 13,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 806,
+      "title": "* Automation.",
+      "text": "* Automation.",
+      "hook": "* Automation.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00807",
+      "rank": 14,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 807,
+      "title": "* Labour unrest.",
+      "text": "* Labour unrest.",
+      "hook": "* Labour unrest.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00808",
+      "rank": 15,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 808,
+      "title": "* Punched cards.",
+      "text": "* Punched cards.",
+      "hook": "* Punched cards.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00809",
+      "rank": 16,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 809,
+      "title": "* Babbage.",
+      "text": "* Babbage.",
+      "hook": "* Babbage.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00810",
+      "rank": 17,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 810,
+      "title": "* Hollerith.",
+      "text": "* Hollerith.",
+      "hook": "* Hollerith.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00811",
+      "rank": 18,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 811,
+      "title": "* IBM.",
+      "text": "* IBM.",
+      "hook": "* IBM.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00812",
+      "rank": 19,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 812,
+      "title": "* Early software.",
+      "text": "* Early software.",
+      "hook": "* Early software.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00813",
+      "rank": 20,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 813,
+      "title": "Visual clues",
+      "text": "Visual clues",
+      "hook": "Visual clues",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00814",
+      "rank": 21,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 814,
+      "title": "Look for:",
+      "text": "Look for:",
+      "hook": "Look for:",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00815",
+      "rank": 22,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 815,
+      "title": "* A loom with a chain of rectangular cards.",
+      "text": "* A loom with a chain of rectangular cards.",
+      "hook": "* A loom with a chain of rectangular cards.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00816",
+      "rank": 23,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 816,
+      "title": "* Repeated rows of holes.",
+      "text": "* Repeated rows of holes.",
+      "hook": "* Repeated rows of holes.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00817",
+      "rank": 24,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 817,
+      "title": "* Woven portrait patterns demonstrating fine control.",
+      "text": "* Woven portrait patterns demonstrating fine control.",
+      "hook": "* Woven portrait patterns demonstrating fine control.",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00818",
+      "rank": 25,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 818,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00821",
+      "rank": 26,
+      "moduleId": "module-16",
+      "moduleLabel": "The Jacquard loom",
+      "sourceLine": 821,
+      "title": "PART VII — CHARLES BABBAGE: FROM CALCULATOR TO COMPUTER",
+      "text": "PART VII — CHARLES BABBAGE: FROM CALCULATOR TO COMPUTER",
+      "hook": "PART VII — CHARLES BABBAGE: FROM CALCULATOR TO COMPUTER",
+      "category": "The Jacquard loom",
+      "tags": [
+        "The Jacquard loom",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "module-59",
+  "order": 59,
+  "label": "LEO I",
+  "topicCount": 13,
+  "topics": [
+    {
+      "id": "lib-01598",
+      "rank": 1,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1598,
+      "title": "59. LEO I",
+      "text": "59. LEO I",
+      "hook": "59. LEO I",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01599",
+      "rank": 2,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1599,
+      "title": "British catering company J. Lyons & Co. used computers to manage business ope...",
+      "text": "British catering company J. Lyons & Co. used computers to manage business operations.",
+      "hook": "British catering company J. Lyons & Co. used computers to manage business operations.",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01600",
+      "rank": 3,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1600,
+      "title": "Its LEO computer was based partly on EDSAC ideas.",
+      "text": "Its LEO computer was based partly on EDSAC ideas.",
+      "hook": "Its LEO computer was based partly on EDSAC ideas.",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01601",
+      "rank": 4,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1601,
+      "title": "LEO stands for:",
+      "text": "LEO stands for:",
+      "hook": "LEO stands for:",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01602",
+      "rank": 5,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1602,
+      "title": "Lyons Electronic Office.",
+      "text": "Lyons Electronic Office.",
+      "hook": "Lyons Electronic Office.",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01603",
+      "rank": 6,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1603,
+      "title": "It processed work such as:",
+      "text": "It processed work such as:",
+      "hook": "It processed work such as:",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01604",
+      "rank": 7,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1604,
+      "title": "* Payroll.",
+      "text": "* Payroll.",
+      "hook": "* Payroll.",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01605",
+      "rank": 8,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1605,
+      "title": "* Inventory.",
+      "text": "* Inventory.",
+      "hook": "* Inventory.",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01606",
+      "rank": 9,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1606,
+      "title": "* Production scheduling.",
+      "text": "* Production scheduling.",
+      "hook": "* Production scheduling.",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01607",
+      "rank": 10,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1607,
+      "title": "* Delivery management.",
+      "text": "* Delivery management.",
+      "hook": "* Delivery management.",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01608",
+      "rank": 11,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1608,
+      "title": "It is widely regarded as the first computer built for routine business data p...",
+      "text": "It is widely regarded as the first computer built for routine business data processing. The extraordinary quiz hook is that a company associated with tea shops, cakes and catering became a computing pioneer.",
+      "hook": "It is widely regarded as the first computer built for routine business data processing. The extraordinary quiz hook i...",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01609",
+      "rank": 12,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1609,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01612",
+      "rank": 13,
+      "moduleId": "module-59",
+      "moduleLabel": "LEO I",
+      "sourceLine": 1612,
+      "title": "PART XVIII — FROM VACUUM TUBES TO TRANSISTORS",
+      "text": "PART XVIII — FROM VACUUM TUBES TO TRANSISTORS",
+      "hook": "PART XVIII — FROM VACUUM TUBES TO TRANSISTORS",
+      "category": "LEO I",
+      "tags": [
+        "LEO I",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

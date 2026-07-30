@@ -1,0 +1,353 @@
+{
+  "id": "module-91",
+  "order": 91,
+  "label": "The Intel 4004",
+  "topicCount": 23,
+  "topics": [
+    {
+      "id": "lib-02111",
+      "rank": 1,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2111,
+      "title": "91. The Intel 4004",
+      "text": "91. The Intel 4004",
+      "hook": "91. The Intel 4004",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02112",
+      "rank": 2,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2112,
+      "title": "Japanese calculator company Busicom asked Intel to design chips for a calcula...",
+      "text": "Japanese calculator company Busicom asked Intel to design chips for a calculator.",
+      "hook": "Japanese calculator company Busicom asked Intel to design chips for a calculator.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02113",
+      "rank": 3,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2113,
+      "title": "Contributors to the resulting microprocessor project included:",
+      "text": "Contributors to the resulting microprocessor project included:",
+      "hook": "Contributors to the resulting microprocessor project included:",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02114",
+      "rank": 4,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2114,
+      "title": "* Ted Hoff.",
+      "text": "* Ted Hoff.",
+      "hook": "* Ted Hoff.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02115",
+      "rank": 5,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2115,
+      "title": "* Stan Mazor.",
+      "text": "* Stan Mazor.",
+      "hook": "* Stan Mazor.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02116",
+      "rank": 6,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2116,
+      "title": "* Federico Faggin.",
+      "text": "* Federico Faggin.",
+      "hook": "* Federico Faggin.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02117",
+      "rank": 7,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2117,
+      "title": "* Masatoshi Shima.",
+      "text": "* Masatoshi Shima.",
+      "hook": "* Masatoshi Shima.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02118",
+      "rank": 8,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2118,
+      "title": "Intel announced the 4004 in 1971.",
+      "text": "Intel announced the 4004 in 1971.",
+      "hook": "Intel announced the 4004 in 1971.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02119",
+      "rank": 9,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2119,
+      "title": "It was:",
+      "text": "It was:",
+      "hook": "It was:",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02120",
+      "rank": 10,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2120,
+      "title": "* 4-bit.",
+      "text": "* 4-bit.",
+      "hook": "* 4-bit.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02121",
+      "rank": 11,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2121,
+      "title": "* Designed initially for calculators.",
+      "text": "* Designed initially for calculators.",
+      "hook": "* Designed initially for calculators.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02122",
+      "rank": 12,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2122,
+      "title": "* General-purpose and programmable.",
+      "text": "* General-purpose and programmable.",
+      "hook": "* General-purpose and programmable.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02123",
+      "rank": 13,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2123,
+      "title": "* Built with roughly 2,300 transistors.",
+      "text": "* Built with roughly 2,300 transistors.",
+      "hook": "* Built with roughly 2,300 transistors.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02124",
+      "rank": 14,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2124,
+      "title": "* The first commercially available general-purpose single-chip microprocessor.",
+      "text": "* The first commercially available general-purpose single-chip microprocessor.",
+      "hook": "* The first commercially available general-purpose single-chip microprocessor.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02125",
+      "rank": 15,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2125,
+      "title": "Intel later obtained broader rights from Busicom.",
+      "text": "Intel later obtained broader rights from Busicom.",
+      "hook": "Intel later obtained broader rights from Busicom.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02126",
+      "rank": 16,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2126,
+      "title": "Do not erase contributors",
+      "text": "Do not erase contributors",
+      "hook": "Do not erase contributors",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02127",
+      "rank": 17,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2127,
+      "title": "Quiz questions may ask:",
+      "text": "Quiz questions may ask:",
+      "hook": "Quiz questions may ask:",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02128",
+      "rank": 18,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2128,
+      "title": "* Who conceived the simplified architecture? Ted Hoff.",
+      "text": "* Who conceived the simplified architecture? Ted Hoff.",
+      "hook": "* Who conceived the simplified architecture? Ted Hoff.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02129",
+      "rank": 19,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2129,
+      "title": "* Who led detailed chip implementation? Federico Faggin.",
+      "text": "* Who led detailed chip implementation? Federico Faggin.",
+      "hook": "* Who led detailed chip implementation? Federico Faggin.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02130",
+      "rank": 20,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2130,
+      "title": "* Which Japanese engineer contributed? Masatoshi Shima.",
+      "text": "* Which Japanese engineer contributed? Masatoshi Shima.",
+      "hook": "* Which Japanese engineer contributed? Masatoshi Shima.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02131",
+      "rank": 21,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2131,
+      "title": "* Which company commissioned it? Busicom.",
+      "text": "* Which company commissioned it? Busicom.",
+      "hook": "* Which company commissioned it? Busicom.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02132",
+      "rank": 22,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2132,
+      "title": "* Which Intel engineer worked with Hoff? Stan Mazor.",
+      "text": "* Which Intel engineer worked with Hoff? Stan Mazor.",
+      "hook": "* Which Intel engineer worked with Hoff? Stan Mazor.",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-02133",
+      "rank": 23,
+      "moduleId": "module-91",
+      "moduleLabel": "The Intel 4004",
+      "sourceLine": 2133,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The Intel 4004",
+      "tags": [
+        "The Intel 4004",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

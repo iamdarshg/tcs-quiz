@@ -1,0 +1,173 @@
+{
+  "id": "module-53",
+  "order": 53,
+  "label": "Von Neumann architecture",
+  "topicCount": 11,
+  "topics": [
+    {
+      "id": "lib-01522",
+      "rank": 1,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1522,
+      "title": "53. Von Neumann architecture",
+      "text": "53. Von Neumann architecture",
+      "hook": "53. Von Neumann architecture",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01523",
+      "rank": 2,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1523,
+      "title": "The standard simplified model consists of:",
+      "text": "The standard simplified model consists of:",
+      "hook": "The standard simplified model consists of:",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01524",
+      "rank": 3,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1524,
+      "title": "1. Memory",
+      "text": "1. Memory",
+      "hook": "1. Memory",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01525",
+      "rank": 4,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1525,
+      "title": "2. Arithmetic Logic Unit",
+      "text": "2. Arithmetic Logic Unit",
+      "hook": "2. Arithmetic Logic Unit",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01526",
+      "rank": 5,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1526,
+      "title": "3. Control Unit",
+      "text": "3. Control Unit",
+      "hook": "3. Control Unit",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01527",
+      "rank": 6,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1527,
+      "title": "4. Input",
+      "text": "4. Input",
+      "hook": "4. Input",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01528",
+      "rank": 7,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1528,
+      "title": "5. Output",
+      "text": "5. Output",
+      "hook": "5. Output",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01529",
+      "rank": 8,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1529,
+      "title": "Instructions and data share memory and communication paths.",
+      "text": "Instructions and data share memory and communication paths.",
+      "hook": "Instructions and data share memory and communication paths.",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01530",
+      "rank": 9,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1530,
+      "title": "Von Neumann bottleneck",
+      "text": "Von Neumann bottleneck",
+      "hook": "Von Neumann bottleneck",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01531",
+      "rank": 10,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1531,
+      "title": "Because instructions and data must travel between memory and processor, the t...",
+      "text": "Because instructions and data must travel between memory and processor, the transfer channel can limit performance.",
+      "hook": "Because instructions and data must travel between memory and processor, the transfer channel can limit performance.",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01532",
+      "rank": 11,
+      "moduleId": "module-53",
+      "moduleLabel": "Von Neumann architecture",
+      "sourceLine": 1532,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Von Neumann architecture",
+      "tags": [
+        "Von Neumann architecture",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

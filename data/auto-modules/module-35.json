@@ -1,0 +1,218 @@
+{
+  "id": "module-35",
+  "order": 35,
+  "label": "Relays",
+  "topicCount": 14,
+  "topics": [
+    {
+      "id": "lib-01233",
+      "rank": 1,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1233,
+      "title": "35. Relays",
+      "text": "35. Relays",
+      "hook": "35. Relays",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01234",
+      "rank": 2,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1234,
+      "title": "A relay is an electrically controlled switch.",
+      "text": "A relay is an electrically controlled switch.",
+      "hook": "A relay is an electrically controlled switch.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01235",
+      "rank": 3,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1235,
+      "title": "Relays allowed machines to implement logic without requiring a human to move ...",
+      "text": "Relays allowed machines to implement logic without requiring a human to move every switch.",
+      "hook": "Relays allowed machines to implement logic without requiring a human to move every switch.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01236",
+      "rank": 4,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1236,
+      "title": "Advantages over purely mechanical systems:",
+      "text": "Advantages over purely mechanical systems:",
+      "hook": "Advantages over purely mechanical systems:",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01237",
+      "rank": 5,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1237,
+      "title": "* Electrical control.",
+      "text": "* Electrical control.",
+      "hook": "* Electrical control.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01238",
+      "rank": 6,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1238,
+      "title": "* Easier connection over distance.",
+      "text": "* Easier connection over distance.",
+      "hook": "* Easier connection over distance.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01239",
+      "rank": 7,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1239,
+      "title": "* Ability to construct logical circuits.",
+      "text": "* Ability to construct logical circuits.",
+      "hook": "* Ability to construct logical circuits.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01240",
+      "rank": 8,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1240,
+      "title": "Disadvantages:",
+      "text": "Disadvantages:",
+      "hook": "Disadvantages:",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01241",
+      "rank": 9,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1241,
+      "title": "* Slow mechanical movement.",
+      "text": "* Slow mechanical movement.",
+      "hook": "* Slow mechanical movement.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01242",
+      "rank": 10,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1242,
+      "title": "* Noise.",
+      "text": "* Noise.",
+      "hook": "* Noise.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01243",
+      "rank": 11,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1243,
+      "title": "* Wear.",
+      "text": "* Wear.",
+      "hook": "* Wear.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01244",
+      "rank": 12,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1244,
+      "title": "* Contact failure.",
+      "text": "* Contact failure.",
+      "hook": "* Contact failure.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01245",
+      "rank": 13,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1245,
+      "title": "* Large size.",
+      "text": "* Large size.",
+      "hook": "* Large size.",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01246",
+      "rank": 14,
+      "moduleId": "module-35",
+      "moduleLabel": "Relays",
+      "sourceLine": 1246,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Relays",
+      "tags": [
+        "Relays",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

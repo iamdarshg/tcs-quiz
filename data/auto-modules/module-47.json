@@ -1,0 +1,263 @@
+{
+  "id": "module-47",
+  "order": 47,
+  "label": "The Atanasoff–Berry Computer",
+  "topicCount": 17,
+  "topics": [
+    {
+      "id": "lib-01423",
+      "rank": 1,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1423,
+      "title": "47. The Atanasoff–Berry Computer",
+      "text": "47. The Atanasoff–Berry Computer",
+      "hook": "47. The Atanasoff–Berry Computer",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01424",
+      "rank": 2,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1424,
+      "title": "At Iowa State College, physicist John Vincent Atanasoff and graduate student ...",
+      "text": "At Iowa State College, physicist John Vincent Atanasoff and graduate student Clifford Berry developed the ABC between 1939 and 1942.",
+      "hook": "At Iowa State College, physicist John Vincent Atanasoff and graduate student Clifford Berry developed the ABC between...",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01425",
+      "rank": 3,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1425,
+      "title": "The machine used:",
+      "text": "The machine used:",
+      "hook": "The machine used:",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01426",
+      "rank": 4,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1426,
+      "title": "* Electronic vacuum-tube logic.",
+      "text": "* Electronic vacuum-tube logic.",
+      "hook": "* Electronic vacuum-tube logic.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01427",
+      "rank": 5,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1427,
+      "title": "* Binary arithmetic.",
+      "text": "* Binary arithmetic.",
+      "hook": "* Binary arithmetic.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01428",
+      "rank": 6,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1428,
+      "title": "* Capacitor-based regenerative memory.",
+      "text": "* Capacitor-based regenerative memory.",
+      "hook": "* Capacitor-based regenerative memory.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01429",
+      "rank": 7,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1429,
+      "title": "* Separate memory and computing functions.",
+      "text": "* Separate memory and computing functions.",
+      "hook": "* Separate memory and computing functions.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01430",
+      "rank": 8,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1430,
+      "title": "It was designed for solving systems of linear equations.",
+      "text": "It was designed for solving systems of linear equations.",
+      "hook": "It was designed for solving systems of linear equations.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01431",
+      "rank": 9,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1431,
+      "title": "Why it matters",
+      "text": "Why it matters",
+      "hook": "Why it matters",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01432",
+      "rank": 10,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1432,
+      "title": "The ABC introduced important electronic-computing ideas.",
+      "text": "The ABC introduced important electronic-computing ideas.",
+      "hook": "The ABC introduced important electronic-computing ideas.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01433",
+      "rank": 11,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1433,
+      "title": "Why it is not simply “the first computer”",
+      "text": "Why it is not simply “the first computer”",
+      "hook": "Why it is not simply “the first computer”",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01434",
+      "rank": 12,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1434,
+      "title": "It was:",
+      "text": "It was:",
+      "hook": "It was:",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01435",
+      "rank": 13,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1435,
+      "title": "* Special-purpose.",
+      "text": "* Special-purpose.",
+      "hook": "* Special-purpose.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01436",
+      "rank": 14,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1436,
+      "title": "* Not freely programmable.",
+      "text": "* Not freely programmable.",
+      "hook": "* Not freely programmable.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01437",
+      "rank": 15,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1437,
+      "title": "* Not completed as an operational general-purpose machine.",
+      "text": "* Not completed as an operational general-purpose machine.",
+      "hook": "* Not completed as an operational general-purpose machine.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01438",
+      "rank": 16,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1438,
+      "title": "A later US court case invalidated ENIAC-related patent claims and recognised ...",
+      "text": "A later US court case invalidated ENIAC-related patent claims and recognised Atanasoff’s prior ideas.",
+      "hook": "A later US court case invalidated ENIAC-related patent claims and recognised Atanasoff’s prior ideas.",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01439",
+      "rank": 17,
+      "moduleId": "module-47",
+      "moduleLabel": "The Atanasoff–Berry Computer",
+      "sourceLine": 1439,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The Atanasoff–Berry Computer",
+      "tags": [
+        "The Atanasoff–Berry Computer",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

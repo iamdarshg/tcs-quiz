@@ -1,0 +1,203 @@
+{
+  "id": "module-73",
+  "order": 73,
+  "label": "Magnetic core memory",
+  "topicCount": 13,
+  "topics": [
+    {
+      "id": "lib-01811",
+      "rank": 1,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1811,
+      "title": "73. Magnetic core memory",
+      "text": "73. Magnetic core memory",
+      "hook": "73. Magnetic core memory",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01812",
+      "rank": 2,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1812,
+      "title": "Magnetic core memory used tiny ferrite rings.",
+      "text": "Magnetic core memory used tiny ferrite rings.",
+      "hook": "Magnetic core memory used tiny ferrite rings.",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01813",
+      "rank": 3,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1813,
+      "title": "Each core could be magnetised in one of two directions to represent a bit.",
+      "text": "Each core could be magnetised in one of two directions to represent a bit.",
+      "hook": "Each core could be magnetised in one of two directions to represent a bit.",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01814",
+      "rank": 4,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1814,
+      "title": "Important characteristics:",
+      "text": "Important characteristics:",
+      "hook": "Important characteristics:",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01815",
+      "rank": 5,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1815,
+      "title": "* Non-volatile.",
+      "text": "* Non-volatile.",
+      "hook": "* Non-volatile.",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01816",
+      "rank": 6,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1816,
+      "title": "* Reliable.",
+      "text": "* Reliable.",
+      "hook": "* Reliable.",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01817",
+      "rank": 7,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1817,
+      "title": "* Random access.",
+      "text": "* Random access.",
+      "hook": "* Random access.",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01818",
+      "rank": 8,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1818,
+      "title": "* Faster than many earlier systems.",
+      "text": "* Faster than many earlier systems.",
+      "hook": "* Faster than many earlier systems.",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01819",
+      "rank": 9,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1819,
+      "title": "* Labour-intensive to manufacture.",
+      "text": "* Labour-intensive to manufacture.",
+      "hook": "* Labour-intensive to manufacture.",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01820",
+      "rank": 10,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1820,
+      "title": "Jay Forrester’s work on MIT’s Whirlwind helped perfect magnetic core memory, ...",
+      "text": "Jay Forrester’s work on MIT’s Whirlwind helped perfect magnetic core memory, which dominated main memory from the 1950s into the 1970s.",
+      "hook": "Jay Forrester’s work on MIT’s Whirlwind helped perfect magnetic core memory, which dominated main memory from the 195...",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01821",
+      "rank": 11,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1821,
+      "title": "Terminology legacy",
+      "text": "Terminology legacy",
+      "hook": "Terminology legacy",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01822",
+      "rank": 12,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1822,
+      "title": "Older programmers sometimes still refer to a crash dump as a core dump, even ...",
+      "text": "Older programmers sometimes still refer to a crash dump as a core dump, even though modern memory no longer uses magnetic cores.",
+      "hook": "Older programmers sometimes still refer to a crash dump as a core dump, even though modern memory no longer uses magn...",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01823",
+      "rank": 13,
+      "moduleId": "module-73",
+      "moduleLabel": "Magnetic core memory",
+      "sourceLine": 1823,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Magnetic core memory",
+      "tags": [
+        "Magnetic core memory",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

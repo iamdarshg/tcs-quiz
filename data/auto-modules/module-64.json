@@ -1,0 +1,68 @@
+{
+  "id": "module-64",
+  "order": 64,
+  "label": "Jack Kilby",
+  "topicCount": 4,
+  "topics": [
+    {
+      "id": "lib-01682",
+      "rank": 1,
+      "moduleId": "module-64",
+      "moduleLabel": "Jack Kilby",
+      "sourceLine": 1682,
+      "title": "64. Jack Kilby",
+      "text": "64. Jack Kilby",
+      "hook": "64. Jack Kilby",
+      "category": "Jack Kilby",
+      "tags": [
+        "Jack Kilby",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01683",
+      "rank": 2,
+      "moduleId": "module-64",
+      "moduleLabel": "Jack Kilby",
+      "sourceLine": 1683,
+      "title": "At Texas Instruments, Jack Kilby demonstrated an integrated circuit in 1958.",
+      "text": "At Texas Instruments, Jack Kilby demonstrated an integrated circuit in 1958.",
+      "hook": "At Texas Instruments, Jack Kilby demonstrated an integrated circuit in 1958.",
+      "category": "Jack Kilby",
+      "tags": [
+        "Jack Kilby",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01684",
+      "rank": 3,
+      "moduleId": "module-64",
+      "moduleLabel": "Jack Kilby",
+      "sourceLine": 1684,
+      "title": "His design showed that multiple circuit elements could be fabricated from sem...",
+      "text": "His design showed that multiple circuit elements could be fabricated from semiconductor material as a single unit.",
+      "hook": "His design showed that multiple circuit elements could be fabricated from semiconductor material as a single unit.",
+      "category": "Jack Kilby",
+      "tags": [
+        "Jack Kilby",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01685",
+      "rank": 4,
+      "moduleId": "module-64",
+      "moduleLabel": "Jack Kilby",
+      "sourceLine": 1685,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Jack Kilby",
+      "tags": [
+        "Jack Kilby",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

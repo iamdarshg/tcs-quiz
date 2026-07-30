@@ -1,0 +1,353 @@
+{
+  "id": "module-31",
+  "order": 31,
+  "label": "Analogue computers",
+  "topicCount": 23,
+  "topics": [
+    {
+      "id": "lib-01161",
+      "rank": 1,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1161,
+      "title": "31. Analogue computers",
+      "text": "31. Analogue computers",
+      "hook": "31. Analogue computers",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01162",
+      "rank": 2,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1162,
+      "title": "An analogue computer represents one quantity through another continuously var...",
+      "text": "An analogue computer represents one quantity through another continuously varying physical quantity.",
+      "hook": "An analogue computer represents one quantity through another continuously varying physical quantity.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01163",
+      "rank": 3,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1163,
+      "title": "Examples:",
+      "text": "Examples:",
+      "hook": "Examples:",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01164",
+      "rank": 4,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1164,
+      "title": "* Position.",
+      "text": "* Position.",
+      "hook": "* Position.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01165",
+      "rank": 5,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1165,
+      "title": "* Angle.",
+      "text": "* Angle.",
+      "hook": "* Angle.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01166",
+      "rank": 6,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1166,
+      "title": "* Voltage.",
+      "text": "* Voltage.",
+      "hook": "* Voltage.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01167",
+      "rank": 7,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1167,
+      "title": "* Fluid level.",
+      "text": "* Fluid level.",
+      "hook": "* Fluid level.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01168",
+      "rank": 8,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1168,
+      "title": "* Rotation speed.",
+      "text": "* Rotation speed.",
+      "hook": "* Rotation speed.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01169",
+      "rank": 9,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1169,
+      "title": "* Pressure.",
+      "text": "* Pressure.",
+      "hook": "* Pressure.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01170",
+      "rank": 10,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1170,
+      "title": "A slide rule represents multiplication through physical distance.",
+      "text": "A slide rule represents multiplication through physical distance.",
+      "hook": "A slide rule represents multiplication through physical distance.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01171",
+      "rank": 11,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1171,
+      "title": "A mechanical differential analyser represents mathematical relationships thro...",
+      "text": "A mechanical differential analyser represents mathematical relationships through rotating shafts and disks.",
+      "hook": "A mechanical differential analyser represents mathematical relationships through rotating shafts and disks.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01172",
+      "rank": 12,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1172,
+      "title": "Advantages",
+      "text": "Advantages",
+      "hook": "Advantages",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01173",
+      "rank": 13,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1173,
+      "title": "* Natural modelling of continuous systems.",
+      "text": "* Natural modelling of continuous systems.",
+      "hook": "* Natural modelling of continuous systems.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01174",
+      "rank": 14,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1174,
+      "title": "* Real-time behaviour.",
+      "text": "* Real-time behaviour.",
+      "hook": "* Real-time behaviour.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01175",
+      "rank": 15,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1175,
+      "title": "* Historically fast for certain differential equations.",
+      "text": "* Historically fast for certain differential equations.",
+      "hook": "* Historically fast for certain differential equations.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01176",
+      "rank": 16,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1176,
+      "title": "* Useful for simulation and control.",
+      "text": "* Useful for simulation and control.",
+      "hook": "* Useful for simulation and control.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01177",
+      "rank": 17,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1177,
+      "title": "Limitations",
+      "text": "Limitations",
+      "hook": "Limitations",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01178",
+      "rank": 18,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1178,
+      "title": "* Limited precision.",
+      "text": "* Limited precision.",
+      "hook": "* Limited precision.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01179",
+      "rank": 19,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1179,
+      "title": "* Physical noise.",
+      "text": "* Physical noise.",
+      "hook": "* Physical noise.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01180",
+      "rank": 20,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1180,
+      "title": "* Calibration problems.",
+      "text": "* Calibration problems.",
+      "hook": "* Calibration problems.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01181",
+      "rank": 21,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1181,
+      "title": "* Difficult reconfiguration.",
+      "text": "* Difficult reconfiguration.",
+      "hook": "* Difficult reconfiguration.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01182",
+      "rank": 22,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1182,
+      "title": "* Accumulating error.",
+      "text": "* Accumulating error.",
+      "hook": "* Accumulating error.",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01183",
+      "rank": 23,
+      "moduleId": "module-31",
+      "moduleLabel": "Analogue computers",
+      "sourceLine": 1183,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Analogue computers",
+      "tags": [
+        "Analogue computers",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

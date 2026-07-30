@@ -1,0 +1,803 @@
+{
+  "id": "module-25",
+  "order": 25,
+  "label": "George Boole",
+  "topicCount": 53,
+  "topics": [
+    {
+      "id": "lib-00982",
+      "rank": 1,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 982,
+      "title": "25. George Boole",
+      "text": "25. George Boole",
+      "hook": "25. George Boole",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00983",
+      "rank": 2,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 983,
+      "title": "English mathematician George Boole developed a mathematical treatment of logic.",
+      "text": "English mathematician George Boole developed a mathematical treatment of logic.",
+      "hook": "English mathematician George Boole developed a mathematical treatment of logic.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00984",
+      "rank": 3,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 984,
+      "title": "Major works:",
+      "text": "Major works:",
+      "hook": "Major works:",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00985",
+      "rank": 4,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 985,
+      "title": "* The Mathematical Analysis of Logic — 1847.",
+      "text": "* The Mathematical Analysis of Logic — 1847.",
+      "hook": "* The Mathematical Analysis of Logic — 1847.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00986",
+      "rank": 5,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 986,
+      "title": "* An Investigation of the Laws of Thought — 1854.",
+      "text": "* An Investigation of the Laws of Thought — 1854.",
+      "hook": "* An Investigation of the Laws of Thought — 1854.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00987",
+      "rank": 6,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 987,
+      "title": "Boolean variables can take two values:",
+      "text": "Boolean variables can take two values:",
+      "hook": "Boolean variables can take two values:",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00988",
+      "rank": 7,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 988,
+      "title": "* True/false.",
+      "text": "* True/false.",
+      "hook": "* True/false.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00989",
+      "rank": 8,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 989,
+      "title": "* 1/0.",
+      "text": "* 1/0.",
+      "hook": "* 1/0.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00990",
+      "rank": 9,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 990,
+      "title": "Central operations include:",
+      "text": "Central operations include:",
+      "hook": "Central operations include:",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00991",
+      "rank": 10,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 991,
+      "title": "AND",
+      "text": "AND",
+      "hook": "AND",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00992",
+      "rank": 11,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 992,
+      "title": "Output is true only when both inputs are true.",
+      "text": "Output is true only when both inputs are true.",
+      "hook": "Output is true only when both inputs are true.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00993",
+      "rank": 12,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 993,
+      "title": "A",
+      "text": "A",
+      "hook": "A",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00994",
+      "rank": 13,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 994,
+      "title": "B",
+      "text": "B",
+      "hook": "B",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00995",
+      "rank": 14,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 995,
+      "title": "A AND B",
+      "text": "A AND B",
+      "hook": "A AND B",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00996",
+      "rank": 15,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 996,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00997",
+      "rank": 16,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 997,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00998",
+      "rank": 17,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 998,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00999",
+      "rank": 18,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 999,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01000",
+      "rank": 19,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1000,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01001",
+      "rank": 20,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1001,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01002",
+      "rank": 21,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1002,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01003",
+      "rank": 22,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1003,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01004",
+      "rank": 23,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1004,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01005",
+      "rank": 24,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1005,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01006",
+      "rank": 25,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1006,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01007",
+      "rank": 26,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1007,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01008",
+      "rank": 27,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1008,
+      "title": "OR",
+      "text": "OR",
+      "hook": "OR",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01009",
+      "rank": 28,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1009,
+      "title": "Output is true when at least one input is true.",
+      "text": "Output is true when at least one input is true.",
+      "hook": "Output is true when at least one input is true.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01010",
+      "rank": 29,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1010,
+      "title": "A",
+      "text": "A",
+      "hook": "A",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01011",
+      "rank": 30,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1011,
+      "title": "B",
+      "text": "B",
+      "hook": "B",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01012",
+      "rank": 31,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1012,
+      "title": "A OR B",
+      "text": "A OR B",
+      "hook": "A OR B",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01013",
+      "rank": 32,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1013,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01014",
+      "rank": 33,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1014,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01015",
+      "rank": 34,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1015,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01016",
+      "rank": 35,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1016,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01017",
+      "rank": 36,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1017,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01018",
+      "rank": 37,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1018,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01019",
+      "rank": 38,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1019,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01020",
+      "rank": 39,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1020,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01021",
+      "rank": 40,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1021,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01022",
+      "rank": 41,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1022,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01023",
+      "rank": 42,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1023,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01024",
+      "rank": 43,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1024,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01025",
+      "rank": 44,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1025,
+      "title": "NOT",
+      "text": "NOT",
+      "hook": "NOT",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01026",
+      "rank": 45,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1026,
+      "title": "Reverses the input.",
+      "text": "Reverses the input.",
+      "hook": "Reverses the input.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01027",
+      "rank": 46,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1027,
+      "title": "A",
+      "text": "A",
+      "hook": "A",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01028",
+      "rank": 47,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1028,
+      "title": "NOT A",
+      "text": "NOT A",
+      "hook": "NOT A",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01029",
+      "rank": 48,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1029,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01030",
+      "rank": 49,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1030,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01031",
+      "rank": 50,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1031,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01032",
+      "rank": 51,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1032,
+      "title": "0",
+      "text": "0",
+      "hook": "0",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01033",
+      "rank": 52,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1033,
+      "title": "Boole’s system initially appeared abstract. Decades later, it became the math...",
+      "text": "Boole’s system initially appeared abstract. Decades later, it became the mathematical foundation of switching circuits.",
+      "hook": "Boole’s system initially appeared abstract. Decades later, it became the mathematical foundation of switching circuits.",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01034",
+      "rank": 53,
+      "moduleId": "module-25",
+      "moduleLabel": "George Boole",
+      "sourceLine": 1034,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "George Boole",
+      "tags": [
+        "George Boole",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

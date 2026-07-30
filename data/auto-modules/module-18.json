@@ -1,0 +1,518 @@
+{
+  "id": "module-18",
+  "order": 18,
+  "label": "Difference Engine No. 1",
+  "topicCount": 34,
+  "topics": [
+    {
+      "id": "lib-00834",
+      "rank": 1,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 834,
+      "title": "18. Difference Engine No. 1",
+      "text": "18. Difference Engine No. 1",
+      "hook": "18. Difference Engine No. 1",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00835",
+      "rank": 2,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 835,
+      "title": "The Difference Engine used the method of finite differences.",
+      "text": "The Difference Engine used the method of finite differences.",
+      "hook": "The Difference Engine used the method of finite differences.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00836",
+      "rank": 3,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 836,
+      "title": "The key mathematical insight is that many polynomial values can be generated ...",
+      "text": "The key mathematical insight is that many polynomial values can be generated using repeated addition rather than direct multiplication.",
+      "hook": "The key mathematical insight is that many polynomial values can be generated using repeated addition rather than dire...",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00837",
+      "rank": 4,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 837,
+      "title": "Consider squares:",
+      "text": "Consider squares:",
+      "hook": "Consider squares:",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00838",
+      "rank": 5,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 838,
+      "title": "(n)",
+      "text": "(n)",
+      "hook": "(n)",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00839",
+      "rank": 6,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 839,
+      "title": "(n^2)",
+      "text": "(n^2)",
+      "hook": "(n^2)",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00840",
+      "rank": 7,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 840,
+      "title": "First difference",
+      "text": "First difference",
+      "hook": "First difference",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00841",
+      "rank": 8,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 841,
+      "title": "Second difference",
+      "text": "Second difference",
+      "hook": "Second difference",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00842",
+      "rank": 9,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 842,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00843",
+      "rank": 10,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 843,
+      "title": "1",
+      "text": "1",
+      "hook": "1",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00844",
+      "rank": 11,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 844,
+      "title": "3",
+      "text": "3",
+      "hook": "3",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00845",
+      "rank": 12,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 845,
+      "title": "2",
+      "text": "2",
+      "hook": "2",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00846",
+      "rank": 13,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 846,
+      "title": "2",
+      "text": "2",
+      "hook": "2",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00847",
+      "rank": 14,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 847,
+      "title": "4",
+      "text": "4",
+      "hook": "4",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00848",
+      "rank": 15,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 848,
+      "title": "5",
+      "text": "5",
+      "hook": "5",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00849",
+      "rank": 16,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 849,
+      "title": "2",
+      "text": "2",
+      "hook": "2",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00850",
+      "rank": 17,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 850,
+      "title": "3",
+      "text": "3",
+      "hook": "3",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00851",
+      "rank": 18,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 851,
+      "title": "9",
+      "text": "9",
+      "hook": "9",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00852",
+      "rank": 19,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 852,
+      "title": "7",
+      "text": "7",
+      "hook": "7",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00853",
+      "rank": 20,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 853,
+      "title": "2",
+      "text": "2",
+      "hook": "2",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00854",
+      "rank": 21,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 854,
+      "title": "4",
+      "text": "4",
+      "hook": "4",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00855",
+      "rank": 22,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 855,
+      "title": "16",
+      "text": "16",
+      "hook": "16",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00856",
+      "rank": 23,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 856,
+      "title": "9",
+      "text": "9",
+      "hook": "9",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00857",
+      "rank": 24,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 857,
+      "title": "2",
+      "text": "2",
+      "hook": "2",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00858",
+      "rank": 25,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 858,
+      "title": "The second difference remains constant.",
+      "text": "The second difference remains constant.",
+      "hook": "The second difference remains constant.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00859",
+      "rank": 26,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 859,
+      "title": "A machine could therefore generate tables through systematic addition.",
+      "text": "A machine could therefore generate tables through systematic addition.",
+      "hook": "A machine could therefore generate tables through systematic addition.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00860",
+      "rank": 27,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 860,
+      "title": "Intended features",
+      "text": "Intended features",
+      "hook": "Intended features",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00861",
+      "rank": 28,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 861,
+      "title": "* Automatic calculation.",
+      "text": "* Automatic calculation.",
+      "hook": "* Automatic calculation.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00862",
+      "rank": 29,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 862,
+      "title": "* Multiple decimal digits.",
+      "text": "* Multiple decimal digits.",
+      "hook": "* Multiple decimal digits.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00863",
+      "rank": 30,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 863,
+      "title": "* Carry mechanisms.",
+      "text": "* Carry mechanisms.",
+      "hook": "* Carry mechanisms.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00864",
+      "rank": 31,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 864,
+      "title": "* Printing of results.",
+      "text": "* Printing of results.",
+      "hook": "* Printing of results.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00865",
+      "rank": 32,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 865,
+      "title": "* Elimination of transcription errors.",
+      "text": "* Elimination of transcription errors.",
+      "hook": "* Elimination of transcription errors.",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00866",
+      "rank": 33,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 866,
+      "title": "Babbage and engineer Joseph Clement completed only a section of Difference En...",
+      "text": "Babbage and engineer Joseph Clement completed only a section of Difference Engine No. 1 before disputes, costs and government frustration ended the project. The surviving portion demonstrated that the underlying principles worked.",
+      "hook": "Babbage and engineer Joseph Clement completed only a section of Difference Engine No. 1 before disputes, costs and go...",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-00867",
+      "rank": 34,
+      "moduleId": "module-18",
+      "moduleLabel": "Difference Engine No. 1",
+      "sourceLine": 867,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Difference Engine No. 1",
+      "tags": [
+        "Difference Engine No. 1",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

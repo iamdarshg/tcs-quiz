@@ -1,0 +1,23 @@
+{
+  "id": "module-01",
+  "order": 1,
+  "label": "Computing History and Foundations",
+  "topicCount": 1,
+  "topics": [
+    {
+      "id": "lib-00006",
+      "rank": 1,
+      "moduleId": "module-01",
+      "moduleLabel": "Computing History and Foundations",
+      "sourceLine": 6,
+      "title": "1. Computing History and Foundations",
+      "text": "1. Computing History and Foundations",
+      "hook": "1. Computing History and Foundations",
+      "category": "Computing History and Foundations",
+      "tags": [
+        "Computing History and Foundations",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

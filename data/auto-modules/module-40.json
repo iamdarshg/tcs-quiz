@@ -1,0 +1,233 @@
+{
+  "id": "module-40",
+  "order": 40,
+  "label": "The Turing machine",
+  "topicCount": 15,
+  "topics": [
+    {
+      "id": "lib-01315",
+      "rank": 1,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1315,
+      "title": "40. The Turing machine",
+      "text": "40. The Turing machine",
+      "hook": "40. The Turing machine",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01316",
+      "rank": 2,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1316,
+      "title": "In his 1936 paper On Computable Numbers, with an Application to the Entscheid...",
+      "text": "In his 1936 paper On Computable Numbers, with an Application to the Entscheidungsproblem, Turing described a simple abstract machine containing:",
+      "hook": "In his 1936 paper On Computable Numbers, with an Application to the Entscheidungsproblem, Turing described a simple a...",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01317",
+      "rank": 3,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1317,
+      "title": "* An indefinitely long tape divided into squares.",
+      "text": "* An indefinitely long tape divided into squares.",
+      "hook": "* An indefinitely long tape divided into squares.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01318",
+      "rank": 4,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1318,
+      "title": "* Symbols written on the tape.",
+      "text": "* Symbols written on the tape.",
+      "hook": "* Symbols written on the tape.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01319",
+      "rank": 5,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1319,
+      "title": "* A read/write head.",
+      "text": "* A read/write head.",
+      "hook": "* A read/write head.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01320",
+      "rank": 6,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1320,
+      "title": "* A finite set of internal states.",
+      "text": "* A finite set of internal states.",
+      "hook": "* A finite set of internal states.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01321",
+      "rank": 7,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1321,
+      "title": "* Rules determining what the machine does next.",
+      "text": "* Rules determining what the machine does next.",
+      "hook": "* Rules determining what the machine does next.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01322",
+      "rank": 8,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1322,
+      "title": "At each step, the machine can:",
+      "text": "At each step, the machine can:",
+      "hook": "At each step, the machine can:",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01323",
+      "rank": 9,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1323,
+      "title": "1. Read a symbol.",
+      "text": "1. Read a symbol.",
+      "hook": "1. Read a symbol.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01324",
+      "rank": 10,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1324,
+      "title": "2. Write or erase a symbol.",
+      "text": "2. Write or erase a symbol.",
+      "hook": "2. Write or erase a symbol.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01325",
+      "rank": 11,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1325,
+      "title": "3. Move left or right.",
+      "text": "3. Move left or right.",
+      "hook": "3. Move left or right.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01326",
+      "rank": 12,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1326,
+      "title": "4. Change state.",
+      "text": "4. Change state.",
+      "hook": "4. Change state.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01327",
+      "rank": 13,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1327,
+      "title": "5. Halt or continue.",
+      "text": "5. Halt or continue.",
+      "hook": "5. Halt or continue.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01328",
+      "rank": 14,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1328,
+      "title": "The machine is not a proposed physical product. It is a mathematical model of...",
+      "text": "The machine is not a proposed physical product. It is a mathematical model of computation.",
+      "hook": "The machine is not a proposed physical product. It is a mathematical model of computation.",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01329",
+      "rank": 15,
+      "moduleId": "module-40",
+      "moduleLabel": "The Turing machine",
+      "sourceLine": 1329,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The Turing machine",
+      "tags": [
+        "The Turing machine",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "module-10",
+  "order": 10,
+  "label": "Technology Across Industries and Culture",
+  "topicCount": 1,
+  "topics": [
+    {
+      "id": "lib-00015",
+      "rank": 1,
+      "moduleId": "module-10",
+      "moduleLabel": "Technology Across Industries and Culture",
+      "sourceLine": 15,
+      "title": "10. Technology Across Industries and Culture",
+      "text": "10. Technology Across Industries and Culture",
+      "hook": "10. Technology Across Industries and Culture",
+      "category": "Technology Across Industries and Culture",
+      "tags": [
+        "Technology Across Industries and Culture",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

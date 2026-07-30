@@ -1,0 +1,49 @@
+# TCS Quiz 2026 — Jekyll configuration
+# GitHub Pages deployment with auto-generated module pages
+
+title: TCS Quiz 2026
+description: "A focused TCS Quiz 2026 study portal with ranked facts, revision, knowledge maps and scored practice."
+url: "https://iamdarshg.github.io"
+baseurl: "/tcs-quiz"
+
+# Jekyll source settings
+source: .
+destination: ./_site
+
+# Keep the SPA working — don't exclude interactive assets
+include:
+  - assets
+  - data
+  - scripts
+  - test
+
+exclude:
+  - README.md
+  - CHANGELOG.md
+  - docs
+  - tcs-quiz-2026.zip
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .git
+  - .gitignore
+
+# Theme: none — full custom build
+theme: null
+plugins: []
+
+# Markdown (for any .md pages we add)
+markdown: kramdown
+
+# Defaults for all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Liquid strictness for debugging
+strict_front_matter: true
+liquid:
+  error_mode: strict
+  strict_filters: true

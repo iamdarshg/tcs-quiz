@@ -1,0 +1,158 @@
+{
+  "id": "module-74",
+  "order": 74,
+  "label": "Magnetic tape",
+  "topicCount": 10,
+  "topics": [
+    {
+      "id": "lib-01826",
+      "rank": 1,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1826,
+      "title": "74. Magnetic tape",
+      "text": "74. Magnetic tape",
+      "hook": "74. Magnetic tape",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01827",
+      "rank": 2,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1827,
+      "title": "Tape offered:",
+      "text": "Tape offered:",
+      "hook": "Tape offered:",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01828",
+      "rank": 3,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1828,
+      "title": "* High capacity.",
+      "text": "* High capacity.",
+      "hook": "* High capacity.",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01829",
+      "rank": 4,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1829,
+      "title": "* Low cost.",
+      "text": "* Low cost.",
+      "hook": "* Low cost.",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01830",
+      "rank": 5,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1830,
+      "title": "* Long-term storage.",
+      "text": "* Long-term storage.",
+      "hook": "* Long-term storage.",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01831",
+      "rank": 6,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1831,
+      "title": "* Easy transport.",
+      "text": "* Easy transport.",
+      "hook": "* Easy transport.",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01832",
+      "rank": 7,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1832,
+      "title": "But it is sequential-access:",
+      "text": "But it is sequential-access:",
+      "hook": "But it is sequential-access:",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01833",
+      "rank": 8,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1833,
+      "title": "To reach a record near the end, the machine may need to pass through earlier ...",
+      "text": "To reach a record near the end, the machine may need to pass through earlier tape.",
+      "hook": "To reach a record near the end, the machine may need to pass through earlier tape.",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01834",
+      "rank": 9,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1834,
+      "title": "Tape remains important for backups and archives because it can be economical ...",
+      "text": "Tape remains important for backups and archives because it can be economical and physically separable from online systems.",
+      "hook": "Tape remains important for backups and archives because it can be economical and physically separable from online sys...",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01835",
+      "rank": 10,
+      "moduleId": "module-74",
+      "moduleLabel": "Magnetic tape",
+      "sourceLine": 1835,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Magnetic tape",
+      "tags": [
+        "Magnetic tape",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

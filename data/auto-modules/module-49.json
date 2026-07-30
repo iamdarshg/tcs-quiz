@@ -1,0 +1,173 @@
+{
+  "id": "module-49",
+  "order": 49,
+  "label": "How ENIAC was programmed",
+  "topicCount": 11,
+  "topics": [
+    {
+      "id": "lib-01460",
+      "rank": 1,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1460,
+      "title": "49. How ENIAC was programmed",
+      "text": "49. How ENIAC was programmed",
+      "hook": "49. How ENIAC was programmed",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01461",
+      "rank": 2,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1461,
+      "title": "Initially, ENIAC did not keep its program in the same memory as its numerical...",
+      "text": "Initially, ENIAC did not keep its program in the same memory as its numerical data.",
+      "hook": "Initially, ENIAC did not keep its program in the same memory as its numerical data.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01462",
+      "rank": 3,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1462,
+      "title": "Programmers had to:",
+      "text": "Programmers had to:",
+      "hook": "Programmers had to:",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01463",
+      "rank": 4,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1463,
+      "title": "* Set switches.",
+      "text": "* Set switches.",
+      "hook": "* Set switches.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01464",
+      "rank": 5,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1464,
+      "title": "* Connect cables.",
+      "text": "* Connect cables.",
+      "hook": "* Connect cables.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01465",
+      "rank": 6,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1465,
+      "title": "* Configure function tables.",
+      "text": "* Configure function tables.",
+      "hook": "* Configure function tables.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01466",
+      "rank": 7,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1466,
+      "title": "* Map the calculation across machine units.",
+      "text": "* Map the calculation across machine units.",
+      "hook": "* Map the calculation across machine units.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01467",
+      "rank": 8,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1467,
+      "title": "Programming could take days.",
+      "text": "Programming could take days.",
+      "hook": "Programming could take days.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01468",
+      "rank": 9,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1468,
+      "title": "Execution might then take seconds.",
+      "text": "Execution might then take seconds.",
+      "hook": "Execution might then take seconds.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01469",
+      "rank": 10,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1469,
+      "title": "This contrast explains why stored-program architecture was revolutionary.",
+      "text": "This contrast explains why stored-program architecture was revolutionary.",
+      "hook": "This contrast explains why stored-program architecture was revolutionary.",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01470",
+      "rank": 11,
+      "moduleId": "module-49",
+      "moduleLabel": "How ENIAC was programmed",
+      "sourceLine": 1470,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "How ENIAC was programmed",
+      "tags": [
+        "How ENIAC was programmed",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

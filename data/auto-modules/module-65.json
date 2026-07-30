@@ -1,0 +1,248 @@
+{
+  "id": "module-65",
+  "order": 65,
+  "label": "Robert Noyce",
+  "topicCount": 16,
+  "topics": [
+    {
+      "id": "lib-01688",
+      "rank": 1,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1688,
+      "title": "65. Robert Noyce",
+      "text": "65. Robert Noyce",
+      "hook": "65. Robert Noyce",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01689",
+      "rank": 2,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1689,
+      "title": "At Fairchild Semiconductor, Robert Noyce independently developed a practical ...",
+      "text": "At Fairchild Semiconductor, Robert Noyce independently developed a practical monolithic integrated-circuit approach using the planar process associated with Jean Hoerni.",
+      "hook": "At Fairchild Semiconductor, Robert Noyce independently developed a practical monolithic integrated-circuit approach u...",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01690",
+      "rank": 3,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1690,
+      "title": "Noyce’s method was better suited to large-scale manufacturing and electrical ...",
+      "text": "Noyce’s method was better suited to large-scale manufacturing and electrical interconnection.",
+      "hook": "Noyce’s method was better suited to large-scale manufacturing and electrical interconnection.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01691",
+      "rank": 4,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1691,
+      "title": "Kilby and Noyce are therefore generally treated as co-inventors of the integr...",
+      "text": "Kilby and Noyce are therefore generally treated as co-inventors of the integrated circuit.",
+      "hook": "Kilby and Noyce are therefore generally treated as co-inventors of the integrated circuit.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01692",
+      "rank": 5,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1692,
+      "title": "Quiz connections",
+      "text": "Quiz connections",
+      "hook": "Quiz connections",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01693",
+      "rank": 6,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1693,
+      "title": "Robert Noyce:",
+      "text": "Robert Noyce:",
+      "hook": "Robert Noyce:",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01694",
+      "rank": 7,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1694,
+      "title": "* Fairchild Semiconductor.",
+      "text": "* Fairchild Semiconductor.",
+      "hook": "* Fairchild Semiconductor.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01695",
+      "rank": 8,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1695,
+      "title": "* Integrated circuit.",
+      "text": "* Integrated circuit.",
+      "hook": "* Integrated circuit.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01696",
+      "rank": 9,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1696,
+      "title": "* Co-founder of Intel.",
+      "text": "* Co-founder of Intel.",
+      "hook": "* Co-founder of Intel.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01697",
+      "rank": 10,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1697,
+      "title": "* Sometimes called the Mayor of Silicon Valley.",
+      "text": "* Sometimes called the Mayor of Silicon Valley.",
+      "hook": "* Sometimes called the Mayor of Silicon Valley.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01698",
+      "rank": 11,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1698,
+      "title": "Jack Kilby:",
+      "text": "Jack Kilby:",
+      "hook": "Jack Kilby:",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01699",
+      "rank": 12,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1699,
+      "title": "* Texas Instruments.",
+      "text": "* Texas Instruments.",
+      "hook": "* Texas Instruments.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01700",
+      "rank": 13,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1700,
+      "title": "* Integrated circuit.",
+      "text": "* Integrated circuit.",
+      "hook": "* Integrated circuit.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01701",
+      "rank": 14,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1701,
+      "title": "* Nobel Prize in Physics, 2000.",
+      "text": "* Nobel Prize in Physics, 2000.",
+      "hook": "* Nobel Prize in Physics, 2000.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01702",
+      "rank": 15,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1702,
+      "title": "* Also associated with the handheld-calculator revolution.",
+      "text": "* Also associated with the handheld-calculator revolution.",
+      "hook": "* Also associated with the handheld-calculator revolution.",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01703",
+      "rank": 16,
+      "moduleId": "module-65",
+      "moduleLabel": "Robert Noyce",
+      "sourceLine": 1703,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "Robert Noyce",
+      "tags": [
+        "Robert Noyce",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}

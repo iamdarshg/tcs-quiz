@@ -1,0 +1,83 @@
+{
+  "id": "module-39",
+  "order": 39,
+  "label": "The Entscheidungsproblem",
+  "topicCount": 5,
+  "topics": [
+    {
+      "id": "lib-01308",
+      "rank": 1,
+      "moduleId": "module-39",
+      "moduleLabel": "The Entscheidungsproblem",
+      "sourceLine": 1308,
+      "title": "39. The Entscheidungsproblem",
+      "text": "39. The Entscheidungsproblem",
+      "hook": "39. The Entscheidungsproblem",
+      "category": "The Entscheidungsproblem",
+      "tags": [
+        "The Entscheidungsproblem",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01309",
+      "rank": 2,
+      "moduleId": "module-39",
+      "moduleLabel": "The Entscheidungsproblem",
+      "sourceLine": 1309,
+      "title": "Mathematician David Hilbert’s programme asked whether mathematics could be fo...",
+      "text": "Mathematician David Hilbert’s programme asked whether mathematics could be formalised so completely that a procedure could determine whether any properly expressed statement was provable.",
+      "hook": "Mathematician David Hilbert’s programme asked whether mathematics could be formalised so completely that a procedure ...",
+      "category": "The Entscheidungsproblem",
+      "tags": [
+        "The Entscheidungsproblem",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01310",
+      "rank": 3,
+      "moduleId": "module-39",
+      "moduleLabel": "The Entscheidungsproblem",
+      "sourceLine": 1310,
+      "title": "The Entscheidungsproblem, or decision problem, asked whether a general mechan...",
+      "text": "The Entscheidungsproblem, or decision problem, asked whether a general mechanical method could decide the truth of statements in a formal logical system.",
+      "hook": "The Entscheidungsproblem, or decision problem, asked whether a general mechanical method could decide the truth of st...",
+      "category": "The Entscheidungsproblem",
+      "tags": [
+        "The Entscheidungsproblem",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01311",
+      "rank": 4,
+      "moduleId": "module-39",
+      "moduleLabel": "The Entscheidungsproblem",
+      "sourceLine": 1311,
+      "title": "Alan Turing addressed this through an imaginary machine.",
+      "text": "Alan Turing addressed this through an imaginary machine.",
+      "hook": "Alan Turing addressed this through an imaginary machine.",
+      "category": "The Entscheidungsproblem",
+      "tags": [
+        "The Entscheidungsproblem",
+        "TCS Quiz 2026"
+      ]
+    },
+    {
+      "id": "lib-01312",
+      "rank": 5,
+      "moduleId": "module-39",
+      "moduleLabel": "The Entscheidungsproblem",
+      "sourceLine": 1312,
+      "title": "________________",
+      "text": "________________",
+      "hook": "________________",
+      "category": "The Entscheidungsproblem",
+      "tags": [
+        "The Entscheidungsproblem",
+        "TCS Quiz 2026"
+      ]
+    }
+  ]
+}
