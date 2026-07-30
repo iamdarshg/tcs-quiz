@@ -21,12 +21,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -46,7 +40,7 @@ jobs:
       - name: Build index manifest
         run: node scripts/build-index.mjs
 
-      # Step 3: Auto-generate module data from prep-library (this is the KEY pipeline)
+      # Step 3: Auto-generate module data from prep-library (the KEY pipeline)
       - name: Auto-generate module topics from library
         run: node scripts/build-prep-to-modules.mjs
 
@@ -54,30 +48,31 @@ jobs:
       - name: Generate module pages
         run: node scripts/generate-module-pages.mjs
 
-      # Step 5: Create _data symlink for Jekyll (if not already a real directory)
+      # Step 5: Create _data symlink for Jekyll (if not already present)
       - name: Prepare Jekyll data directory
         run: |
           if [ ! -L _data ] && [ ! -d _data ]; then
             ln -s data _data
           fi
 
-      # Step 6: Build Jekyll site
+      # Step 6: Build Jekyll site (uses bundled Jekyll, no Gemfile needed)
       - name: Build Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
 
-      # Step 7: Preserve data/ for the SPA (Jekyll copies it, but ensure it's there)
+      # Step 7: Verify build output
       - name: Verify build
         run: |
+          echo "=== Build output ==="
           ls -la _site/
-          echo "---"
-          ls _site/modules.html 2>/dev/null && echo "modules page OK" || echo "WARNING: modules page missing"
-          ls _site/revision.html 2>/dev/null && echo "revision page OK" || echo "WARNING: revision page missing"
-          ls _site/library.html 2>/dev/null && echo "library page OK" || echo "WARNING: library page missing"
-          ls _site/module/ 2>/dev/null && echo "module pages OK" || echo "WARNING: module directory missing"
-          echo "Build complete"
+          for f in modules.html revision.html library.html; do
+            if [ -f "_site/$f" ]; then echo "OK: $f"; else echo "WARNING: $f missing"; fi
+          done
+          MOD_COUNT=$(ls _site/module/ 2>/dev/null | wc -l)
+          echo "Module pages: $MOD_COUNT"
+          echo "Build verification complete"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
