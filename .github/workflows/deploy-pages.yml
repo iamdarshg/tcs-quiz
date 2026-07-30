@@ -40,11 +40,7 @@ jobs:
       - name: Build index manifest
         run: node scripts/build-index.mjs
 
-      # Step 3: Auto-generate module data from prep-library (the KEY pipeline)
-      - name: Auto-generate module topics from library
-        run: node scripts/build-prep-to-modules.mjs
-
-      # Step 4: Generate Jekyll module pages
+      # Step 3: Generate Jekyll module pages (from curated module-XX.json + prep-library cross-refs)
       - name: Generate module pages
         run: node scripts/generate-module-pages.mjs
 

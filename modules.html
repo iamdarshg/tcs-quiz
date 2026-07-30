@@ -6,15 +6,15 @@ permalink: /modules/
 
 <div class="page-header">
   <h1>All Modules</h1>
-  <p>Browse {{ site.data.auto-revision.totalModules }} modules with {{ site.data.auto-revision.totalTopics }} study items from the prep library.</p>
+  <p>{{ site.data.curated-index.totalModules }} curated modules with ranked topics and practice questions.</p>
 </div>
 
 <div class="module-grid">
-{% for mod in site.data.auto-revision.modules %}
+{% for mod in site.data.curated-index.modules %}
   <a class="module-tile" href="{{ site.baseurl }}/module/{{ mod.id }}/">
     <span class="module-order">Module {{ mod.order }}</span>
     <b>{{ mod.label }}</b>
-    <span>{{ mod.topicCount }} study items</span>
+    <p>{{ mod.blurb }}</p>
   </a>
 {% endfor %}
 </div>
@@ -23,10 +23,10 @@ permalink: /modules/
 .page-header { padding: 1.5rem 0; }
 .page-header h1 { margin: 0 0 0.25rem; font-size: 1.4rem; }
 .page-header p { margin: 0; color: var(--text-dim); font-size: 0.85rem; }
-.module-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.75rem; padding: 0.5rem 0 2rem; }
-.module-tile { display: flex; flex-direction: column; gap: 0.35rem; padding: 1rem; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; text-decoration: none; transition: border-color .15s, box-shadow .15s; }
+.module-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0.75rem; padding: 0.5rem 0 2rem; }
+.module-tile { display: flex; flex-direction: column; gap: 0.35rem; padding: 1rem 1.1rem; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; text-decoration: none; transition: border-color .15s, box-shadow .15s; }
 .module-tile:hover { border-color: var(--accent); box-shadow: 0 2px 8px rgba(0,0,0,.08); }
 .module-order { font-size: .7rem; font-weight: 600; color: var(--accent); text-transform: uppercase; letter-spacing: .04em; }
 .module-tile b { font-size: .95rem; color: var(--text); }
-.module-tile span { font-size: .8rem; color: var(--text-dim); }
+.module-tile p { margin: 0; font-size: .8rem; color: var(--text-dim); line-height: 1.4; }
 </style>
